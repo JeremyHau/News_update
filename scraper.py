@@ -16,9 +16,8 @@ def fetch_ai_agent_news():
     for source in sources:
         try:
             feed = feedparser.parse(source)
-            for entry in feed.entries[:20]:  # 取前20條
+            for entry in feed.entries[:20]:
                 title_lower = entry.title.lower()
-                # 關鍵詞過濾
                 if any(keyword in title_lower for keyword in keywords):
                     articles.append({
                         'title': entry.title,
@@ -29,13 +28,10 @@ def fetch_ai_agent_news():
         except Exception as e:
             print(f"Error fetching {source}: {e}")
     
-    # 按日期排序，取最新30條
     articles = sorted(articles, key=lambda x: x['date'], reverse=True)[:30]
     
-    # 確保目錄存在
     os.makedirs('data', exist_ok=True)
     
-    # 保存到 JSON
     with open('data/articles.json', 'w', encoding='utf-8') as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
     
@@ -43,8 +39,3 @@ def fetch_ai_agent_news():
 
 if __name__ == '__main__':
     fetch_ai_agent_news()
-```
-
-**requirements.txt**：
-```
-feedparser==6.0.10

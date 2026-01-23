@@ -6,8 +6,26 @@ import os
 def fetch_ai_agent_news():
     """抓取 AI Agent 相關新聞"""
     sources = [
-        'https://news.ycombinator.com/rss',
-        'https://www.reddit.com/r/MachineLearning/.rss',
+    # 科技新聞聚合
+    'https://news.ycombinator.com/rss',
+    
+    # Reddit 社群
+    'https://www.reddit.com/r/MachineLearning/.rss',
+    'https://www.reddit.com/r/artificial/.rss',
+    'https://www.reddit.com/r/LocalLLaMA/.rss',
+    
+    # 學術論文
+    'http://export.arxiv.org/rss/cs.AI',  # AI 論文
+    'http://export.arxiv.org/rss/cs.CL',  # 計算語言學/NLP
+    
+    # 科技媒體
+    'https://www.theverge.com/rss/index.xml',
+    'https://techcrunch.com/feed/',
+        
+    # AI 公司官方博客
+    'https://openai.com/blog/rss/',
+    'https://www.anthropic.com/news/rss.xml',
+    'https://blog.google/technology/ai/rss/',
     ]
     
     articles = []

@@ -1,8 +1,140 @@
 [
   {
-    "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-    "link": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
-    "date": "2026-01-22T12:25:06.267982",
+    "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
+    "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+    "date": "2026-01-23T00:23:29.477842",
+    "source": "https://techcrunch.com/feed/"
+  },
+  {
+    "title": "Inference startup Inferact lands $150M to commercialize vLLM",
+    "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+    "date": "2026-01-23T00:23:29.477833",
+    "source": "https://techcrunch.com/feed/"
+  },
+  {
+    "title": "Say Anything but This: When Tokenizer Betrays Reasoning in LLMs",
+    "link": "https://arxiv.org/abs/2601.14658",
+    "date": "2026-01-23T00:23:29.303039",
+    "source": "http://export.arxiv.org/rss/cs.CL"
+  },
+  {
+    "title": "SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation",
+    "link": "https://arxiv.org/abs/2601.14615",
+    "date": "2026-01-23T00:23:29.303034",
+    "source": "http://export.arxiv.org/rss/cs.CL"
+  },
+  {
+    "title": "Rewarding How Models Think Pedagogically: Integrating Pedagogical Reasoning and Thinking Rewards for LLMs in Education",
+    "link": "https://arxiv.org/abs/2601.14560",
+    "date": "2026-01-23T00:23:29.303027",
+    "source": "http://export.arxiv.org/rss/cs.CL"
+  },
+  {
+    "title": "Can LLM Reasoning Be Trusted? A Comparative Study: Using Human Benchmarking on Statistical Tasks",
+    "link": "https://arxiv.org/abs/2601.14479",
+    "date": "2026-01-23T00:23:29.303015",
+    "source": "http://export.arxiv.org/rss/cs.CL"
+  },
+  {
+    "title": "The Slow Drift of Support: Boundary Failures in Multi-Turn Mental Health LLM Dialogues",
+    "link": "https://arxiv.org/abs/2601.14269",
+    "date": "2026-01-23T00:23:29.302990",
+    "source": "http://export.arxiv.org/rss/cs.CL"
+  },
+  {
+    "title": "CI4A: Semantic Component Interfaces for Agents Empowering Web Automation",
+    "link": "https://arxiv.org/abs/2601.14790",
+    "date": "2026-01-23T00:23:29.084080",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs",
+    "link": "https://arxiv.org/abs/2601.14711",
+    "date": "2026-01-23T00:23:29.084069",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "AutoDriDM: An Explainable Benchmark for Decision-Making of Vision-Language Models in Autonomous Driving",
+    "link": "https://arxiv.org/abs/2601.14702",
+    "date": "2026-01-23T00:23:29.084063",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation",
+    "link": "https://arxiv.org/abs/2601.14691",
+    "date": "2026-01-23T00:23:29.084058",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "IB-GRPO: Aligning LLM-based Learning Path Recommendation with Educational Objectives via Indicator-Based Group Relative Policy Optimization",
+    "link": "https://arxiv.org/abs/2601.14686",
+    "date": "2026-01-23T00:23:29.084053",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems",
+    "link": "https://arxiv.org/abs/2601.14662",
+    "date": "2026-01-23T00:23:29.084045",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "MAS-Orchestra: Understanding and Improving Multi-Agent Reasoning Through Holistic Orchestration and Controlled Benchmarks",
+    "link": "https://arxiv.org/abs/2601.14652",
+    "date": "2026-01-23T00:23:29.084039",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL",
+    "link": "https://arxiv.org/abs/2601.14456",
+    "date": "2026-01-23T00:23:29.084023",
+    "source": "http://export.arxiv.org/rss/cs.AI"
+  },
+  {
+    "title": "8x AMD MI50 32GB at 26 t/s (tg) with MiniMax-M2.1 and 15 t/s (tg) with GLM 4.7 (vllm-gfx906)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qjaxfy/8x_amd_mi50_32gb_at_26_ts_tg_with_minimaxm21_and/",
+    "date": "2026-01-23T00:23:28.521565",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "We added an on-device AI meeting note taker into AnythingLLM to replace SaaS solutions",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qk1u6h/we_added_an_ondevice_ai_meeting_note_taker_into/",
+    "date": "2026-01-23T00:23:28.521559",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Qwen3 TTS Open Source VLLM-Omni PR",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qjotja/qwen3_tts_open_source_vllmomni_pr/",
+    "date": "2026-01-23T00:23:28.521549",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "vLLM raising $150M confirms it: We have moved from the \"Throughput Era\" to the \"Latency(Cold Starts).\"",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qk68n8/vllm_raising_150m_confirms_it_we_have_moved_from/",
+    "date": "2026-01-23T00:23:28.521518",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "[D]Unpopular Opinion: With vLLM raising $150M, I think the industry is still optimizing for the wrong metric. \"Throughput\" is a solved problem; the real bottleneck is Cold Start Latency.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qk6ez2/dunpopular_opinion_with_vllm_raising_150m_i_think/",
+    "date": "2026-01-23T00:23:26.860001",
+    "source": "https://www.reddit.com/r/MachineLearning/.rss"
+  },
+  {
+    "title": "[R] We ran 1,150 LLM trading sessions to test emergent financial strategies. Claude dominates with +38.5% avg returns.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qk5gcf/r_we_ran_1150_llm_trading_sessions_to_test/",
+    "date": "2026-01-23T00:23:26.859990",
+    "source": "https://www.reddit.com/r/MachineLearning/.rss"
+  },
+  {
+    "title": "[P] What we learned building automatic failover for LLM gateways",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qk4xqj/p_what_we_learned_building_automatic_failover_for/",
+    "date": "2026-01-23T00:23:26.859960",
+    "source": "https://www.reddit.com/r/MachineLearning/.rss"
+  },
+  {
+    "title": "Composing APIs and CLIs in the LLM era",
+    "link": "https://walters.app/blog/composing-apis-clis",
+    "date": "2026-01-23T00:23:26.068834",
     "source": "https://news.ycombinator.com/rss"
   }
 ]

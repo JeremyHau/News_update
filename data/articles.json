@@ -1,128 +1,152 @@
 [
   {
-    "title": "Are AI agents ready for the workplace? A new benchmark raises doubts",
-    "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-    "date": "2026-01-23T12:24:05.139164",
-    "source": "https://techcrunch.com/feed/"
-  },
-  {
-    "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-    "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-    "date": "2026-01-23T12:24:05.139151",
-    "source": "https://techcrunch.com/feed/"
-  },
-  {
     "title": "Common to Whom? Regional Cultural Commonsense and LLM Bias in India",
     "link": "https://arxiv.org/abs/2601.15550",
-    "date": "2026-01-23T12:24:04.928078",
+    "date": "2026-01-24T00:53:49.674729",
     "source": "http://export.arxiv.org/rss/cs.CL"
   },
   {
     "title": "Benchmarking LLMs for Pairwise Causal Discovery in Biomedical and Multi-Domain Contexts",
     "link": "https://arxiv.org/abs/2601.15479",
-    "date": "2026-01-23T12:24:04.928064",
+    "date": "2026-01-24T00:53:49.674716",
     "source": "http://export.arxiv.org/rss/cs.CL"
   },
   {
     "title": "Domain-Specific Knowledge Graphs in RAG-Enhanced Healthcare LLMs",
     "link": "https://arxiv.org/abs/2601.15429",
-    "date": "2026-01-23T12:24:04.928056",
+    "date": "2026-01-24T00:53:49.674709",
     "source": "http://export.arxiv.org/rss/cs.CL"
   },
   {
     "title": "Can We Trust LLM Detectors?",
     "link": "https://arxiv.org/abs/2601.15301",
-    "date": "2026-01-23T12:24:04.928038",
+    "date": "2026-01-24T00:53:49.674691",
     "source": "http://export.arxiv.org/rss/cs.CL"
   },
   {
     "title": "Intelligence Degradation in Long-Context LLMs: Critical Threshold Determination via Natural Length Distribution Analysis",
     "link": "https://arxiv.org/abs/2601.15300",
-    "date": "2026-01-23T12:24:04.928032",
+    "date": "2026-01-24T00:53:49.674685",
     "source": "http://export.arxiv.org/rss/cs.CL"
   },
   {
     "title": "MALTopic: Multi-Agent LLM Topic Modeling Framework",
     "link": "https://arxiv.org/abs/2601.15299",
-    "date": "2026-01-23T12:24:04.928019",
+    "date": "2026-01-24T00:53:49.674671",
     "source": "http://export.arxiv.org/rss/cs.CL"
   },
   {
     "title": "Autonomous Business System via Neuro-symbolic AI",
     "link": "https://arxiv.org/abs/2601.15599",
-    "date": "2026-01-23T12:24:04.760354",
+    "date": "2026-01-24T00:53:49.423553",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "ALIGNAgent: Adaptive Learner Intelligence for Gap Identification and Next-step guidance",
     "link": "https://arxiv.org/abs/2601.15551",
-    "date": "2026-01-23T12:24:04.760348",
+    "date": "2026-01-24T00:53:49.423548",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "TransportAgents: a multi-agents LLM framework for traffic accident severity prediction",
     "link": "https://arxiv.org/abs/2601.15519",
-    "date": "2026-01-23T12:24:04.760341",
+    "date": "2026-01-24T00:53:49.423541",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "Tracking the Limits of Knowledge Propagation: How LLMs Fail at Multi-Step Reasoning with Conflicting Knowledge",
     "link": "https://arxiv.org/abs/2601.15495",
-    "date": "2026-01-23T12:24:04.760333",
+    "date": "2026-01-24T00:53:49.423533",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation",
     "link": "https://arxiv.org/abs/2601.15487",
-    "date": "2026-01-23T12:24:04.760327",
+    "date": "2026-01-24T00:53:49.423528",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "Reliability by design: quantifying and eliminating fabrication risk in LLMs. From generative to consultative AI: a comparative analysis in the legal domain and lessons for high-stakes knowledge bases",
     "link": "https://arxiv.org/abs/2601.15476",
-    "date": "2026-01-23T12:24:04.760322",
+    "date": "2026-01-24T00:53:49.423522",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "Beyond Prompting: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration (LOGIC)",
     "link": "https://arxiv.org/abs/2601.15397",
-    "date": "2026-01-23T12:24:04.760311",
+    "date": "2026-01-24T00:53:49.423512",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
     "link": "https://arxiv.org/abs/2601.15322",
-    "date": "2026-01-23T12:24:04.760298",
+    "date": "2026-01-24T00:53:49.423500",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents",
     "link": "https://arxiv.org/abs/2601.15311",
-    "date": "2026-01-23T12:24:04.760289",
+    "date": "2026-01-24T00:53:49.423491",
     "source": "http://export.arxiv.org/rss/cs.AI"
   },
   {
     "title": "Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables",
     "link": "https://arxiv.org/abs/2601.15306",
-    "date": "2026-01-23T12:24:04.760274",
+    "date": "2026-01-24T00:53:49.423476",
     "source": "http://export.arxiv.org/rss/cs.AI"
-  },
-  {
-    "title": "vLLM raising $150M confirms it: We have moved from the \"Throughput Era\" to the \"Latency(Cold Starts).\"",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qk68n8/vllm_raising_150m_confirms_it_we_have_moved_from/",
-    "date": "2026-01-23T12:24:04.217237",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
   {
     "title": "GLM4.7-Flash REAP @ 25% live on HF + agentic coding evals",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qkj9zh/glm47flash_reap_25_live_on_hf_agentic_coding_evals/",
-    "date": "2026-01-23T12:24:04.217214",
+    "date": "2026-01-24T00:53:48.981644",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Personalized 1.1B LLM (TinyLlama) running on a 15-year-old i3 laptop. Custom Shannon Entropy monitor and manual context pruning for stability.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ql377e/personalized_11b_llm_tinyllama_running_on_a/",
+    "date": "2026-01-24T00:53:48.981638",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "The 'Infinite Context' Trap: Why 1M tokens won't solve Agentic Amnesia (and why we need a Memory OS)",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qkrhec/the_infinite_context_trap_why_1m_tokens_wont/",
+    "date": "2026-01-24T00:53:48.981626",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "What's more important for voice agents, bettter models or better constraints?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qktwn7/whats_more_important_for_voice_agents_bettter/",
+    "date": "2026-01-24T00:53:48.981604",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/",
+    "date": "2026-01-24T00:53:48.981589",
     "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
   {
     "title": "[P] What we learned building automatic failover for LLM gateways",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qk4xqj/p_what_we_learned_building_automatic_failover_for/",
-    "date": "2026-01-23T12:24:02.893103",
+    "date": "2026-01-24T00:53:47.176220",
     "source": "https://www.reddit.com/r/MachineLearning/.rss"
+  },
+  {
+    "title": "[R] I built a congestion-aware KV cache eviction system for LLMs (0.18% overhead, ~30% P99 gains). Now what?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ql4kwa/r_i_built_a_congestionaware_kv_cache_eviction/",
+    "date": "2026-01-24T00:53:47.176199",
+    "source": "https://www.reddit.com/r/MachineLearning/.rss"
+  },
+  {
+    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
+    "link": "https://maggieappleton.com/gastown",
+    "date": "2026-01-24T00:53:46.212229",
+    "source": "https://news.ycombinator.com/rss"
+  },
+  {
+    "title": "Unrolling the Codex agent loop",
+    "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
+    "date": "2026-01-24T00:53:46.212214",
+    "source": "https://news.ycombinator.com/rss"
   }
 ]

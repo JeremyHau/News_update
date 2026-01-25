@@ -1,62 +1,32 @@
 [
   {
-    "title": "The 'Infinite Context' Trap: Why 1M tokens won't solve Agentic Amnesia (and why we need a Memory OS)",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qkrhec/the_infinite_context_trap_why_1m_tokens_wont/",
-    "date": "2026-01-24T12:19:56.847715",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-  },
-  {
-    "title": "What's more important for voice agents, bettter models or better constraints?",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qktwn7/whats_more_important_for_voice_agents_bettter/",
-    "date": "2026-01-24T12:19:56.847706",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-  },
-  {
-    "title": "Self-hosted code search for your LLMs - built this to stop wasting context on irrelevant files",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qlbsv1/selfhosted_code_search_for_your_llms_built_this/",
-    "date": "2026-01-24T12:19:56.847692",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-  },
-  {
-    "title": "Built a library of LLM prompts for RAG",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qlkp6x/built_a_library_of_llm_prompts_for_rag/",
-    "date": "2026-01-24T12:19:56.847682",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-  },
-  {
     "title": "Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR",
     "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/",
-    "date": "2026-01-24T12:19:56.847658",
+    "date": "2026-01-25T01:01:19.491436",
     "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
   {
     "title": "Built a Sandbox for Agents",
     "link": "https://www.reddit.com/r/artificial/comments/1qlek8l/built_a_sandbox_for_agents/",
-    "date": "2026-01-24T12:19:56.174136",
+    "date": "2026-01-25T01:01:18.596326",
     "source": "https://www.reddit.com/r/artificial/.rss"
   },
   {
     "title": "Be careful of custom tokens in your LLM !!!",
     "link": "https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/",
-    "date": "2026-01-24T12:19:56.174094",
+    "date": "2026-01-25T01:01:18.596293",
     "source": "https://www.reddit.com/r/artificial/.rss"
   },
   {
-    "title": "[P] What we learned building automatic failover for LLM gateways",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qk4xqj/p_what_we_learned_building_automatic_failover_for/",
-    "date": "2026-01-24T12:19:55.519401",
-    "source": "https://www.reddit.com/r/MachineLearning/.rss"
-  },
-  {
-    "title": "Gas Town's agent patterns, design bottlenecks, and vibecoding at scale",
-    "link": "https://maggieappleton.com/gastown",
-    "date": "2026-01-24T12:19:54.650405",
+    "title": "JSON-render: LLM-based JSON-to-UI tool",
+    "link": "https://json-render.dev/",
+    "date": "2026-01-25T01:01:17.070708",
     "source": "https://news.ycombinator.com/rss"
   },
   {
-    "title": "Unrolling the Codex agent loop",
-    "link": "https://openai.com/index/unrolling-the-codex-agent-loop/",
-    "date": "2026-01-24T12:19:54.650383",
+    "title": "Agent orchestration for the timid",
+    "link": "https://substack.com/inbox/post/185649875",
+    "date": "2026-01-25T01:01:17.070693",
     "source": "https://news.ycombinator.com/rss"
   }
 ]

@@ -1,32 +1,32 @@
 [
   {
-    "title": "Built a 100% client-side AI that plays Pokemon Red - Qwen 2.5 1.5B via WebLLM + neural network policy . Fork/check it out! BYOR",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1ql6cz7/built_a_100_clientside_ai_that_plays_pokemon_red/",
-    "date": "2026-01-25T01:01:19.491436",
+    "title": "Stable-DiffCoder, a strong code diffusion LLM built on Seed-Coder",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qm6iho/stablediffcoder_a_strong_code_diffusion_llm_built/",
+    "date": "2026-01-25T12:21:13.734585",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Blazing fast JSON extraction with very small LLMs-3B: LSTM to LLM",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmevh7/blazing_fast_json_extraction_with_very_small/",
+    "date": "2026-01-25T12:21:13.734562",
     "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
   {
     "title": "Built a Sandbox for Agents",
     "link": "https://www.reddit.com/r/artificial/comments/1qlek8l/built_a_sandbox_for_agents/",
-    "date": "2026-01-25T01:01:18.596326",
+    "date": "2026-01-25T12:21:12.752703",
     "source": "https://www.reddit.com/r/artificial/.rss"
   },
   {
     "title": "Be careful of custom tokens in your LLM !!!",
     "link": "https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/",
-    "date": "2026-01-25T01:01:18.596293",
+    "date": "2026-01-25T12:21:12.752682",
     "source": "https://www.reddit.com/r/artificial/.rss"
   },
   {
-    "title": "JSON-render: LLM-based JSON-to-UI tool",
-    "link": "https://json-render.dev/",
-    "date": "2026-01-25T01:01:17.070708",
-    "source": "https://news.ycombinator.com/rss"
-  },
-  {
-    "title": "Agent orchestration for the timid",
-    "link": "https://substack.com/inbox/post/185649875",
-    "date": "2026-01-25T01:01:17.070693",
+    "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
+    "link": "https://arxiv.org/abs/2601.05047",
+    "date": "2026-01-25T12:21:10.807546",
     "source": "https://news.ycombinator.com/rss"
   }
 ]

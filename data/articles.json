@@ -1,32 +1,56 @@
 [
   {
-    "title": "Stable-DiffCoder, a strong code diffusion LLM built on Seed-Coder",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qm6iho/stablediffcoder_a_strong_code_diffusion_llm_built/",
-    "date": "2026-01-25T12:21:13.734585",
+    "title": "anyone running local llm on iphone for meeting summaries? heres what im using",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmutct/anyone_running_local_llm_on_iphone_for_meeting/",
+    "date": "2026-01-26T01:00:04.554384",
     "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
   {
-    "title": "Blazing fast JSON extraction with very small LLMs-3B: LSTM to LLM",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmevh7/blazing_fast_json_extraction_with_very_small/",
-    "date": "2026-01-25T12:21:13.734562",
+    "title": "Quantifying Hallucinations: By calculating a multi-dimensional 'Trust Score' for LLM outputs.",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmhvuz/quantifying_hallucinations_by_calculating_a/",
+    "date": "2026-01-26T01:00:04.554374",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Built a Clickable 3D Solar System Explorer in 15 Minutes with MiniMax Agent",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmttek/built_a_clickable_3d_solar_system_explorer_in_15/",
+    "date": "2026-01-26T01:00:04.554369",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Do you power off your LLM/AI/SV PC when not using it to save on electricity, or keep it on 24/7? MultiGPU adds a lot of power!",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmrjlh/do_you_power_off_your_llmaisv_pc_when_not_using/",
+    "date": "2026-01-26T01:00:04.554354",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "How are people actually learning/building real-world AI agents (money, legal, business), not demos?",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmxexe/how_are_people_actually_learningbuilding/",
+    "date": "2026-01-26T01:00:04.554332",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "LLM Reasoning Efficiency - lineage-bench accuracy vs generated tokens",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmsk9w/llm_reasoning_efficiency_lineagebench_accuracy_vs/",
+    "date": "2026-01-26T01:00:04.554321",
+    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  {
+    "title": "Internet blackout and Local LLMs",
+    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmlpjp/internet_blackout_and_local_llms/",
+    "date": "2026-01-26T01:00:04.554296",
     "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
   {
     "title": "Built a Sandbox for Agents",
     "link": "https://www.reddit.com/r/artificial/comments/1qlek8l/built_a_sandbox_for_agents/",
-    "date": "2026-01-25T12:21:12.752703",
+    "date": "2026-01-26T01:00:03.834869",
     "source": "https://www.reddit.com/r/artificial/.rss"
   },
   {
     "title": "Be careful of custom tokens in your LLM !!!",
     "link": "https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/",
-    "date": "2026-01-25T12:21:12.752682",
+    "date": "2026-01-26T01:00:03.834848",
     "source": "https://www.reddit.com/r/artificial/.rss"
-  },
-  {
-    "title": "David Patterson: Challenges and Research Directions for LLM Inference Hardware",
-    "link": "https://arxiv.org/abs/2601.05047",
-    "date": "2026-01-25T12:21:10.807546",
-    "source": "https://news.ycombinator.com/rss"
   }
 ]

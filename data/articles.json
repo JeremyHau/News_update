@@ -1,7 +1,43 @@
 [
   {
-    "id": -8949223692064070840,
-    "title": "Google pays $68 million to settle claims its voice assistant spied on users",
+    "id": 8878697478546972198,
+    "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+    "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-27T10:00:00",
+    "saved": false
+  },
+  {
+    "id": -2365010255570265985,
+    "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
+    "link": "https://www.kimi.com/blog/kimi-k2-5.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-27T05:42:27",
+    "saved": false
+  },
+  {
+    "id": -344812937064973603,
+    "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
+    "link": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-27T01:30:00",
+    "saved": false
+  },
+  {
+    "id": 7565246425329197233,
+    "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+    "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-27T01:30:00",
+    "saved": false
+  },
+  {
+    "id": 7187986761204395479,
+    "title": "Google pays $68M to settle claims its voice assistant spied on users",
     "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1724166542674056386,
+    "id": 1841430356218894360,
     "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
     "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5836141902063594973,
+    "id": -4384266113131072338,
     "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
     "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 699321536810962277,
+    "id": -755861878203743293,
     "title": "[2510.01265] RLP: Reinforcement as a Pretraining Objective",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnqfuh/251001265_rlp_reinforcement_as_a_pretraining/",
     "source": "Reddit ML",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -6650932907669201379,
+    "id": -1226455522843980415,
     "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
     "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
     "source": "Hacker News",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4095972183684070381,
+    "id": -6816972148352853402,
     "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
     "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
     "source": "TechCrunch",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -30629024558062047,
-    "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
-    "link": "https://tetrisbench.com/tetrisbench/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-26T18:42:40",
-    "saved": false
-  },
-  {
-    "id": -2567402586796913464,
+    "id": 840191719031690177,
     "title": "AI code and software craft",
     "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
     "source": "Hacker News",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6443131051823712975,
+    "id": -3103732879799041901,
     "title": "[R] Treating Depth Sensor Failures as Learning Signal: Masked Depth Modeling outperforms industry-grade RGB-D cameras",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnmzmk/r_treating_depth_sensor_failures_as_learning/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6478330792338572119,
+    "id": -5362690858794526128,
     "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
     "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
     "source": "TechCrunch",
@@ -90,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 8135916292300613601,
-    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
-    "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-26T16:27:46",
-    "saved": false
-  },
-  {
-    "id": 56440671518720901,
-    "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
-    "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-26T16:26:49",
-    "saved": false
-  },
-  {
-    "id": 3730070241192535553,
+    "id": -7575762581557641084,
     "title": "[R] GRAIL-V Workshop @ CVPR 2026 — Grounded Retrieval & Agentic Intelligence for Vision-Language",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnkjw2/r_grailv_workshop_cvpr_2026_grounded_retrieval/",
     "source": "Reddit ML",
@@ -117,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -408602278656791931,
-    "title": "Microsoft announces powerful new chip for AI inference",
-    "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-26T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -5974513440511401327,
-    "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
-    "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-26T15:52:55",
-    "saved": false
-  },
-  {
-    "id": -4264414550689371774,
+    "id": -5362485828051642897,
     "title": "There is an AI code review bubble",
     "link": "https://www.greptile.com/blog/ai-code-review-bubble",
     "source": "Hacker News",
@@ -144,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5104597011502195807,
+    "id": 6591753617458356056,
     "title": "Apple introduces new AirTag with longer range and improved findability",
     "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
     "source": "Hacker News",
@@ -153,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8194768457275863594,
+    "id": -3790490165968716497,
     "title": "[P] I built a full YOLO training pipeline without manual annotation (open-vocabulary auto-labeling)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnbipe/p_i_built_a_full_yolo_training_pipeline_without/",
     "source": "Reddit ML",
@@ -162,21 +153,12 @@
     "saved": false
   },
   {
-    "id": -8823408989281163374,
-    "title": "[P] SpeechLab: A fault-tolerant distributed training framework for Whisper using Ray Train & PyTorch DDP (94% scaling efficiency)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qn2xq6/p_speechlab_a_faulttolerant_distributed_training/",
-    "source": "Reddit ML",
+    "id": 4678953974868374053,
+    "title": "Heathrow scraps liquid container limit",
+    "link": "https://www.bbc.com/news/articles/c1evvx89559o",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-26T02:07:28",
-    "saved": false
-  },
-  {
-    "id": 5431813695292073808,
-    "title": "[D] AI4PDEs, SciML, Foundational Models: Where are we going?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qmg4t3/d_ai4pdes_sciml_foundational_models_where_are_we/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-25T10:54:09",
+    "date": "2026-01-23T19:38:33",
     "saved": false
   }
 ]

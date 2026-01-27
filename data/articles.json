@@ -1,6 +1,15 @@
 [
   {
-    "id": 767181100335033226,
+    "id": -8949223692064070840,
+    "title": "Google pays $68 million to settle claims its voice assistant spied on users",
+    "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-27T00:43:35",
+    "saved": false
+  },
+  {
+    "id": -1724166542674056386,
     "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
     "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
     "source": "TechCrunch",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 4492196271720029517,
+    "id": -5836141902063594973,
     "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
     "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 6837796874003374729,
+    "id": 699321536810962277,
     "title": "[2510.01265] RLP: Reinforcement as a Pretraining Objective",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnqfuh/251001265_rlp_reinforcement_as_a_pretraining/",
     "source": "Reddit ML",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -7343875269585695046,
+    "id": -6650932907669201379,
     "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
     "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
     "source": "Hacker News",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1614066846272125162,
+    "id": -4095972183684070381,
     "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
     "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 3448329337843531853,
+    "id": -30629024558062047,
     "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
     "link": "https://tetrisbench.com/tetrisbench/",
     "source": "Hacker News",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 3531132742020758619,
+    "id": -2567402586796913464,
     "title": "AI code and software craft",
     "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
     "source": "Hacker News",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7311024617693398425,
+    "id": -6443131051823712975,
     "title": "[R] Treating Depth Sensor Failures as Learning Signal: Masked Depth Modeling outperforms industry-grade RGB-D cameras",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnmzmk/r_treating_depth_sensor_failures_as_learning/",
     "source": "Reddit ML",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7602730673509688671,
+    "id": 6478330792338572119,
     "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
     "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 70848117547438350,
+    "id": 8135916292300613601,
     "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
     "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
     "source": "Hacker News",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3880679425623584997,
+    "id": 56440671518720901,
     "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
     "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 445926235977665354,
+    "id": 3730070241192535553,
     "title": "[R] GRAIL-V Workshop @ CVPR 2026 — Grounded Retrieval & Agentic Intelligence for Vision-Language",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnkjw2/r_grailv_workshop_cvpr_2026_grounded_retrieval/",
     "source": "Reddit ML",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1462477865575130461,
+    "id": -408602278656791931,
     "title": "Microsoft announces powerful new chip for AI inference",
     "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5193664347450746667,
+    "id": -5974513440511401327,
     "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
     "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4943365739567176516,
+    "id": -4264414550689371774,
     "title": "There is an AI code review bubble",
     "link": "https://www.greptile.com/blog/ai-code-review-bubble",
     "source": "Hacker News",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -4386304605407600005,
+    "id": -5104597011502195807,
     "title": "Apple introduces new AirTag with longer range and improved findability",
     "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
     "source": "Hacker News",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 3796242119967463509,
+    "id": 8194768457275863594,
     "title": "[P] I built a full YOLO training pipeline without manual annotation (open-vocabulary auto-labeling)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnbipe/p_i_built_a_full_yolo_training_pipeline_without/",
     "source": "Reddit ML",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -7453557594304255214,
+    "id": -8823408989281163374,
     "title": "[P] SpeechLab: A fault-tolerant distributed training framework for Whisper using Ray Train & PyTorch DDP (94% scaling efficiency)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qn2xq6/p_speechlab_a_faulttolerant_distributed_training/",
     "source": "Reddit ML",
@@ -162,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -5248877694835840687,
+    "id": 5431813695292073808,
     "title": "[D] AI4PDEs, SciML, Foundational Models: Where are we going?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qmg4t3/d_ai4pdes_sciml_foundational_models_where_are_we/",
     "source": "Reddit ML",

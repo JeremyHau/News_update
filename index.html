@@ -3,79 +3,864 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Agent 資訊追蹤</title>
+    <title>📊 資訊追蹤系統</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
+            background: #f5f5f5;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+
+        /* 左側邊欄 */
+        .sidebar {
+            width: 320px;
+            background: white;
+            border-right: 1px solid #e5e5e5;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .sidebar-header {
             padding: 20px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .sidebar-header h1 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .sidebar-header p {
+            font-size: 13px;
+            color: #666;
+        }
+
+        .sidebar-actions {
+            padding: 12px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 10px 12px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: #eff6ff;
+            color: #2563eb;
+        }
+
+        .btn-primary:hover {
+            background: #dbeafe;
+        }
+
+        .btn-success {
+            background: #f0fdf4;
+            color: #16a34a;
+        }
+
+        .btn-success:hover {
+            background: #dcfce7;
+        }
+
+        .btn-warning {
+            background: #fef3c7;
+            color: #d97706;
+        }
+
+        .btn-warning:hover {
+            background: #fde68a;
+        }
+
+        .btn-warning.active {
+            background: #fcd34d;
+        }
+
+        .categories {
+            flex: 1;
+            overflow-y: auto;
+            padding: 12px;
+        }
+
+        .category {
+            margin-bottom: 8px;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .category-header:hover {
             background: #f5f5f5;
         }
-        h1 {
-            color: #333;
-            border-bottom: 3px solid #0066cc;
-            padding-bottom: 10px;
+
+        .category-header.active {
+            background: #eff6ff;
+            color: #2563eb;
         }
-        .article {
+
+        .category-toggle {
+            width: 20px;
+            height: 20px;
+            border: none;
+            background: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .category-name {
+            flex: 1;
+            margin-left: 8px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .category-count {
+            font-size: 12px;
+            color: #999;
+        }
+
+        .sources {
+            margin-left: 24px;
+            margin-top: 4px;
+        }
+
+        .source-item {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            border-radius: 6px;
+            margin-bottom: 2px;
+            transition: background 0.2s;
+        }
+
+        .source-item:hover {
+            background: #f5f5f5;
+        }
+
+        .source-item input[type="checkbox"] {
+            margin-right: 8px;
+        }
+
+        .source-name {
+            flex: 1;
+            font-size: 13px;
+            color: #666;
+        }
+
+        .source-delete {
+            opacity: 0;
+            background: none;
+            border: none;
+            color: #ef4444;
+            cursor: pointer;
+            padding: 4px;
+        }
+
+        .source-item:hover .source-delete {
+            opacity: 1;
+        }
+
+        /* 主內容區 */
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .topbar {
             background: white;
-            padding: 20px;
-            margin: 15px 0;
+            border-bottom: 1px solid #e5e5e5;
+            padding: 16px 24px;
+        }
+
+        .search-bar {
+            display: flex;
+            gap: 12px;
+            max-width: 800px;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 10px 16px;
+            border: 1px solid #d1d5db;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            font-size: 14px;
         }
-        .article h3 {
-            margin-top: 0;
+
+        .search-input:focus {
+            outline: none;
+            border-color: #2563eb;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
         }
-        .article a {
-            color: #0066cc;
-            text-decoration: none;
+
+        .btn-refresh {
+            padding: 10px 16px;
+            background: #2563eb;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            gap: 6px;
         }
-        .article a:hover {
-            text-decoration: underline;
+
+        .btn-refresh:hover {
+            background: #1d4ed8;
         }
-        .date {
+
+        .articles {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px;
+        }
+
+        .articles-header {
+            max-width: 800px;
+            margin: 0 auto 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .articles-header h2 {
+            font-size: 20px;
+            color: #333;
+        }
+
+        .articles-count {
+            font-size: 14px;
             color: #666;
-            font-size: 0.9em;
         }
-        .loading {
+
+        .articles-list {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .article-card {
+            background: white;
+            border: 1px solid #e5e5e5;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+            transition: all 0.2s;
+        }
+
+        .article-card:hover {
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .article-content {
+            display: flex;
+            gap: 16px;
+        }
+
+        .article-body {
+            flex: 1;
+        }
+
+        .article-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 12px;
+            cursor: pointer;
+        }
+
+        .article-title:hover {
+            color: #2563eb;
+        }
+
+        .article-meta {
+            display: flex;
+            gap: 16px;
+            font-size: 13px;
+            color: #666;
+            flex-wrap: wrap;
+        }
+
+        .article-tag {
+            display: inline-block;
+            padding: 4px 8px;
+            background: #eff6ff;
+            color: #2563eb;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+
+        .article-actions {
+            display: flex;
+            gap: 8px;
+        }
+
+        .article-btn {
+            width: 36px;
+            height: 36px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+        }
+
+        .btn-save {
+            background: #f5f5f5;
+            color: #999;
+        }
+
+        .btn-save:hover {
+            background: #e5e5e5;
+        }
+
+        .btn-save.saved {
+            background: #fef3c7;
+            color: #d97706;
+        }
+
+        .btn-link {
+            background: #dbeafe;
+            color: #2563eb;
+        }
+
+        .btn-link:hover {
+            background: #bfdbfe;
+        }
+
+        /* 彈窗 */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.5);
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+        }
+
+        .modal.show {
+            display: flex;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            width: 400px;
+            max-width: 90%;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .modal-header h3 {
+            font-size: 18px;
+            color: #333;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 24px;
+            cursor: pointer;
+            color: #999;
+        }
+
+        .modal-body {
+            margin-bottom: 16px;
+        }
+
+        .form-group {
+            margin-bottom: 12px;
+        }
+
+        .form-input {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: #2563eb;
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+        }
+
+        .modal-footer {
+            display: flex;
+            gap: 8px;
+        }
+
+        .btn-modal {
+            flex: 1;
+            padding: 10px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .btn-modal-primary {
+            background: #2563eb;
+            color: white;
+        }
+
+        .btn-modal-primary:hover {
+            background: #1d4ed8;
+        }
+
+        .btn-modal-secondary {
+            background: #e5e5e5;
+            color: #333;
+        }
+
+        .btn-modal-secondary:hover {
+            background: #d1d5db;
+        }
+
+        .empty-state {
             text-align: center;
-            padding: 40px;
-            color: #666;
+            padding: 60px 20px;
+            color: #999;
+        }
+
+        .empty-state svg {
+            margin-bottom: 12px;
+        }
+
+        /* 圖標 */
+        .icon {
+            width: 18px;
+            height: 18px;
+            display: inline-block;
         }
     </style>
 </head>
 <body>
-    <h1>🤖 AI Agent 最新動態</h1>
-    <p>自動追蹤 AI Agent 相關資訊 | 每日更新</p>
-    <div id="articles" class="loading">載入中...</div>
-    
+    <div class="container">
+        <!-- 左側邊欄 -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>📊 資訊追蹤</h1>
+                <p>智能資訊聚合系統</p>
+            </div>
+
+            <div class="sidebar-actions">
+                <button class="btn btn-primary" onclick="showAddCategoryModal()">
+                    <span class="icon">📁</span>
+                    <span>新增分類</span>
+                </button>
+                <button class="btn btn-success" onclick="showAddSourceModal()">
+                    <span class="icon">➕</span>
+                    <span>新增來源</span>
+                </button>
+                <button class="btn btn-warning" id="savedBtn" onclick="toggleSavedView()">
+                    <span class="icon">🔖</span>
+                    <span>已保存 (<span id="savedCount">0</span>)</span>
+                </button>
+            </div>
+
+            <div class="categories" id="categoriesList"></div>
+        </div>
+
+        <!-- 主內容區 -->
+        <div class="main-content">
+            <div class="topbar">
+                <div class="search-bar">
+                    <input type="text" class="search-input" id="searchInput" placeholder="搜索文章標題或來源...">
+                    <button class="btn-refresh" onclick="refreshArticles()">
+                        <span>🔄</span>
+                        <span>刷新</span>
+                    </button>
+                </div>
+            </div>
+
+            <div class="articles">
+                <div class="articles-header">
+                    <h2 id="viewTitle">📰 全部文章</h2>
+                    <span class="articles-count"><span id="articleCount">0</span> 篇文章</span>
+                </div>
+                <div class="articles-list" id="articlesList"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 新增分類彈窗 -->
+    <div class="modal" id="addCategoryModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>新增分類</h3>
+                <button class="modal-close" onclick="hideAddCategoryModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <input type="text" class="form-input" id="categoryNameInput" placeholder="分類名稱">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-modal btn-modal-primary" onclick="addCategory()">新增</button>
+                <button class="btn-modal btn-modal-secondary" onclick="hideAddCategoryModal()">取消</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 新增來源彈窗 -->
+    <div class="modal" id="addSourceModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>新增資訊來源</h3>
+                <button class="modal-close" onclick="hideAddSourceModal()">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <input type="text" class="form-input" id="sourceNameInput" placeholder="來源名稱（例如：OpenAI Blog）">
+                </div>
+                <div class="form-group">
+                    <input type="url" class="form-input" id="sourceUrlInput" placeholder="RSS 網址（例如：https://example.com/feed）">
+                </div>
+                <div class="form-group">
+                    <select class="form-input" id="sourceCategorySelect"></select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn-modal btn-modal-primary" onclick="addSource()">新增</button>
+                <button class="btn-modal btn-modal-secondary" onclick="hideAddSourceModal()">取消</button>
+            </div>
+        </div>
+    </div>
+
     <script>
-        fetch('data/articles.json')
-            .then(response => response.json())
-            .then(data => {
-                const container = document.getElementById('articles');
-                if (data.length === 0) {
-                    container.innerHTML = '<p>暫無資料</p>';
-                    return;
-                }
-                container.innerHTML = '';
-                data.forEach(article => {
-                    const div = document.createElement('div');
-                    div.className = 'article';
-                    div.innerHTML = `
-                        <h3><a href="${article.link}" target="_blank">${article.title}</a></h3>
-                        <p class="date">📅 ${new Date(article.date).toLocaleString('zh-TW')}</p>
-                        ${article.summary ? `<p>${article.summary}</p>` : ''}
-                    `;
-                    container.appendChild(div);
-                });
-            })
-            .catch(error => {
-                document.getElementById('articles').innerHTML = 
-                    '<p style="color: red;">載入失敗，請稍後再試</p>';
-                console.error('Error:', error);
+        // 數據管理
+        let categories = [
+            { 
+                id: 'ai', 
+                name: 'AI 相關', 
+                expanded: true, 
+                sources: [
+                    { id: 's1', name: 'Hacker News', url: 'https://news.ycombinator.com/rss', enabled: true },
+                    { id: 's2', name: 'Reddit ML', url: 'https://www.reddit.com/r/MachineLearning/.rss', enabled: true }
+                ]
+            },
+            { 
+                id: 'tech', 
+                name: '科技新聞', 
+                expanded: false, 
+                sources: [
+                    { id: 's3', name: 'TechCrunch', url: 'https://techcrunch.com/feed/', enabled: true }
+                ]
+            },
+            { 
+                id: 'research', 
+                name: '學術研究', 
+                expanded: false, 
+                sources: []
+            }
+        ];
+
+        let articles = [
+            { id: 1, title: 'Three types of LLM workloads and how to serve them', category: 'ai', source: 'Hacker News', date: '2026-01-22T00:40:51', link: 'https://example.com', saved: false },
+            { id: 2, title: 'New AI Agent Framework Released', category: 'ai', source: 'Reddit ML', date: '2026-01-21T15:20:00', link: 'https://example.com', saved: false },
+            { id: 3, title: 'Latest Developments in Autonomous Systems', category: 'tech', source: 'TechCrunch', date: '2026-01-21T10:15:00', link: 'https://example.com', saved: false }
+        ];
+
+        let savedArticles = [];
+        let selectedCategory = null;
+        let showSaved = false;
+
+        // 渲染分類列表
+        function renderCategories() {
+            const container = document.getElementById('categoriesList');
+            container.innerHTML = categories.map(cat => `
+                <div class="category">
+                    <div class="category-header ${selectedCategory === cat.id && !showSaved ? 'active' : ''}" 
+                         onclick="selectCategory('${cat.id}')">
+                        <button class="category-toggle" onclick="event.stopPropagation(); toggleCategory('${cat.id}')">
+                            ${cat.expanded ? '▼' : '▶'}
+                        </button>
+                        <span class="icon">📁</span>
+                        <span class="category-name">${cat.name}</span>
+                        <span class="category-count">${cat.sources.length}</span>
+                    </div>
+                    ${cat.expanded ? `
+                        <div class="sources">
+                            ${cat.sources.length === 0 ? '<div style="padding: 8px; color: #999; font-size: 12px;">暫無來源</div>' : ''}
+                            ${cat.sources.map(source => `
+                                <div class="source-item">
+                                    <input type="checkbox" ${source.enabled ? 'checked' : ''} 
+                                           onchange="toggleSource('${cat.id}', '${source.id}')">
+                                    <span class="icon">📄</span>
+                                    <span class="source-name">${source.name}</span>
+                                    <button class="source-delete" onclick="deleteSource('${cat.id}', '${source.id}')">🗑️</button>
+                                </div>
+                            `).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+            `).join('');
+        }
+
+        // 渲染文章列表
+        function renderArticles() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = (showSaved ? savedArticles : articles).filter(article => {
+                const matchesCategory = !selectedCategory || article.category === selectedCategory;
+                const matchesSearch = !searchTerm || 
+                    article.title.toLowerCase().includes(searchTerm) ||
+                    article.source.toLowerCase().includes(searchTerm);
+                return matchesCategory && matchesSearch;
             });
+
+            document.getElementById('articleCount').textContent = filtered.length;
+            
+            const viewTitle = showSaved 
+                ? '📑 已保存的文章' 
+                : selectedCategory 
+                    ? categories.find(c => c.id === selectedCategory)?.name 
+                    : '📰 全部文章';
+            document.getElementById('viewTitle').textContent = viewTitle;
+
+            const container = document.getElementById('articlesList');
+            if (filtered.length === 0) {
+                container.innerHTML = `
+                    <div class="empty-state">
+                        <div style="font-size: 48px;">📄</div>
+                        <p>暫無文章</p>
+                    </div>
+                `;
+                return;
+            }
+
+            container.innerHTML = filtered.map(article => {
+                const categoryName = categories.find(c => c.id === article.category)?.name || '未分類';
+                const date = new Date(article.date);
+                return `
+                    <div class="article-card">
+                        <div class="article-content">
+                            <div class="article-body">
+                                <div class="article-title" onclick="window.open('${article.link}', '_blank')">
+                                    ${article.title}
+                                </div>
+                                <div class="article-meta">
+                                    <span>📄 ${article.source}</span>
+                                    <span>📅 ${date.toLocaleString('zh-TW')}</span>
+                                    <span class="article-tag">${categoryName}</span>
+                                </div>
+                            </div>
+                            <div class="article-actions">
+                                <button class="article-btn btn-save ${article.saved ? 'saved' : ''}" 
+                                        onclick="toggleSave(${article.id})"
+                                        title="${article.saved ? '取消保存' : '保存文章'}">
+                                    ${article.saved ? '⭐' : '☆'}
+                                </button>
+                                <button class="article-btn btn-link" 
+                                        onclick="window.open('${article.link}', '_blank')"
+                                        title="打開原文">
+                                    🔗
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // 切換分類
+        function toggleCategory(categoryId) {
+            categories = categories.map(cat => 
+                cat.id === categoryId ? { ...cat, expanded: !cat.expanded } : cat
+            );
+            renderCategories();
+        }
+
+        // 選擇分類
+        function selectCategory(categoryId) {
+            selectedCategory = categoryId;
+            showSaved = false;
+            document.getElementById('savedBtn').classList.remove('active');
+            renderCategories();
+            renderArticles();
+        }
+
+        // 切換來源
+        function toggleSource(categoryId, sourceId) {
+            categories = categories.map(cat => 
+                cat.id === categoryId 
+                    ? {
+                        ...cat,
+                        sources: cat.sources.map(src => 
+                            src.id === sourceId ? { ...src, enabled: !src.enabled } : src
+                        )
+                    }
+                    : cat
+            );
+            renderCategories();
+        }
+
+        // 刪除來源
+        function deleteSource(categoryId, sourceId) {
+            if (confirm('確定要刪除這個來源嗎？')) {
+                categories = categories.map(cat => 
+                    cat.id === categoryId 
+                        ? { ...cat, sources: cat.sources.filter(src => src.id !== sourceId) }
+                        : cat
+                );
+                renderCategories();
+            }
+        }
+
+        // 保存/取消保存文章
+        function toggleSave(articleId) {
+            const article = articles.find(a => a.id === articleId);
+            if (article.saved) {
+                savedArticles = savedArticles.filter(a => a.id !== articleId);
+                article.saved = false;
+            } else {
+                article.saved = true;
+                savedArticles.push(article);
+            }
+            document.getElementById('savedCount').textContent = savedArticles.length;
+            renderArticles();
+        }
+
+        // 切換已保存視圖
+        function toggleSavedView() {
+            showSaved = !showSaved;
+            selectedCategory = null;
+            document.getElementById('savedBtn').classList.toggle('active', showSaved);
+            renderCategories();
+            renderArticles();
+        }
+
+        // 彈窗管理
+        function showAddCategoryModal() {
+            document.getElementById('addCategoryModal').classList.add('show');
+            document.getElementById('categoryNameInput').focus();
+        }
+
+        function hideAddCategoryModal() {
+            document.getElementById('addCategoryModal').classList.remove('show');
+            document.getElementById('categoryNameInput').value = '';
+        }
+
+        function showAddSourceModal() {
+            const select = document.getElementById('sourceCategorySelect');
+            select.innerHTML = categories.map(cat => 
+                `<option value="${cat.id}">${cat.name}</option>`
+            ).join('');
+            document.getElementById('addSourceModal').classList.add('show');
+            document.getElementById('sourceNameInput').focus();
+        }
+
+        function hideAddSourceModal() {
+            document.getElementById('addSourceModal').classList.remove('show');
+            document.getElementById('sourceNameInput').value = '';
+            document.getElementById('sourceUrlInput').value = '';
+        }
+
+        // 新增分類
+        function addCategory() {
+            const name = document.getElementById('categoryNameInput').value.trim();
+            if (name) {
+                const newCat = {
+                    id: 'cat_' + Date.now(),
+                    name: name,
+                    expanded: true,
+                    sources: []
+                };
+                categories.push(newCat);
+                renderCategories();
+                hideAddCategoryModal();
+            }
+        }
+
+        // 新增來源
+        function addSource() {
+            const name = document.getElementById('sourceNameInput').value.trim();
+            const url = document.getElementById('sourceUrlInput').value.trim();
+            const categoryId = document.getElementById('sourceCategorySelect').value;
+            
+            if (name && url) {
+                const source = {
+                    id: 's_' + Date.now(),
+                    name: name,
+                    url: url,
+                    enabled: true
+                };
+                
+                categories = categories.map(cat => 
+                    cat.id === categoryId 
+                        ? { ...cat, sources: [...cat.sources, source] }
+                        : cat
+                );
+                
+                renderCategories();
+                hideAddSourceModal();
+                alert('來源已添加！請等待下次自動更新，或點擊刷新按鈕手動更新。');
+            }
+        }
+
+        // 刷新文章
+        function refreshArticles() {
+            alert('刷新功能會在後端腳本中實現。當前為演示數據。');
+        }
+
+        // 搜索功能
+        document.getElementById('searchInput').addEventListener('input', renderArticles);
+
+        // 鍵盤快捷鍵
+        document.getElementById('categoryNameInput').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') addCategory();
+        });
+
+        // 初始化
+        document.getElementById('savedCount').textContent = savedArticles.length;
+        renderCategories();
+        renderArticles();
     </script>
 </body>
 </html>

@@ -1,146 +1,173 @@
 [
   {
-    "title": "Jacobian Scopes: token-level causal attributions in LLMs",
-    "link": "https://arxiv.org/abs/2601.16407",
-    "date": "2026-01-26T12:24:48.760339",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 767181100335033226,
+    "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
+    "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-27T00:13:15",
+    "saved": false
   },
   {
-    "title": "Clarify or Answer: Reinforcement Learning for Agentic VQA with Context Under-specification",
-    "link": "https://arxiv.org/abs/2601.16400",
-    "date": "2026-01-26T12:24:48.760333",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 4492196271720029517,
+    "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
+    "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-26T21:43:14",
+    "saved": false
   },
   {
-    "title": "PolyAgent: Large Language Model Agent for Polymer Design",
-    "link": "https://arxiv.org/abs/2601.16376",
-    "date": "2026-01-26T12:24:48.760324",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 6837796874003374729,
+    "title": "[2510.01265] RLP: Reinforcement as a Pretraining Objective",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnqfuh/251001265_rlp_reinforcement_as_a_pretraining/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-26T19:38:14",
+    "saved": false
   },
   {
-    "title": "Machine-Assisted Grading of Nationwide School-Leaving Essay Exams with LLMs and Statistical NLP",
-    "link": "https://arxiv.org/abs/2601.16314",
-    "date": "2026-01-26T12:24:48.760314",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": -7343875269585695046,
+    "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+    "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-26T19:19:40",
+    "saved": false
   },
   {
-    "title": "Teaching and Evaluating LLMs to Reason About Polymer Design Related Tasks",
-    "link": "https://arxiv.org/abs/2601.16312",
-    "date": "2026-01-26T12:24:48.760308",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 1614066846272125162,
+    "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+    "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-26T19:10:03",
+    "saved": false
   },
   {
-    "title": "Better as Generators Than Classifiers: Leveraging LLMs and Synthetic Data for Low-Resource Multilingual Classification",
-    "link": "https://arxiv.org/abs/2601.16278",
-    "date": "2026-01-26T12:24:48.760298",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 3448329337843531853,
+    "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+    "link": "https://tetrisbench.com/tetrisbench/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-26T18:42:40",
+    "saved": false
   },
   {
-    "title": "GameTalk: Training LLMs for Strategic Conversation",
-    "link": "https://arxiv.org/abs/2601.16276",
-    "date": "2026-01-26T12:24:48.760291",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 3531132742020758619,
+    "title": "AI code and software craft",
+    "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-26T18:04:15",
+    "saved": false
   },
   {
-    "title": "Limits of n-gram Style Control for LLMs via Logit-Space Injection",
-    "link": "https://arxiv.org/abs/2601.16224",
-    "date": "2026-01-26T12:24:48.760277",
-    "source": "http://export.arxiv.org/rss/cs.CL"
+    "id": 7311024617693398425,
+    "title": "[R] Treating Depth Sensor Failures as Learning Signal: Masked Depth Modeling outperforms industry-grade RGB-D cameras",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnmzmk/r_treating_depth_sensor_failures_as_learning/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-26T17:42:56",
+    "saved": false
   },
   {
-    "title": "Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts",
-    "link": "https://arxiv.org/abs/2601.16965",
-    "date": "2026-01-26T12:24:48.611481",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": 7602730673509688671,
+    "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
+    "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-26T17:29:35",
+    "saved": false
   },
   {
-    "title": "AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems",
-    "link": "https://arxiv.org/abs/2601.16964",
-    "date": "2026-01-26T12:24:48.611476",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": 70848117547438350,
+    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+    "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-26T16:27:46",
+    "saved": false
   },
   {
-    "title": "MAGE-KT: Multi-Agent Graph-Enhanced Knowledge Tracing with Subgraph Retrieval and Asymmetric Fusion",
-    "link": "https://arxiv.org/abs/2601.16886",
-    "date": "2026-01-26T12:24:48.611469",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": -3880679425623584997,
+    "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
+    "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-26T16:26:49",
+    "saved": false
   },
   {
-    "title": "Mixture-of-Models: Unifying Heterogeneous Agents via N-Way Self-Evaluating Deliberation",
-    "link": "https://arxiv.org/abs/2601.16863",
-    "date": "2026-01-26T12:24:48.611464",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": 445926235977665354,
+    "title": "[R] GRAIL-V Workshop @ CVPR 2026 — Grounded Retrieval & Agentic Intelligence for Vision-Language",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnkjw2/r_grailv_workshop_cvpr_2026_grounded_retrieval/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-26T16:19:43",
+    "saved": false
   },
   {
-    "title": "AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning",
-    "link": "https://arxiv.org/abs/2601.16685",
-    "date": "2026-01-26T12:24:48.611452",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": 1462477865575130461,
+    "title": "Microsoft announces powerful new chip for AI inference",
+    "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-26T16:00:00",
+    "saved": false
   },
   {
-    "title": "LUMINA: Long-horizon Understanding for Multi-turn Interactive Agents",
-    "link": "https://arxiv.org/abs/2601.16649",
-    "date": "2026-01-26T12:24:48.611447",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": -5193664347450746667,
+    "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
+    "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-26T15:52:55",
+    "saved": false
   },
   {
-    "title": "LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification",
-    "link": "https://arxiv.org/abs/2601.16549",
-    "date": "2026-01-26T12:24:48.611441",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": 4943365739567176516,
+    "title": "There is an AI code review bubble",
+    "link": "https://www.greptile.com/blog/ai-code-review-bubble",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-26T15:38:50",
+    "saved": false
   },
   {
-    "title": "Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs",
-    "link": "https://arxiv.org/abs/2601.16479",
-    "date": "2026-01-26T12:24:48.611432",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": -4386304605407600005,
+    "title": "Apple introduces new AirTag with longer range and improved findability",
+    "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-26T14:10:25",
+    "saved": false
   },
   {
-    "title": "DSGym: A Holistic Framework for Evaluating and Training Data Science Agents",
-    "link": "https://arxiv.org/abs/2601.16344",
-    "date": "2026-01-26T12:24:48.611426",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": 3796242119967463509,
+    "title": "[P] I built a full YOLO training pipeline without manual annotation (open-vocabulary auto-labeling)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnbipe/p_i_built_a_full_yolo_training_pipeline_without/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-26T09:30:49",
+    "saved": false
   },
   {
-    "title": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
-    "link": "https://arxiv.org/abs/2601.16286",
-    "date": "2026-01-26T12:24:48.611420",
-    "source": "http://export.arxiv.org/rss/cs.AI"
+    "id": -7453557594304255214,
+    "title": "[P] SpeechLab: A fault-tolerant distributed training framework for Whisper using Ray Train & PyTorch DDP (94% scaling efficiency)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qn2xq6/p_speechlab_a_faulttolerant_distributed_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-26T02:07:28",
+    "saved": false
   },
   {
-    "title": "When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems",
-    "link": "https://arxiv.org/abs/2601.16280",
-    "date": "2026-01-26T12:24:48.611406",
-    "source": "http://export.arxiv.org/rss/cs.AI"
-  },
-  {
-    "title": "Internet blackout and Local LLMs",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qmlpjp/internet_blackout_and_local_llms/",
-    "date": "2026-01-26T12:24:48.169345",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-  },
-  {
-    "title": "I reverse-engineered Microsoft AutoGen’s reasoning loop and cut agent latency by 85% (13.4s → 1.6s). Here is the architecture.",
-    "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qn2n4p/i_reverseengineered_microsoft_autogens_reasoning/",
-    "date": "2026-01-26T12:24:48.169319",
-    "source": "https://www.reddit.com/r/LocalLLaMA/.rss"
-  },
-  {
-    "title": "Built a Sandbox for Agents",
-    "link": "https://www.reddit.com/r/artificial/comments/1qlek8l/built_a_sandbox_for_agents/",
-    "date": "2026-01-26T12:24:47.518619",
-    "source": "https://www.reddit.com/r/artificial/.rss"
-  },
-  {
-    "title": "Be careful of custom tokens in your LLM !!!",
-    "link": "https://www.reddit.com/r/artificial/comments/1qljvrk/be_careful_of_custom_tokens_in_your_llm/",
-    "date": "2026-01-26T12:24:47.518596",
-    "source": "https://www.reddit.com/r/artificial/.rss"
-  },
-  {
-    "title": "[D] How long-term memory actually works in AI agents (technical breakdown)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qncbjg/d_how_longterm_memory_actually_works_in_ai_agents/",
-    "date": "2026-01-26T12:24:46.971676",
-    "source": "https://www.reddit.com/r/MachineLearning/.rss"
+    "id": -5248877694835840687,
+    "title": "[D] AI4PDEs, SciML, Foundational Models: Where are we going?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qmg4t3/d_ai4pdes_sciml_foundational_models_where_are_we/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-25T10:54:09",
+    "saved": false
   }
 ]

@@ -503,6 +503,14 @@
                     <span class="icon">🔖</span>
                     <span>Saved (<span id="savedCount">0</span>)</span>
                 </button>
+                <div style="display: flex; gap: 8px; margin-top: 4px;">
+                    <button class="btn" style="background: #fef3c7; color: #92400e; flex: 1; padding: 6px 8px;" onclick="exportConfig()" title="Export config for GitHub">
+                        <span style="font-size: 12px;">📥 Export</span>
+                    </button>
+                    <button class="btn" style="background: #fee2e2; color: #991b1b; flex: 1; padding: 6px 8px;" onclick="resetConfig()" title="Reset to default config">
+                        <span style="font-size: 12px;">🔄 Reset</span>
+                    </button>
+                </div>
             </div>
 
             <div class="categories" id="categoriesList"></div>
@@ -576,76 +584,41 @@
 
     <script>
         // Data Management
-        let categories = [];
-        let articles = [];
+        let categories = [
+            { 
+                id: 'ai', 
+                name: 'AI Related', 
+                expanded: true, 
+                sources: [
+                    { id: 's1', name: 'Hacker News', url: 'https://news.ycombinator.com/rss', enabled: true },
+                    { id: 's2', name: 'Reddit ML', url: 'https://www.reddit.com/r/MachineLearning/.rss', enabled: true }
+                ]
+            },
+            { 
+                id: 'tech', 
+                name: 'Tech News', 
+                expanded: false, 
+                sources: [
+                    { id: 's3', name: 'TechCrunch', url: 'https://techcrunch.com/feed/', enabled: true }
+                ]
+            },
+            { 
+                id: 'research', 
+                name: 'Academic Research', 
+                expanded: false, 
+                sources: []
+            }
+        ];
+
+        let articles = [
+            { id: 1, title: 'Three types of LLM workloads and how to serve them', category: 'ai', source: 'Hacker News', date: '2026-01-22T00:40:51', link: 'https://example.com', saved: false },
+            { id: 2, title: 'New AI Agent Framework Released', category: 'ai', source: 'Reddit ML', date: '2026-01-21T15:20:00', link: 'https://example.com', saved: false },
+            { id: 3, title: 'Latest Developments in Autonomous Systems', category: 'tech', source: 'TechCrunch', date: '2026-01-21T10:15:00', link: 'https://example.com', saved: false }
+        ];
+
         let savedArticles = [];
         let selectedCategory = null;
         let showSaved = false;
-
-        // Load configuration from config.json
-        async function loadConfig() {
-            try {
-                const response = await fetch('config.json');
-                const config = await response.json();
-                categories = config.categories || [];
-                renderCategories();
-            } catch (error) {
-                console.error('Error loading config:', error);
-                // Use default categories if config fails to load
-                categories = [
-                    { id: 'ai', name: 'AI Related', sources: [] },
-                    { id: 'tech', name: 'Tech News', sources: [] },
-                    { id: 'research', name: 'Academic Research', sources: [] }
-                ];
-                renderCategories();
-            }
-        }
-
-        // Load articles from data/articles.json
-        async function loadArticles() {
-            try {
-                const response = await fetch('data/articles.json');
-                const data = await response.json();
-                articles = data || [];
-                
-                // Load saved articles from localStorage
-                const saved = localStorage.getItem('savedArticles');
-                if (saved) {
-                    const savedIds = JSON.parse(saved);
-                    savedArticles = articles.filter(a => savedIds.includes(a.id));
-                    articles.forEach(a => {
-                        a.saved = savedIds.includes(a.id);
-                    });
-                }
-                
-                document.getElementById('savedCount').textContent = savedArticles.length;
-                renderArticles();
-            } catch (error) {
-                console.error('Error loading articles:', error);
-                articles = [];
-                renderArticles();
-            }
-        }
-
-        // Save configuration to config.json (this will be handled by backend)
-        function saveConfig() {
-            const config = {
-                categories: categories,
-                keywords: ['agent', 'ai', 'llm', 'autonomous']
-            };
-            
-            // For now, we'll log it. In production, this would send to backend
-            console.log('Config to save:', config);
-            
-            // Download config as file for manual upload
-            const blob = new Blob([JSON.stringify(config, null, 2)], { type: 'application/json' });
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'config.json';
-            a.click();
-            URL.revokeObjectURL(url);
-        }
 
         // Render categories list
         function renderCategories() {
@@ -659,12 +632,12 @@
                         </button>
                         <span class="icon">📁</span>
                         <span class="category-name">${cat.name}</span>
-                        <span class="category-count">${cat.sources ? cat.sources.length : 0}</span>
+                        <span class="category-count">${cat.sources.length}</span>
                     </div>
                     ${cat.expanded ? `
                         <div class="sources">
-                            ${!cat.sources || cat.sources.length === 0 ? '<div style="padding: 8px; color: #999; font-size: 12px;">No sources</div>' : ''}
-                            ${cat.sources ? cat.sources.map(source => `
+                            ${cat.sources.length === 0 ? '<div style="padding: 8px; color: #999; font-size: 12px;">No sources</div>' : ''}
+                            ${cat.sources.map(source => `
                                 <div class="source-item">
                                     <input type="checkbox" ${source.enabled ? 'checked' : ''} 
                                            onchange="toggleSource('${cat.id}', '${source.id}')">
@@ -672,7 +645,7 @@
                                     <span class="source-name">${source.name}</span>
                                     <button class="source-delete" onclick="deleteSource('${cat.id}', '${source.id}')">🗑️</button>
                                 </div>
-                            `).join('') : ''}
+                            `).join('')}
                         </div>
                     ` : ''}
                 </div>
@@ -704,7 +677,7 @@
                 container.innerHTML = `
                     <div class="empty-state">
                         <div style="font-size: 48px;">📄</div>
-                        <p>No articles found. Click "Refresh" to fetch new articles.</p>
+                        <p>No articles</p>
                     </div>
                 `;
                 return;
@@ -774,7 +747,6 @@
                     : cat
             );
             renderCategories();
-            saveConfig();
         }
 
         // Delete source
@@ -786,15 +758,12 @@
                         : cat
                 );
                 renderCategories();
-                saveConfig();
             }
         }
 
         // Save/unsave article
         function toggleSave(articleId) {
             const article = articles.find(a => a.id === articleId);
-            if (!article) return;
-            
             if (article.saved) {
                 savedArticles = savedArticles.filter(a => a.id !== articleId);
                 article.saved = false;
@@ -802,11 +771,6 @@
                 article.saved = true;
                 savedArticles.push(article);
             }
-            
-            // Save to localStorage
-            const savedIds = savedArticles.map(a => a.id);
-            localStorage.setItem('savedArticles', JSON.stringify(savedIds));
-            
             document.getElementById('savedCount').textContent = savedArticles.length;
             renderArticles();
         }
@@ -859,7 +823,6 @@
                 categories.push(newCat);
                 renderCategories();
                 hideAddCategoryModal();
-                saveConfig();
             }
         }
 
@@ -879,22 +842,19 @@
                 
                 categories = categories.map(cat => 
                     cat.id === categoryId 
-                        ? { ...cat, sources: [...(cat.sources || []), source] }
+                        ? { ...cat, sources: [...cat.sources, source] }
                         : cat
                 );
                 
                 renderCategories();
                 hideAddSourceModal();
-                saveConfig();
-                
-                alert('Source added! A new config.json file will be downloaded. Please upload it to replace the old one in your repository, then run the workflow to fetch articles.');
+                alert('Source added! Please wait for the next auto-update or click the refresh button.');
             }
         }
 
         // Refresh articles
         function refreshArticles() {
-            loadArticles();
-            alert('Articles refreshed! For new sources to take effect, please run the "Update AI News" workflow in GitHub Actions.');
+            alert('Refresh functionality will be implemented in the backend script. Currently showing demo data.');
         }
 
         // Search functionality
@@ -905,11 +865,10 @@
             if (e.key === 'Enter') addCategory();
         });
 
-        // Initialize - Load data on page load
-        window.addEventListener('DOMContentLoaded', async () => {
-            await loadConfig();
-            await loadArticles();
-        });
+        // Initialize
+        document.getElementById('savedCount').textContent = savedArticles.length;
+        renderCategories();
+        renderArticles();
     </script>
 </body>
 </html>

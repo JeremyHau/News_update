@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📊 資訊追蹤系統</title>
+    <title>📊 Info Tracker</title>
     <style>
         * {
             margin: 0;
@@ -23,7 +23,7 @@
             height: 100vh;
         }
 
-        /* 左側邊欄 */
+        /* Sidebar */
         .sidebar {
             width: 320px;
             background: white;
@@ -191,7 +191,7 @@
             opacity: 1;
         }
 
-        /* 主內容區 */
+        /* Main Content */
         .main-content {
             flex: 1;
             display: flex;
@@ -362,7 +362,7 @@
             background: #bfdbfe;
         }
 
-        /* 彈窗 */
+        /* Modal */
         .modal {
             display: none;
             position: fixed;
@@ -473,7 +473,7 @@
             margin-bottom: 12px;
         }
 
-        /* 圖標 */
+        /* Icons */
         .icon {
             width: 18px;
             height: 18px;
@@ -483,103 +483,103 @@
 </head>
 <body>
     <div class="container">
-        <!-- 左側邊欄 -->
+        <!-- Sidebar -->
         <div class="sidebar">
             <div class="sidebar-header">
-                <h1>📊 資訊追蹤</h1>
-                <p>智能資訊聚合系統</p>
+                <h1>📊 Info Tracker</h1>
+                <p>Smart Information Aggregation System</p>
             </div>
 
             <div class="sidebar-actions">
                 <button class="btn btn-primary" onclick="showAddCategoryModal()">
                     <span class="icon">📁</span>
-                    <span>新增分類</span>
+                    <span>Add Category</span>
                 </button>
                 <button class="btn btn-success" onclick="showAddSourceModal()">
                     <span class="icon">➕</span>
-                    <span>新增來源</span>
+                    <span>Add Source</span>
                 </button>
                 <button class="btn btn-warning" id="savedBtn" onclick="toggleSavedView()">
                     <span class="icon">🔖</span>
-                    <span>已保存 (<span id="savedCount">0</span>)</span>
+                    <span>Saved (<span id="savedCount">0</span>)</span>
                 </button>
             </div>
 
             <div class="categories" id="categoriesList"></div>
         </div>
 
-        <!-- 主內容區 -->
+        <!-- Main Content -->
         <div class="main-content">
             <div class="topbar">
                 <div class="search-bar">
-                    <input type="text" class="search-input" id="searchInput" placeholder="搜索文章標題或來源...">
+                    <input type="text" class="search-input" id="searchInput" placeholder="Search articles or sources...">
                     <button class="btn-refresh" onclick="refreshArticles()">
                         <span>🔄</span>
-                        <span>刷新</span>
+                        <span>Refresh</span>
                     </button>
                 </div>
             </div>
 
             <div class="articles">
                 <div class="articles-header">
-                    <h2 id="viewTitle">📰 全部文章</h2>
-                    <span class="articles-count"><span id="articleCount">0</span> 篇文章</span>
+                    <h2 id="viewTitle">📰 All Articles</h2>
+                    <span class="articles-count"><span id="articleCount">0</span> articles</span>
                 </div>
                 <div class="articles-list" id="articlesList"></div>
             </div>
         </div>
     </div>
 
-    <!-- 新增分類彈窗 -->
+    <!-- Add Category Modal -->
     <div class="modal" id="addCategoryModal">
         <div class="modal-content">
             <div class="modal-header">
-                <h3>新增分類</h3>
+                <h3>Add Category</h3>
                 <button class="modal-close" onclick="hideAddCategoryModal()">×</button>
             </div>
             <div class="modal-body">
                 <div class="form-group">
-                    <input type="text" class="form-input" id="categoryNameInput" placeholder="分類名稱">
+                    <input type="text" class="form-input" id="categoryNameInput" placeholder="Category name">
                 </div>
             </div>
             <div class="modal-footer">
-                <button class="btn-modal btn-modal-primary" onclick="addCategory()">新增</button>
-                <button class="btn-modal btn-modal-secondary" onclick="hideAddCategoryModal()">取消</button>
+                <button class="btn-modal btn-modal-primary" onclick="addCategory()">Add</button>
+                <button class="btn-modal btn-modal-secondary" onclick="hideAddCategoryModal()">Cancel</button>
             </div>
         </div>
     </div>
 
-    <!-- 新增來源彈窗 -->
+    <!-- Add Source Modal -->
     <div class="modal" id="addSourceModal">
         <div class="modal-content">
             <div class="modal-header">
-                <h3>新增資訊來源</h3>
+                <h3>Add Information Source</h3>
                 <button class="modal-close" onclick="hideAddSourceModal()">×</button>
             </div>
             <div class="modal-body">
                 <div class="form-group">
-                    <input type="text" class="form-input" id="sourceNameInput" placeholder="來源名稱（例如：OpenAI Blog）">
+                    <input type="text" class="form-input" id="sourceNameInput" placeholder="Source name (e.g., OpenAI Blog)">
                 </div>
                 <div class="form-group">
-                    <input type="url" class="form-input" id="sourceUrlInput" placeholder="RSS 網址（例如：https://example.com/feed）">
+                    <input type="url" class="form-input" id="sourceUrlInput" placeholder="RSS URL (e.g., https://example.com/feed)">
                 </div>
                 <div class="form-group">
                     <select class="form-input" id="sourceCategorySelect"></select>
                 </div>
             </div>
             <div class="modal-footer">
-                <button class="btn-modal btn-modal-primary" onclick="addSource()">新增</button>
-                <button class="btn-modal btn-modal-secondary" onclick="hideAddSourceModal()">取消</button>
+                <button class="btn-modal btn-modal-primary" onclick="addSource()">Add</button>
+                <button class="btn-modal btn-modal-secondary" onclick="hideAddSourceModal()">Cancel</button>
             </div>
         </div>
     </div>
 
     <script>
-        // 數據管理
+        // Data Management
         let categories = [
             { 
                 id: 'ai', 
-                name: 'AI 相關', 
+                name: 'AI Related', 
                 expanded: true, 
                 sources: [
                     { id: 's1', name: 'Hacker News', url: 'https://news.ycombinator.com/rss', enabled: true },
@@ -588,7 +588,7 @@
             },
             { 
                 id: 'tech', 
-                name: '科技新聞', 
+                name: 'Tech News', 
                 expanded: false, 
                 sources: [
                     { id: 's3', name: 'TechCrunch', url: 'https://techcrunch.com/feed/', enabled: true }
@@ -596,7 +596,7 @@
             },
             { 
                 id: 'research', 
-                name: '學術研究', 
+                name: 'Academic Research', 
                 expanded: false, 
                 sources: []
             }
@@ -612,7 +612,7 @@
         let selectedCategory = null;
         let showSaved = false;
 
-        // 渲染分類列表
+        // Render categories list
         function renderCategories() {
             const container = document.getElementById('categoriesList');
             container.innerHTML = categories.map(cat => `
@@ -628,7 +628,7 @@
                     </div>
                     ${cat.expanded ? `
                         <div class="sources">
-                            ${cat.sources.length === 0 ? '<div style="padding: 8px; color: #999; font-size: 12px;">暫無來源</div>' : ''}
+                            ${cat.sources.length === 0 ? '<div style="padding: 8px; color: #999; font-size: 12px;">No sources</div>' : ''}
                             ${cat.sources.map(source => `
                                 <div class="source-item">
                                     <input type="checkbox" ${source.enabled ? 'checked' : ''} 
@@ -644,7 +644,7 @@
             `).join('');
         }
 
-        // 渲染文章列表
+        // Render articles list
         function renderArticles() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filtered = (showSaved ? savedArticles : articles).filter(article => {
@@ -658,10 +658,10 @@
             document.getElementById('articleCount').textContent = filtered.length;
             
             const viewTitle = showSaved 
-                ? '📑 已保存的文章' 
+                ? '📑 Saved Articles' 
                 : selectedCategory 
                     ? categories.find(c => c.id === selectedCategory)?.name 
-                    : '📰 全部文章';
+                    : '📰 All Articles';
             document.getElementById('viewTitle').textContent = viewTitle;
 
             const container = document.getElementById('articlesList');
@@ -669,14 +669,14 @@
                 container.innerHTML = `
                     <div class="empty-state">
                         <div style="font-size: 48px;">📄</div>
-                        <p>暫無文章</p>
+                        <p>No articles</p>
                     </div>
                 `;
                 return;
             }
 
             container.innerHTML = filtered.map(article => {
-                const categoryName = categories.find(c => c.id === article.category)?.name || '未分類';
+                const categoryName = categories.find(c => c.id === article.category)?.name || 'Uncategorized';
                 const date = new Date(article.date);
                 return `
                     <div class="article-card">
@@ -687,19 +687,19 @@
                                 </div>
                                 <div class="article-meta">
                                     <span>📄 ${article.source}</span>
-                                    <span>📅 ${date.toLocaleString('zh-TW')}</span>
+                                    <span>📅 ${date.toLocaleString()}</span>
                                     <span class="article-tag">${categoryName}</span>
                                 </div>
                             </div>
                             <div class="article-actions">
                                 <button class="article-btn btn-save ${article.saved ? 'saved' : ''}" 
                                         onclick="toggleSave(${article.id})"
-                                        title="${article.saved ? '取消保存' : '保存文章'}">
+                                        title="${article.saved ? 'Unsave' : 'Save article'}">
                                     ${article.saved ? '⭐' : '☆'}
                                 </button>
                                 <button class="article-btn btn-link" 
                                         onclick="window.open('${article.link}', '_blank')"
-                                        title="打開原文">
+                                        title="Open original">
                                     🔗
                                 </button>
                             </div>
@@ -709,7 +709,7 @@
             }).join('');
         }
 
-        // 切換分類
+        // Toggle category
         function toggleCategory(categoryId) {
             categories = categories.map(cat => 
                 cat.id === categoryId ? { ...cat, expanded: !cat.expanded } : cat
@@ -717,7 +717,7 @@
             renderCategories();
         }
 
-        // 選擇分類
+        // Select category
         function selectCategory(categoryId) {
             selectedCategory = categoryId;
             showSaved = false;
@@ -726,7 +726,7 @@
             renderArticles();
         }
 
-        // 切換來源
+        // Toggle source
         function toggleSource(categoryId, sourceId) {
             categories = categories.map(cat => 
                 cat.id === categoryId 
@@ -741,9 +741,9 @@
             renderCategories();
         }
 
-        // 刪除來源
+        // Delete source
         function deleteSource(categoryId, sourceId) {
-            if (confirm('確定要刪除這個來源嗎？')) {
+            if (confirm('Are you sure you want to delete this source?')) {
                 categories = categories.map(cat => 
                     cat.id === categoryId 
                         ? { ...cat, sources: cat.sources.filter(src => src.id !== sourceId) }
@@ -753,7 +753,7 @@
             }
         }
 
-        // 保存/取消保存文章
+        // Save/unsave article
         function toggleSave(articleId) {
             const article = articles.find(a => a.id === articleId);
             if (article.saved) {
@@ -767,7 +767,7 @@
             renderArticles();
         }
 
-        // 切換已保存視圖
+        // Toggle saved view
         function toggleSavedView() {
             showSaved = !showSaved;
             selectedCategory = null;
@@ -776,7 +776,7 @@
             renderArticles();
         }
 
-        // 彈窗管理
+        // Modal management
         function showAddCategoryModal() {
             document.getElementById('addCategoryModal').classList.add('show');
             document.getElementById('categoryNameInput').focus();
@@ -802,7 +802,7 @@
             document.getElementById('sourceUrlInput').value = '';
         }
 
-        // 新增分類
+        // Add category
         function addCategory() {
             const name = document.getElementById('categoryNameInput').value.trim();
             if (name) {
@@ -818,7 +818,7 @@
             }
         }
 
-        // 新增來源
+        // Add source
         function addSource() {
             const name = document.getElementById('sourceNameInput').value.trim();
             const url = document.getElementById('sourceUrlInput').value.trim();
@@ -840,24 +840,24 @@
                 
                 renderCategories();
                 hideAddSourceModal();
-                alert('來源已添加！請等待下次自動更新，或點擊刷新按鈕手動更新。');
+                alert('Source added! Please wait for the next auto-update or click the refresh button.');
             }
         }
 
-        // 刷新文章
+        // Refresh articles
         function refreshArticles() {
-            alert('刷新功能會在後端腳本中實現。當前為演示數據。');
+            alert('Refresh functionality will be implemented in the backend script. Currently showing demo data.');
         }
 
-        // 搜索功能
+        // Search functionality
         document.getElementById('searchInput').addEventListener('input', renderArticles);
 
-        // 鍵盤快捷鍵
+        // Keyboard shortcuts
         document.getElementById('categoryNameInput').addEventListener('keypress', (e) => {
             if (e.key === 'Enter') addCategory();
         });
 
-        // 初始化
+        // Initialize
         document.getElementById('savedCount').textContent = savedArticles.length;
         renderCategories();
         renderArticles();

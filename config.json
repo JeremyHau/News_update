@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI Related",
+      "sources": [
+        {
+          "id": "s1",
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com/rss",
+          "enabled": true
+        },
+        {
+          "id": "s2",
+          "name": "Reddit ML",
+          "url": "https://www.reddit.com/r/MachineLearning/.rss",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech News",
+      "sources": [
+        {
+          "id": "s3",
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/feed/",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "id": "research",
+      "name": "Academic Research",
+      "sources": []
+    }
+  ],
+  "keywords": ["agent", "ai", "llm", "autonomous"]
+}

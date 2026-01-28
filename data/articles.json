@@ -1,69 +1,114 @@
 [
   {
-    "id": 8878697478546972198,
-    "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
-    "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T10:00:00",
+    "id": 4096291867288996223,
+    "title": "[D] How do you actually track which data transformations went into your trained models?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qovjyh/d_how_do_you_actually_track_which_data/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T00:14:44",
     "saved": false
   },
   {
-    "id": -2365010255570265985,
-    "title": "Kimi Released Kimi K2.5, Open-Source Visual SOTA-Agentic Model",
-    "link": "https://www.kimi.com/blog/kimi-k2-5.html",
+    "id": 9112942280012024723,
+    "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
+    "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T00:12:43",
+    "saved": false
+  },
+  {
+    "id": -1242651579223227206,
+    "title": "Anthropic reportedly upped its latest raise to $20B",
+    "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-27T21:16:10",
+    "saved": false
+  },
+  {
+    "id": -7174050229876405688,
+    "title": "Show HN: I wrapped the Zorks with an LLM",
+    "link": "https://infocom.tambo.co/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-27T05:42:27",
+    "date": "2026-01-27T20:59:49",
     "saved": false
   },
   {
-    "id": -344812937064973603,
-    "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
-    "link": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
+    "id": -4953686252641304420,
+    "title": "[P] Distributed training observability for Pytorch",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qopnd6/p_distributed_training_observability_for_pytorch/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-27T20:32:02",
+    "saved": false
+  },
+  {
+    "id": -534893877381095132,
+    "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+    "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-01-27T01:30:00",
+    "date": "2026-01-27T18:19:19",
     "saved": false
   },
   {
-    "id": 7565246425329197233,
-    "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
-    "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+    "id": -8354222146116055290,
+    "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
+    "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-01-27T01:30:00",
+    "date": "2026-01-27T18:00:39",
     "saved": false
   },
   {
-    "id": 7187986761204395479,
-    "title": "Google pays $68M to settle claims its voice assistant spied on users",
-    "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+    "id": 1612167881633226445,
+    "title": "OpenAI launches Prism, a new AI workspace for scientists",
+    "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-01-27T00:43:35",
+    "date": "2026-01-27T18:00:00",
     "saved": false
   },
   {
-    "id": 1841430356218894360,
-    "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
-    "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+    "id": 6634033684785577713,
+    "title": "AI2: Open Coding Agents",
+    "link": "https://allenai.org/blog/open-coding-agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-27T17:17:54",
+    "saved": false
+  },
+  {
+    "id": 2614759169570999026,
+    "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
+    "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-01-27T00:13:15",
+    "date": "2026-01-27T17:00:00",
     "saved": false
   },
   {
-    "id": -4384266113131072338,
-    "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
-    "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+    "id": -1827106187315966146,
+    "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+    "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-01-26T21:43:14",
+    "date": "2026-01-27T15:25:22",
     "saved": false
   },
   {
-    "id": -755861878203743293,
+    "id": -3982970810855608001,
+    "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
+    "link": "https://emsh.cat/one-human-one-agent-one-browser/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-27T13:13:56",
+    "saved": false
+  },
+  {
+    "id": -6900163530170863967,
     "title": "[2510.01265] RLP: Reinforcement as a Pretraining Objective",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnqfuh/251001265_rlp_reinforcement_as_a_pretraining/",
     "source": "Reddit ML",
@@ -72,93 +117,12 @@
     "saved": false
   },
   {
-    "id": -1226455522843980415,
-    "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-    "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-26T19:19:40",
-    "saved": false
-  },
-  {
-    "id": -6816972148352853402,
-    "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
-    "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-26T19:10:03",
-    "saved": false
-  },
-  {
-    "id": 840191719031690177,
-    "title": "AI code and software craft",
-    "link": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-26T18:04:15",
-    "saved": false
-  },
-  {
-    "id": -3103732879799041901,
+    "id": -4578951209711079077,
     "title": "[R] Treating Depth Sensor Failures as Learning Signal: Masked Depth Modeling outperforms industry-grade RGB-D cameras",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnmzmk/r_treating_depth_sensor_failures_as_learning/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-01-26T17:42:56",
-    "saved": false
-  },
-  {
-    "id": -5362690858794526128,
-    "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
-    "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-26T17:29:35",
-    "saved": false
-  },
-  {
-    "id": -7575762581557641084,
-    "title": "[R] GRAIL-V Workshop @ CVPR 2026 — Grounded Retrieval & Agentic Intelligence for Vision-Language",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnkjw2/r_grailv_workshop_cvpr_2026_grounded_retrieval/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-26T16:19:43",
-    "saved": false
-  },
-  {
-    "id": -5362485828051642897,
-    "title": "There is an AI code review bubble",
-    "link": "https://www.greptile.com/blog/ai-code-review-bubble",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-26T15:38:50",
-    "saved": false
-  },
-  {
-    "id": 6591753617458356056,
-    "title": "Apple introduces new AirTag with longer range and improved findability",
-    "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-26T14:10:25",
-    "saved": false
-  },
-  {
-    "id": -3790490165968716497,
-    "title": "[P] I built a full YOLO training pipeline without manual annotation (open-vocabulary auto-labeling)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnbipe/p_i_built_a_full_yolo_training_pipeline_without/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-26T09:30:49",
-    "saved": false
-  },
-  {
-    "id": 4678953974868374053,
-    "title": "Heathrow scraps liquid container limit",
-    "link": "https://www.bbc.com/news/articles/c1evvx89559o",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-23T19:38:33",
     "saved": false
   }
 ]

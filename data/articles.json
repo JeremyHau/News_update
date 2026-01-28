@@ -1,6 +1,33 @@
 [
   {
-    "id": 4096291867288996223,
+    "id": -6948785060712580524,
+    "title": "Waabi raises $1B and expands into robotaxis with Uber",
+    "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 5754927246969530690,
+    "title": "[D] Examples of self taught people who made significant contributions in ML/AI",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T09:28:43",
+    "saved": false
+  },
+  {
+    "id": -1923486146183385737,
+    "title": "[D] aaai 2026 awards feel like a shift. less benchmark chasing, more real world stuff",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qp2yay/d_aaai_2026_awards_feel_like_a_shift_less/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T05:46:41",
+    "saved": false
+  },
+  {
+    "id": 9068524615538249455,
     "title": "[D] How do you actually track which data transformations went into your trained models?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qovjyh/d_how_do_you_actually_track_which_data/",
     "source": "Reddit ML",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 9112942280012024723,
+    "id": 6783904656008069899,
     "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
     "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1242651579223227206,
+    "id": 1338338913554396831,
     "title": "Anthropic reportedly upped its latest raise to $20B",
     "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
     "source": "TechCrunch",
@@ -27,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -7174050229876405688,
-    "title": "Show HN: I wrapped the Zorks with an LLM",
-    "link": "https://infocom.tambo.co/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-27T20:59:49",
-    "saved": false
-  },
-  {
-    "id": -4953686252641304420,
+    "id": 8362132036206378226,
     "title": "[P] Distributed training observability for Pytorch",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qopnd6/p_distributed_training_observability_for_pytorch/",
     "source": "Reddit ML",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -534893877381095132,
+    "id": -3752254318159144133,
     "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
     "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -8354222146116055290,
+    "id": -8042539567479879731,
     "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
     "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1612167881633226445,
+    "id": -1999644813529125007,
     "title": "OpenAI launches Prism, a new AI workspace for scientists",
     "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
     "source": "TechCrunch",
@@ -72,43 +90,7 @@
     "saved": false
   },
   {
-    "id": 6634033684785577713,
-    "title": "AI2: Open Coding Agents",
-    "link": "https://allenai.org/blog/open-coding-agents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-27T17:17:54",
-    "saved": false
-  },
-  {
-    "id": 2614759169570999026,
-    "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
-    "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -1827106187315966146,
-    "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
-    "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T15:25:22",
-    "saved": false
-  },
-  {
-    "id": -3982970810855608001,
-    "title": "Show HN: One Human + One Agent = One Browser From Scratch in 20K LOC",
-    "link": "https://emsh.cat/one-human-one-agent-one-browser/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-27T13:13:56",
-    "saved": false
-  },
-  {
-    "id": -6900163530170863967,
+    "id": 1655704776463383376,
     "title": "[2510.01265] RLP: Reinforcement as a Pretraining Objective",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnqfuh/251001265_rlp_reinforcement_as_a_pretraining/",
     "source": "Reddit ML",
@@ -117,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4578951209711079077,
+    "id": 8448590228711200045,
     "title": "[R] Treating Depth Sensor Failures as Learning Signal: Masked Depth Modeling outperforms industry-grade RGB-D cameras",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnmzmk/r_treating_depth_sensor_failures_as_learning/",
     "source": "Reddit ML",

@@ -1,15 +1,168 @@
 [
   {
-    "id": -6948785060712580524,
-    "title": "Waabi raises $1B and expands into robotaxis with Uber",
-    "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-28T11:00:00",
+    "id": -5509273574866462960,
+    "title": "Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In",
+    "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-28T23:36:23",
     "saved": false
   },
   {
-    "id": 5754927246969530690,
+    "id": 5044320010180603593,
+    "title": "The UK paid £4.1M for a bookmarks site",
+    "link": "https://mahadk.com/posts/ai-skills-hub",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-28T23:16:12",
+    "saved": false
+  },
+  {
+    "id": 2174677831633479894,
+    "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
+    "link": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T23:16:02",
+    "saved": false
+  },
+  {
+    "id": -7790056488996138732,
+    "title": "Microsoft gained $7.6B from OpenAI last quarter",
+    "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T22:47:24",
+    "saved": false
+  },
+  {
+    "id": -8465202578149903119,
+    "title": "Tesla to invest $2B in Elon Musk’s xAI",
+    "link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T21:52:21",
+    "saved": false
+  },
+  {
+    "id": 7781526000283503116,
+    "title": "Jellyfin LLM/\"AI\" Development Policy",
+    "link": "https://jellyfin.org/docs/general/contributing/llm-policies/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-28T21:42:03",
+    "saved": false
+  },
+  {
+    "id": -1226880294472912202,
+    "title": "[D] Evaluating AI Agents for enterprise use: Are standardized benchmarks (Terminal, Harbor, etc.) actually useful for non-tech stakeholders?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpom60/d_evaluating_ai_agents_for_enterprise_use_are/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T21:29:02",
+    "saved": false
+  },
+  {
+    "id": 6653621018885039370,
+    "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names",
+    "link": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T21:18:52",
+    "saved": false
+  },
+  {
+    "id": 4429114288417467609,
+    "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+    "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T21:13:00",
+    "saved": false
+  },
+  {
+    "id": 9129064019408942648,
+    "title": "[P] LAD-A2A: How AI agents find each other on local networks",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpmxvk/p_lada2a_how_ai_agents_find_each_other_on_local/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T20:26:42",
+    "saved": false
+  },
+  {
+    "id": -3275188841976313596,
+    "title": "WhatsApp will now charge AI chatbots to operate in Italy",
+    "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T19:18:59",
+    "saved": false
+  },
+  {
+    "id": -2352305370165192433,
+    "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
+    "link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T19:00:00",
+    "saved": false
+  },
+  {
+    "id": 2557012495165106014,
+    "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+    "link": "https://github.com/jmuncor/sherlock",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-28T18:52:24",
+    "saved": false
+  },
+  {
+    "id": 6604916452269566231,
+    "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+    "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T18:00:00",
+    "saved": false
+  },
+  {
+    "id": -7075648249616182235,
+    "title": "Tiny startup Arcee AI built a 400B-parameter open source LLM from scratch to best Meta’s Llama",
+    "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-28T17:30:00",
+    "saved": false
+  },
+  {
+    "id": 1922929546194256504,
+    "title": "Airfoil (2024)",
+    "link": "https://ciechanow.ski/airfoil/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-28T14:32:30",
+    "saved": false
+  },
+  {
+    "id": -6928646211754885482,
+    "title": "[R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T14:00:33",
+    "saved": false
+  },
+  {
+    "id": 4017046754733173675,
+    "title": "[D] Why isn't uncertainty estimation implemented in more models?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpbrgp/d_why_isnt_uncertainty_estimation_implemented_in/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T13:45:56",
+    "saved": false
+  },
+  {
+    "id": -6935616941665744817,
     "title": "[D] Examples of self taught people who made significant contributions in ML/AI",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/",
     "source": "Reddit ML",
@@ -18,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -1923486146183385737,
+    "id": 5937072336798607562,
     "title": "[D] aaai 2026 awards feel like a shift. less benchmark chasing, more real world stuff",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qp2yay/d_aaai_2026_awards_feel_like_a_shift_less/",
     "source": "Reddit ML",
@@ -27,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 9068524615538249455,
+    "id": -1808768458310091287,
     "title": "[D] How do you actually track which data transformations went into your trained models?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qovjyh/d_how_do_you_actually_track_which_data/",
     "source": "Reddit ML",
@@ -36,25 +189,7 @@
     "saved": false
   },
   {
-    "id": 6783904656008069899,
-    "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
-    "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-28T00:12:43",
-    "saved": false
-  },
-  {
-    "id": 1338338913554396831,
-    "title": "Anthropic reportedly upped its latest raise to $20B",
-    "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T21:16:10",
-    "saved": false
-  },
-  {
-    "id": 8362132036206378226,
+    "id": -6140396859499659109,
     "title": "[P] Distributed training observability for Pytorch",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qopnd6/p_distributed_training_observability_for_pytorch/",
     "source": "Reddit ML",
@@ -63,48 +198,12 @@
     "saved": false
   },
   {
-    "id": -3752254318159144133,
-    "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
-    "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T18:19:19",
-    "saved": false
-  },
-  {
-    "id": -8042539567479879731,
-    "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the US",
-    "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T18:00:39",
-    "saved": false
-  },
-  {
-    "id": -1999644813529125007,
-    "title": "OpenAI launches Prism, a new AI workspace for scientists",
-    "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-27T18:00:00",
-    "saved": false
-  },
-  {
-    "id": 1655704776463383376,
+    "id": 6454589905225032313,
     "title": "[2510.01265] RLP: Reinforcement as a Pretraining Objective",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qnqfuh/251001265_rlp_reinforcement_as_a_pretraining/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-01-26T19:38:14",
-    "saved": false
-  },
-  {
-    "id": 8448590228711200045,
-    "title": "[R] Treating Depth Sensor Failures as Learning Signal: Masked Depth Modeling outperforms industry-grade RGB-D cameras",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qnmzmk/r_treating_depth_sensor_failures_as_learning/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-26T17:42:56",
     "saved": false
   }
 ]

@@ -1,15 +1,24 @@
 [
   {
-    "id": 763439988247187415,
-    "title": "[D] Advise for someone interviewing for the Research Machine Learning Scientist at Layer 6 Ai- TD bank",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpnr4/d_advise_for_someone_interviewing_for_the/",
-    "source": "Reddit ML",
+    "id": 7861629834015886417,
+    "title": "How AI assistance impacts the formation of coding skills",
+    "link": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-30T00:06:30",
+    "date": "2026-01-30T05:41:23",
     "saved": false
   },
   {
-    "id": 2795997824785301987,
+    "id": -7118565695519280562,
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "link": "https://openclaw.ai/blog/introducing-openclaw",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-30T05:14:48",
+    "saved": false
+  },
+  {
+    "id": 5856174772113123509,
     "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
     "source": "Reddit ML",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 5477128810976054195,
+    "id": 1876489369697182206,
     "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
     "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
     "source": "TechCrunch",
@@ -27,16 +36,7 @@
     "saved": false
   },
   {
-    "id": -134106499995634948,
-    "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
-    "link": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-29T23:06:34",
-    "saved": false
-  },
-  {
-    "id": -8698012071329842936,
+    "id": -5228190951520210360,
     "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
     "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
     "source": "TechCrunch",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -3794405963397614795,
+    "id": 6538535430296113752,
     "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
     "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -6248409997256003619,
+    "id": 9201179075593378283,
     "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
     "link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
     "source": "TechCrunch",
@@ -63,7 +63,16 @@
     "saved": false
   },
   {
-    "id": 793459200340508971,
+    "id": 4453115220814537690,
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-29T21:02:31",
+    "saved": false
+  },
+  {
+    "id": -951986565741236886,
     "title": "The WiFi only works when it's raining (2024)",
     "link": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
     "source": "Hacker News",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7112531580127641785,
+    "id": 8702175769185485076,
     "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
     "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 1415411686025157630,
+    "id": -3968978378044277506,
     "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
     "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6293877618623148751,
+    "id": 1571876377702892103,
     "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
     "link": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8602834921868380077,
+    "id": -5374661231208600845,
     "title": "I built marshmallow castles in Google’s new AI-world generator",
     "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8519880013489053753,
+    "id": -7403184247653261536,
     "title": "OpenAI’s Sora app is struggling after its stellar launch",
     "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
     "source": "TechCrunch",
@@ -117,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -8348465461782206829,
-    "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
-    "link": "https://news.ycombinator.com/item?id=46812608",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-29T16:42:33",
-    "saved": false
-  },
-  {
-    "id": -6258138723067905576,
+    "id": -2480470973976814862,
     "title": "India is teaching Google how AI in education can scale",
     "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
     "source": "TechCrunch",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6295912438968555736,
+    "id": -7770884324306315195,
     "title": "Flapping Airplanes and the promise of research-driven AI",
     "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
     "source": "TechCrunch",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -1575240415812655350,
+    "id": 9056611544259087432,
     "title": "Claude Code daily benchmarks for degradation tracking",
     "link": "https://marginlab.ai/trackers/claude-code/",
     "source": "Hacker News",
@@ -153,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 6114382475542706711,
-    "title": "Compressed Agents.md > Agent Skills",
-    "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-29T13:08:11",
-    "saved": false
-  },
-  {
-    "id": 717738718276897060,
+    "id": -5224991748218432413,
     "title": "[p] Kaggleingest -- ingest dataset schema and notebooks about a competition for LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qq0sly/p_kaggleingest_ingest_dataset_schema_and/",
     "source": "Reddit ML",
@@ -171,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 2163645968747579111,
-    "title": "[D] Evaluating AI Agents for enterprise use: Are standardized benchmarks (Terminal, Harbor, etc.) actually useful for non-tech stakeholders?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpom60/d_evaluating_ai_agents_for_enterprise_use_are/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T21:29:02",
-    "saved": false
-  },
-  {
-    "id": -6547535017319831689,
+    "id": -6838699385174853266,
     "title": "[P] LAD-A2A: How AI agents find each other on local networks",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qpmxvk/p_lada2a_how_ai_agents_find_each_other_on_local/",
     "source": "Reddit ML",
@@ -189,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -7686124432608799728,
+    "id": 7626090585219365477,
     "title": "[R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/",
     "source": "Reddit ML",
@@ -198,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -1767696941278976349,
+    "id": -4794861021257756495,
     "title": "[D] Why isn't uncertainty estimation implemented in more models?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qpbrgp/d_why_isnt_uncertainty_estimation_implemented_in/",
     "source": "Reddit ML",
@@ -207,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -317909381080981598,
+    "id": 8743356150838150965,
     "title": "[D] Examples of self taught people who made significant contributions in ML/AI",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/",
     "source": "Reddit ML",
@@ -216,21 +198,12 @@
     "saved": false
   },
   {
-    "id": -917175180102920511,
+    "id": 5211670861384008151,
     "title": "[D] aaai 2026 awards feel like a shift. less benchmark chasing, more real world stuff",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qp2yay/d_aaai_2026_awards_feel_like_a_shift_less/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-01-28T05:46:41",
-    "saved": false
-  },
-  {
-    "id": -8341800388442285167,
-    "title": "[D] How do you actually track which data transformations went into your trained models?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qovjyh/d_how_do_you_actually_track_which_data/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T00:14:44",
     "saved": false
   }
 ]

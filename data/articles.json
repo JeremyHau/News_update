@@ -1,16 +1,16 @@
 [
   {
-    "id": -1411034431734014750,
-    "title": "175K+ publicly-exposed Ollama AI instances discovered",
-    "link": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
+    "id": 4051516214116472000,
+    "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+    "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-31T00:12:22",
+    "date": "2026-01-31T00:51:27",
     "saved": false
   },
   {
-    "id": -592614474031647708,
-    "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
+    "id": -1506062628419959495,
+    "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
     "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
     "source": "TechCrunch",
     "category": "tech",
@@ -18,16 +18,7 @@
     "saved": false
   },
   {
-    "id": 715236168737153267,
-    "title": "The $100B Megadeal Between OpenAI and Nvidia Is on Ice",
-    "link": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-31T00:02:30",
-    "saved": false
-  },
-  {
-    "id": -8834365925596329934,
+    "id": -1666800224156524990,
     "title": "OpenClaw’s AI assistants are now building their own social network",
     "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
     "source": "TechCrunch",
@@ -36,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 4659642530109085654,
+    "id": 5190106466821108921,
     "title": "[P] A simple pretraining pipeline for small language models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qrl61d/p_a_simple_pretraining_pipeline_for_small/",
     "source": "Reddit ML",
@@ -45,25 +36,7 @@
     "saved": false
   },
   {
-    "id": -4694647892820765821,
-    "title": "Show HN: I built an AI conversation partner to practice speaking languages",
-    "link": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-30T22:16:19",
-    "saved": false
-  },
-  {
-    "id": 3005100651611574812,
-    "title": "I trapped an AI model inside an art installation (2025) [video]",
-    "link": "https://www.youtube.com/watch?v=7fNYj0EXxMs",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-30T21:58:46",
-    "saved": false
-  },
-  {
-    "id": 398671156258845100,
+    "id": -3921929192595928440,
     "title": "[D] What framework do you use for RL post-training at scale?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qrer61/d_what_framework_do_you_use_for_rl_posttraining/",
     "source": "Reddit ML",
@@ -72,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 7248774381823248240,
+    "id": 5767501542200161022,
     "title": "Anthropic brings agentic plug-ins to Cowork",
     "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
     "source": "TechCrunch",
@@ -81,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -383100413958456891,
-    "title": "[P] WASM bash shell sandbox for AI agents",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qr7dfx/p_wasm_bash_shell_sandbox_for_ai_agents/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-30T14:45:12",
-    "saved": false
-  },
-  {
-    "id": -2020843338790003528,
+    "id": -3622502553358730936,
     "title": "[D] Training Image Generation Models with RL",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qr56dv/d_training_image_generation_models_with_rl/",
     "source": "Reddit ML",
@@ -99,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 7279729256324427295,
-    "title": "Email experiments: filtering out external images",
-    "link": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-30T12:01:36",
-    "saved": false
-  },
-  {
-    "id": 7895931649805896669,
+    "id": 6722836448162910425,
     "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
     "source": "Reddit ML",
@@ -117,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 6662930239390811249,
+    "id": 1594238319390783449,
     "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
     "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
     "source": "TechCrunch",
@@ -126,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 803494570616988322,
+    "id": -8054993766081134617,
     "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
     "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
     "source": "TechCrunch",
@@ -135,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8394197887056615199,
+    "id": -1791173084182761386,
     "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
     "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
     "source": "TechCrunch",
@@ -144,25 +99,16 @@
     "saved": false
   },
   {
-    "id": -6885111299309140656,
-    "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
-    "link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T21:21:46",
-    "saved": false
-  },
-  {
-    "id": -9192235220190850844,
-    "title": "How to explain Generative AI in the classroom",
-    "link": "https://dalelane.co.uk/blog/?p=5847",
+    "id": -7237031852932000831,
+    "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
+    "link": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-29T14:23:22",
+    "date": "2026-01-29T13:20:07",
     "saved": false
   },
   {
-    "id": 451403931872990693,
+    "id": 8258403927125760774,
     "title": "[R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/",
     "source": "Reddit ML",
@@ -171,12 +117,21 @@
     "saved": false
   },
   {
-    "id": -6643000511529409675,
-    "title": "Roots is a game server daemon that manages Docker containers for game servers",
-    "link": "https://github.com/SproutPanel/roots",
-    "source": "Hacker News",
+    "id": -4503103887222070391,
+    "title": "[D] Why isn't uncertainty estimation implemented in more models?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpbrgp/d_why_isnt_uncertainty_estimation_implemented_in/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-01-27T07:07:06",
+    "date": "2026-01-28T13:45:56",
+    "saved": false
+  },
+  {
+    "id": 2869565186380374933,
+    "title": "[D] Examples of self taught people who made significant contributions in ML/AI",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-28T09:28:43",
     "saved": false
   }
 ]

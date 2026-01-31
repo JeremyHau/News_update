@@ -1,24 +1,114 @@
 [
   {
-    "id": 7861629834015886417,
-    "title": "How AI assistance impacts the formation of coding skills",
-    "link": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "id": -1411034431734014750,
+    "title": "175K+ publicly-exposed Ollama AI instances discovered",
+    "link": "https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-30T05:41:23",
+    "date": "2026-01-31T00:12:22",
     "saved": false
   },
   {
-    "id": -7118565695519280562,
-    "title": "OpenClaw – Moltbot Renamed Again",
-    "link": "https://openclaw.ai/blog/introducing-openclaw",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-30T05:14:48",
+    "id": -592614474031647708,
+    "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
+    "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-31T00:09:54",
     "saved": false
   },
   {
-    "id": 5856174772113123509,
+    "id": 715236168737153267,
+    "title": "The $100B Megadeal Between OpenAI and Nvidia Is on Ice",
+    "link": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-31T00:02:30",
+    "saved": false
+  },
+  {
+    "id": -8834365925596329934,
+    "title": "OpenClaw’s AI assistants are now building their own social network",
+    "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-30T23:36:34",
+    "saved": false
+  },
+  {
+    "id": 4659642530109085654,
+    "title": "[P] A simple pretraining pipeline for small language models",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qrl61d/p_a_simple_pretraining_pipeline_for_small/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-30T23:05:31",
+    "saved": false
+  },
+  {
+    "id": -4694647892820765821,
+    "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+    "link": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-30T22:16:19",
+    "saved": false
+  },
+  {
+    "id": 3005100651611574812,
+    "title": "I trapped an AI model inside an art installation (2025) [video]",
+    "link": "https://www.youtube.com/watch?v=7fNYj0EXxMs",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-30T21:58:46",
+    "saved": false
+  },
+  {
+    "id": 398671156258845100,
+    "title": "[D] What framework do you use for RL post-training at scale?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qrer61/d_what_framework_do_you_use_for_rl_posttraining/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-30T19:06:41",
+    "saved": false
+  },
+  {
+    "id": 7248774381823248240,
+    "title": "Anthropic brings agentic plug-ins to Cowork",
+    "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-30T18:00:00",
+    "saved": false
+  },
+  {
+    "id": -383100413958456891,
+    "title": "[P] WASM bash shell sandbox for AI agents",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qr7dfx/p_wasm_bash_shell_sandbox_for_ai_agents/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-30T14:45:12",
+    "saved": false
+  },
+  {
+    "id": -2020843338790003528,
+    "title": "[D] Training Image Generation Models with RL",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qr56dv/d_training_image_generation_models_with_rl/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-30T13:16:28",
+    "saved": false
+  },
+  {
+    "id": 7279729256324427295,
+    "title": "Email experiments: filtering out external images",
+    "link": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-30T12:01:36",
+    "saved": false
+  },
+  {
+    "id": 7895931649805896669,
     "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
     "source": "Reddit ML",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1876489369697182206,
+    "id": 6662930239390811249,
     "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
     "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
     "source": "TechCrunch",
@@ -36,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5228190951520210360,
+    "id": 803494570616988322,
     "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
     "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
     "source": "TechCrunch",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6538535430296113752,
+    "id": 8394197887056615199,
     "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
     "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
     "source": "TechCrunch",
@@ -54,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 9201179075593378283,
+    "id": -6885111299309140656,
     "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
     "link": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/",
     "source": "TechCrunch",
@@ -63,115 +153,16 @@
     "saved": false
   },
   {
-    "id": 4453115220814537690,
-    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-    "link": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "id": -9192235220190850844,
+    "title": "How to explain Generative AI in the classroom",
+    "link": "https://dalelane.co.uk/blog/?p=5847",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-29T21:02:31",
+    "date": "2026-01-29T14:23:22",
     "saved": false
   },
   {
-    "id": -951986565741236886,
-    "title": "The WiFi only works when it's raining (2024)",
-    "link": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-29T20:47:36",
-    "saved": false
-  },
-  {
-    "id": 8702175769185485076,
-    "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
-    "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T20:06:56",
-    "saved": false
-  },
-  {
-    "id": -3968978378044277506,
-    "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
-    "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T18:58:07",
-    "saved": false
-  },
-  {
-    "id": 1571876377702892103,
-    "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
-    "link": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T17:55:43",
-    "saved": false
-  },
-  {
-    "id": -5374661231208600845,
-    "title": "I built marshmallow castles in Google’s new AI-world generator",
-    "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T17:29:11",
-    "saved": false
-  },
-  {
-    "id": -7403184247653261536,
-    "title": "OpenAI’s Sora app is struggling after its stellar launch",
-    "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T16:48:44",
-    "saved": false
-  },
-  {
-    "id": -2480470973976814862,
-    "title": "India is teaching Google how AI in education can scale",
-    "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T15:29:31",
-    "saved": false
-  },
-  {
-    "id": -7770884324306315195,
-    "title": "Flapping Airplanes and the promise of research-driven AI",
-    "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T15:22:29",
-    "saved": false
-  },
-  {
-    "id": 9056611544259087432,
-    "title": "Claude Code daily benchmarks for degradation tracking",
-    "link": "https://marginlab.ai/trackers/claude-code/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-29T13:59:07",
-    "saved": false
-  },
-  {
-    "id": -5224991748218432413,
-    "title": "[p] Kaggleingest -- ingest dataset schema and notebooks about a competition for LLMs",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qq0sly/p_kaggleingest_ingest_dataset_schema_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-29T06:16:48",
-    "saved": false
-  },
-  {
-    "id": -6838699385174853266,
-    "title": "[P] LAD-A2A: How AI agents find each other on local networks",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpmxvk/p_lada2a_how_ai_agents_find_each_other_on_local/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T20:26:42",
-    "saved": false
-  },
-  {
-    "id": 7626090585219365477,
+    "id": 451403931872990693,
     "title": "[R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/",
     "source": "Reddit ML",
@@ -180,30 +171,12 @@
     "saved": false
   },
   {
-    "id": -4794861021257756495,
-    "title": "[D] Why isn't uncertainty estimation implemented in more models?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpbrgp/d_why_isnt_uncertainty_estimation_implemented_in/",
-    "source": "Reddit ML",
+    "id": -6643000511529409675,
+    "title": "Roots is a game server daemon that manages Docker containers for game servers",
+    "link": "https://github.com/SproutPanel/roots",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-28T13:45:56",
-    "saved": false
-  },
-  {
-    "id": 8743356150838150965,
-    "title": "[D] Examples of self taught people who made significant contributions in ML/AI",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T09:28:43",
-    "saved": false
-  },
-  {
-    "id": 5211670861384008151,
-    "title": "[D] aaai 2026 awards feel like a shift. less benchmark chasing, more real world stuff",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qp2yay/d_aaai_2026_awards_feel_like_a_shift_less/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T05:46:41",
+    "date": "2026-01-27T07:07:06",
     "saved": false
   }
 ]

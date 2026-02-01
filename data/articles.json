@@ -1,15 +1,60 @@
 [
   {
-    "id": 4051516214116472000,
-    "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-    "link": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-31T00:51:27",
+    "id": 6737923912428610090,
+    "title": "Waymo reportedly raising a $16B funding round",
+    "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-31T21:56:22",
     "saved": false
   },
   {
-    "id": -1506062628419959495,
+    "id": 1983000201105509898,
+    "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+    "link": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-31T21:14:02",
+    "saved": false
+  },
+  {
+    "id": -1532183716632012248,
+    "title": "In Praise Of –Dry-Run",
+    "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-31T20:42:13",
+    "saved": false
+  },
+  {
+    "id": -4697685044175554194,
+    "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+    "link": "https://github.com/rtvkiz/minimal",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-01-31T19:58:00",
+    "saved": false
+  },
+  {
+    "id": -3946863649664776323,
+    "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+    "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-01-31T17:54:12",
+    "saved": false
+  },
+  {
+    "id": -5330147389370764860,
+    "title": "[P] Offline LLMs at edge - Automating Family Memories",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qs3pcm/p_offline_llms_at_edge_automating_family_memories/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-01-31T14:25:49",
+    "saved": false
+  },
+  {
+    "id": 8859485479034008987,
     "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
     "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -1666800224156524990,
+    "id": 5030154884696585864,
     "title": "OpenClaw’s AI assistants are now building their own social network",
     "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5190106466821108921,
+    "id": 7236427147463748242,
     "title": "[P] A simple pretraining pipeline for small language models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qrl61d/p_a_simple_pretraining_pipeline_for_small/",
     "source": "Reddit ML",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3921929192595928440,
+    "id": 5364841473607379752,
     "title": "[D] What framework do you use for RL post-training at scale?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qrer61/d_what_framework_do_you_use_for_rl_posttraining/",
     "source": "Reddit ML",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5767501542200161022,
+    "id": 7341597365279782010,
     "title": "Anthropic brings agentic plug-ins to Cowork",
     "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3622502553358730936,
+    "id": -8663998656976507092,
     "title": "[D] Training Image Generation Models with RL",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qr56dv/d_training_image_generation_models_with_rl/",
     "source": "Reddit ML",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6722836448162910425,
+    "id": 3748437041157092944,
     "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
     "source": "Reddit ML",
@@ -72,66 +117,12 @@
     "saved": false
   },
   {
-    "id": 1594238319390783449,
-    "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
-    "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T23:51:17",
-    "saved": false
-  },
-  {
-    "id": -8054993766081134617,
-    "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
-    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T22:47:42",
-    "saved": false
-  },
-  {
-    "id": -1791173084182761386,
-    "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
-    "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-29T22:11:09",
-    "saved": false
-  },
-  {
-    "id": -7237031852932000831,
-    "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
-    "link": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
+    "id": 1490271774046151417,
+    "title": "CPython Internals Explained",
+    "link": "https://github.com/zpoint/CPython-Internals",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-01-29T13:20:07",
-    "saved": false
-  },
-  {
-    "id": 8258403927125760774,
-    "title": "[R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T14:00:33",
-    "saved": false
-  },
-  {
-    "id": -4503103887222070391,
-    "title": "[D] Why isn't uncertainty estimation implemented in more models?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qpbrgp/d_why_isnt_uncertainty_estimation_implemented_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T13:45:56",
-    "saved": false
-  },
-  {
-    "id": 2869565186380374933,
-    "title": "[D] Examples of self taught people who made significant contributions in ML/AI",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qp6s3c/d_examples_of_self_taught_people_who_made/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-28T09:28:43",
+    "date": "2026-01-27T14:07:37",
     "saved": false
   }
 ]

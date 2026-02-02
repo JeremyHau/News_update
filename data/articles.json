@@ -1,15 +1,33 @@
 [
   {
-    "id": 3750330825892946157,
-    "title": "Two kinds of AI users are emerging. The gap between them is astonishing",
-    "link": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
+    "id": 1525223188978379332,
+    "title": "Applications where agents are first-class citizens",
+    "link": "https://every.to/guides/agent-native",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-01T23:45:18",
+    "date": "2026-02-02T11:59:32",
     "saved": false
   },
   {
-    "id": 7676451028786100725,
+    "id": -4168726041565727213,
+    "title": "Microsoft is walking back Windows 11's AI overload",
+    "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-02T11:52:29",
+    "saved": false
+  },
+  {
+    "id": 3458171564304824834,
+    "title": "These AI notetaking devices can help you record and transcribe your meetings",
+    "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T08:00:00",
+    "saved": false
+  },
+  {
+    "id": 7150514258539796514,
     "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
     "link": "https://github.com/gavrielc/nanoclaw",
     "source": "Hacker News",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 8512562266981693239,
+    "id": 9145857271964648811,
     "title": "AI layoffs or ‘AI-washing’?",
     "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
     "source": "TechCrunch",
@@ -27,16 +45,16 @@
     "saved": false
   },
   {
-    "id": -3722359431183443068,
-    "title": "TIL: Apple Broke Time Machine Again on Tahoe",
-    "link": "https://taoofmac.com/space/til/2026/02/01/1630",
+    "id": -2811036272365296719,
+    "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
+    "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-01T19:38:45",
+    "date": "2026-02-01T20:51:56",
     "saved": false
   },
   {
-    "id": 1575102136267643745,
+    "id": 6674782971185013933,
     "title": "India offers zero taxes through 2047 to lure global AI workloads",
     "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
     "source": "TechCrunch",
@@ -45,25 +63,7 @@
     "saved": false
   },
   {
-    "id": -6665499033489201248,
-    "title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-01T13:16:32",
-    "saved": false
-  },
-  {
-    "id": 7914572909525832339,
-    "title": "What I learned building an opinionated and minimal coding agent",
-    "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-01T09:33:46",
-    "saved": false
-  },
-  {
-    "id": 8247533230838068577,
+    "id": -8534849989424317670,
     "title": "Waymo reportedly raising a $16B funding round",
     "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5869730479707454442,
+    "id": 483183901457901160,
     "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
     "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
     "source": "TechCrunch",
@@ -81,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -5143451615204797222,
-    "title": "[P] Offline LLMs at edge - Automating Family Memories",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qs3pcm/p_offline_llms_at_edge_automating_family_memories/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-31T14:25:49",
-    "saved": false
-  },
-  {
-    "id": 3267390309391670538,
+    "id": -2724630775705418602,
     "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
     "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
     "source": "TechCrunch",
@@ -99,48 +90,12 @@
     "saved": false
   },
   {
-    "id": 8418266487335224824,
+    "id": 5063133792993154961,
     "title": "OpenClaw’s AI assistants are now building their own social network",
     "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-01-30T23:36:34",
-    "saved": false
-  },
-  {
-    "id": -3455255708793021348,
-    "title": "[P] A simple pretraining pipeline for small language models",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qrl61d/p_a_simple_pretraining_pipeline_for_small/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-30T23:05:31",
-    "saved": false
-  },
-  {
-    "id": 4972894002499751075,
-    "title": "[D] What framework do you use for RL post-training at scale?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qrer61/d_what_framework_do_you_use_for_rl_posttraining/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-30T19:06:41",
-    "saved": false
-  },
-  {
-    "id": 3778012751636589001,
-    "title": "[D] Training Image Generation Models with RL",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qr56dv/d_training_image_generation_models_with_rl/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-30T13:16:28",
-    "saved": false
-  },
-  {
-    "id": -5553269455031773307,
-    "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-01-29T23:58:33",
     "saved": false
   }
 ]

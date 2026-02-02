@@ -1,15 +1,60 @@
 [
   {
-    "id": -116309882791599619,
-    "title": "Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)",
-    "link": "https://netbird.io/",
+    "id": 3750330825892946157,
+    "title": "Two kinds of AI users are emerging. The gap between them is astonishing",
+    "link": "https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-01T09:44:01",
+    "date": "2026-02-01T23:45:18",
     "saved": false
   },
   {
-    "id": 3128551368972187600,
+    "id": 7676451028786100725,
+    "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+    "link": "https://github.com/gavrielc/nanoclaw",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-01T22:49:22",
+    "saved": false
+  },
+  {
+    "id": 8512562266981693239,
+    "title": "AI layoffs or ‘AI-washing’?",
+    "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-01T22:15:53",
+    "saved": false
+  },
+  {
+    "id": -3722359431183443068,
+    "title": "TIL: Apple Broke Time Machine Again on Tahoe",
+    "link": "https://taoofmac.com/space/til/2026/02/01/1630",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-01T19:38:45",
+    "saved": false
+  },
+  {
+    "id": 1575102136267643745,
+    "title": "India offers zero taxes through 2047 to lure global AI workloads",
+    "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-01T16:30:00",
+    "saved": false
+  },
+  {
+    "id": -6665499033489201248,
+    "title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-01T13:16:32",
+    "saved": false
+  },
+  {
+    "id": 7914572909525832339,
     "title": "What I learned building an opinionated and minimal coding agent",
     "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent/",
     "source": "Hacker News",
@@ -18,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -7733885824674867687,
-    "title": "List animals until failure",
-    "link": "https://rose.systems/animalist/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-01T01:03:23",
-    "saved": false
-  },
-  {
-    "id": -4521886841212641642,
+    "id": 8247533230838068577,
     "title": "Waymo reportedly raising a $16B funding round",
     "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
     "source": "TechCrunch",
@@ -36,25 +72,7 @@
     "saved": false
   },
   {
-    "id": 2057902958570979204,
-    "title": "Generative AI and Wikipedia editing: What we learned in 2025",
-    "link": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-31T21:14:02",
-    "saved": false
-  },
-  {
-    "id": 1699638518310962383,
-    "title": "In praise of –dry-run",
-    "link": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-31T20:42:13",
-    "saved": false
-  },
-  {
-    "id": -546135936507587380,
+    "id": -5869730479707454442,
     "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
     "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7475115787740360028,
+    "id": -5143451615204797222,
     "title": "[P] Offline LLMs at edge - Automating Family Memories",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qs3pcm/p_offline_llms_at_edge_automating_family_memories/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5022481650983340240,
+    "id": 3267390309391670538,
     "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
     "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3060426360837795165,
+    "id": 8418266487335224824,
     "title": "OpenClaw’s AI assistants are now building their own social network",
     "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4294676814549225773,
+    "id": -3455255708793021348,
     "title": "[P] A simple pretraining pipeline for small language models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qrl61d/p_a_simple_pretraining_pipeline_for_small/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1541483187671245982,
+    "id": 4972894002499751075,
     "title": "[D] What framework do you use for RL post-training at scale?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qrer61/d_what_framework_do_you_use_for_rl_posttraining/",
     "source": "Reddit ML",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 8138323752751426373,
-    "title": "Anthropic brings agentic plug-ins to Cowork",
-    "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-30T18:00:00",
-    "saved": false
-  },
-  {
-    "id": -7927881362218865732,
+    "id": 3778012751636589001,
     "title": "[D] Training Image Generation Models with RL",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qr56dv/d_training_image_generation_models_with_rl/",
     "source": "Reddit ML",
@@ -126,21 +135,12 @@
     "saved": false
   },
   {
-    "id": 5345926165383312667,
+    "id": -5553269455031773307,
     "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-01-29T23:58:33",
-    "saved": false
-  },
-  {
-    "id": -5063063443854875224,
-    "title": "Coffee as a staining agent substitute in electron microscopy",
-    "link": "https://phys.org/news/2026-01-coffee-agent-substitute-electron-microscopy.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-01-29T18:04:45",
     "saved": false
   }
 ]

@@ -1,24 +1,150 @@
 [
   {
-    "id": 1525223188978379332,
-    "title": "Applications where agents are first-class citizens",
-    "link": "https://every.to/guides/agent-native",
+    "id": 4546430210035835969,
+    "title": "The Hot Mess of AI",
+    "link": "https://alignment.anthropic.com/2026/hot-mess-of-ai/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-02T11:59:32",
+    "date": "2026-02-03T00:28:06",
     "saved": false
   },
   {
-    "id": -4168726041565727213,
-    "title": "Microsoft is walking back Windows 11's AI overload",
-    "link": "https://www.windowscentral.com/microsoft/windows-11/microsoft-is-reevaluating-its-ai-efforts-on-windows-11-plans-to-reduce-copilot-integrations-and-evolve-recall",
+    "id": -7499813468935466878,
+    "title": "Firefox Getting New Controls to Turn Off AI Features",
+    "link": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-02T11:52:29",
+    "date": "2026-02-02T23:54:02",
     "saved": false
   },
   {
-    "id": 3458171564304824834,
+    "id": 5807455223726927449,
+    "title": "Waymo raises $16B to scale robotaxi fleet internationally",
+    "link": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T23:04:33",
+    "saved": false
+  },
+  {
+    "id": -2554360900906577816,
+    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T22:21:57",
+    "saved": false
+  },
+  {
+    "id": -7753438947473454554,
+    "title": "China is leading the fight against hidden car door handles",
+    "link": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T21:55:38",
+    "saved": false
+  },
+  {
+    "id": 5987046590615296724,
+    "title": "xAI joins SpaceX",
+    "link": "https://www.spacex.com/updates#xai-joins-spacex",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-02T21:51:22",
+    "saved": false
+  },
+  {
+    "id": -9031092644930211503,
+    "title": "Adobe Animate is shutting down as company focuses on AI",
+    "link": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T21:15:03",
+    "saved": false
+  },
+  {
+    "id": -3985875402183791277,
+    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+    "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T19:09:44",
+    "saved": false
+  },
+  {
+    "id": -3591384326458660908,
+    "title": "Firefox will soon let you block all of its generative AI features",
+    "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T18:34:45",
+    "saved": false
+  },
+  {
+    "id": 6660024210832544994,
+    "title": "Grubhub waives delivery and service fees on restaurant orders over $50",
+    "link": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T18:22:43",
+    "saved": false
+  },
+  {
+    "id": -403342740965815813,
+    "title": "OpenAI launches new macOS app for agentic coding",
+    "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T18:19:31",
+    "saved": false
+  },
+  {
+    "id": 7180500167426107559,
+    "title": "Advancing AI Benchmarking with Game Arena",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-02T17:49:07",
+    "saved": false
+  },
+  {
+    "id": 5381539715086227824,
+    "title": "Todd C. Miller – Sudo maintainer for over 30 years",
+    "link": "https://www.millert.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-02T17:25:26",
+    "saved": false
+  },
+  {
+    "id": -3487489106629654780,
+    "title": "Carbon Robotics built an AI model that detects and identifies plants",
+    "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -885371218432642153,
+    "title": "Linq raises $20M to enable AI assistants to live within messaging apps",
+    "link": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-02T14:16:13",
+    "saved": false
+  },
+  {
+    "id": 6587226122161590354,
+    "title": "Nano-vLLM: How a vLLM-style inference engine works",
+    "link": "https://neutree.ai/blog/nano-vllm-part-1",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-02T12:52:35",
+    "saved": false
+  },
+  {
+    "id": 590773361562074254,
     "title": "These AI notetaking devices can help you record and transcribe your meetings",
     "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
     "source": "TechCrunch",
@@ -27,75 +153,12 @@
     "saved": false
   },
   {
-    "id": 7150514258539796514,
-    "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-    "link": "https://github.com/gavrielc/nanoclaw",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-01T22:49:22",
-    "saved": false
-  },
-  {
-    "id": 9145857271964648811,
+    "id": -788153770816287670,
     "title": "AI layoffs or ‘AI-washing’?",
     "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-02-01T22:15:53",
-    "saved": false
-  },
-  {
-    "id": -2811036272365296719,
-    "title": "My iPhone 16 Pro Max produces garbage output when running MLX LLMs",
-    "link": "https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-01T20:51:56",
-    "saved": false
-  },
-  {
-    "id": 6674782971185013933,
-    "title": "India offers zero taxes through 2047 to lure global AI workloads",
-    "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-01T16:30:00",
-    "saved": false
-  },
-  {
-    "id": -8534849989424317670,
-    "title": "Waymo reportedly raising a $16B funding round",
-    "link": "https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-31T21:56:22",
-    "saved": false
-  },
-  {
-    "id": 483183901457901160,
-    "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
-    "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-31T17:54:12",
-    "saved": false
-  },
-  {
-    "id": -2724630775705418602,
-    "title": "A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains",
-    "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-31T00:09:54",
-    "saved": false
-  },
-  {
-    "id": 5063133792993154961,
-    "title": "OpenClaw’s AI assistants are now building their own social network",
-    "link": "https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-01-30T23:36:34",
     "saved": false
   }
 ]

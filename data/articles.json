@@ -1,6 +1,33 @@
 [
   {
-    "id": -2658501418136199182,
+    "id": 5652025502002382522,
+    "title": "[R]Better alternatives to CatBoost for credit risk explainability (not LightGBM)?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qvlz54/rbetter_alternatives_to_catboost_for_credit_risk/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-04T11:22:00",
+    "saved": false
+  },
+  {
+    "id": 2223740292779728091,
+    "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+    "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T08:18:51",
+    "saved": false
+  },
+  {
+    "id": -5496661439622213887,
+    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
+    "link": "https://github.com/bethington/ghidra-mcp",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-04T06:51:51",
+    "saved": false
+  },
+  {
+    "id": 8448866640495995151,
     "title": "[D] Rebase for agents: why your AI workflows should use linear history",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qv7nz9/d_rebase_for_agents_why_your_ai_workflows_should/",
     "source": "Reddit ML",
@@ -9,25 +36,7 @@
     "saved": false
   },
   {
-    "id": 8761282682204255226,
-    "title": "Notepad++ supply chain attack breakdown",
-    "link": "https://securelist.com/notepad-supply-chain-attack/118708/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-03T22:35:27",
-    "saved": false
-  },
-  {
-    "id": 4054174825830494273,
-    "title": "[D] Building an agent-only social network for autonomous AI communication – feedback welcome",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qv0rop/d_building_an_agentonly_social_network_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-03T18:58:08",
-    "saved": false
-  },
-  {
-    "id": -2595828457861518120,
+    "id": -7448967025178709393,
     "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
     "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
     "source": "Hacker News",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 9043463358017750516,
+    "id": -7203799427092630207,
     "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
     "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2589255407419381105,
+    "id": -58815798123377535,
     "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
     "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -5417011258028351758,
+    "id": -1903234968849084160,
     "title": "[P] MichiAI: A 530M Full-Duplex Speech LLM with ~75ms Latency using Flow Matching",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1quwjt1/p_michiai_a_530m_fullduplex_speech_llm_with_75ms/",
     "source": "Reddit ML",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7660821677966272772,
+    "id": -2433330655638432060,
     "title": "What tech CEOs and executives have said about ICE’s actions in Minnesota",
     "link": "https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8754271902288178079,
+    "id": -4162786553088615797,
     "title": "Fitbit founders launch AI platform to help families monitor their health",
     "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -9144825187396257698,
+    "id": 6155422985889456126,
     "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
     "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7809214210330211318,
+    "id": 2330098957346022426,
     "title": "Agent Skills",
     "link": "https://agentskills.io/home",
     "source": "Hacker News",
@@ -99,7 +108,16 @@
     "saved": false
   },
   {
-    "id": 1146306206392383686,
+    "id": 5246288488540397225,
+    "title": "X offices raided in France as UK opens fresh investigation into Grok",
+    "link": "https://www.bbc.com/news/articles/ce3ex92557jo",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-03T10:08:52",
+    "saved": false
+  },
+  {
+    "id": 8948848348097136484,
     "title": "[P] An OSS intent-to-structure compiler that turns short natural-language intents into executable agent specs (XML)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu88fv/p_an_oss_intenttostructure_compiler_that_turns/",
     "source": "Reddit ML",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 7640493318562045550,
-    "title": "Human documentation is legacy infrastructure. We built a compiler for agents.(for Moltbots) [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qu87en/human_documentation_is_legacy_infrastructure_we/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-02T21:25:04",
-    "saved": false
-  },
-  {
-    "id": -4742536011547456937,
+    "id": 6511374808526814948,
     "title": "[D] New interesting AI papers exploration service",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu28wx/d_new_interesting_ai_papers_exploration_service/",
     "source": "Reddit ML",
@@ -126,21 +135,12 @@
     "saved": false
   },
   {
-    "id": 2201478510371821315,
+    "id": 2071152257785649767,
     "title": "[P] PAIRL - A Protocol for efficient Agent Communication with Hallucination Guardrails",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qtrvtg/p_pairl_a_protocol_for_efficient_agent/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-02T10:51:25",
-    "saved": false
-  },
-  {
-    "id": 3886294841154263257,
-    "title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-01T13:16:32",
     "saved": false
   }
 ]

@@ -1,69 +1,105 @@
 [
   {
-    "id": -311582813953799501,
-    "title": "[R] Is there a way to mass download Youtube videos through parallelization on the cloud for pretraining an LLM?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qupojj/r_is_there_a_way_to_mass_download_youtube_videos/",
+    "id": -2658501418136199182,
+    "title": "[D] Rebase for agents: why your AI workflows should use linear history",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qv7nz9/d_rebase_for_agents_why_your_ai_workflows_should/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-02-03T11:39:23",
+    "date": "2026-02-03T23:16:23",
     "saved": false
   },
   {
-    "id": 7911483695025097179,
-    "title": "Rentahuman – The Meatspace Layer for AI",
-    "link": "https://rentahuman.ai",
+    "id": 8761282682204255226,
+    "title": "Notepad++ supply chain attack breakdown",
+    "link": "https://securelist.com/notepad-supply-chain-attack/118708/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-03T09:30:07",
+    "date": "2026-02-03T22:35:27",
     "saved": false
   },
   {
-    "id": -4860374043376545719,
-    "title": "LNAI – Define AI coding tool configs once, sync to Claude, Cursor, Codex, etc.",
-    "link": "https://github.com/KrystianJonca/lnai",
+    "id": 4054174825830494273,
+    "title": "[D] Building an agent-only social network for autonomous AI communication – feedback welcome",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qv0rop/d_building_an_agentonly_social_network_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-03T18:58:08",
+    "saved": false
+  },
+  {
+    "id": -2595828457861518120,
+    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
+    "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-03T08:45:57",
+    "date": "2026-02-03T18:04:08",
     "saved": false
   },
   {
-    "id": 2663515988816964092,
-    "title": "Waymo raises $16B to scale robotaxi fleet internationally",
-    "link": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/",
+    "id": 9043463358017750516,
+    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
+    "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-02T23:04:33",
+    "date": "2026-02-03T18:00:00",
     "saved": false
   },
   {
-    "id": -5671312357172782282,
-    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
-    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+    "id": 2589255407419381105,
+    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+    "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-02T22:21:57",
+    "date": "2026-02-03T17:14:27",
     "saved": false
   },
   {
-    "id": -951153368722689471,
-    "title": "China is leading the fight against hidden car door handles",
-    "link": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/",
+    "id": -5417011258028351758,
+    "title": "[P] MichiAI: A 530M Full-Duplex Speech LLM with ~75ms Latency using Flow Matching",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1quwjt1/p_michiai_a_530m_fullduplex_speech_llm_with_75ms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-03T16:28:14",
+    "saved": false
+  },
+  {
+    "id": -7660821677966272772,
+    "title": "What tech CEOs and executives have said about ICE’s actions in Minnesota",
+    "link": "https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-02T21:55:38",
+    "date": "2026-02-03T16:13:30",
     "saved": false
   },
   {
-    "id": 7796065498723753634,
-    "title": "xAI joins SpaceX",
-    "link": "https://www.spacex.com/updates#xai-joins-spacex",
+    "id": 8754271902288178079,
+    "title": "Fitbit founders launch AI platform to help families monitor their health",
+    "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-03T15:53:36",
+    "saved": false
+  },
+  {
+    "id": -9144825187396257698,
+    "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
+    "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-03T14:14:33",
+    "saved": false
+  },
+  {
+    "id": -7809214210330211318,
+    "title": "Agent Skills",
+    "link": "https://agentskills.io/home",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-02T21:51:22",
+    "date": "2026-02-03T14:09:54",
     "saved": false
   },
   {
-    "id": 1463191736987835446,
+    "id": 1146306206392383686,
     "title": "[P] An OSS intent-to-structure compiler that turns short natural-language intents into executable agent specs (XML)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu88fv/p_an_oss_intenttostructure_compiler_that_turns/",
     "source": "Reddit ML",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5729696762872862923,
+    "id": 7640493318562045550,
     "title": "Human documentation is legacy infrastructure. We built a compiler for agents.(for Moltbots) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu87en/human_documentation_is_legacy_infrastructure_we/",
     "source": "Reddit ML",
@@ -81,52 +117,7 @@
     "saved": false
   },
   {
-    "id": 4882311451723955363,
-    "title": "Adobe Animate is shutting down as company focuses on AI",
-    "link": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T21:15:03",
-    "saved": false
-  },
-  {
-    "id": -6226173696882965571,
-    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
-    "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T19:09:44",
-    "saved": false
-  },
-  {
-    "id": 6862079016578827687,
-    "title": "Firefox will soon let you block all of its generative AI features",
-    "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T18:34:45",
-    "saved": false
-  },
-  {
-    "id": 5572728438771428521,
-    "title": "Grubhub waives delivery and service fees on restaurant orders over $50",
-    "link": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T18:22:43",
-    "saved": false
-  },
-  {
-    "id": -3865787783292580626,
-    "title": "OpenAI launches new macOS app for agentic coding",
-    "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T18:19:31",
-    "saved": false
-  },
-  {
-    "id": -4618829174478947363,
+    "id": -4742536011547456937,
     "title": "[D] New interesting AI papers exploration service",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu28wx/d_new_interesting_ai_papers_exploration_service/",
     "source": "Reddit ML",
@@ -135,43 +126,7 @@
     "saved": false
   },
   {
-    "id": -6625726436959903844,
-    "title": "[P] Released: VOR — a hallucination-free runtime that forces LLMs to prove answers or abstain",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qu1ggl/p_released_vor_a_hallucinationfree_runtime_that/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-02T17:27:51",
-    "saved": false
-  },
-  {
-    "id": 6417271278571822088,
-    "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-    "link": "https://www.millert.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-02T17:25:26",
-    "saved": false
-  },
-  {
-    "id": -8560416866969518454,
-    "title": "Carbon Robotics built an AI model that detects and identifies plants",
-    "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 8360529206355827216,
-    "title": "Linq raises $20M to enable AI assistants to live within messaging apps",
-    "link": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T14:16:13",
-    "saved": false
-  },
-  {
-    "id": -2194695774853209907,
+    "id": 2201478510371821315,
     "title": "[P] PAIRL - A Protocol for efficient Agent Communication with Hallucination Guardrails",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qtrvtg/p_pairl_a_protocol_for_efficient_agent/",
     "source": "Reddit ML",
@@ -180,30 +135,12 @@
     "saved": false
   },
   {
-    "id": 8401578742102031301,
-    "title": "These AI notetaking devices can help you record and transcribe your meetings",
-    "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-02T08:00:00",
-    "saved": false
-  },
-  {
-    "id": 785155925709905281,
+    "id": 3886294841154263257,
     "title": "We ran a live red-team vs blue-team test on autonomous OpenClaw agents [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qsy793/we_ran_a_live_redteam_vs_blueteam_test_on/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-01T13:16:32",
-    "saved": false
-  },
-  {
-    "id": 4028601191335322692,
-    "title": "Archive.today is directing a DDoS attack against my blog?",
-    "link": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-01T05:11:53",
     "saved": false
   }
 ]

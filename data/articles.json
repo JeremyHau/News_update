@@ -1,6 +1,141 @@
 [
   {
-    "id": 5652025502002382522,
+    "id": -1697576458160151751,
+    "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
+    "link": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-05T00:07:59",
+    "saved": false
+  },
+  {
+    "id": 7110292589961631187,
+    "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
+    "link": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T23:49:18",
+    "saved": false
+  },
+  {
+    "id": 2901691257304594142,
+    "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+    "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T23:28:31",
+    "saved": false
+  },
+  {
+    "id": 9037446571567592458,
+    "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+    "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T21:39:26",
+    "saved": false
+  },
+  {
+    "id": -8440246363055054215,
+    "title": "Amazon to begin testing AI tools for film and TV production next month",
+    "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T21:26:43",
+    "saved": false
+  },
+  {
+    "id": -2185993089884817234,
+    "title": "A real-world benchmark for AI code review",
+    "link": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-04T21:13:17",
+    "saved": false
+  },
+  {
+    "id": -3788934240907670353,
+    "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+    "link": "https://morphllm.com/products/glance",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-04T21:10:55",
+    "saved": false
+  },
+  {
+    "id": -6013047122833378486,
+    "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+    "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T20:24:12",
+    "saved": false
+  },
+  {
+    "id": -8455417318064632122,
+    "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+    "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T18:08:00",
+    "saved": false
+  },
+  {
+    "id": -3428565688451238199,
+    "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
+    "link": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T17:56:40",
+    "saved": false
+  },
+  {
+    "id": 185199853944396117,
+    "title": "AI is killing B2B SaaS",
+    "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-04T17:09:28",
+    "saved": false
+  },
+  {
+    "id": 2625538981944013303,
+    "title": "Roblox’s 4D creation feature is now available in open beta",
+    "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -2350319073438371373,
+    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+    "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T15:33:58",
+    "saved": false
+  },
+  {
+    "id": 76571972309394530,
+    "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
+    "link": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T14:53:21",
+    "saved": false
+  },
+  {
+    "id": -7004367215535873607,
+    "title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
+    "link": "https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-04T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -4871015050829232093,
     "title": "[R]Better alternatives to CatBoost for credit risk explainability (not LightGBM)?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qvlz54/rbetter_alternatives_to_catboost_for_credit_risk/",
     "source": "Reddit ML",
@@ -9,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 2223740292779728091,
-    "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
-    "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-04T08:18:51",
-    "saved": false
-  },
-  {
-    "id": -5496661439622213887,
-    "title": "Show HN: Ghidra MCP Server – 110 tools for AI-assisted reverse engineering",
-    "link": "https://github.com/bethington/ghidra-mcp",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-04T06:51:51",
-    "saved": false
-  },
-  {
-    "id": 8448866640495995151,
+    "id": 478235731843825349,
     "title": "[D] Rebase for agents: why your AI workflows should use linear history",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qv7nz9/d_rebase_for_agents_why_your_ai_workflows_should/",
     "source": "Reddit ML",
@@ -36,34 +153,7 @@
     "saved": false
   },
   {
-    "id": -7448967025178709393,
-    "title": "Xcode 26.3 – Developers can leverage coding agents directly in Xcode",
-    "link": "https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-03T18:04:08",
-    "saved": false
-  },
-  {
-    "id": -7203799427092630207,
-    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-    "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-03T18:00:00",
-    "saved": false
-  },
-  {
-    "id": -58815798123377535,
-    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-    "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-03T17:14:27",
-    "saved": false
-  },
-  {
-    "id": -1903234968849084160,
+    "id": 2595222145101635436,
     "title": "[P] MichiAI: A 530M Full-Duplex Speech LLM with ~75ms Latency using Flow Matching",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1quwjt1/p_michiai_a_530m_fullduplex_speech_llm_with_75ms/",
     "source": "Reddit ML",
@@ -72,52 +162,7 @@
     "saved": false
   },
   {
-    "id": -2433330655638432060,
-    "title": "What tech CEOs and executives have said about ICE’s actions in Minnesota",
-    "link": "https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-03T16:13:30",
-    "saved": false
-  },
-  {
-    "id": -4162786553088615797,
-    "title": "Fitbit founders launch AI platform to help families monitor their health",
-    "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-03T15:53:36",
-    "saved": false
-  },
-  {
-    "id": 6155422985889456126,
-    "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
-    "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-03T14:14:33",
-    "saved": false
-  },
-  {
-    "id": 2330098957346022426,
-    "title": "Agent Skills",
-    "link": "https://agentskills.io/home",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-03T14:09:54",
-    "saved": false
-  },
-  {
-    "id": 5246288488540397225,
-    "title": "X offices raided in France as UK opens fresh investigation into Grok",
-    "link": "https://www.bbc.com/news/articles/ce3ex92557jo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-03T10:08:52",
-    "saved": false
-  },
-  {
-    "id": 8948848348097136484,
+    "id": 5632179727919316988,
     "title": "[P] An OSS intent-to-structure compiler that turns short natural-language intents into executable agent specs (XML)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu88fv/p_an_oss_intenttostructure_compiler_that_turns/",
     "source": "Reddit ML",
@@ -126,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 6511374808526814948,
+    "id": -1931960653601804083,
     "title": "[D] New interesting AI papers exploration service",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qu28wx/d_new_interesting_ai_papers_exploration_service/",
     "source": "Reddit ML",
@@ -135,12 +180,12 @@
     "saved": false
   },
   {
-    "id": 2071152257785649767,
-    "title": "[P] PAIRL - A Protocol for efficient Agent Communication with Hallucination Guardrails",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qtrvtg/p_pairl_a_protocol_for_efficient_agent/",
-    "source": "Reddit ML",
+    "id": 8641175622237363137,
+    "title": "Coding Agent VMs on NixOS with Microvm.nix",
+    "link": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-02T10:51:25",
+    "date": "2026-02-01T08:02:46",
     "saved": false
   }
 ]

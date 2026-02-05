@@ -1,6 +1,60 @@
 [
   {
-    "id": -1697576458160151751,
+    "id": 6708477427984070879,
+    "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
+    "link": "https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-05T12:00:03",
+    "saved": false
+  },
+  {
+    "id": 4492956834217845449,
+    "title": "[P] CRAFT: thinking agent for image generation and edit",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwhkcg/p_craft_thinking_agent_for_image_generation_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-05T10:15:52",
+    "saved": false
+  },
+  {
+    "id": 1879925453459783579,
+    "title": "[R] Seeking Advice: Stalling at 45-50% Accuracy on HMS Brain Activity (EEG Spectrogram) Cross-Subject Classification",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwhi9l/r_seeking_advice_stalling_at_4550_accuracy_on_hms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-05T10:12:32",
+    "saved": false
+  },
+  {
+    "id": 2982592519366890496,
+    "title": "[R] CRAFT: thinking agent for image generation and edit",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwhhqa/r_craft_thinking_agent_for_image_generation_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-05T10:11:40",
+    "saved": false
+  },
+  {
+    "id": 5941418459250576362,
+    "title": "[P] NTTuner - GUI to Locally Fine-Tune AI Models with Unsloth GPU + CPU Support!",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwbc9d/p_nttuner_gui_to_locally_finetune_ai_models_with/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-05T04:20:26",
+    "saved": false
+  },
+  {
+    "id": -1632839947056258614,
+    "title": "[P] Dataset creation tool with intelligent quality filtering for LLM fine-tuning [Open Source]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwamdv/p_dataset_creation_tool_with_intelligent_quality/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-05T03:46:47",
+    "saved": false
+  },
+  {
+    "id": -9180332329693164779,
     "title": "As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users",
     "link": "https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7110292589961631187,
+    "id": -2563745997832647388,
     "title": "Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs",
     "link": "https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2901691257304594142,
+    "id": 2445262785083125643,
     "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
     "link": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 9037446571567592458,
+    "id": 831885371252848579,
     "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
     "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -8440246363055054215,
+    "id": -404945194450583908,
     "title": "Amazon to begin testing AI tools for film and TV production next month",
     "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
     "source": "TechCrunch",
@@ -45,25 +99,7 @@
     "saved": false
   },
   {
-    "id": -2185993089884817234,
-    "title": "A real-world benchmark for AI code review",
-    "link": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-04T21:13:17",
-    "saved": false
-  },
-  {
-    "id": -3788934240907670353,
-    "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
-    "link": "https://morphllm.com/products/glance",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-04T21:10:55",
-    "saved": false
-  },
-  {
-    "id": -6013047122833378486,
+    "id": 8359385946687810131,
     "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
     "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8455417318064632122,
+    "id": 2397011204826910005,
     "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
     "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -3428565688451238199,
+    "id": 3811282296798359300,
     "title": "Lunar Energy raises $232M to deploy home batteries that prop up the grid",
     "link": "https://techcrunch.com/2026/02/04/lunar-energy-raises-232m-to-deploy-home-batteries-that-prop-up-the-grid/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 185199853944396117,
+    "id": -5298846069540232397,
     "title": "AI is killing B2B SaaS",
     "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
     "source": "Hacker News",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2625538981944013303,
+    "id": 5748935819691751326,
     "title": "Roblox’s 4D creation feature is now available in open beta",
     "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
     "source": "TechCrunch",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2350319073438371373,
+    "id": 2617148811305824067,
     "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
     "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
     "source": "TechCrunch",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 76571972309394530,
+    "id": 2337305718857196811,
     "title": "After backlash, Adobe cancels Adobe Animate shutdown and puts app on ‘maintenance mode’",
     "link": "https://techcrunch.com/2026/02/04/after-backlash-adobe-cancels-adobe-animate-shutdown-and-puts-app-on-maintenance-mode/",
     "source": "TechCrunch",
@@ -126,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -7004367215535873607,
-    "title": "SNAK Venture Partners raises $50M fund to back vertical marketplaces",
-    "link": "https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-04T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -4871015050829232093,
+    "id": -4046963381536109536,
     "title": "[R]Better alternatives to CatBoost for credit risk explainability (not LightGBM)?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qvlz54/rbetter_alternatives_to_catboost_for_credit_risk/",
     "source": "Reddit ML",
@@ -144,48 +171,12 @@
     "saved": false
   },
   {
-    "id": 478235731843825349,
-    "title": "[D] Rebase for agents: why your AI workflows should use linear history",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qv7nz9/d_rebase_for_agents_why_your_ai_workflows_should/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-03T23:16:23",
-    "saved": false
-  },
-  {
-    "id": 2595222145101635436,
+    "id": 4456635045216957579,
     "title": "[P] MichiAI: A 530M Full-Duplex Speech LLM with ~75ms Latency using Flow Matching",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1quwjt1/p_michiai_a_530m_fullduplex_speech_llm_with_75ms/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-03T16:28:14",
-    "saved": false
-  },
-  {
-    "id": 5632179727919316988,
-    "title": "[P] An OSS intent-to-structure compiler that turns short natural-language intents into executable agent specs (XML)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qu88fv/p_an_oss_intenttostructure_compiler_that_turns/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-02T21:26:06",
-    "saved": false
-  },
-  {
-    "id": -1931960653601804083,
-    "title": "[D] New interesting AI papers exploration service",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qu28wx/d_new_interesting_ai_papers_exploration_service/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-02T17:55:23",
-    "saved": false
-  },
-  {
-    "id": 8641175622237363137,
-    "title": "Coding Agent VMs on NixOS with Microvm.nix",
-    "link": "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-01T08:02:46",
     "saved": false
   }
 ]

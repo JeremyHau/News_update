@@ -1,6 +1,24 @@
 [
   {
-    "id": 5421258490158386265,
+    "id": -8111915564291976275,
+    "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+    "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-07T05:23:04",
+    "saved": false
+  },
+  {
+    "id": -7167823588708092718,
+    "title": "Training a Tesseract model for East Cree syllabics — looking for advice on fine-tuning workflow [p]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qy1ytf/training_a_tesseract_model_for_east_cree/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-07T02:43:18",
+    "saved": false
+  },
+  {
+    "id": 8075152809329663672,
     "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
     "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
     "source": "TechCrunch",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -7730534146373981392,
+    "id": 2707649004257894856,
     "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
     "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 1386304654175177177,
+    "id": -6216186296028219012,
     "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
     "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
     "source": "TechCrunch",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -6687973784892158978,
+    "id": -4702224987991742,
     "title": "[R] Human oversight PR workflows for AI-generated changes — EU AI Act Article 14 compliance using database version control",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qxvjwz/r_human_oversight_pr_workflows_for_aigenerated/",
     "source": "Reddit ML",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -8214969509277951888,
+    "id": 1259627009405515567,
     "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
     "link": "https://github.com/pydantic/monty",
     "source": "Hacker News",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 4172896200146657044,
+    "id": 2234282414502666177,
     "title": "Maybe AI agents can be lawyers after all",
     "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4999959634639061940,
+    "id": -763193145486538912,
     "title": "Show HN: If you lose your memory, how to regain access to your computer?",
     "link": "https://eljojo.github.io/rememory/",
     "source": "Hacker News",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 4843871108165292381,
+    "id": 4055876736696759387,
     "title": "How to effectively write quality code with AI",
     "link": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
     "source": "Hacker News",
@@ -72,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -5959704289018179745,
-    "title": "[P] Is this still AI? What should I do with it?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qxpry2/p_is_this_still_ai_what_should_i_do_with_it/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-06T18:31:59",
-    "saved": false
-  },
-  {
-    "id": 1336781870492902535,
+    "id": -8877215090737874564,
     "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
     "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7123529659774696075,
+    "id": 7963179660084483966,
     "title": "[R] Mixture-of-Models routing beats single LLMs on SWE-Bench via task specialization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qxjavq/r_mixtureofmodels_routing_beats_single_llms_on/",
     "source": "Reddit ML",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5449248913711803499,
+    "id": -1549627575486436104,
     "title": "How AI is helping solve the labor issue in treating rare diseases",
     "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 7475959744590550542,
+    "id": -2451250221830274358,
     "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
     "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
     "source": "TechCrunch",
@@ -117,57 +126,12 @@
     "saved": false
   },
   {
-    "id": -3931009937570374763,
+    "id": -4695474399617494783,
     "title": "[D] Experiences with UAI",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qx9dhs/d_experiences_with_uai/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-06T05:45:14",
-    "saved": false
-  },
-  {
-    "id": 8838637013399216693,
-    "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
-    "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T23:53:42",
-    "saved": false
-  },
-  {
-    "id": -607581417570901246,
-    "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
-    "link": "https://red.anthropic.com/2026/zero-days/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-05T17:50:37",
-    "saved": false
-  },
-  {
-    "id": -7617732787995177296,
-    "title": "[R] \"What data trained this model?\" shouldn't require archeology — EU AI Act Article 10 compliance with versioned training data",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwp484/r_what_data_trained_this_model_shouldnt_require/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-05T15:59:55",
-    "saved": false
-  },
-  {
-    "id": 4418345147620565125,
-    "title": "[D] How do you usually figure out why a multi-GPU training run is slower than expected?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwnokr/d_how_do_you_usually_figure_out_why_a_multigpu/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-05T15:06:14",
-    "saved": false
-  },
-  {
-    "id": 5120179084146868172,
-    "title": "A century of hair samples proves leaded gas ban worked",
-    "link": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-03T05:38:51",
     "saved": false
   }
 ]

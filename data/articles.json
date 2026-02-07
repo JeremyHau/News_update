@@ -1,24 +1,123 @@
 [
   {
-    "id": 1118829429510813564,
-    "title": "Show HN: Agent Arena – Test How Manipulation-Proof Your AI Agent Is",
-    "link": "https://wiz.jock.pl/experiments/agent-arena/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-06T12:12:18",
+    "id": 5421258490158386265,
+    "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
+    "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-07T01:00:52",
     "saved": false
   },
   {
-    "id": 2647447417414208377,
-    "title": "A new bill in New York would require disclaimers on AI-generated news content",
-    "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-06T09:56:55",
+    "id": -7730534146373981392,
+    "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
+    "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-06T23:53:43",
     "saved": false
   },
   {
-    "id": 6161535612695944828,
+    "id": 1386304654175177177,
+    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+    "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-06T22:43:22",
+    "saved": false
+  },
+  {
+    "id": -6687973784892158978,
+    "title": "[R] Human oversight PR workflows for AI-generated changes — EU AI Act Article 14 compliance using database version control",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qxvjwz/r_human_oversight_pr_workflows_for_aigenerated/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-06T22:09:18",
+    "saved": false
+  },
+  {
+    "id": -8214969509277951888,
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "link": "https://github.com/pydantic/monty",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-06T21:16:36",
+    "saved": false
+  },
+  {
+    "id": 4172896200146657044,
+    "title": "Maybe AI agents can be lawyers after all",
+    "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-06T20:26:23",
+    "saved": false
+  },
+  {
+    "id": -4999959634639061940,
+    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+    "link": "https://eljojo.github.io/rememory/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-06T18:51:58",
+    "saved": false
+  },
+  {
+    "id": 4843871108165292381,
+    "title": "How to effectively write quality code with AI",
+    "link": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-06T18:49:59",
+    "saved": false
+  },
+  {
+    "id": -5959704289018179745,
+    "title": "[P] Is this still AI? What should I do with it?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qxpry2/p_is_this_still_ai_what_should_i_do_with_it/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-06T18:31:59",
+    "saved": false
+  },
+  {
+    "id": 1336781870492902535,
+    "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
+    "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-06T16:37:07",
+    "saved": false
+  },
+  {
+    "id": 7123529659774696075,
+    "title": "[R] Mixture-of-Models routing beats single LLMs on SWE-Bench via task specialization",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qxjavq/r_mixtureofmodels_routing_beats_single_llms_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-06T14:37:24",
+    "saved": false
+  },
+  {
+    "id": -5449248913711803499,
+    "title": "How AI is helping solve the labor issue in treating rare diseases",
+    "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-06T14:29:15",
+    "saved": false
+  },
+  {
+    "id": 7475959744590550542,
+    "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+    "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-06T14:10:00",
+    "saved": false
+  },
+  {
+    "id": -3931009937570374763,
     "title": "[D] Experiences with UAI",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qx9dhs/d_experiences_with_uai/",
     "source": "Reddit ML",
@@ -27,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -168124098452000416,
+    "id": 8838637013399216693,
     "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
     "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
     "source": "TechCrunch",
@@ -36,106 +135,16 @@
     "saved": false
   },
   {
-    "id": -4200881932732131293,
-    "title": "Reddit looks to AI search as its next big opportunity",
-    "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T23:20:27",
-    "saved": false
-  },
-  {
-    "id": 1768638094253413456,
-    "title": "AWS revenue continues to soar as cloud demand remains high",
-    "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T23:11:37",
-    "saved": false
-  },
-  {
-    "id": -3456728705308539555,
-    "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
-    "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T22:43:11",
-    "saved": false
-  },
-  {
-    "id": 8250298812243037990,
-    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
-    "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T20:01:39",
-    "saved": false
-  },
-  {
-    "id": -730340064869744583,
-    "title": "We tasked Opus 4.6 using agent teams to build a C Compiler",
-    "link": "https://www.anthropic.com/engineering/building-c-compiler",
+    "id": -607581417570901246,
+    "title": "Evaluating and mitigating the growing risk of LLM-discovered 0-days",
+    "link": "https://red.anthropic.com/2026/zero-days/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-05T19:07:51",
+    "date": "2026-02-05T17:50:37",
     "saved": false
   },
   {
-    "id": -2381732500034151453,
-    "title": "My AI Adoption Journey",
-    "link": "https://mitchellh.com/writing/my-ai-adoption-journey",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-05T19:04:40",
-    "saved": false
-  },
-  {
-    "id": 617970312868944427,
-    "title": "OpenAI launches a way for enterprises to build and manage AI agents",
-    "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T18:09:50",
-    "saved": false
-  },
-  {
-    "id": -3347326420994010604,
-    "title": "[P]SROS: Intent-to-Structure OS for agents (planes-based architecture + receipts) - demos + paper",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwsp5y/psros_intenttostructure_os_for_agents_planesbased/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-05T18:08:19",
-    "saved": false
-  },
-  {
-    "id": -4396325624025033956,
-    "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
-    "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T17:51:13",
-    "saved": false
-  },
-  {
-    "id": 3638317299414222960,
-    "title": "Meta tests a stand-alone app for its AI-generated ‘Vibes’ videos",
-    "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T17:19:01",
-    "saved": false
-  },
-  {
-    "id": 6557634660842335926,
-    "title": "[P] Open-source agentic AI that reasons through data science workflows — looking for bugs & feedback",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwqrdy/p_opensource_agentic_ai_that_reasons_through_data/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-05T16:59:35",
-    "saved": false
-  },
-  {
-    "id": 993390925465783366,
+    "id": -7617732787995177296,
     "title": "[R] \"What data trained this model?\" shouldn't require archeology — EU AI Act Article 10 compliance with versioned training data",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qwp484/r_what_data_trained_this_model_shouldnt_require/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4810792994956765474,
+    "id": 4418345147620565125,
     "title": "[D] How do you usually figure out why a multi-GPU training run is slower than expected?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qwnokr/d_how_do_you_usually_figure_out_why_a_multigpu/",
     "source": "Reddit ML",
@@ -153,48 +162,12 @@
     "saved": false
   },
   {
-    "id": 7585881691324876131,
-    "title": "Fundamental raises $255M Series A with a new take on big data analysis",
-    "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T15:00:02",
-    "saved": false
-  },
-  {
-    "id": -3946462485361071669,
-    "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-    "link": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T14:55:02",
-    "saved": false
-  },
-  {
-    "id": 8144343955354776862,
-    "title": "ElevenLabs CEO: Voice is the next interface for AI",
-    "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-05T14:41:12",
-    "saved": false
-  },
-  {
-    "id": -1150302150163596043,
-    "title": "[P] CRAFT: thinking agent for image generation and edit",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qwhkcg/p_craft_thinking_agent_for_image_generation_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-05T10:15:52",
-    "saved": false
-  },
-  {
-    "id": 3795593646464782935,
-    "title": "DNS Explained – How Domain Names Get Resolved",
-    "link": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
+    "id": 5120179084146868172,
+    "title": "A century of hair samples proves leaded gas ban worked",
+    "link": "https://arstechnica.com/science/2026/02/a-century-of-hair-samples-proves-leaded-gas-ban-worked/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-03T09:43:36",
+    "date": "2026-02-03T05:38:51",
     "saved": false
   }
 ]

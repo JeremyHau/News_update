@@ -1,6 +1,51 @@
 [
   {
-    "id": -8111915564291976275,
+    "id": 4664553254014287375,
+    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+    "link": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-07T22:25:03",
+    "saved": false
+  },
+  {
+    "id": 7323268849187271348,
+    "title": "[D][Showcase] MCP-powered Autonomous AI Research Engineer (Claude Desktop, Code Execution)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qyjqlw/dshowcase_mcppowered_autonomous_ai_research/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-07T17:27:15",
+    "saved": false
+  },
+  {
+    "id": -7689522469668408340,
+    "title": "Al Lowe on model trains, funny deaths and working with Disney",
+    "link": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-07T15:52:42",
+    "saved": false
+  },
+  {
+    "id": 6986603692060085364,
+    "title": "Software factories and the agentic moment",
+    "link": "https://factory.strongdm.ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-07T15:05:56",
+    "saved": false
+  },
+  {
+    "id": 7685561884612591908,
+    "title": "The AI boom is causing shortages everywhere else",
+    "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-07T11:21:29",
+    "saved": false
+  },
+  {
+    "id": -2784555023662108293,
     "title": "Benchmark raises $225M in special funds to double down on Cerebras",
     "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -7167823588708092718,
+    "id": -3928587680075878466,
     "title": "Training a Tesseract model for East Cree syllabics — looking for advice on fine-tuning workflow [p]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qy1ytf/training_a_tesseract_model_for_east_cree/",
     "source": "Reddit ML",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 8075152809329663672,
+    "id": -3686721875034437288,
     "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
     "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2707649004257894856,
+    "id": 1291894462171023004,
     "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
     "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -6216186296028219012,
+    "id": 4455155727168176512,
     "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
     "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
     "source": "TechCrunch",
@@ -45,25 +90,7 @@
     "saved": false
   },
   {
-    "id": -4702224987991742,
-    "title": "[R] Human oversight PR workflows for AI-generated changes — EU AI Act Article 14 compliance using database version control",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qxvjwz/r_human_oversight_pr_workflows_for_aigenerated/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-06T22:09:18",
-    "saved": false
-  },
-  {
-    "id": 1259627009405515567,
-    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-    "link": "https://github.com/pydantic/monty",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-06T21:16:36",
-    "saved": false
-  },
-  {
-    "id": 2234282414502666177,
+    "id": 97649822868149165,
     "title": "Maybe AI agents can be lawyers after all",
     "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
     "source": "TechCrunch",
@@ -72,25 +99,7 @@
     "saved": false
   },
   {
-    "id": -763193145486538912,
-    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-    "link": "https://eljojo.github.io/rememory/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-06T18:51:58",
-    "saved": false
-  },
-  {
-    "id": 4055876736696759387,
-    "title": "How to effectively write quality code with AI",
-    "link": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-06T18:49:59",
-    "saved": false
-  },
-  {
-    "id": -8877215090737874564,
+    "id": 7644548030399565014,
     "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
     "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7963179660084483966,
+    "id": 2328560612168377718,
     "title": "[R] Mixture-of-Models routing beats single LLMs on SWE-Bench via task specialization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qxjavq/r_mixtureofmodels_routing_beats_single_llms_on/",
     "source": "Reddit ML",
@@ -108,30 +117,12 @@
     "saved": false
   },
   {
-    "id": -1549627575486436104,
+    "id": -5778416134587641325,
     "title": "How AI is helping solve the labor issue in treating rare diseases",
     "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-02-06T14:29:15",
-    "saved": false
-  },
-  {
-    "id": -2451250221830274358,
-    "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
-    "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-06T14:10:00",
-    "saved": false
-  },
-  {
-    "id": -4695474399617494783,
-    "title": "[D] Experiences with UAI",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qx9dhs/d_experiences_with_uai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-06T05:45:14",
     "saved": false
   }
 ]

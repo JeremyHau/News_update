@@ -1,15 +1,60 @@
 [
   {
-    "id": 4664553254014287375,
-    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-    "link": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+    "id": 5028067703205690994,
+    "title": "(AI) Slop Terrifies Me",
+    "link": "https://ezhik.jp/ai-slop-terrifies-me/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-07T22:25:03",
+    "date": "2026-02-08T10:31:35",
     "saved": false
   },
   {
-    "id": 7323268849187271348,
+    "id": -4230774515327467509,
+    "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
+    "link": "https://github.com/joshuanwalker/Raiders2600",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-08T09:10:18",
+    "saved": false
+  },
+  {
+    "id": 4286838315438991873,
+    "title": "Matchlock: Linux-based sandboxing for AI agents",
+    "link": "https://github.com/jingkaihe/matchlock",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-08T08:07:55",
+    "saved": false
+  },
+  {
+    "id": -6931699719769129297,
+    "title": "[R] Identifying the \"Complexity Kink\": An Econometric Analysis of AI Marginal Productivity Collapse in Multi-Asset Tasks",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qyxn1q/r_identifying_the_complexity_kink_an_econometric/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-08T03:04:29",
+    "saved": false
+  },
+  {
+    "id": -7527228575893204963,
+    "title": "Haskell for all: Beyond agentic coding",
+    "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-08T01:55:09",
+    "saved": false
+  },
+  {
+    "id": -8812574653171462383,
+    "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+    "link": "https://github.com/localgpt-app/localgpt",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-08T01:26:38",
+    "saved": false
+  },
+  {
+    "id": -2611204642299119852,
     "title": "[D][Showcase] MCP-powered Autonomous AI Research Engineer (Claude Desktop, Code Execution)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qyjqlw/dshowcase_mcppowered_autonomous_ai_research/",
     "source": "Reddit ML",
@@ -18,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -7689522469668408340,
-    "title": "Al Lowe on model trains, funny deaths and working with Disney",
-    "link": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-07T15:52:42",
-    "saved": false
-  },
-  {
-    "id": 6986603692060085364,
+    "id": -1102235967528321059,
     "title": "Software factories and the agentic moment",
     "link": "https://factory.strongdm.ai/",
     "source": "Hacker News",
@@ -36,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 7685561884612591908,
-    "title": "The AI boom is causing shortages everywhere else",
-    "link": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-07T11:21:29",
-    "saved": false
-  },
-  {
-    "id": -2784555023662108293,
+    "id": -5313561049843873113,
     "title": "Benchmark raises $225M in special funds to double down on Cerebras",
     "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
     "source": "TechCrunch",
@@ -54,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -3928587680075878466,
-    "title": "Training a Tesseract model for East Cree syllabics — looking for advice on fine-tuning workflow [p]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qy1ytf/training_a_tesseract_model_for_east_cree/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-07T02:43:18",
-    "saved": false
-  },
-  {
-    "id": -3686721875034437288,
+    "id": -8845777384151553835,
     "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
     "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 1291894462171023004,
+    "id": -9018702504631627409,
     "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
     "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4455155727168176512,
+    "id": 3050844337745113430,
     "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
     "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 97649822868149165,
+    "id": 3289807654251856611,
     "title": "Maybe AI agents can be lawyers after all",
     "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 7644548030399565014,
+    "id": -1666930117106078115,
     "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
     "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 2328560612168377718,
+    "id": -5666399731488902838,
     "title": "[R] Mixture-of-Models routing beats single LLMs on SWE-Bench via task specialization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qxjavq/r_mixtureofmodels_routing_beats_single_llms_on/",
     "source": "Reddit ML",
@@ -117,12 +135,12 @@
     "saved": false
   },
   {
-    "id": -5778416134587641325,
-    "title": "How AI is helping solve the labor issue in treating rare diseases",
-    "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-06T14:29:15",
+    "id": -7858121522651105084,
+    "title": "LLMs as the new high level language",
+    "link": "https://federicopereiro.com/llm-high/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-03T10:00:03",
     "saved": false
   }
 ]

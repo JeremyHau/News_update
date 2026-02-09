@@ -1,33 +1,87 @@
 [
   {
-    "id": 5028067703205690994,
-    "title": "(AI) Slop Terrifies Me",
-    "link": "https://ezhik.jp/ai-slop-terrifies-me/",
+    "id": 8278508019946948372,
+    "title": "AI makes the easy part easier and the hard part harder",
+    "link": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-08T10:31:35",
+    "date": "2026-02-08T23:13:34",
     "saved": false
   },
   {
-    "id": -4230774515327467509,
-    "title": "Reverse Engineering Raiders of the Lost Ark for the Atari 2600",
-    "link": "https://github.com/joshuanwalker/Raiders2600",
-    "source": "Hacker News",
+    "id": 23919859921806567,
+    "title": "[D] What is your main gripe about ML environments like Colab?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qznfxf/d_what_is_your_main_gripe_about_ml_environments/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-02-08T09:10:18",
+    "date": "2026-02-08T22:49:06",
     "saved": false
   },
   {
-    "id": 4286838315438991873,
-    "title": "Matchlock: Linux-based sandboxing for AI agents",
-    "link": "https://github.com/jingkaihe/matchlock",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T08:07:55",
+    "id": -814518718227140545,
+    "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+    "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-08T20:19:47",
     "saved": false
   },
   {
-    "id": -6931699719769129297,
+    "id": 9103101553027930406,
+    "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+    "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-08T19:36:28",
+    "saved": false
+  },
+  {
+    "id": 2816199749408545172,
+    "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+    "link": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-08T18:24:26",
+    "saved": false
+  },
+  {
+    "id": 6220872819547296455,
+    "title": "[D] What does your daily work look like?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1qzflno/d_what_does_your_daily_work_look_like/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-08T17:51:39",
+    "saved": false
+  },
+  {
+    "id": 5815328773772526859,
+    "title": "San Francisco’s pro-billionaire march draws dozens",
+    "link": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-08T16:49:48",
+    "saved": false
+  },
+  {
+    "id": 509304929210776197,
+    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+    "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-08T16:18:16",
+    "saved": false
+  },
+  {
+    "id": 3668142056871266320,
+    "title": "GitHub Agentic Workflows",
+    "link": "https://github.github.io/gh-aw/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-08T13:40:56",
+    "saved": false
+  },
+  {
+    "id": 4821150725627569516,
     "title": "[R] Identifying the \"Complexity Kink\": An Econometric Analysis of AI Marginal Productivity Collapse in Multi-Asset Tasks",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qyxn1q/r_identifying_the_complexity_kink_an_econometric/",
     "source": "Reddit ML",
@@ -36,43 +90,7 @@
     "saved": false
   },
   {
-    "id": -7527228575893204963,
-    "title": "Haskell for all: Beyond agentic coding",
-    "link": "https://haskellforall.com/2026/02/beyond-agentic-coding",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T01:55:09",
-    "saved": false
-  },
-  {
-    "id": -8812574653171462383,
-    "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
-    "link": "https://github.com/localgpt-app/localgpt",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T01:26:38",
-    "saved": false
-  },
-  {
-    "id": -2611204642299119852,
-    "title": "[D][Showcase] MCP-powered Autonomous AI Research Engineer (Claude Desktop, Code Execution)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qyjqlw/dshowcase_mcppowered_autonomous_ai_research/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-07T17:27:15",
-    "saved": false
-  },
-  {
-    "id": -1102235967528321059,
-    "title": "Software factories and the agentic moment",
-    "link": "https://factory.strongdm.ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-07T15:05:56",
-    "saved": false
-  },
-  {
-    "id": -5313561049843873113,
+    "id": 1548161439845315086,
     "title": "Benchmark raises $225M in special funds to double down on Cerebras",
     "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8845777384151553835,
+    "id": 2953687791036692511,
     "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
     "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -9018702504631627409,
+    "id": -8246761415477996555,
     "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
     "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
     "source": "TechCrunch",
@@ -99,48 +117,12 @@
     "saved": false
   },
   {
-    "id": 3050844337745113430,
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-06T22:43:22",
-    "saved": false
-  },
-  {
-    "id": 3289807654251856611,
+    "id": -8202952240718791801,
     "title": "Maybe AI agents can be lawyers after all",
     "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-02-06T20:26:23",
-    "saved": false
-  },
-  {
-    "id": -1666930117106078115,
-    "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
-    "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-06T16:37:07",
-    "saved": false
-  },
-  {
-    "id": -5666399731488902838,
-    "title": "[R] Mixture-of-Models routing beats single LLMs on SWE-Bench via task specialization",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qxjavq/r_mixtureofmodels_routing_beats_single_llms_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-06T14:37:24",
-    "saved": false
-  },
-  {
-    "id": -7858121522651105084,
-    "title": "LLMs as the new high level language",
-    "link": "https://federicopereiro.com/llm-high/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-03T10:00:03",
     "saved": false
   }
 ]

@@ -1,6 +1,69 @@
 [
   {
-    "id": -8437449487097788515,
+    "id": -3648726283837847045,
+    "title": "Show HN: Pipelock – All-in-one security harness for AI coding agents",
+    "link": "https://github.com/luckyPipewrench/pipelock",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-10T12:04:20",
+    "saved": false
+  },
+  {
+    "id": -7025565258309427635,
+    "title": "YouTube rolls out an AI playlist generator for Premium users",
+    "link": "https://techcrunch.com/2026/02/10/youtube-rolls-out-an-ai-playlist-generator-for-premium-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-10T11:52:39",
+    "saved": false
+  },
+  {
+    "id": -1377701171813716574,
+    "title": "[R] On Randomness in Agentic Evals",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0wpn8/r_on_randomness_in_agentic_evals/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-10T09:56:36",
+    "saved": false
+  },
+  {
+    "id": 3648427875044033848,
+    "title": "The first signs of burnout are coming from the people who embrace AI the most",
+    "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-10T06:46:55",
+    "saved": false
+  },
+  {
+    "id": -3791232876027495900,
+    "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+    "link": "https://arxiv.org/abs/2512.20798",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-10T03:17:17",
+    "saved": false
+  },
+  {
+    "id": 7261017208499234631,
+    "title": "Tem raises $75M to remake electricity markets using AI",
+    "link": "https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-10T03:01:00",
+    "saved": false
+  },
+  {
+    "id": -2761801379691653381,
+    "title": "India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain",
+    "link": "https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-10T03:00:00",
+    "saved": false
+  },
+  {
+    "id": -7571087719875488672,
     "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
     "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
     "source": "TechCrunch",
@@ -9,25 +72,7 @@
     "saved": false
   },
   {
-    "id": 215750957082778276,
-    "title": "[R] Teaching AI to Know What It Doesn't Know: Epistemic Uncertainty with Complementary Fuzzy Sets",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0g6hl/r_teaching_ai_to_know_what_it_doesnt_know/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-09T20:51:44",
-    "saved": false
-  },
-  {
-    "id": 5764771656974897152,
-    "title": "[R] AIRS-Bench: A Benchmark for AI Agents on the Full ML Research Lifecycle",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0e4io/r_airsbench_a_benchmark_for_ai_agents_on_the_full/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-09T19:37:57",
-    "saved": false
-  },
-  {
-    "id": -5393863744986842766,
+    "id": 1304961775718769781,
     "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
     "link": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7819920397529585071,
+    "id": -7101482779291637534,
     "title": "Lyft opens its ride-hailing app to teens",
     "link": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
     "source": "TechCrunch",
@@ -45,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 5607203717503713548,
-    "title": "Everyone’s building “async agents,” but almost no one can define them",
-    "link": "https://www.omnara.com/blog/what-is-an-async-agent-really",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-09T18:01:44",
-    "saved": false
-  },
-  {
-    "id": -6040268286277002121,
+    "id": -4861520571462558908,
     "title": "[D] Rules for High-Perfomamce Embedding model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r0a6ju/d_rules_for_highperfomamce_embedding_model/",
     "source": "Reddit ML",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3660936838444758019,
+    "id": -1497047583778015966,
     "title": "[D] Mistral AI Applied Scientist/ Research Engineer Interview",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r08rrw/d_mistral_ai_applied_scientist_research_engineer/",
     "source": "Reddit ML",
@@ -72,12 +108,12 @@
     "saved": false
   },
   {
-    "id": 714080410524481239,
-    "title": "[D] What is your main gripe about ML environments like Colab?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qznfxf/d_what_is_your_main_gripe_about_ml_environments/",
-    "source": "Reddit ML",
+    "id": -937761637039532476,
+    "title": "Eight more months of agents",
+    "link": "https://crawshaw.io/blog/eight-more-months-of-agents",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-08T22:49:06",
+    "date": "2026-02-08T11:00:32",
     "saved": false
   }
 ]

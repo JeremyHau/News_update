@@ -1,119 +1,92 @@
 [
   {
-    "id": -160321841386268485,
-    "title": "Matrix messaging gaining ground in government IT",
-    "link": "https://www.theregister.com/2026/02/09/matrix_element_secure_chat/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-09T11:53:13",
+    "id": 8750053251393404246,
+    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+    "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-09T21:14:50",
     "saved": false
   },
   {
-    "id": 1018134073852382726,
+    "id": 2155420111920295073,
+    "title": "[R] Teaching AI to Know What It Doesn't Know: Epistemic Uncertainty with Complementary Fuzzy Sets",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0g6hl/r_teaching_ai_to_know_what_it_doesnt_know/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-09T20:51:44",
+    "saved": false
+  },
+  {
+    "id": -5251518042388407129,
+    "title": "Data exfil from agents in messaging apps",
+    "link": "https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-09T20:21:27",
+    "saved": false
+  },
+  {
+    "id": -4838523359358794212,
+    "title": "[R] AIRS-Bench: A Benchmark for AI Agents on the Full ML Research Lifecycle",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0e4io/r_airsbench_a_benchmark_for_ai_agents_on_the_full/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-09T19:37:57",
+    "saved": false
+  },
+  {
+    "id": -5561623367248696578,
+    "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
+    "link": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-09T18:21:02",
+    "saved": false
+  },
+  {
+    "id": -7776861298770577104,
+    "title": "Lyft opens its ride-hailing app to teens",
+    "link": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-09T18:05:32",
+    "saved": false
+  },
+  {
+    "id": -6020274539051187036,
+    "title": "Everyone’s building “async agents,” but almost no one can define them",
+    "link": "https://www.omnara.com/blog/what-is-an-async-agent-really",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-09T18:01:44",
+    "saved": false
+  },
+  {
+    "id": 8563568140667353459,
+    "title": "[D] Rules for High-Perfomamce Embedding model training?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0a6ju/d_rules_for_highperfomamce_embedding_model/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-09T17:18:25",
+    "saved": false
+  },
+  {
+    "id": -3944456245394256351,
+    "title": "[D] Mistral AI Applied Scientist/ Research Engineer Interview",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r08rrw/d_mistral_ai_applied_scientist_research_engineer/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-09T16:28:09",
+    "saved": false
+  },
+  {
+    "id": 631726431112372816,
     "title": "[D] What is your main gripe about ML environments like Colab?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qznfxf/d_what_is_your_main_gripe_about_ml_environments/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-08T22:49:06",
-    "saved": false
-  },
-  {
-    "id": -288211352559213715,
-    "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
-    "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-08T20:19:47",
-    "saved": false
-  },
-  {
-    "id": 2003963949528222940,
-    "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
-    "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-08T19:36:28",
-    "saved": false
-  },
-  {
-    "id": 5822221053869557684,
-    "title": "Experts Have World Models. LLMs Have Word Models",
-    "link": "https://www.latent.space/p/adversarial-reasoning",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T18:13:48",
-    "saved": false
-  },
-  {
-    "id": -7227206136869101185,
-    "title": "San Francisco’s pro-billionaire march draws dozens",
-    "link": "https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-08T16:49:48",
-    "saved": false
-  },
-  {
-    "id": -5036947606903516153,
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-08T16:18:16",
-    "saved": false
-  },
-  {
-    "id": -1936688015602436483,
-    "title": "GitHub Agentic Workflows",
-    "link": "https://github.github.io/gh-aw/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T13:40:56",
-    "saved": false
-  },
-  {
-    "id": -7145241453267135725,
-    "title": "[R] Identifying the \"Complexity Kink\": An Econometric Analysis of AI Marginal Productivity Collapse in Multi-Asset Tasks",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1qyxn1q/r_identifying_the_complexity_kink_an_econometric/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-08T03:04:29",
-    "saved": false
-  },
-  {
-    "id": 7712771347454416587,
-    "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-    "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-07T05:23:04",
-    "saved": false
-  },
-  {
-    "id": 7302524819302474670,
-    "title": "An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax",
-    "link": "https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-07T01:00:52",
-    "saved": false
-  },
-  {
-    "id": 8385351093782447960,
-    "title": "Apple is working to make CarPlay compatible with AI chatbots like ChatGPT",
-    "link": "https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-06T23:53:43",
-    "saved": false
-  },
-  {
-    "id": 8317826610669592625,
-    "title": "Maybe AI agents can be lawyers after all",
-    "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-06T20:26:23",
     "saved": false
   }
 ]

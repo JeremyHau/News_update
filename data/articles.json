@@ -1,6 +1,6 @@
 [
   {
-    "id": 8750053251393404246,
+    "id": -8437449487097788515,
     "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
     "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
     "source": "TechCrunch",
@@ -9,7 +9,7 @@
     "saved": false
   },
   {
-    "id": 2155420111920295073,
+    "id": 215750957082778276,
     "title": "[R] Teaching AI to Know What It Doesn't Know: Epistemic Uncertainty with Complementary Fuzzy Sets",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r0g6hl/r_teaching_ai_to_know_what_it_doesnt_know/",
     "source": "Reddit ML",
@@ -18,16 +18,7 @@
     "saved": false
   },
   {
-    "id": -5251518042388407129,
-    "title": "Data exfil from agents in messaging apps",
-    "link": "https://www.promptarmor.com/resources/llm-data-exfiltration-via-url-previews-(with-openclaw-example-and-test)",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-09T20:21:27",
-    "saved": false
-  },
-  {
-    "id": -4838523359358794212,
+    "id": 5764771656974897152,
     "title": "[R] AIRS-Bench: A Benchmark for AI Agents on the Full ML Research Lifecycle",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r0e4io/r_airsbench_a_benchmark_for_ai_agents_on_the_full/",
     "source": "Reddit ML",
@@ -36,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -5561623367248696578,
+    "id": -5393863744986842766,
     "title": "Harvey reportedly raising at $11B valuation just months after it hit $8B",
     "link": "https://techcrunch.com/2026/02/09/harvey-reportedly-raising-at-11b-valuation-just-months-after-it-hit-8b/",
     "source": "TechCrunch",
@@ -45,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -7776861298770577104,
+    "id": -7819920397529585071,
     "title": "Lyft opens its ride-hailing app to teens",
     "link": "https://techcrunch.com/2026/02/09/lyft-opens-its-ride-hailing-app-to-teens/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -6020274539051187036,
+    "id": 5607203717503713548,
     "title": "Everyone’s building “async agents,” but almost no one can define them",
     "link": "https://www.omnara.com/blog/what-is-an-async-agent-really",
     "source": "Hacker News",
@@ -63,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 8563568140667353459,
+    "id": -6040268286277002121,
     "title": "[D] Rules for High-Perfomamce Embedding model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r0a6ju/d_rules_for_highperfomamce_embedding_model/",
     "source": "Reddit ML",
@@ -72,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3944456245394256351,
+    "id": 3660936838444758019,
     "title": "[D] Mistral AI Applied Scientist/ Research Engineer Interview",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r08rrw/d_mistral_ai_applied_scientist_research_engineer/",
     "source": "Reddit ML",
@@ -81,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 631726431112372816,
+    "id": 714080410524481239,
     "title": "[D] What is your main gripe about ML environments like Colab?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1qznfxf/d_what_is_your_main_gripe_about_ml_environments/",
     "source": "Reddit ML",

@@ -1,6 +1,51 @@
 [
   {
-    "id": 5849450703541790544,
+    "id": -8653056660599605616,
+    "title": "[R] I probed 6 open-weight LLMs (7B-9B) for \"personality\" using hidden states — instruct fine-tuning is associated with measurable behavioral constraints",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r1w34h/r_i_probed_6_openweight_llms_7b9b_for_personality/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-11T12:29:31",
+    "saved": false
+  },
+  {
+    "id": 1397411794063446861,
+    "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
+    "link": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-11T11:27:38",
+    "saved": false
+  },
+  {
+    "id": -8262002170108067591,
+    "title": "[R] I am looking for good research papers on compute optimization during model training, ways to reduce FLOPs, memory usage, and training time without hurting convergence.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r1pr3c/r_i_am_looking_for_good_research_papers_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-11T06:19:55",
+    "saved": false
+  },
+  {
+    "id": -1528189721911344765,
+    "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
+    "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T02:15:27",
+    "saved": false
+  },
+  {
+    "id": -1004019132728741149,
+    "title": "Okay, now exactly half of xAI’s founding team has left the company",
+    "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T01:50:00",
+    "saved": false
+  },
+  {
+    "id": -678198080295796875,
     "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
     "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 3004535013092766616,
+    "id": -7910615475262747465,
     "title": "An ice dance duo skated to AI music at the Olympics",
     "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4410022169205416230,
+    "id": -5592616505424861639,
     "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
     "link": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
     "source": "TechCrunch",
@@ -27,25 +72,7 @@
     "saved": false
   },
   {
-    "id": 7600163719439154407,
-    "title": "Nearly half of xAI’s founding team has now left the company",
-    "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T20:31:51",
-    "saved": false
-  },
-  {
-    "id": 3447696694516210910,
-    "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
-    "link": "https://github.com/tambo-ai/tambo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-10T20:16:12",
-    "saved": false
-  },
-  {
-    "id": 6640551814446622881,
+    "id": -424497334296020016,
     "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
     "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 734475201780005639,
+    "id": -8463120845549136949,
     "title": "[R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1694q/r_llada21_vs_qwen3_30b_a3b_benchmarking_discrete/",
     "source": "Reddit ML",
@@ -63,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 8770703441006810168,
-    "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-    "link": "https://github.com/rowboatlabs/rowboat",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-10T16:47:29",
-    "saved": false
-  },
-  {
-    "id": 8637076145068254044,
+    "id": -7619702946480831348,
     "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
     "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8143562220763332988,
+    "id": 5511437863755601867,
     "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
     "link": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1528696729202763041,
+    "id": 3628081300278765182,
     "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
     "link": "https://entire.io/blog/hello-entire-world/",
     "source": "Hacker News",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5633804801397634810,
+    "id": 5245038468183643948,
     "title": "Hauler Hero collects $16M for its AI waste management software",
     "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
     "source": "TechCrunch",
@@ -108,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -8327131974098613696,
-    "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
-    "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T14:30:00",
-    "saved": false
-  },
-  {
-    "id": 2873007351895861189,
-    "title": "Primary Ventures raises healthy $625M Fund V to focus on seed investing",
-    "link": "https://techcrunch.com/2026/02/10/primary-ventures-raises-massive-625m-fund-v-to-focus-on-seed-investing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -4932461671150430823,
+    "id": -8288962368629131477,
     "title": "[R] On Randomness in Agentic Evals",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r0wpn8/r_on_randomness_in_agentic_evals/",
     "source": "Reddit ML",
@@ -135,30 +135,12 @@
     "saved": false
   },
   {
-    "id": 4024428239483608965,
-    "title": "[D] Mistral AI Applied Scientist/ Research Engineer Interview",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r08rrw/d_mistral_ai_applied_scientist_research_engineer/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-09T16:28:09",
-    "saved": false
-  },
-  {
-    "id": 4019589830932803550,
-    "title": "The Little Learner: A Straight Line to Deep Learning",
+    "id": -6472737908477888882,
+    "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
     "link": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-02-08T14:01:11",
-    "saved": false
-  },
-  {
-    "id": -6329685683366123951,
-    "title": "Willow – Protocols for an uncertain future [video]",
-    "link": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T08:52:50",
     "saved": false
   }
 ]

@@ -1,6 +1,15 @@
 [
   {
-    "id": 7608033370769365735,
+    "id": 2958609193260941761,
+    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
+    "link": "https://github.com/matplotlib/matplotlib/pull/31132",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T11:46:01",
+    "saved": false
+  },
+  {
+    "id": 6741614309630711145,
     "title": "[R] what are some important research areas for AI safety?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r2f1tg/r_what_are_some_important_research_areas_for_ai/",
     "source": "Reddit ML",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 4490164302140783546,
+    "id": -1350672262408140548,
     "title": "xAI lays out interplanetary ambitions in public all-hands",
     "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 5935937812528946928,
+    "id": -1374185511067361423,
     "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
     "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -861804357807809014,
+    "id": -2111080717314936766,
     "title": "OpenAI disbands mission alignment team",
     "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 6059016789677143536,
+    "id": -7658362092329156301,
     "title": "Apple’s Siri revamp reportedly delayed… again",
     "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 3817126796240659834,
+    "id": -6327718676484763964,
     "title": "Uber Eats launches AI assistant to help with grocery cart creation",
     "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -1773939002761069647,
+    "id": -3524547709414671404,
     "title": "Who will own your company’s AI layer? Glean’s CEO explains",
     "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4335603297904103526,
+    "id": -7750605177863874087,
     "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
     "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7579160755714398041,
+    "id": 4649696601365883475,
     "title": "[R] ICLR: Guess which peer review is human or AI?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r28sy7/r_iclr_guess_which_peer_review_is_human_or_ai/",
     "source": "Reddit ML",
@@ -81,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 4696288389992641518,
-    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-    "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-11T19:50:43",
-    "saved": false
-  },
-  {
-    "id": -3606976107547900137,
+    "id": -5915763986480767503,
     "title": "Cash App adds payment links so you can get paid in a DM",
     "link": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
     "source": "TechCrunch",
@@ -99,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 8707311587067628802,
-    "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
-    "link": "https://github.com/adenhq/hive/blob/main/README.md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-11T19:39:43",
-    "saved": false
-  },
-  {
-    "id": -1701632249314376495,
+    "id": -2721396196933764765,
     "title": "Why the economics of orbital AI are so brutal",
     "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
     "source": "TechCrunch",
@@ -117,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8647112482931662169,
+    "id": 2202615076868071278,
     "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
     "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
     "source": "TechCrunch",
@@ -126,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4620186271045030768,
+    "id": 5208904405946847316,
     "title": "How AI changes the math for startups, according to a Microsoft VP",
     "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
     "source": "TechCrunch",
@@ -135,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -3178661881132153705,
+    "id": 5603494336100332038,
     "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
     "link": "https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/",
     "source": "TechCrunch",
@@ -144,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5640567019860806562,
+    "id": 2822148665585065344,
     "title": "[R] Update: Frontier LLMs' Willingness to Persuade on Harmful Topics—GPT & Claude Improved, Gemini Regressed",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r216b4/r_update_frontier_llms_willingness_to_persuade_on/",
     "source": "Reddit ML",
@@ -153,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8650560641680852766,
+    "id": -4094330510092548288,
     "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
     "link": "https://z.ai/blog/glm-5",
     "source": "Hacker News",
@@ -162,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 7577950040971559333,
-    "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
-    "link": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-11T13:10:23",
-    "saved": false
-  },
-  {
-    "id": 1690152781904115447,
+    "id": -1565448735251556310,
     "title": "[R] I probed 6 open-weight LLMs (7B-9B) for \"personality\" using hidden states — instruct fine-tuning is associated with measurable behavioral constraints",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1w34h/r_i_probed_6_openweight_llms_7b9b_for_personality/",
     "source": "Reddit ML",
@@ -180,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 4418127447802414364,
-    "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-    "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-11T09:04:00",
-    "saved": false
-  },
-  {
-    "id": -462556639965000338,
+    "id": 8721667764007291333,
     "title": "[R] I am looking for good research papers on compute optimization during model training, ways to reduce FLOPs, memory usage, and training time without hurting convergence.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1pr3c/r_i_am_looking_for_good_research_papers_on/",
     "source": "Reddit ML",
@@ -198,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 1831799358659945595,
+    "id": -4856205024531943509,
     "title": "[R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1694q/r_llada21_vs_qwen3_30b_a3b_benchmarking_discrete/",
     "source": "Reddit ML",

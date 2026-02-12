@@ -1,6 +1,177 @@
 [
   {
-    "id": -8653056660599605616,
+    "id": 7608033370769365735,
+    "title": "[R] what are some important research areas for AI safety?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r2f1tg/r_what_are_some_important_research_areas_for_ai/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-12T00:42:49",
+    "saved": false
+  },
+  {
+    "id": 4490164302140783546,
+    "title": "xAI lays out interplanetary ambitions in public all-hands",
+    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T23:29:08",
+    "saved": false
+  },
+  {
+    "id": 5935937812528946928,
+    "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
+    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T22:48:35",
+    "saved": false
+  },
+  {
+    "id": -861804357807809014,
+    "title": "OpenAI disbands mission alignment team",
+    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T21:57:18",
+    "saved": false
+  },
+  {
+    "id": 6059016789677143536,
+    "title": "Apple’s Siri revamp reportedly delayed… again",
+    "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T21:19:46",
+    "saved": false
+  },
+  {
+    "id": 3817126796240659834,
+    "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T21:07:37",
+    "saved": false
+  },
+  {
+    "id": -1773939002761069647,
+    "title": "Who will own your company’s AI layer? Glean’s CEO explains",
+    "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T20:49:07",
+    "saved": false
+  },
+  {
+    "id": 4335603297904103526,
+    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+    "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T20:47:00",
+    "saved": false
+  },
+  {
+    "id": 7579160755714398041,
+    "title": "[R] ICLR: Guess which peer review is human or AI?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r28sy7/r_iclr_guess_which_peer_review_is_human_or_ai/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-11T20:35:15",
+    "saved": false
+  },
+  {
+    "id": 4696288389992641518,
+    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+    "link": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-11T19:50:43",
+    "saved": false
+  },
+  {
+    "id": -3606976107547900137,
+    "title": "Cash App adds payment links so you can get paid in a DM",
+    "link": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T19:50:41",
+    "saved": false
+  },
+  {
+    "id": 8707311587067628802,
+    "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
+    "link": "https://github.com/adenhq/hive/blob/main/README.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-11T19:39:43",
+    "saved": false
+  },
+  {
+    "id": -1701632249314376495,
+    "title": "Why the economics of orbital AI are so brutal",
+    "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T18:15:21",
+    "saved": false
+  },
+  {
+    "id": -8647112482931662169,
+    "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
+    "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T18:00:00",
+    "saved": false
+  },
+  {
+    "id": 4620186271045030768,
+    "title": "How AI changes the math for startups, according to a Microsoft VP",
+    "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T17:51:37",
+    "saved": false
+  },
+  {
+    "id": -3178661881132153705,
+    "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
+    "link": "https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-11T16:29:43",
+    "saved": false
+  },
+  {
+    "id": 5640567019860806562,
+    "title": "[R] Update: Frontier LLMs' Willingness to Persuade on Harmful Topics—GPT & Claude Improved, Gemini Regressed",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r216b4/r_update_frontier_llms_willingness_to_persuade_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-11T15:58:59",
+    "saved": false
+  },
+  {
+    "id": -8650560641680852766,
+    "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
+    "link": "https://z.ai/blog/glm-5",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-11T13:42:16",
+    "saved": false
+  },
+  {
+    "id": 7577950040971559333,
+    "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+    "link": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-11T13:10:23",
+    "saved": false
+  },
+  {
+    "id": 1690152781904115447,
     "title": "[R] I probed 6 open-weight LLMs (7B-9B) for \"personality\" using hidden states — instruct fine-tuning is associated with measurable behavioral constraints",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1w34h/r_i_probed_6_openweight_llms_7b9b_for_personality/",
     "source": "Reddit ML",
@@ -9,16 +180,16 @@
     "saved": false
   },
   {
-    "id": 1397411794063446861,
-    "title": "FAA closes airspace around El Paso, Texas, for 10 days, grounding all flights",
-    "link": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+    "id": 4418127447802414364,
+    "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+    "link": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-11T11:27:38",
+    "date": "2026-02-11T09:04:00",
     "saved": false
   },
   {
-    "id": -8262002170108067591,
+    "id": -462556639965000338,
     "title": "[R] I am looking for good research papers on compute optimization during model training, ways to reduce FLOPs, memory usage, and training time without hurting convergence.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1pr3c/r_i_am_looking_for_good_research_papers_on/",
     "source": "Reddit ML",
@@ -27,120 +198,12 @@
     "saved": false
   },
   {
-    "id": -1528189721911344765,
-    "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
-    "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T02:15:27",
-    "saved": false
-  },
-  {
-    "id": -1004019132728741149,
-    "title": "Okay, now exactly half of xAI’s founding team has left the company",
-    "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T01:50:00",
-    "saved": false
-  },
-  {
-    "id": -678198080295796875,
-    "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
-    "link": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T23:16:28",
-    "saved": false
-  },
-  {
-    "id": -7910615475262747465,
-    "title": "An ice dance duo skated to AI music at the Olympics",
-    "link": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T22:31:13",
-    "saved": false
-  },
-  {
-    "id": -5592616505424861639,
-    "title": "VC Masha Bucher, Epstein associate and Day One founder, explains herself",
-    "link": "https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T21:07:44",
-    "saved": false
-  },
-  {
-    "id": -424497334296020016,
-    "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
-    "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T19:34:51",
-    "saved": false
-  },
-  {
-    "id": -8463120845549136949,
+    "id": 1831799358659945595,
     "title": "[R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1694q/r_llada21_vs_qwen3_30b_a3b_benchmarking_discrete/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-10T16:58:09",
-    "saved": false
-  },
-  {
-    "id": -7619702946480831348,
-    "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-    "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 5511437863755601867,
-    "title": "Trump EPA reportedly seeks to revoke landmark air pollution rule",
-    "link": "https://techcrunch.com/2026/02/10/trump-epa-reportedly-seeks-to-revoke-landmark-air-pollution-rule/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T15:47:13",
-    "saved": false
-  },
-  {
-    "id": 3628081300278765182,
-    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-    "link": "https://entire.io/blog/hello-entire-world/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-10T15:44:47",
-    "saved": false
-  },
-  {
-    "id": 5245038468183643948,
-    "title": "Hauler Hero collects $16M for its AI waste management software",
-    "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-10T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -8288962368629131477,
-    "title": "[R] On Randomness in Agentic Evals",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r0wpn8/r_on_randomness_in_agentic_evals/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-10T09:56:36",
-    "saved": false
-  },
-  {
-    "id": -6472737908477888882,
-    "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-    "link": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-08T14:01:11",
     "saved": false
   }
 ]

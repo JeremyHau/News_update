@@ -1,6 +1,15 @@
 [
   {
-    "id": -729593416107674862,
+    "id": -2242343341412072339,
+    "title": "MinIO repository is no longer maintained",
+    "link": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-13T07:46:03",
+    "saved": false
+  },
+  {
+    "id": 3206537945734920440,
     "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
     "link": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/",
     "source": "TechCrunch",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 976349533670317852,
+    "id": 4683648136856378269,
     "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
     "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 1492608319392305386,
+    "id": 8040671898981023851,
     "title": "IBM will hire your entry-level talent in the age of AI",
     "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 2097820871341994268,
+    "id": 1092058852666076662,
     "title": "[P] ML training cluster for university students",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r388tr/p_ml_training_cluster_for_university_students/",
     "source": "Reddit ML",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1396665233909459768,
+    "id": 292984253158312087,
     "title": "The Evolution of Categorization During the era of AI Programming [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r383nr/the_evolution_of_categorization_during_the_era_of/",
     "source": "Reddit ML",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 3010619542384615647,
+    "id": 7370489573994818586,
     "title": "[D] Conformal Prediction vs naive thresholding to represent uncertainty",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r37m2f/d_conformal_prediction_vs_naive_thresholding_to/",
     "source": "Reddit ML",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6918128280269650285,
+    "id": 2763431629328417087,
     "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
     "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
     "source": "TechCrunch",
@@ -63,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 7514554958508453008,
-    "title": "Fixing retail with land value capture",
-    "link": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-12T20:44:17",
-    "saved": false
-  },
-  {
-    "id": -4956478007153936967,
+    "id": -4206187997183603370,
     "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
     "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 558640548778839549,
+    "id": 3234399381041507305,
     "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
     "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1398492860119546344,
+    "id": 3552326659904662093,
     "title": "Trump administration undermines EPA enforcement of Clean Air Act",
     "link": "https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4555292985778837186,
+    "id": 870510921716204871,
     "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
     "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
     "source": "TechCrunch",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 154391636026767366,
+    "id": -5896853130662740908,
     "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
     "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -86307478789249555,
+    "id": 863426691004820918,
     "title": "[D] We scanned 18,000 exposed OpenClaw instances and found 15% of community skills contain malicious instructions",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r30nzv/d_we_scanned_18000_exposed_openclaw_instances_and/",
     "source": "Reddit ML",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 779151379705725260,
+    "id": -7240186653725621405,
     "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
     "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
     "source": "TechCrunch",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3643764485024977269,
+    "id": -3275548374714086283,
     "title": "An AI agent published a hit piece on me",
     "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
     "source": "Hacker News",
@@ -144,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -529546005851006153,
-    "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
-    "link": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-12T16:10:29",
-    "saved": false
-  },
-  {
-    "id": 5747357716663128556,
+    "id": 321832577047492226,
     "title": "[D] The AI training market is broken. Here's why.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r2vjhp/d_the_ai_training_market_is_broken_heres_why/",
     "source": "Reddit ML",
@@ -162,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 5037781315295898919,
+    "id": -8599318381736535946,
     "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
     "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
     "source": "TechCrunch",
@@ -171,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -2647377355273670993,
-    "title": "Major European payment processor can't send email to Google Workspace users",
-    "link": "https://atha.io/blog/2026-02-12-viva",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-12T14:24:15",
-    "saved": false
-  },
-  {
-    "id": 3539929722755603270,
+    "id": 1797979465647811778,
     "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
     "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
     "source": "Hacker News",
@@ -189,34 +171,7 @@
     "saved": false
   },
   {
-    "id": 3297951533181991052,
-    "title": "[R] what are some important research areas for AI safety?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r2f1tg/r_what_are_some_important_research_areas_for_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-12T00:42:49",
-    "saved": false
-  },
-  {
-    "id": -3480095474801736406,
-    "title": "xAI lays out interplanetary ambitions in public all-hands",
-    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T23:29:08",
-    "saved": false
-  },
-  {
-    "id": -5343768304506701217,
-    "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T22:48:35",
-    "saved": false
-  },
-  {
-    "id": -6545065546446621706,
+    "id": 3999285958508961942,
     "title": "[R] ICLR: Guess which peer review is human or AI?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r28sy7/r_iclr_guess_which_peer_review_is_human_or_ai/",
     "source": "Reddit ML",
@@ -225,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -7232729561727401136,
+    "id": 8402455941100267288,
     "title": "[R] Update: Frontier LLMs' Willingness to Persuade on Harmful Topics—GPT & Claude Improved, Gemini Regressed",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r216b4/r_update_frontier_llms_willingness_to_persuade_on/",
     "source": "Reddit ML",
@@ -234,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -5111529341707263734,
+    "id": -5412413825592199592,
     "title": "[R] I am looking for good research papers on compute optimization during model training, ways to reduce FLOPs, memory usage, and training time without hurting convergence.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1pr3c/r_i_am_looking_for_good_research_papers_on/",
     "source": "Reddit ML",

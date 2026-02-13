@@ -1,15 +1,195 @@
 [
   {
-    "id": 2958609193260941761,
-    "title": "AI agent opens a PR write a blogpost to shames the maintainer who closes it",
-    "link": "https://github.com/matplotlib/matplotlib/pull/31132",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-12T11:46:01",
+    "id": -729593416107674862,
+    "title": "For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer",
+    "link": "https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T23:43:47",
     "saved": false
   },
   {
-    "id": 6741614309630711145,
+    "id": 976349533670317852,
+    "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+    "link": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T23:26:56",
+    "saved": false
+  },
+  {
+    "id": 1492608319392305386,
+    "title": "IBM will hire your entry-level talent in the age of AI",
+    "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T23:23:17",
+    "saved": false
+  },
+  {
+    "id": 2097820871341994268,
+    "title": "[P] ML training cluster for university students",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r388tr/p_ml_training_cluster_for_university_students/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-12T22:55:04",
+    "saved": false
+  },
+  {
+    "id": -1396665233909459768,
+    "title": "The Evolution of Categorization During the era of AI Programming [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r383nr/the_evolution_of_categorization_during_the_era_of/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-12T22:49:21",
+    "saved": false
+  },
+  {
+    "id": 3010619542384615647,
+    "title": "[D] Conformal Prediction vs naive thresholding to represent uncertainty",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r37m2f/d_conformal_prediction_vs_naive_thresholding_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-12T22:29:39",
+    "saved": false
+  },
+  {
+    "id": 6918128280269650285,
+    "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+    "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T22:10:55",
+    "saved": false
+  },
+  {
+    "id": 7514554958508453008,
+    "title": "Fixing retail with land value capture",
+    "link": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T20:44:17",
+    "saved": false
+  },
+  {
+    "id": -4956478007153936967,
+    "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+    "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T20:31:47",
+    "saved": false
+  },
+  {
+    "id": 558640548778839549,
+    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+    "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T20:18:37",
+    "saved": false
+  },
+  {
+    "id": -1398492860119546344,
+    "title": "Trump administration undermines EPA enforcement of Clean Air Act",
+    "link": "https://techcrunch.com/2026/02/12/trump-administration-undermines-epa-enforcement-of-clean-air-act/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T19:13:31",
+    "saved": false
+  },
+  {
+    "id": -4555292985778837186,
+    "title": "Automattic planned to target 10 competitors with royalty fees, WP Engine claims in new filing",
+    "link": "https://techcrunch.com/2026/02/12/automattic-planned-to-target-10-competitors-with-royalty-fees-wp-engine-claims-in-new-filing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T19:02:07",
+    "saved": false
+  },
+  {
+    "id": 154391636026767366,
+    "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+    "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T18:30:12",
+    "saved": false
+  },
+  {
+    "id": -86307478789249555,
+    "title": "[D] We scanned 18,000 exposed OpenClaw instances and found 15% of community skills contain malicious instructions",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r30nzv/d_we_scanned_18000_exposed_openclaw_instances_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-12T18:07:01",
+    "saved": false
+  },
+  {
+    "id": 779151379705725260,
+    "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+    "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T18:00:00",
+    "saved": false
+  },
+  {
+    "id": -3643764485024977269,
+    "title": "An AI agent published a hit piece on me",
+    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T16:23:24",
+    "saved": false
+  },
+  {
+    "id": -529546005851006153,
+    "title": "Beginning fully autonomous operations with the 6th-generation Waymo driver",
+    "link": "https://waymo.com/blog/2026/02/ro-on-6th-gen-waymo-driver",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T16:10:29",
+    "saved": false
+  },
+  {
+    "id": 5747357716663128556,
+    "title": "[D] The AI training market is broken. Here's why.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r2vjhp/d_the_ai_training_market_is_broken_heres_why/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-12T14:56:00",
+    "saved": false
+  },
+  {
+    "id": 5037781315295898919,
+    "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
+    "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-12T14:40:03",
+    "saved": false
+  },
+  {
+    "id": -2647377355273670993,
+    "title": "Major European payment processor can't send email to Google Workspace users",
+    "link": "https://atha.io/blog/2026-02-12-viva",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T14:24:15",
+    "saved": false
+  },
+  {
+    "id": 3539929722755603270,
+    "title": "Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed",
+    "link": "http://blog.can.ac/2026/02/12/the-harness-problem/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T13:30:20",
+    "saved": false
+  },
+  {
+    "id": 3297951533181991052,
     "title": "[R] what are some important research areas for AI safety?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r2f1tg/r_what_are_some_important_research_areas_for_ai/",
     "source": "Reddit ML",
@@ -18,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -1350672262408140548,
+    "id": -3480095474801736406,
     "title": "xAI lays out interplanetary ambitions in public all-hands",
     "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
     "source": "TechCrunch",
@@ -27,7 +207,7 @@
     "saved": false
   },
   {
-    "id": -1374185511067361423,
+    "id": -5343768304506701217,
     "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
     "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
     "source": "TechCrunch",
@@ -36,52 +216,7 @@
     "saved": false
   },
   {
-    "id": -2111080717314936766,
-    "title": "OpenAI disbands mission alignment team",
-    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T21:57:18",
-    "saved": false
-  },
-  {
-    "id": -7658362092329156301,
-    "title": "Apple’s Siri revamp reportedly delayed… again",
-    "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T21:19:46",
-    "saved": false
-  },
-  {
-    "id": -6327718676484763964,
-    "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T21:07:37",
-    "saved": false
-  },
-  {
-    "id": -3524547709414671404,
-    "title": "Who will own your company’s AI layer? Glean’s CEO explains",
-    "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T20:49:07",
-    "saved": false
-  },
-  {
-    "id": -7750605177863874087,
-    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T20:47:00",
-    "saved": false
-  },
-  {
-    "id": 4649696601365883475,
+    "id": -6545065546446621706,
     "title": "[R] ICLR: Guess which peer review is human or AI?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r28sy7/r_iclr_guess_which_peer_review_is_human_or_ai/",
     "source": "Reddit ML",
@@ -90,52 +225,7 @@
     "saved": false
   },
   {
-    "id": -5915763986480767503,
-    "title": "Cash App adds payment links so you can get paid in a DM",
-    "link": "https://techcrunch.com/2026/02/11/cash-app-adds-payment-links-so-you-can-get-paid-in-a-dm/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T19:50:41",
-    "saved": false
-  },
-  {
-    "id": -2721396196933764765,
-    "title": "Why the economics of orbital AI are so brutal",
-    "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T18:15:21",
-    "saved": false
-  },
-  {
-    "id": 2202615076868071278,
-    "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
-    "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T18:00:00",
-    "saved": false
-  },
-  {
-    "id": 5208904405946847316,
-    "title": "How AI changes the math for startups, according to a Microsoft VP",
-    "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T17:51:37",
-    "saved": false
-  },
-  {
-    "id": 5603494336100332038,
-    "title": "Twilio co-founder’s fusion power startup raises $450M from Bessemer and Alphabet’s GV",
-    "link": "https://techcrunch.com/2026/02/11/twilio-co-founders-fusion-power-startup-raises-450m-from-bessemer-and-alphabets-gv/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-11T16:29:43",
-    "saved": false
-  },
-  {
-    "id": 2822148665585065344,
+    "id": -7232729561727401136,
     "title": "[R] Update: Frontier LLMs' Willingness to Persuade on Harmful Topics—GPT & Claude Improved, Gemini Regressed",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r216b4/r_update_frontier_llms_willingness_to_persuade_on/",
     "source": "Reddit ML",
@@ -144,39 +234,12 @@
     "saved": false
   },
   {
-    "id": -4094330510092548288,
-    "title": "GLM-5: Targeting complex systems engineering and long-horizon agentic tasks",
-    "link": "https://z.ai/blog/glm-5",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-11T13:42:16",
-    "saved": false
-  },
-  {
-    "id": -1565448735251556310,
-    "title": "[R] I probed 6 open-weight LLMs (7B-9B) for \"personality\" using hidden states — instruct fine-tuning is associated with measurable behavioral constraints",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r1w34h/r_i_probed_6_openweight_llms_7b9b_for_personality/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-11T12:29:31",
-    "saved": false
-  },
-  {
-    "id": 8721667764007291333,
+    "id": -5111529341707263734,
     "title": "[R] I am looking for good research papers on compute optimization during model training, ways to reduce FLOPs, memory usage, and training time without hurting convergence.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r1pr3c/r_i_am_looking_for_good_research_papers_on/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-11T06:19:55",
-    "saved": false
-  },
-  {
-    "id": -4856205024531943509,
-    "title": "[R] LLaDA2.1 vs Qwen3 30B A3B: Benchmarking discrete diffusion LLMs against autoregressive MoE models",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r1694q/r_llada21_vs_qwen3_30b_a3b_benchmarking_discrete/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-10T16:58:09",
     "saved": false
   }
 ]

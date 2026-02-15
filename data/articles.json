@@ -1,15 +1,51 @@
 [
   {
-    "id": 8164753880492718114,
-    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-    "link": "https://github.com/alichherawalla/off-grid-mobile",
-    "source": "Hacker News",
+    "id": -1596881413351823180,
+    "title": "[D] Issue with Inconsistent Outputs in Agentic AI Model for Financial Calculations (Using Llama)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r5dcwp/d_issue_with_inconsistent_outputs_in_agentic_ai/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-02-14T22:39:24",
+    "date": "2026-02-15T12:23:49",
     "saved": false
   },
   {
-    "id": -8322140411256084962,
+    "id": 1090914793895807665,
+    "title": "Two different tricks for fast LLM inference",
+    "link": "https://www.seangoedecke.com/fast-llm-inference/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-15T09:27:33",
+    "saved": false
+  },
+  {
+    "id": -2349220511904289150,
+    "title": "[R]Arrow Language – A concatenative functional language for formal reasoning about AI processes",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r58z7h/rarrow_language_a_concatenative_functional/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-15T07:58:04",
+    "saved": false
+  },
+  {
+    "id": 6190305085261341954,
+    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
+    "link": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-15T03:29:39",
+    "saved": false
+  },
+  {
+    "id": -1496783657671288388,
+    "title": "I love the work of the ArchWiki maintainers",
+    "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-15T01:20:58",
+    "saved": false
+  },
+  {
+    "id": 953469064644441441,
     "title": "Is safety ‘dead’ at xAI?",
     "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -4866373600400511,
+    "id": -7460736946747996013,
     "title": "We have been building and working on a local AI with memory and persistence [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r4wm64/we_have_been_building_and_working_on_a_local_ai/",
     "source": "Reddit ML",
@@ -27,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -4251382404606315765,
-    "title": "Colored Petri Nets, LLMs, and distributed applications",
-    "link": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-14T21:08:08",
-    "saved": false
-  },
-  {
-    "id": -3342552272902169619,
+    "id": 6377138399704225261,
     "title": "News publishers limit Internet Archive access due to AI scraping concerns",
     "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
     "source": "Hacker News",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3532187737677357518,
+    "id": -1120326593420828965,
     "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
     "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8211561617770697638,
+    "id": 1659319834677232858,
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
     "source": "Hacker News",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -3250537802958655721,
+    "id": -305392526312571808,
     "title": "[P] I trained YOLOX from scratch to avoid Ultralytics' AGPL (aircraft detection on iOS)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r4mcwu/p_i_trained_yolox_from_scratch_to_avoid/",
     "source": "Reddit ML",
@@ -72,7 +99,16 @@
     "saved": false
   },
   {
-    "id": 2591611596323744476,
+    "id": 6826487972266259399,
+    "title": "OpenAI should build Slack",
+    "link": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-14T07:50:13",
+    "saved": false
+  },
+  {
+    "id": -2545076164498115600,
     "title": "Nothing opens its first retail store in India",
     "link": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4172724290727426507,
+    "id": -1821560236409919334,
     "title": "Indian pharmacy chain giant exposed customer data and internal systems",
     "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8730391679251336207,
+    "id": 3343588693604229192,
     "title": "Airbnb plans to bake in AI features for search, discovery and support",
     "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2720656253772577578,
+    "id": 4756728614579587924,
     "title": "[R] Lrec 26 acceptance emails",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r47czy/r_lrec_26_acceptance_emails/",
     "source": "Reddit ML",
@@ -108,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 8054363593600071992,
-    "title": "An AI agent published a hit piece on me – more things have happened",
-    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-14T00:37:53",
-    "saved": false
-  },
-  {
-    "id": 1396480885353888916,
-    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-    "link": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-13T23:34:09",
-    "saved": false
-  },
-  {
-    "id": 4040858697376593852,
+    "id": -6721750086854016232,
     "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
     "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
     "source": "TechCrunch",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7192471506469223749,
+    "id": 2856354492990511743,
     "title": "Why top talent is walking away from OpenAI and xAI",
     "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
     "source": "TechCrunch",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -6308553820200611757,
+    "id": 1135092622995396692,
     "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
     "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
     "source": "TechCrunch",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 1774804584353254275,
+    "id": 4572734496210730595,
     "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
     "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
     "source": "TechCrunch",
@@ -162,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -7099997087682908917,
+    "id": -769982233107796175,
     "title": "[P] SoproTTS v1.5: A 135M zero-shot voice cloning TTS model trained for ~$100 on 1 GPU, running ~20× real-time on the CPU",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r3ul8s/p_soprotts_v15_a_135m_zeroshot_voice_cloning_tts/",
     "source": "Reddit ML",
@@ -171,30 +189,12 @@
     "saved": false
   },
   {
-    "id": -7885901803814719380,
+    "id": -6343441472481872264,
     "title": "[D] ICML: every paper in my review batch contains prompt-injection text embedded in the PDF",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r3oekq/d_icml_every_paper_in_my_review_batch_contains/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-13T12:54:44",
-    "saved": false
-  },
-  {
-    "id": 9132321102458596665,
-    "title": "[P] ML training cluster for university students",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r388tr/p_ml_training_cluster_for_university_students/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-12T22:55:04",
-    "saved": false
-  },
-  {
-    "id": 4855606226340657204,
-    "title": "[D] We scanned 18,000 exposed OpenClaw instances and found 15% of community skills contain malicious instructions",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r30nzv/d_we_scanned_18000_exposed_openclaw_instances_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-12T18:07:01",
     "saved": false
   }
 ]

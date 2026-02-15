@@ -1,15 +1,78 @@
 [
   {
-    "id": 5354924464428966687,
-    "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
-    "link": "https://infosec.exchange/@mttaggart/116065340523529645",
+    "id": 8164753880492718114,
+    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+    "link": "https://github.com/alichherawalla/off-grid-mobile",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-14T09:28:45",
+    "date": "2026-02-14T22:39:24",
     "saved": false
   },
   {
-    "id": -7167634637251460352,
+    "id": -8322140411256084962,
+    "title": "Is safety ‘dead’ at xAI?",
+    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-14T21:55:44",
+    "saved": false
+  },
+  {
+    "id": -4866373600400511,
+    "title": "We have been building and working on a local AI with memory and persistence [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r4wm64/we_have_been_building_and_working_on_a_local_ai/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-14T21:35:09",
+    "saved": false
+  },
+  {
+    "id": -4251382404606315765,
+    "title": "Colored Petri Nets, LLMs, and distributed applications",
+    "link": "https://blog.sao.dev/cpns-llms-distributed-apps/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-14T21:08:08",
+    "saved": false
+  },
+  {
+    "id": -3342552272902169619,
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "link": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-14T18:46:32",
+    "saved": false
+  },
+  {
+    "id": 3532187737677357518,
+    "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
+    "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-14T17:43:46",
+    "saved": false
+  },
+  {
+    "id": -8211561617770697638,
+    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+    "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-14T15:35:47",
+    "saved": false
+  },
+  {
+    "id": -3250537802958655721,
+    "title": "[P] I trained YOLOX from scratch to avoid Ultralytics' AGPL (aircraft detection on iOS)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r4mcwu/p_i_trained_yolox_from_scratch_to_avoid/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-14T14:43:59",
+    "saved": false
+  },
+  {
+    "id": 2591611596323744476,
     "title": "Nothing opens its first retail store in India",
     "link": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
     "source": "TechCrunch",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 9220237187062283323,
+    "id": 4172724290727426507,
     "title": "Indian pharmacy chain giant exposed customer data and internal systems",
     "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
     "source": "TechCrunch",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -315306960761764941,
+    "id": 8730391679251336207,
     "title": "Airbnb plans to bake in AI features for search, discovery and support",
     "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7651637786747557072,
+    "id": -2720656253772577578,
     "title": "[R] Lrec 26 acceptance emails",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r47czy/r_lrec_26_acceptance_emails/",
     "source": "Reddit ML",
@@ -45,7 +108,25 @@
     "saved": false
   },
   {
-    "id": -6619928492820636266,
+    "id": 8054363593600071992,
+    "title": "An AI agent published a hit piece on me – more things have happened",
+    "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-14T00:37:53",
+    "saved": false
+  },
+  {
+    "id": 1396480885353888916,
+    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+    "link": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-13T23:34:09",
+    "saved": false
+  },
+  {
+    "id": 4040858697376593852,
     "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
     "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
     "source": "TechCrunch",
@@ -54,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -634737830037705448,
+    "id": -7192471506469223749,
     "title": "Why top talent is walking away from OpenAI and xAI",
     "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
     "source": "TechCrunch",
@@ -63,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5403651752881830301,
+    "id": -6308553820200611757,
     "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
     "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
     "source": "TechCrunch",
@@ -72,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -897948744541064381,
+    "id": 1774804584353254275,
     "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
     "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
     "source": "TechCrunch",
@@ -81,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4643743139420437489,
+    "id": -7099997087682908917,
     "title": "[P] SoproTTS v1.5: A 135M zero-shot voice cloning TTS model trained for ~$100 on 1 GPU, running ~20× real-time on the CPU",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r3ul8s/p_soprotts_v15_a_135m_zeroshot_voice_cloning_tts/",
     "source": "Reddit ML",
@@ -90,43 +171,7 @@
     "saved": false
   },
   {
-    "id": -2964310972808590466,
-    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "link": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-13T16:11:01",
-    "saved": false
-  },
-  {
-    "id": 3051887043846819616,
-    "title": "Amazon’s Ring cancels partnership with Flock, a network of AI cameras used by ICE, feds, and police",
-    "link": "https://techcrunch.com/2026/02/13/amazons-ring-cancels-partnership-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-13T15:40:15",
-    "saved": false
-  },
-  {
-    "id": -864891349121101347,
-    "title": "[D] Teaching AI to Reason With Just 13 Parameters",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r3rzmt/d_teaching_ai_to_reason_with_just_13_parameters/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-13T15:22:45",
-    "saved": false
-  },
-  {
-    "id": -8656565378670161016,
-    "title": "Meta plans to add facial recognition to its smart glasses, report claims",
-    "link": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-13T14:58:39",
-    "saved": false
-  },
-  {
-    "id": 4129571536653520315,
+    "id": -7885901803814719380,
     "title": "[D] ICML: every paper in my review batch contains prompt-injection text embedded in the PDF",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r3oekq/d_icml_every_paper_in_my_review_batch_contains/",
     "source": "Reddit ML",
@@ -135,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -1100548853592175037,
+    "id": 9132321102458596665,
     "title": "[P] ML training cluster for university students",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r388tr/p_ml_training_cluster_for_university_students/",
     "source": "Reddit ML",
@@ -144,16 +189,7 @@
     "saved": false
   },
   {
-    "id": 2228225363180056279,
-    "title": "[D] Conformal Prediction vs naive thresholding to represent uncertainty",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r37m2f/d_conformal_prediction_vs_naive_thresholding_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-12T22:29:39",
-    "saved": false
-  },
-  {
-    "id": -8024351962535824416,
+    "id": 4855606226340657204,
     "title": "[D] We scanned 18,000 exposed OpenClaw instances and found 15% of community skills contain malicious instructions",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r30nzv/d_we_scanned_18000_exposed_openclaw_instances_and/",
     "source": "Reddit ML",

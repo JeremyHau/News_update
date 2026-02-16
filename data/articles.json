@@ -1,6 +1,51 @@
 [
   {
-    "id": -280573865676203443,
+    "id": -1636667379354894380,
+    "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+    "link": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-16T11:51:25",
+    "saved": false
+  },
+  {
+    "id": -5365195128542288766,
+    "title": "All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-16T11:20:27",
+    "saved": false
+  },
+  {
+    "id": -5195185191846892518,
+    "title": "Anthropic tries to hide Claude's AI actions. Devs hate it",
+    "link": "https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-16T11:06:28",
+    "saved": false
+  },
+  {
+    "id": 6845936459839731398,
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
+    "link": "https://qwen.ai/blog?id=qwen3.5",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-16T09:32:21",
+    "saved": false
+  },
+  {
+    "id": 1138272467265853509,
+    "title": "African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month",
+    "link": "https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-16T08:01:00",
+    "saved": false
+  },
+  {
+    "id": -5328014469270279283,
     "title": "[D] Interview experience for LLM inference systems position",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r5vncj/d_interview_experience_for_llm_inference_systems/",
     "source": "Reddit ML",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -3052061635892219843,
+    "id": 6384606958889497471,
     "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
     "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3457743106113297643,
+    "id": -338526777144022413,
     "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
     "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5119312091434858484,
+    "id": -2117139875685694147,
     "title": "OpenClaw creator Peter Steinberger joins OpenAI",
     "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2475758628027818407,
+    "id": -3817794569338010934,
     "title": "I’m joining OpenAI",
     "link": "https://steipete.me/posts/2026/openclaw",
     "source": "Hacker News",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -3239049184984123895,
+    "id": 30289485066854367,
     "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
     "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
     "source": "TechCrunch",
@@ -54,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 2301449193115619738,
-    "title": "Show HN: Klaw.sh – Kubernetes for AI agents",
-    "link": "https://github.com/klawsh/klaw.sh",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-15T17:22:59",
-    "saved": false
-  },
-  {
-    "id": 4756244200817421958,
+    "id": 7800615653436314290,
     "title": "Can we stop these LLM posts and replies? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r5gogk/can_we_stop_these_llm_posts_and_replies_d/",
     "source": "Reddit ML",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5483862365609999554,
+    "id": 6647950551557096899,
     "title": "Is safety ‘dead’ at xAI?",
     "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7805196863618995502,
+    "id": -308777305856634287,
     "title": "Designer Kate Barton teams up with IBM and Fiducia AI for a NYFW presentation",
     "link": "https://techcrunch.com/2026/02/14/designer-kate-barton-teams-up-with-ibm-and-fiducia-ai-for-a-nyfw-presentation/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8106385004551916029,
+    "id": -4874229921177623249,
     "title": "[P] I trained YOLOX from scratch to avoid Ultralytics' AGPL (aircraft detection on iOS)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r4mcwu/p_i_trained_yolox_from_scratch_to_avoid/",
     "source": "Reddit ML",
@@ -99,39 +135,30 @@
     "saved": false
   },
   {
-    "id": -7722061226094733760,
-    "title": "Nothing opens its first retail store in India",
-    "link": "https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-14T06:30:00",
-    "saved": false
-  },
-  {
-    "id": -786225442681256145,
-    "title": "Indian pharmacy chain giant exposed customer data and internal systems",
-    "link": "https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-14T03:30:00",
-    "saved": false
-  },
-  {
-    "id": -2746142785862261225,
-    "title": "[R] Lrec 26 acceptance emails",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r47czy/r_lrec_26_acceptance_emails/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-14T01:29:38",
-    "saved": false
-  },
-  {
-    "id": 3227833881256923296,
+    "id": 8854462224176188630,
     "title": "[D] ICML: every paper in my review batch contains prompt-injection text embedded in the PDF",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r3oekq/d_icml_every_paper_in_my_review_batch_contains/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-13T12:54:44",
+    "saved": false
+  },
+  {
+    "id": -1461824203650787768,
+    "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+    "link": "https://blog.exe.dev/expensively-quadratic",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-13T07:44:50",
+    "saved": false
+  },
+  {
+    "id": -557133246656452123,
+    "title": "1,300-year-old world chronicle unearthed in Sinai",
+    "link": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-12T04:01:48",
     "saved": false
   }
 ]

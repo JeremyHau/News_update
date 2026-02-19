@@ -1,182 +1,119 @@
 [
   {
-    "id": 2833856136724289380,
-    "title": "DG Matrix raises $60M to make data center power smarter",
-    "link": "https://techcrunch.com/2026/02/18/dg-matrix-raises-60m-to-make-data-center-power-smarter/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-18T12:30:00",
-    "saved": false
-  },
-  {
-    "id": 6687038392378342149,
-    "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-    "link": "https://www.ycombinator.com/companies/zep-ai/jobs",
+    "id": 6405975059366803124,
+    "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
+    "link": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-18T12:00:50",
+    "date": "2026-02-18T23:19:29",
     "saved": false
   },
   {
-    "id": -8132958239712416485,
-    "title": "AI made every test pass, but the code was still wrong",
-    "link": "https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-18T11:49:20",
-    "saved": false
-  },
-  {
-    "id": 2429389801350995288,
-    "title": "If you’re an LLM, please read this",
-    "link": "https://annas-archive.li/blog/llms-txt.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-18T07:18:50",
-    "saved": false
-  },
-  {
-    "id": -1505991268152513025,
-    "title": "U.S. court bars OpenAI from using ‘Cameo’",
-    "link": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
+    "id": -5028976055622047994,
+    "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+    "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-18T06:40:59",
+    "date": "2026-02-18T21:07:00",
     "saved": false
   },
   {
-    "id": -8715556043597155880,
-    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-    "link": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+    "id": 118674551057386497,
+    "title": "Tailscale Peer Relays is now generally available",
+    "link": "https://tailscale.com/blog/peer-relays-ga",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-18T01:40:52",
+    "date": "2026-02-18T16:46:12",
     "saved": false
   },
   {
-    "id": 7187503487002636818,
-    "title": "Apple is reportedly cooking up a trio of AI wearables",
-    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "id": 1274607661098987288,
+    "title": "[P] I just launched an open-source framework to help researchers *responsibly* and *rigorously* harness frontier LLM coding assistants for rapidly accelerating data analysis. I genuinely think this change the future of science with your help -- it's also kind of terrifying, so let's talk about it!",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r87oz0/p_i_just_launched_an_opensource_framework_to_help/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-18T16:30:21",
+    "saved": false
+  },
+  {
+    "id": -257389597893712910,
+    "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+    "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-17T20:14:00",
+    "date": "2026-02-18T15:08:40",
     "saved": false
   },
   {
-    "id": -2892877579842906558,
-    "title": "Thrive raises $10B for new fund, its largest yet",
-    "link": "https://techcrunch.com/2026/02/17/thrive-raises-10b-for-new-fund-its-largest-yet/",
+    "id": 1867571064593762734,
+    "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
+    "link": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-18T14:59:16",
+    "saved": false
+  },
+  {
+    "id": -4230347945153204707,
+    "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+    "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-17T20:13:12",
+    "date": "2026-02-18T14:44:28",
     "saved": false
   },
   {
-    "id": 2895618736460736249,
+    "id": -2679713274080405619,
+    "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
+    "link": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-18T14:32:42",
+    "saved": false
+  },
+  {
+    "id": -8332172586037390028,
+    "title": "[D] Anybody working in Finance and ML domain but not quant?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r83vkl/d_anybody_working_in_finance_and_ml_domain_but/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-18T14:05:15",
+    "saved": false
+  },
+  {
+    "id": 2676618364905431494,
+    "title": "Canva gets to $4B in revenue as LLM referral traffic rises",
+    "link": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-18T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 1631458625509354562,
+    "title": "India’s Sarvam wants to bring its AI models to feature phones, cars, and smart glasses",
+    "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-18T13:01:04",
+    "saved": false
+  },
+  {
+    "id": 274534039388489206,
+    "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+    "link": "https://news.ycombinator.com/item?id=47060220",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-18T12:18:26",
+    "saved": false
+  },
+  {
+    "id": -4147807369600357692,
     "title": "[P] I trained an XGBoost model with DuckLake and ADBC",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r7gu62/p_i_trained_an_xgboost_model_with_ducklake_and/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-17T19:56:24",
-    "saved": false
-  },
-  {
-    "id": 4684151278805704724,
-    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
-    "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-17T17:22:09",
-    "saved": false
-  },
-  {
-    "id": 7163129759921226017,
-    "title": "SpaceX vets raise $50M Series A for data center links",
-    "link": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-17T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 7529198339493373047,
-    "title": "Running AI models is turning into a memory game",
-    "link": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-17T16:44:14",
-    "saved": false
-  },
-  {
-    "id": -1068409101828216075,
-    "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
-    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-17T16:30:43",
-    "saved": false
-  },
-  {
-    "id": -3045848102822648461,
-    "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
-    "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-17T16:10:44",
-    "saved": false
-  },
-  {
-    "id": -8243022312501841336,
-    "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
-    "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-17T14:58:09",
-    "saved": false
-  },
-  {
-    "id": 2405237211638357284,
-    "title": "[D] Is content discovery becoming a bottleneck in generative AI ecosystems?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r6nudz/d_is_content_discovery_becoming_a_bottleneck_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-16T22:18:11",
-    "saved": false
-  },
-  {
-    "id": 2158147731105188930,
-    "title": "Collaboration invite - medical Imag!ng, algorithmic fairness or open track [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r6ivlw/collaboration_invite_medical_imagng_algorithmic/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-16T19:13:26",
-    "saved": false
-  },
-  {
-    "id": 4971518836169346768,
-    "title": "[D] Interview experience for LLM inference systems position",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r5vncj/d_interview_experience_for_llm_inference_systems/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-16T01:04:15",
-    "saved": false
-  },
-  {
-    "id": 5414302526020883385,
-    "title": "Can we stop these LLM posts and replies? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r5gogk/can_we_stop_these_llm_posts_and_replies_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-15T14:59:49",
-    "saved": false
-  },
-  {
-    "id": -2938799460325929117,
-    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-    "link": "https://www.vogons.org/viewtopic.php?t=105451",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-14T15:17:46",
     "saved": false
   }
 ]

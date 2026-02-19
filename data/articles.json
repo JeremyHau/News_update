@@ -1,15 +1,33 @@
 [
   {
-    "id": 6405975059366803124,
-    "title": "Microsoft offers guide to pirating Harry Potter series for LLM training",
-    "link": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-18T23:19:29",
+    "id": -5612056388437635298,
+    "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "link": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-19T11:39:17",
     "saved": false
   },
   {
-    "id": -5028976055622047994,
+    "id": 5186748854657150105,
+    "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
+    "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-19T05:34:25",
+    "saved": false
+  },
+  {
+    "id": -5615806859450846636,
+    "title": "OpenAI deepens India push with Pine Labs fintech partnership",
+    "link": "https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-19T03:30:00",
+    "saved": false
+  },
+  {
+    "id": 6769376781965483119,
     "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
     "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 118674551057386497,
+    "id": 6959743351659819980,
     "title": "Tailscale Peer Relays is now generally available",
     "link": "https://tailscale.com/blog/peer-relays-ga",
     "source": "Hacker News",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1274607661098987288,
+    "id": -2917025718784380424,
     "title": "[P] I just launched an open-source framework to help researchers *responsibly* and *rigorously* harness frontier LLM coding assistants for rapidly accelerating data analysis. I genuinely think this change the future of science with your help -- it's also kind of terrifying, so let's talk about it!",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r87oz0/p_i_just_launched_an_opensource_framework_to_help/",
     "source": "Reddit ML",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -257389597893712910,
+    "id": 2070557589429620277,
     "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
     "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
     "source": "TechCrunch",
@@ -45,34 +63,7 @@
     "saved": false
   },
   {
-    "id": 1867571064593762734,
-    "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
-    "link": "https://resobscura.substack.com/p/what-is-happening-to-writing",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-18T14:59:16",
-    "saved": false
-  },
-  {
-    "id": -4230347945153204707,
-    "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-    "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-18T14:44:28",
-    "saved": false
-  },
-  {
-    "id": -2679713274080405619,
-    "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
-    "link": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-18T14:32:42",
-    "saved": false
-  },
-  {
-    "id": -8332172586037390028,
+    "id": -7591364508019303569,
     "title": "[D] Anybody working in Finance and ML domain but not quant?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r83vkl/d_anybody_working_in_finance_and_ml_domain_but/",
     "source": "Reddit ML",
@@ -81,39 +72,12 @@
     "saved": false
   },
   {
-    "id": 2676618364905431494,
-    "title": "Canva gets to $4B in revenue as LLM referral traffic rises",
-    "link": "https://techcrunch.com/2026/02/18/canva-gets-to-4b-in-revenue-as-llm-referral-traffic-rises/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-18T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 1631458625509354562,
-    "title": "India’s Sarvam wants to bring its AI models to feature phones, cars, and smart glasses",
-    "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-18T13:01:04",
-    "saved": false
-  },
-  {
-    "id": 274534039388489206,
-    "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
-    "link": "https://news.ycombinator.com/item?id=47060220",
+    "id": 4826565710565000483,
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-18T12:18:26",
-    "saved": false
-  },
-  {
-    "id": -4147807369600357692,
-    "title": "[P] I trained an XGBoost model with DuckLake and ADBC",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r7gu62/p_i_trained_an_xgboost_model_with_ducklake_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-17T19:56:24",
+    "date": "2026-02-16T17:57:46",
     "saved": false
   }
 ]

@@ -1,7 +1,61 @@
 [
   {
-    "id": -7148117071351197205,
-    "title": "Google’s new Gemini Pro model has record benchmark scores—again",
+    "id": 4872604421958426059,
+    "title": "[D] FAccT 2026 Paper Reviews (Conference on Fairness, Accountability, and Transparency)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r9trcd/d_facct_2026_paper_reviews_conference_on_fairness/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-20T12:13:19",
+    "saved": false
+  },
+  {
+    "id": 4546831176289790268,
+    "title": "Minions – Stripe's Coding Agents Part 2",
+    "link": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-20T11:20:02",
+    "saved": false
+  },
+  {
+    "id": -6119375513431945079,
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
+    "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-20T10:32:52",
+    "saved": false
+  },
+  {
+    "id": 5092780664332450876,
+    "title": "Web Components: The Framework-Free Renaissance",
+    "link": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-20T08:45:57",
+    "saved": false
+  },
+  {
+    "id": 716810473000431979,
+    "title": "[P] Open source LLM gateway in Rust looking for feedback and contributors",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1r9mbtc/p_open_source_llm_gateway_in_rust_looking_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-20T05:01:16",
+    "saved": false
+  },
+  {
+    "id": -2728913495438019949,
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
+    "link": "https://github.com/tmustier/pi-for-excel",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-20T02:20:06",
+    "saved": false
+  },
+  {
+    "id": -961394285335722843,
+    "title": "Google’s new Gemini Pro model has record benchmark scores — again",
     "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6709809228610164193,
+    "id": 2589033952064087332,
     "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
     "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
     "source": "TechCrunch",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 7155713948042268608,
-    "title": "Single vaccine could protect against all coughs, colds and flus",
-    "link": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-19T22:08:24",
-    "saved": false
-  },
-  {
-    "id": 4717460292513424685,
+    "id": 8742940604331373408,
     "title": "Google says its AI systems helped deter Play Store malware in 2025",
     "link": "https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -1446352290809233780,
+    "id": 6065135583385798236,
     "title": "An AI data center boom is fueling Redwood’s energy storage business",
     "link": "https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/",
     "source": "TechCrunch",
@@ -45,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -5414030225819330634,
-    "title": "We're no longer attracting top talent: the brain drain killing American science",
-    "link": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-19T20:56:23",
-    "saved": false
-  },
-  {
-    "id": 4116831682589985623,
+    "id": -92518922102382746,
     "title": "Why these startup CEOs don’t think AI will replace human roles",
     "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 404943676419831449,
+    "id": -7165683363591305610,
     "title": "YouTube’s latest experiment brings its conversational AI tool to TVs",
     "link": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1110320401746965112,
+    "id": 6529182711476559921,
     "title": "AI is not a coworker, it's an exoskeleton",
     "link": "https://www.kasava.dev/blog/ai-as-exoskeleton",
     "source": "Hacker News",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 3081574298649800001,
+    "id": -366911795807057011,
     "title": "Reddit is testing a new AI search feature for shopping",
     "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
     "source": "TechCrunch",
@@ -90,39 +126,21 @@
     "saved": false
   },
   {
-    "id": 2230791337309333363,
-    "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
-    "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+    "id": 5222659488635204337,
+    "title": "All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-19T15:35:58",
+    "date": "2026-02-19T18:20:00",
     "saved": false
   },
   {
-    "id": -4499168221717819525,
-    "title": "Measuring AI agent autonomy in practice",
-    "link": "https://www.anthropic.com/research/measuring-agent-autonomy",
+    "id": -8882431439086757866,
+    "title": "Defer available in gcc and clang",
+    "link": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-19T14:14:14",
-    "saved": false
-  },
-  {
-    "id": -7995321334823055637,
-    "title": "[D] Anybody working in Finance and ML domain but not quant?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1r83vkl/d_anybody_working_in_finance_and_ml_domain_but/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-18T14:05:15",
-    "saved": false
-  },
-  {
-    "id": -437038457679258338,
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-    "link": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-16T17:57:46",
+    "date": "2026-02-16T05:27:35",
     "saved": false
   }
 ]

@@ -1,6 +1,33 @@
 [
   {
-    "id": 5890333806169539510,
+    "id": 5822672744169526908,
+    "title": "[R] JADS: Joint Aspect Discovery and Summarization — outperforms two-step pipelines by 8-9 ROUGE points with self-supervised training",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1raj0ne/r_jads_joint_aspect_discovery_and_summarization/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-21T05:39:52",
+    "saved": false
+  },
+  {
+    "id": 7994982774605923333,
+    "title": "[D] antaris-suite 3.0 (open source, free) — zero-dependency agent memory, guard, routing, and context management (benchmarks + 3-model code review inside)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rahywr/d_antarissuite_30_open_source_free_zerodependency/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-21T04:45:02",
+    "saved": false
+  },
+  {
+    "id": -646579012944777483,
+    "title": "[P] I built an LLM gateway in Rust because I was tired of API failures",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ragins/p_i_built_an_llm_gateway_in_rust_because_i_was/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-21T03:31:45",
+    "saved": false
+  },
+  {
+    "id": 2621575840602471032,
     "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
     "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 1796128664174446591,
+    "id": -3127466511180714602,
     "title": "[D] How are you actually using AI in your research workflow these days?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rabvqq/d_how_are_you_actually_using_ai_in_your_research/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -6473006423446790844,
+    "id": -1555309751217421032,
     "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
     "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1519261870241899664,
+    "id": 610631234999829235,
     "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
     "link": "https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -724100760991877481,
+    "id": 7943022771426044802,
     "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
     "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7064408429756249292,
+    "id": 3800680773419970337,
     "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
     "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1648941863919509238,
+    "id": -6136232239545406359,
     "title": "InScope nabs $14.5M to solve the pain of financial reporting",
     "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1086305277308028539,
+    "id": 2563878188082858387,
     "title": "Every company building your AI assistant is now an ad company",
     "link": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
     "source": "Hacker News",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3760443547420191851,
+    "id": -4458469613448828515,
     "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
     "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
     "source": "TechCrunch",
@@ -81,25 +108,7 @@
     "saved": false
   },
   {
-    "id": 7156588382316056802,
-    "title": "Uncovering insiders and alpha on Polymarket with AI",
-    "link": "https://twitter.com/peterjliu/status/2024901585806225723",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-20T18:11:02",
-    "saved": false
-  },
-  {
-    "id": -7653593400781705382,
-    "title": "Making frontier cybersecurity capabilities available to defenders",
-    "link": "https://www.anthropic.com/news/claude-code-security",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-20T18:03:19",
-    "saved": false
-  },
-  {
-    "id": -4376456058082882077,
+    "id": -6337606378098632040,
     "title": "Ukrainian man jailed for identity theft that helped North Koreans get jobs at US companies",
     "link": "https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6033359097439282552,
+    "id": -630943853601539750,
     "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
     "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7041978408022059893,
+    "id": -5305870730404265087,
     "title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
     "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5894948415082435433,
+    "id": 4354663535999057852,
     "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
     "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5882203649690139409,
+    "id": -7729559499001553122,
     "title": "OpenAI says 18- to 24-year-olds account for nearly 50% of ChatGPT usage in India",
     "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
     "source": "TechCrunch",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 8653197141160327025,
+    "id": 8198604876535609216,
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
     "source": "Hacker News",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 240813570225782356,
+    "id": -5346067631944448254,
     "title": "The OpenAI mafia: 18 startups founded by alumni",
     "link": "https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/",
     "source": "TechCrunch",
@@ -162,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -3025145977872779270,
+    "id": 6405978916787916808,
     "title": "[D] FAccT 2026 Paper Reviews (Conference on Fairness, Accountability, and Transparency)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r9trcd/d_facct_2026_paper_reviews_conference_on_fairness/",
     "source": "Reddit ML",
@@ -171,21 +180,21 @@
     "saved": false
   },
   {
-    "id": 2913654943438043443,
-    "title": "The path to ubiquitous AI (17k tokens/sec)",
-    "link": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-20T10:32:52",
-    "saved": false
-  },
-  {
-    "id": 8004758680780489165,
+    "id": 2024414633122213888,
     "title": "[P] Open source LLM gateway in Rust looking for feedback and contributors",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1r9mbtc/p_open_source_llm_gateway_in_rust_looking_for/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-20T05:01:16",
+    "saved": false
+  },
+  {
+    "id": -8783771283590705182,
+    "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
+    "link": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-17T12:58:37",
     "saved": false
   }
 ]

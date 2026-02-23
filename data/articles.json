@@ -1,6 +1,42 @@
 [
   {
-    "id": 5756611015441541410,
+    "id": -4745012657114246140,
+    "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
+    "link": "https://llm-timeline.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-23T09:07:44",
+    "saved": false
+  },
+  {
+    "id": -8429428733280108525,
+    "title": "Wispr Flow launches an Android app for AI-powered dictation",
+    "link": "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T08:01:00",
+    "saved": false
+  },
+  {
+    "id": -8831734527869065794,
+    "title": "Pope tells priests to use their brains, not AI, to write homilies",
+    "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-23T07:33:57",
+    "saved": false
+  },
+  {
+    "id": 7439028752750467680,
+    "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
+    "link": "https://bitmovin.com/careers/8023403002/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-23T07:01:20",
+    "saved": false
+  },
+  {
+    "id": -4723621833858681063,
     "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
     "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
     "source": "Hacker News",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -4506417344814895241,
+    "id": 5140364937162088369,
     "title": "Can the creator economy stay afloat in a flood of AI slop?",
     "link": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -4197075538736589603,
+    "id": 3954706282382698822,
     "title": "[P] Ai Learns to play Street Fighter 6",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rbz028/p_ai_learns_to_play_street_fighter_6/",
     "source": "Reddit ML",
@@ -27,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 1459731323288958038,
-    "title": "NanoClaw moved from Apple Containers to Docker",
-    "link": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-22T19:12:50",
-    "saved": false
-  },
-  {
-    "id": 2520310600476345314,
+    "id": -142062341667665650,
     "title": "[P] I built an AI that teaches itself to play Mario from scratch using Python — it starts knowing absolutely nothing",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rbt3l2/p_i_built_an_ai_that_teaches_itself_to_play_mario/",
     "source": "Reddit ML",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4386159749849581025,
+    "id": 1814327279491433862,
     "title": "[P]: Engineering a Deterministic Kill-Switch for Autonomous Agents",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rbruxv/p_engineering_a_deterministic_killswitch_for/",
     "source": "Reddit ML",
@@ -54,7 +81,16 @@
     "saved": false
   },
   {
-    "id": -3481169665191167073,
+    "id": -2658124599340458294,
+    "title": "All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-22T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -7075133877902341272,
     "title": "China’s brain-computer interface industry is racing ahead",
     "link": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -389807380235725339,
+    "id": -7621134321312821421,
     "title": "Man accidentally gains control of 7k robot vacuums",
     "link": "https://www.popsci.com/technology/robot-vacuum-army/",
     "source": "Hacker News",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3828974792647378287,
+    "id": -4279265503463551159,
     "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere",
     "link": "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/",
     "source": "TechCrunch",
@@ -81,25 +117,7 @@
     "saved": false
   },
   {
-    "id": -2093862198883494527,
-    "title": "[D] Scale AI ML Research Engineer interview!! What to expect?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbb4mn/d_scale_ai_ml_research_engineer_interview_what_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-22T03:28:01",
-    "saved": false
-  },
-  {
-    "id": 197561468649769837,
-    "title": "[P] I Trained a Language Model on CPU for 40 Hours - It Beat the GPU Baseline",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbai76/p_i_trained_a_language_model_on_cpu_for_40_hours/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-22T02:57:55",
-    "saved": false
-  },
-  {
-    "id": 1293703490398046909,
+    "id": -531673817817711675,
     "title": "[R] Reinforcement Learning for LLMs explained intuitively",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1raylnk/r_reinforcement_learning_for_llms_explained/",
     "source": "Reddit ML",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2958036506197029859,
+    "id": -7394122674895149487,
     "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
     "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2830377686329736520,
+    "id": -1831444181317658719,
     "title": "Google VP warns that two types of AI startups may not survive",
     "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6411725943990520883,
+    "id": 3568369354141754601,
     "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
     "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
     "source": "TechCrunch",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -3824440265484329823,
+    "id": -9055469576320831702,
     "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
     "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
     "source": "TechCrunch",
@@ -144,39 +162,12 @@
     "saved": false
   },
   {
-    "id": -8869515952477989449,
-    "title": "[D] How are you actually using AI in your research workflow these days?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rabvqq/d_how_are_you_actually_using_ai_in_your_research/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-20T23:59:36",
-    "saved": false
-  },
-  {
-    "id": 4315719648578567115,
+    "id": -5449456786085335746,
     "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
     "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-02-20T23:00:00",
-    "saved": false
-  },
-  {
-    "id": 7497841819863045057,
-    "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
-    "link": "https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T21:00:00",
-    "saved": false
-  },
-  {
-    "id": 4360543130001258577,
-    "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T20:52:48",
     "saved": false
   }
 ]

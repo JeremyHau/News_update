@@ -1,6 +1,78 @@
 [
   {
-    "id": 3274737742560255271,
+    "id": 5756611015441541410,
+    "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+    "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-22T23:07:55",
+    "saved": false
+  },
+  {
+    "id": -4506417344814895241,
+    "title": "Can the creator economy stay afloat in a flood of AI slop?",
+    "link": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-22T22:15:58",
+    "saved": false
+  },
+  {
+    "id": -4197075538736589603,
+    "title": "[P] Ai Learns to play Street Fighter 6",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbz028/p_ai_learns_to_play_street_fighter_6/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-22T21:58:24",
+    "saved": false
+  },
+  {
+    "id": 1459731323288958038,
+    "title": "NanoClaw moved from Apple Containers to Docker",
+    "link": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-22T19:12:50",
+    "saved": false
+  },
+  {
+    "id": 2520310600476345314,
+    "title": "[P] I built an AI that teaches itself to play Mario from scratch using Python — it starts knowing absolutely nothing",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbt3l2/p_i_built_an_ai_that_teaches_itself_to_play_mario/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-22T18:16:57",
+    "saved": false
+  },
+  {
+    "id": 4386159749849581025,
+    "title": "[P]: Engineering a Deterministic Kill-Switch for Autonomous Agents",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbruxv/p_engineering_a_deterministic_killswitch_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-22T17:31:15",
+    "saved": false
+  },
+  {
+    "id": -3481169665191167073,
+    "title": "China’s brain-computer interface industry is racing ahead",
+    "link": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-22T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -389807380235725339,
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "link": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-22T14:44:42",
+    "saved": false
+  },
+  {
+    "id": -3828974792647378287,
     "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere",
     "link": "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/",
     "source": "TechCrunch",
@@ -9,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -7640377826137967341,
-    "title": "[P] A practical failure-mode map for production LLM pipelines (16 patterns, MIT-licensed)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbef5y/p_a_practical_failuremode_map_for_production_llm/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-22T06:22:42",
-    "saved": false
-  },
-  {
-    "id": 4158841402171268077,
+    "id": -2093862198883494527,
     "title": "[D] Scale AI ML Research Engineer interview!! What to expect?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rbb4mn/d_scale_ai_ml_research_engineer_interview_what_to/",
     "source": "Reddit ML",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 238300121690670053,
+    "id": 197561468649769837,
     "title": "[P] I Trained a Language Model on CPU for 40 Hours - It Beat the GPU Baseline",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rbai76/p_i_trained_a_language_model_on_cpu_for_40_hours/",
     "source": "Reddit ML",
@@ -36,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -794401328189155086,
-    "title": "How Taalas “prints” LLM onto a chip?",
-    "link": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-21T19:07:20",
-    "saved": false
-  },
-  {
-    "id": 2250426558270209709,
+    "id": 1293703490398046909,
     "title": "[R] Reinforcement Learning for LLMs explained intuitively",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1raylnk/r_reinforcement_learning_for_llms_explained/",
     "source": "Reddit ML",
@@ -54,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -461553164347118360,
-    "title": "Toyota’s hydrogen-powered Mirai has experienced rapid depreciation",
-    "link": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-21T18:09:24",
-    "saved": false
-  },
-  {
-    "id": -2871808866718527481,
+    "id": -2958036506197029859,
     "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
     "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2079516326068983741,
+    "id": 2830377686329736520,
     "title": "Google VP warns that two types of AI startups may not survive",
     "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4364267173370867279,
+    "id": -6411725943990520883,
     "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
     "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
     "source": "TechCrunch",
@@ -90,34 +135,7 @@
     "saved": false
   },
   {
-    "id": -8575342340692574747,
-    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-    "link": "https://www.koreaherald.com/article/10679206",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-21T14:32:16",
-    "saved": false
-  },
-  {
-    "id": -3417091268147354807,
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "link": "https://github.com/tnm/zclaw",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-21T12:37:52",
-    "saved": false
-  },
-  {
-    "id": 861025847946233872,
-    "title": "[R] JADS: Joint Aspect Discovery and Summarization — outperforms two-step pipelines by 8-9 ROUGE points with self-supervised training",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1raj0ne/r_jads_joint_aspect_discovery_and_summarization/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-21T05:39:52",
-    "saved": false
-  },
-  {
-    "id": -2835350724910198942,
+    "id": -3824440265484329823,
     "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
     "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
     "source": "TechCrunch",
@@ -126,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -186564959878442650,
-    "title": "Claws are now a new layer on top of LLM agents",
-    "link": "https://twitter.com/karpathy/status/2024987174077432126",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-21T00:56:29",
-    "saved": false
-  },
-  {
-    "id": 7036105579996520375,
+    "id": -8869515952477989449,
     "title": "[D] How are you actually using AI in your research workflow these days?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rabvqq/d_how_are_you_actually_using_ai_in_your_research/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -803298127710108578,
+    "id": 4315719648578567115,
     "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
     "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
     "source": "TechCrunch",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4924372232304164675,
+    "id": 7497841819863045057,
     "title": "Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show",
     "link": "https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/",
     "source": "TechCrunch",
@@ -162,57 +171,12 @@
     "saved": false
   },
   {
-    "id": 4564138452181768452,
+    "id": 4360543130001258577,
     "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
     "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-02-20T20:52:48",
-    "saved": false
-  },
-  {
-    "id": 8226598346699776632,
-    "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
-    "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T19:44:22",
-    "saved": false
-  },
-  {
-    "id": 7737980969882646565,
-    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-    "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T19:24:57",
-    "saved": false
-  },
-  {
-    "id": 7389891011600791427,
-    "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
-    "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T18:26:54",
-    "saved": false
-  },
-  {
-    "id": 4973927517311100862,
-    "title": "Ukrainian man jailed for identity theft that helped North Koreans get jobs at US companies",
-    "link": "https://techcrunch.com/2026/02/20/ukrainian-man-jailed-for-identity-theft-that-helped-north-koreans-get-jobs-at-us-companies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T17:38:59",
-    "saved": false
-  },
-  {
-    "id": -5624361527385558913,
-    "title": "‘Toy Story 5’ takes aim at creepy AI toys: ‘I’m always listening’",
-    "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T16:25:54",
     "saved": false
   }
 ]

@@ -1,15 +1,150 @@
 [
   {
-    "id": -4745012657114246140,
-    "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
-    "link": "https://llm-timeline.com/",
-    "source": "Hacker News",
+    "id": 1653218087039734996,
+    "title": "[P] I built an AI alignment engine based on Thermodynamics instead of RLHF. It doesn’t just \"refuse\" unsafe inputs—it physically decouples from them.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rd02u0/p_i_built_an_ai_alignment_engine_based_on/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-02-23T09:07:44",
+    "date": "2026-02-24T01:01:08",
     "saved": false
   },
   {
-    "id": -8429428733280108525,
+    "id": 145379981065602628,
+    "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+    "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-24T00:57:14",
+    "saved": false
+  },
+  {
+    "id": 1100310534688703990,
+    "title": "AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says",
+    "link": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-23T22:55:08",
+    "saved": false
+  },
+  {
+    "id": -3341554646790401084,
+    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+    "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-23T22:11:34",
+    "saved": false
+  },
+  {
+    "id": -7608133565774513528,
+    "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
+    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T21:46:41",
+    "saved": false
+  },
+  {
+    "id": -5461250241242433577,
+    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+    "link": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-23T21:44:28",
+    "saved": false
+  },
+  {
+    "id": 601201438687917028,
+    "title": "[R] Concept Influence: Training Data Attribution via Interpretability (Same performance and 20× faster than influence functions)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rct2c7/r_concept_influence_training_data_attribution_via/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-23T20:33:21",
+    "saved": false
+  },
+  {
+    "id": -8051554998473953059,
+    "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T19:57:27",
+    "saved": false
+  },
+  {
+    "id": 7658201310654082477,
+    "title": "Google’s Cloud AI leads on the three frontiers of model capability",
+    "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T19:18:42",
+    "saved": false
+  },
+  {
+    "id": -351366314050503678,
+    "title": "[P] OpenLanguageModel (OLM): A modular, readable PyTorch LLM library — feedback & contributors welcome",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rcqe3u/p_openlanguagemodel_olm_a_modular_readable/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-23T18:58:59",
+    "saved": false
+  },
+  {
+    "id": -3445687918677811865,
+    "title": "OpenAI calls in the consultants for its enterprise push",
+    "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T18:11:08",
+    "saved": false
+  },
+  {
+    "id": 4178728562096305357,
+    "title": "Guide Labs debuts a new kind of interpretable LLM",
+    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T17:53:28",
+    "saved": false
+  },
+  {
+    "id": -615737943173719607,
+    "title": "[D] Is the move toward Energy-Based Models for reasoning a viable exit from the \"hallucination\" trap of LLMs?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rco6go/d_is_the_move_toward_energybased_models_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-23T17:42:07",
+    "saved": false
+  },
+  {
+    "id": 2779544013453927957,
+    "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T16:55:40",
+    "saved": false
+  },
+  {
+    "id": -381538380042961557,
+    "title": "Spotify rolls out AI-powered  Prompted Playlists to the UK and other markets",
+    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T16:50:36",
+    "saved": false
+  },
+  {
+    "id": 6626940704595249385,
+    "title": "How AI agents could destroy the economy",
+    "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-23T14:44:03",
+    "saved": false
+  },
+  {
+    "id": 6440070753168186405,
     "title": "Wispr Flow launches an Android app for AI-powered dictation",
     "link": "https://techcrunch.com/2026/02/23/wispr-flow-launches-an-android-app-for-ai-powered-dictation/",
     "source": "TechCrunch",
@@ -18,156 +153,12 @@
     "saved": false
   },
   {
-    "id": -8831734527869065794,
-    "title": "Pope tells priests to use their brains, not AI, to write homilies",
-    "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-23T07:33:57",
-    "saved": false
-  },
-  {
-    "id": 7439028752750467680,
-    "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
-    "link": "https://bitmovin.com/careers/8023403002/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-23T07:01:20",
-    "saved": false
-  },
-  {
-    "id": -4723621833858681063,
-    "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-    "link": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-22T23:07:55",
-    "saved": false
-  },
-  {
-    "id": 5140364937162088369,
+    "id": 2105382594198371971,
     "title": "Can the creator economy stay afloat in a flood of AI slop?",
     "link": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-02-22T22:15:58",
-    "saved": false
-  },
-  {
-    "id": 3954706282382698822,
-    "title": "[P] Ai Learns to play Street Fighter 6",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbz028/p_ai_learns_to_play_street_fighter_6/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-22T21:58:24",
-    "saved": false
-  },
-  {
-    "id": -142062341667665650,
-    "title": "[P] I built an AI that teaches itself to play Mario from scratch using Python — it starts knowing absolutely nothing",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbt3l2/p_i_built_an_ai_that_teaches_itself_to_play_mario/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-22T18:16:57",
-    "saved": false
-  },
-  {
-    "id": 1814327279491433862,
-    "title": "[P]: Engineering a Deterministic Kill-Switch for Autonomous Agents",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rbruxv/p_engineering_a_deterministic_killswitch_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-22T17:31:15",
-    "saved": false
-  },
-  {
-    "id": -2658124599340458294,
-    "title": "All the important news from the ongoing India AI Impact Summit",
-    "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-22T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -7075133877902341272,
-    "title": "China’s brain-computer interface industry is racing ahead",
-    "link": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-22T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -7621134321312821421,
-    "title": "Man accidentally gains control of 7k robot vacuums",
-    "link": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-22T14:44:42",
-    "saved": false
-  },
-  {
-    "id": -4279265503463551159,
-    "title": "Move over, Apple: Meet the alternative app stores available in the EU and elsewhere",
-    "link": "https://techcrunch.com/2026/02/22/move-over-apple-meet-the-alternative-app-stores-available-in-the-eu-and-elsewhere/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-22T09:00:21",
-    "saved": false
-  },
-  {
-    "id": -531673817817711675,
-    "title": "[R] Reinforcement Learning for LLMs explained intuitively",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1raylnk/r_reinforcement_learning_for_llms_explained/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-21T18:29:38",
-    "saved": false
-  },
-  {
-    "id": -7394122674895149487,
-    "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-    "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-21T17:41:27",
-    "saved": false
-  },
-  {
-    "id": -1831444181317658719,
-    "title": "Google VP warns that two types of AI startups may not survive",
-    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-21T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 3568369354141754601,
-    "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
-    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-21T15:25:44",
-    "saved": false
-  },
-  {
-    "id": -9055469576320831702,
-    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
-    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-21T01:00:00",
-    "saved": false
-  },
-  {
-    "id": -5449456786085335746,
-    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
-    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-20T23:00:00",
     "saved": false
   }
 ]

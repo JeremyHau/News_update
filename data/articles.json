@@ -1,6 +1,51 @@
 [
   {
-    "id": -235536352406512937,
+    "id": -7957230393428445797,
+    "title": "[R] Systematic Vulnerability in Open-Weight LLMs: Prefill Attacks Achieve Near-Perfect Success Rates Across 50 Models",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-25T11:18:40",
+    "saved": false
+  },
+  {
+    "id": -1329264195559567875,
+    "title": "Show HN: A real-time strategy game that AI agents can play",
+    "link": "https://llmskirmish.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-25T10:02:45",
+    "saved": false
+  },
+  {
+    "id": 2204530289732181967,
+    "title": "LLM=True",
+    "link": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-25T09:05:40",
+    "saved": false
+  },
+  {
+    "id": -9170264696956336427,
+    "title": "[D] Which scaled up AI model or approaches can beat commercial ones?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1re74ao/d_which_scaled_up_ai_model_or_approaches_can_beat/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-25T07:52:09",
+    "saved": false
+  },
+  {
+    "id": -352650952868818632,
+    "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+    "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-25T02:00:00",
+    "saved": false
+  },
+  {
+    "id": -1824806792828796614,
     "title": "Nvidia challenger AI chip startup MatX raised $500M",
     "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 8741536173765685279,
+    "id": -8511278253587958203,
     "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
     "link": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 99973059591970152,
+    "id": -4250294076947941746,
     "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
     "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7980147913913358816,
+    "id": 4664996515812904789,
     "title": "Uber engineers built an AI version of their boss",
     "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
     "source": "TechCrunch",
@@ -36,8 +81,8 @@
     "saved": false
   },
   {
-    "id": 9186576811593999293,
-    "title": "Mercury 2: The fastest reasoning LLM, powered by diffusion",
+    "id": 5085822892512556872,
+    "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
     "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
     "source": "Hacker News",
     "category": "ai",
@@ -45,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -9040098256920172128,
-    "title": "Cell Service for the Fairly Paranoid",
-    "link": "https://www.cape.co/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-24T22:37:54",
-    "saved": false
-  },
-  {
-    "id": 1933045372912757210,
+    "id": -6129143266960783316,
     "title": "Former L3Harris Trenchant boss jailed for selling hacking tools to Russian broker",
     "link": "https://techcrunch.com/2026/02/24/former-l3harris-trenchant-boss-jailed-for-selling-hacking-tools-to-russian-broker/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2879430096521535375,
+    "id": 3320066634924588272,
     "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
     "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
     "source": "TechCrunch",
@@ -72,25 +108,7 @@
     "saved": false
   },
   {
-    "id": -8817924842020766521,
-    "title": "How we rebuilt Next.js with AI in one week",
-    "link": "https://blog.cloudflare.com/vinext/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-24T20:07:00",
-    "saved": false
-  },
-  {
-    "id": -5675043219887768966,
-    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-    "link": "https://vmfunc.re/blog/persona/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-24T18:23:03",
-    "saved": false
-  },
-  {
-    "id": 4243163912747808417,
+    "id": -3343191837309489801,
     "title": "Show HN: Emdash – Open-source agentic development environment",
     "link": "https://github.com/generalaction/emdash",
     "source": "Hacker News",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 5611837535860990520,
+    "id": 7658641009171157489,
     "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
     "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
     "source": "TechCrunch",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 5973285405025442089,
-    "title": "[R] 91k production agent interactions (Feb 1–23, 2026): distribution shift toward tool-chain escalation + multimodal injection — notes on multilabel detection + evaluation",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rdm7gj/r_91k_production_agent_interactions_feb_123_2026/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-24T17:14:34",
-    "saved": false
-  },
-  {
-    "id": 3811609254154061891,
+    "id": -8408885457041684030,
     "title": "[R] Understanding targeted LLM fine-tuning",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rdiciv/r_understanding_targeted_llm_finetuning/",
     "source": "Reddit ML",
@@ -126,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 8299213919922897742,
-    "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-    "link": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-24T12:58:14",
-    "saved": false
-  },
-  {
-    "id": -2196573408266179399,
+    "id": 739941360705880049,
     "title": "[D] How much are you using LLMs to summarize/read papers now?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rdcw0o/d_how_much_are_you_using_llms_to_summarizeread/",
     "source": "Reddit ML",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2026281307116518415,
+    "id": 7894078391149271416,
     "title": "[R] Prompt Repetition Shows Null Result on Agentic Engineering Tasks (n=20, blind scored)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rd3g2t/r_prompt_repetition_shows_null_result_on_agentic/",
     "source": "Reddit ML",
@@ -153,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4673027787539003304,
+    "id": -5827923064302017192,
     "title": "[R] Concept Influence: Training Data Attribution via Interpretability (Same performance and 20× faster than influence functions)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rct2c7/r_concept_influence_training_data_attribution_via/",
     "source": "Reddit ML",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 5352164276668545408,
+    "id": 6331075752496307972,
     "title": "[P] OpenLanguageModel (OLM): A modular, readable PyTorch LLM library — feedback & contributors welcome",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rcqe3u/p_openlanguagemodel_olm_a_modular_readable/",
     "source": "Reddit ML",
@@ -171,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -780558122355615459,
+    "id": 1678710517444538310,
     "title": "[D] Is the move toward Energy-Based Models for reasoning a viable exit from the \"hallucination\" trap of LLMs?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rco6go/d_is_the_move_toward_energybased_models_for/",
     "source": "Reddit ML",

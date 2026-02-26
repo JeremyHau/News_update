@@ -1,6 +1,24 @@
 [
   {
-    "id": 8394540233762738231,
+    "id": 912804169053498017,
+    "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+    "link": "https://news.ycombinator.com/item?id=47163885",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-26T09:35:08",
+    "saved": false
+  },
+  {
+    "id": 3679285504036875532,
+    "title": "[D] Mobile-MCP: Letting LLMs autonomously discover Android app capabilities (no pre-coordination required)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rf1u76/d_mobilemcp_letting_llms_autonomously_discover/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-26T05:36:21",
+    "saved": false
+  },
+  {
+    "id": -1788752709760060573,
     "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
     "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
     "source": "TechCrunch",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 1670733960422870873,
+    "id": -1075597488010590535,
     "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
     "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
     "source": "TechCrunch",
@@ -18,7 +36,16 @@
     "saved": false
   },
   {
-    "id": 1350057237748338725,
+    "id": -6809390588533933619,
+    "title": "How will OpenAI compete?",
+    "link": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-25T22:29:25",
+    "saved": false
+  },
+  {
+    "id": -4673354425041618575,
     "title": "[P] Reproducing Google’s Nested Learning / HOPE in PyTorch (mechanism-faithful implementation + reproducible tooling and library)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1res42m/p_reproducing_googles_nested_learning_hope_in/",
     "source": "Reddit ML",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -691509911682594713,
+    "id": 4191108273868772427,
     "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
     "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4206556355631154295,
+    "id": 1080054625388075292,
     "title": "An accountant won a big jackpot on Kalshi by betting against DOGE",
     "link": "https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1507805818238428130,
+    "id": 2299539061953077593,
     "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
     "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8845805537440103603,
+    "id": -6003210985956623548,
     "title": "The public opposition to AI infrastructure is heating up",
     "link": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2401214175984302052,
+    "id": 1215661315360572060,
     "title": "OpenAI COO says ads will be ‘an iterative process’",
     "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4337166369096763752,
+    "id": 8847120289796915441,
     "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
     "link": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
     "source": "TechCrunch",
@@ -81,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -1773460196396819436,
-    "title": "About 12% of US teens turn to AI for emotional support or advice",
-    "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T15:52:03",
-    "saved": false
-  },
-  {
-    "id": 259127511448208968,
+    "id": 6701593948552995323,
     "title": "[R] Large-Scale Online Deanonymization with LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1reee40/r_largescale_online_deanonymization_with_llms/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -4010155512672768915,
+    "id": 7321493632565779016,
     "title": "[R] Systematic Vulnerability in Open-Weight LLMs: Prefill Attacks Achieve Near-Perfect Success Rates Across 50 Models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/",
     "source": "Reddit ML",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 7694402194824806341,
-    "title": "[D] Which scaled up AI model or approaches can beat commercial ones?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1re74ao/d_which_scaled_up_ai_model_or_approaches_can_beat/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-25T07:52:09",
-    "saved": false
-  },
-  {
-    "id": -7378592855003729356,
+    "id": 7851017999468806118,
     "title": "Large-Scale Online Deanonymization with LLMs",
     "link": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
     "source": "Hacker News",
@@ -126,12 +135,12 @@
     "saved": false
   },
   {
-    "id": 955684790290876097,
-    "title": "[D] How much are you using LLMs to summarize/read papers now?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rdcw0o/d_how_much_are_you_using_llms_to_summarizeread/",
-    "source": "Reddit ML",
+    "id": 8177941191677358200,
+    "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+    "link": "https://simonbergerart.com",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-24T10:41:55",
+    "date": "2026-02-22T16:25:48",
     "saved": false
   }
 ]

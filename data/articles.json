@@ -1,6 +1,33 @@
 [
   {
-    "id": -5580025642574870370,
+    "id": 4747566223520364098,
+    "title": "[D] MICCAI 2026, Submission completed yesterday and saved, but still \"Intention-to-submit registered\"",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rg0xsm/d_miccai_2026_submission_completed_yesterday_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-27T08:14:54",
+    "saved": false
+  },
+  {
+    "id": 6506255088708006886,
+    "title": "Plaid valued at $8B in employee share sale",
+    "link": "https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T07:19:05",
+    "saved": false
+  },
+  {
+    "id": -5036370825168160345,
+    "title": "[D] Waiting for PhD thesis examination results is affecting my mental health",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfua88/d_waiting_for_phd_thesis_examination_results_is/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-27T02:26:57",
+    "saved": false
+  },
+  {
+    "id": 2852232353802104858,
     "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
     "link": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -5980349516862839028,
+    "id": 2775151356923339720,
     "title": "So, we’re getting Prada Meta AI glasses, right?",
     "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8232642787640993543,
+    "id": -6850361357552286716,
     "title": "Sophia Space raises $10M seed to demo novel space computers",
     "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1716666026061680083,
+    "id": -6167888790132314869,
     "title": "Mistral AI inks a deal with global consulting giant Accenture",
     "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
     "source": "TechCrunch",
@@ -36,34 +63,7 @@
     "saved": false
   },
   {
-    "id": -5456997107053983971,
-    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
-    "link": "https://www.usecardboard.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-26T18:38:38",
-    "saved": false
-  },
-  {
-    "id": 7406538940672114201,
-    "title": "[r] Guess if this ICLR review is human or AI?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfhwf8/r_guess_if_this_iclr_review_is_human_or_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-26T18:19:29",
-    "saved": false
-  },
-  {
-    "id": 577380887292560183,
-    "title": "[D] Dissertation uses ANNs--what do I do with all the training data?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfg9l1/d_dissertation_uses_annswhat_do_i_do_with_all_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-26T17:21:42",
-    "saved": false
-  },
-  {
-    "id": -45785445485037088,
+    "id": -790118255557593971,
     "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
     "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1767729361317121302,
+    "id": 5477088568532067476,
     "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
     "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -6763748791290530976,
+    "id": -7655159154062922821,
     "title": "Self-driving truck startup Einride raises $113M PIPE ahead of public debut",
     "link": "https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 2262654452806762295,
+    "id": 3327429916145832620,
     "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
     "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
     "source": "Hacker News",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8663413769314581936,
+    "id": -4244432852358302295,
     "title": "[D] AI Audio Hackathon in Santa Clara (March 20–22) | Looking for ML builders [Free Event]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rfcm1n/d_ai_audio_hackathon_in_santa_clara_march_2022/",
     "source": "Reddit ML",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 4644818133688984456,
+    "id": -4372774547336735398,
     "title": "[P] Reproducing Google’s Nested Learning / HOPE in PyTorch (mechanism-faithful implementation + reproducible tooling and library)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1res42m/p_reproducing_googles_nested_learning_hope_in/",
     "source": "Reddit ML",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2858639065427147406,
+    "id": 6345810486081689899,
     "title": "[R] Large-Scale Online Deanonymization with LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1reee40/r_largescale_online_deanonymization_with_llms/",
     "source": "Reddit ML",

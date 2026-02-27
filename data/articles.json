@@ -1,51 +1,114 @@
 [
   {
-    "id": 912804169053498017,
-    "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
-    "link": "https://news.ycombinator.com/item?id=47163885",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-26T09:35:08",
+    "id": -5580025642574870370,
+    "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
+    "link": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-26T21:04:23",
     "saved": false
   },
   {
-    "id": 3679285504036875532,
-    "title": "[D] Mobile-MCP: Letting LLMs autonomously discover Android app capabilities (no pre-coordination required)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rf1u76/d_mobilemcp_letting_llms_autonomously_discover/",
+    "id": -5980349516862839028,
+    "title": "So, we’re getting Prada Meta AI glasses, right?",
+    "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-26T20:11:55",
+    "saved": false
+  },
+  {
+    "id": 8232642787640993543,
+    "title": "Sophia Space raises $10M seed to demo novel space computers",
+    "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-26T19:55:20",
+    "saved": false
+  },
+  {
+    "id": -1716666026061680083,
+    "title": "Mistral AI inks a deal with global consulting giant Accenture",
+    "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-26T19:17:27",
+    "saved": false
+  },
+  {
+    "id": -5456997107053983971,
+    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+    "link": "https://www.usecardboard.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-26T18:38:38",
+    "saved": false
+  },
+  {
+    "id": 7406538940672114201,
+    "title": "[r] Guess if this ICLR review is human or AI?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfhwf8/r_guess_if_this_iclr_review_is_human_or_ai/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-02-26T05:36:21",
+    "date": "2026-02-26T18:19:29",
     "saved": false
   },
   {
-    "id": -1788752709760060573,
-    "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
-    "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+    "id": 577380887292560183,
+    "title": "[D] Dissertation uses ANNs--what do I do with all the training data?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfg9l1/d_dissertation_uses_annswhat_do_i_do_with_all_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-26T17:21:42",
+    "saved": false
+  },
+  {
+    "id": -45785445485037088,
+    "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+    "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-26T00:00:00",
+    "date": "2026-02-26T17:00:00",
     "saved": false
   },
   {
-    "id": -1075597488010590535,
-    "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
-    "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+    "id": 1767729361317121302,
+    "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
+    "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-02-25T23:49:19",
+    "date": "2026-02-26T16:38:59",
     "saved": false
   },
   {
-    "id": -6809390588533933619,
-    "title": "How will OpenAI compete?",
-    "link": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "id": -6763748791290530976,
+    "title": "Self-driving truck startup Einride raises $113M PIPE ahead of public debut",
+    "link": "https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-26T16:32:31",
+    "saved": false
+  },
+  {
+    "id": 2262654452806762295,
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-25T22:29:25",
+    "date": "2026-02-26T15:55:48",
     "saved": false
   },
   {
-    "id": -4673354425041618575,
+    "id": -8663413769314581936,
+    "title": "[D] AI Audio Hackathon in Santa Clara (March 20–22) | Looking for ML builders [Free Event]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfcm1n/d_ai_audio_hackathon_in_santa_clara_march_2022/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-26T15:08:31",
+    "saved": false
+  },
+  {
+    "id": 4644818133688984456,
     "title": "[P] Reproducing Google’s Nested Learning / HOPE in PyTorch (mechanism-faithful implementation + reproducible tooling and library)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1res42m/p_reproducing_googles_nested_learning_hope_in/",
     "source": "Reddit ML",
@@ -54,93 +117,12 @@
     "saved": false
   },
   {
-    "id": 4191108273868772427,
-    "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-    "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T20:42:14",
-    "saved": false
-  },
-  {
-    "id": 1080054625388075292,
-    "title": "An accountant won a big jackpot on Kalshi by betting against DOGE",
-    "link": "https://techcrunch.com/2026/02/25/an-accountant-won-a-big-jackpot-on-kalshi-by-betting-against-doge/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T19:36:03",
-    "saved": false
-  },
-  {
-    "id": 2299539061953077593,
-    "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-    "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T19:10:04",
-    "saved": false
-  },
-  {
-    "id": -6003210985956623548,
-    "title": "The public opposition to AI infrastructure is heating up",
-    "link": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T19:03:34",
-    "saved": false
-  },
-  {
-    "id": 1215661315360572060,
-    "title": "OpenAI COO says ads will be ‘an iterative process’",
-    "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T17:37:37",
-    "saved": false
-  },
-  {
-    "id": 8847120289796915441,
-    "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
-    "link": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-25T16:54:46",
-    "saved": false
-  },
-  {
-    "id": 6701593948552995323,
+    "id": -2858639065427147406,
     "title": "[R] Large-Scale Online Deanonymization with LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1reee40/r_largescale_online_deanonymization_with_llms/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-25T14:16:51",
-    "saved": false
-  },
-  {
-    "id": 7321493632565779016,
-    "title": "[R] Systematic Vulnerability in Open-Weight LLMs: Prefill Attacks Achieve Near-Perfect Success Rates Across 50 Models",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-25T11:18:40",
-    "saved": false
-  },
-  {
-    "id": 7851017999468806118,
-    "title": "Large-Scale Online Deanonymization with LLMs",
-    "link": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-24T17:18:17",
-    "saved": false
-  },
-  {
-    "id": 8177941191677358200,
-    "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
-    "link": "https://simonbergerart.com",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-22T16:25:48",
     "saved": false
   }
 ]

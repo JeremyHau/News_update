@@ -1,6 +1,69 @@
 [
   {
-    "id": -6239885524414348371,
+    "id": 7137337054209006894,
+    "title": "OpenAI – How to delete your account",
+    "link": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-28T10:41:55",
+    "saved": false
+  },
+  {
+    "id": -999539699447457829,
+    "title": "The Future of AI",
+    "link": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-28T10:41:53",
+    "saved": false
+  },
+  {
+    "id": 7586030244439989000,
+    "title": "[D] MICCAI 2026 Submission guidelines",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rgxibl/d_miccai_2026_submission_guidelines/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-28T08:38:28",
+    "saved": false
+  },
+  {
+    "id": 829882627875506201,
+    "title": "[D] Sandboxing multimodal agents for UI interaction.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rgw0js/d_sandboxing_multimodal_agents_for_ui_interaction/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-28T07:09:13",
+    "saved": false
+  },
+  {
+    "id": 5613440569877645967,
+    "title": "US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway",
+    "link": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-28T06:34:07",
+    "saved": false
+  },
+  {
+    "id": -502008488822644107,
+    "title": "Advice Needed: What AI/ML Topic Would Be Most Useful for a Tech Talk to a Non-ML Tech Team? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rgswtj/advice_needed_what_aiml_topic_would_be_most/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-28T04:19:23",
+    "saved": false
+  },
+  {
+    "id": -3685094831909400620,
+    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+    "link": "https://twitter.com/sama/status/2027578652477821175",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-28T02:59:02",
+    "saved": false
+  },
+  {
+    "id": -8097541592620968110,
     "title": "OpenAI fires employee for using confidential info on prediction markets",
     "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
     "source": "TechCrunch",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -2842772527704117935,
+    "id": -1512406939415661929,
     "title": "[R] ContextCache: Persistent KV Cache with Content-Hash Addressing — 29x TTFT speedup for tool-calling LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rglj2n/r_contextcache_persistent_kv_cache_with/",
     "source": "Reddit ML",
@@ -18,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 2011480685803229662,
-    "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
-    "link": "https://twitter.com/secwar/status/2027507717469049070",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-27T22:31:18",
-    "saved": false
-  },
-  {
-    "id": -3797087428193776576,
+    "id": -1194802140116443265,
     "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
     "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4076908426405963665,
+    "id": 6715992596191459678,
     "title": "[D] Edge AI Projects on Jetson Orin – Ideas?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rghtsb/d_edge_ai_projects_on_jetson_orin_ideas/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2139299190396826912,
+    "id": -1512500855963103897,
     "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
     "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3830889810971258007,
+    "id": -6390497308480943717,
     "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
     "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2743557537893347422,
+    "id": -1626833998972214304,
     "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
     "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -1939983287802791094,
+    "id": -496326640320562803,
     "title": "Perplexity’s new Computer is another bet that users need many AI models",
     "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2554259496834857788,
+    "id": -2060336753140924521,
     "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
     "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
     "source": "TechCrunch",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 4281214017252916800,
+    "id": -2039885132900079200,
     "title": "OpenAI raises $110B on $730B pre-money valuation",
     "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
     "source": "Hacker News",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6443214743344174724,
+    "id": 4727678178596674881,
     "title": "After Zomato, Deepinder Goyal returns with a $54M brain-monitoring bet",
     "link": "https://techcrunch.com/2026/02/27/after-zomato-deepinder-goyal-returns-with-a-54m-brain-monitoring-bet/",
     "source": "TechCrunch",
@@ -108,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 2653769489787912808,
-    "title": "Get free Claude max 20x for open-source maintainers",
-    "link": "https://claude.com/contact-sales/claude-for-oss",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-27T09:08:58",
-    "saved": false
-  },
-  {
-    "id": -4992454093874692881,
+    "id": -7661548280186808389,
     "title": "[D] MICCAI 2026, Submission completed yesterday and saved, but still \"Intention-to-submit registered\"",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rg0xsm/d_miccai_2026_submission_completed_yesterday_and/",
     "source": "Reddit ML",
@@ -126,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -1523718180407777555,
+    "id": 1487115707371294183,
     "title": "Plaid valued at $8B in employee share sale",
     "link": "https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/",
     "source": "TechCrunch",
@@ -135,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 5220396589413591591,
+    "id": 8162365564743955190,
     "title": "[D] Waiting for PhD thesis examination results is affecting my mental health",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rfua88/d_waiting_for_phd_thesis_examination_results_is/",
     "source": "Reddit ML",
@@ -144,21 +189,21 @@
     "saved": false
   },
   {
-    "id": 1192792934228409037,
+    "id": 7661346313380160129,
+    "title": "SHELL: Global Tool for Calling and Chaining Procedures in the System (1965) [pdf]",
+    "link": "https://people.csail.mit.edu/saltzer/Multics/Multics-Documents/MDN/MDN-4.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-26T15:40:42",
+    "saved": false
+  },
+  {
+    "id": 5426673681787269882,
     "title": "[D] AI Audio Hackathon in Santa Clara (March 20–22) | Looking for ML builders [Free Event]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rfcm1n/d_ai_audio_hackathon_in_santa_clara_march_2022/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-26T15:08:31",
-    "saved": false
-  },
-  {
-    "id": 4259351171770723647,
-    "title": "[P] Reproducing Google’s Nested Learning / HOPE in PyTorch (mechanism-faithful implementation + reproducible tooling and library)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1res42m/p_reproducing_googles_nested_learning_hope_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-25T22:29:11",
     "saved": false
   }
 ]

@@ -1,6 +1,123 @@
 [
   {
-    "id": 4747566223520364098,
+    "id": -6239885524414348371,
+    "title": "OpenAI fires employee for using confidential info on prediction markets",
+    "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T23:00:54",
+    "saved": false
+  },
+  {
+    "id": -2842772527704117935,
+    "title": "[R] ContextCache: Persistent KV Cache with Content-Hash Addressing — 29x TTFT speedup for tool-calling LLMs",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rglj2n/r_contextcache_persistent_kv_cache_with/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-27T22:47:57",
+    "saved": false
+  },
+  {
+    "id": 2011480685803229662,
+    "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+    "link": "https://twitter.com/secwar/status/2027507717469049070",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-27T22:31:18",
+    "saved": false
+  },
+  {
+    "id": -3797087428193776576,
+    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T21:53:14",
+    "saved": false
+  },
+  {
+    "id": 4076908426405963665,
+    "title": "[D] Edge AI Projects on Jetson Orin – Ideas?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rghtsb/d_edge_ai_projects_on_jetson_orin_ideas/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-02-27T20:24:46",
+    "saved": false
+  },
+  {
+    "id": 2139299190396826912,
+    "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+    "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T19:42:00",
+    "saved": false
+  },
+  {
+    "id": 3830889810971258007,
+    "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+    "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T17:22:02",
+    "saved": false
+  },
+  {
+    "id": -2743557537893347422,
+    "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
+    "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T17:17:18",
+    "saved": false
+  },
+  {
+    "id": -1939983287802791094,
+    "title": "Perplexity’s new Computer is another bet that users need many AI models",
+    "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T17:00:55",
+    "saved": false
+  },
+  {
+    "id": -2554259496834857788,
+    "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+    "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T16:23:58",
+    "saved": false
+  },
+  {
+    "id": 4281214017252916800,
+    "title": "OpenAI raises $110B on $730B pre-money valuation",
+    "link": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-27T14:56:05",
+    "saved": false
+  },
+  {
+    "id": 6443214743344174724,
+    "title": "After Zomato, Deepinder Goyal returns with a $54M brain-monitoring bet",
+    "link": "https://techcrunch.com/2026/02/27/after-zomato-deepinder-goyal-returns-with-a-54m-brain-monitoring-bet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-02-27T14:40:39",
+    "saved": false
+  },
+  {
+    "id": 2653769489787912808,
+    "title": "Get free Claude max 20x for open-source maintainers",
+    "link": "https://claude.com/contact-sales/claude-for-oss",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-02-27T09:08:58",
+    "saved": false
+  },
+  {
+    "id": -4992454093874692881,
     "title": "[D] MICCAI 2026, Submission completed yesterday and saved, but still \"Intention-to-submit registered\"",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rg0xsm/d_miccai_2026_submission_completed_yesterday_and/",
     "source": "Reddit ML",
@@ -9,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6506255088708006886,
+    "id": -1523718180407777555,
     "title": "Plaid valued at $8B in employee share sale",
     "link": "https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/",
     "source": "TechCrunch",
@@ -18,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5036370825168160345,
+    "id": 5220396589413591591,
     "title": "[D] Waiting for PhD thesis examination results is affecting my mental health",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rfua88/d_waiting_for_phd_thesis_examination_results_is/",
     "source": "Reddit ML",
@@ -27,79 +144,7 @@
     "saved": false
   },
   {
-    "id": 2852232353802104858,
-    "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
-    "link": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T21:04:23",
-    "saved": false
-  },
-  {
-    "id": 2775151356923339720,
-    "title": "So, we’re getting Prada Meta AI glasses, right?",
-    "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T20:11:55",
-    "saved": false
-  },
-  {
-    "id": -6850361357552286716,
-    "title": "Sophia Space raises $10M seed to demo novel space computers",
-    "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T19:55:20",
-    "saved": false
-  },
-  {
-    "id": -6167888790132314869,
-    "title": "Mistral AI inks a deal with global consulting giant Accenture",
-    "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T19:17:27",
-    "saved": false
-  },
-  {
-    "id": -790118255557593971,
-    "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
-    "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 5477088568532067476,
-    "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
-    "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T16:38:59",
-    "saved": false
-  },
-  {
-    "id": -7655159154062922821,
-    "title": "Self-driving truck startup Einride raises $113M PIPE ahead of public debut",
-    "link": "https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-26T16:32:31",
-    "saved": false
-  },
-  {
-    "id": 3327429916145832620,
-    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-    "link": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-26T15:55:48",
-    "saved": false
-  },
-  {
-    "id": -4244432852358302295,
+    "id": 1192792934228409037,
     "title": "[D] AI Audio Hackathon in Santa Clara (March 20–22) | Looking for ML builders [Free Event]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rfcm1n/d_ai_audio_hackathon_in_santa_clara_march_2022/",
     "source": "Reddit ML",
@@ -108,21 +153,12 @@
     "saved": false
   },
   {
-    "id": -4372774547336735398,
+    "id": 4259351171770723647,
     "title": "[P] Reproducing Google’s Nested Learning / HOPE in PyTorch (mechanism-faithful implementation + reproducible tooling and library)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1res42m/p_reproducing_googles_nested_learning_hope_in/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-02-25T22:29:11",
-    "saved": false
-  },
-  {
-    "id": 6345810486081689899,
-    "title": "[R] Large-Scale Online Deanonymization with LLMs",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1reee40/r_largescale_online_deanonymization_with_llms/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-25T14:16:51",
     "saved": false
   }
 ]

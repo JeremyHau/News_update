@@ -1,15 +1,24 @@
 [
   {
-    "id": -6121315362733363163,
-    "title": "Show HN: Xmloxide – an agent made rust replacement for libxml2",
-    "link": "https://github.com/jonwiggins/xmloxide",
-    "source": "Hacker News",
+    "id": -1581174252759890978,
+    "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-02-28T23:44:41",
+    "date": "2026-03-01T11:21:16",
     "saved": false
   },
   {
-    "id": 3948702159520096954,
+    "id": -2526814341783538223,
+    "title": "10-202: Introduction to Modern AI (CMU)",
+    "link": "https://modernaicourse.org",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-01T07:35:03",
+    "saved": false
+  },
+  {
+    "id": -5827508872446141822,
     "title": "We do not think Anthropic should be designated as a supply chain risk",
     "link": "https://twitter.com/OpenAI/status/2027846016423321831",
     "source": "Hacker News",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 5304325121806745218,
+    "id": 1534367944976151153,
     "title": "The billion-dollar infrastructure deals powering the AI boom",
     "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 911811902345436709,
+    "id": -472521525445646577,
     "title": "[R] AudioMuse-AI-DCLAP - LAION CLAP distilled for text to music",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rh82jp/r_audiomuseaidclap_laion_clap_distilled_for_text/",
     "source": "Reddit ML",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 269138991344822104,
+    "id": 706286432562708520,
     "title": "[D] AI/ML PhD Committee",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rh6v3s/d_aiml_phd_committee/",
     "source": "Reddit ML",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7852522636177952472,
+    "id": 3968908386547045068,
     "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
     "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -1120191694370032335,
+    "id": -3714741316404153619,
     "title": "[P] A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rh5f8o/p_a_dream_of_spring_for_openweight_llms_10/",
     "source": "Reddit ML",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5601249229917987330,
+    "id": -2140065438654041075,
     "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
     "link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7763760439539553290,
+    "id": 1703338927180970294,
     "title": "[D] MICCAI 2026 Submission guidelines",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rgxibl/d_miccai_2026_submission_guidelines/",
     "source": "Reddit ML",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -461644556060842033,
+    "id": 7415455284981721257,
     "title": "Advice Needed: What AI/ML Topic Would Be Most Useful for a Tech Talk to a Non-ML Tech Team? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rgswtj/advice_needed_what_aiml_topic_would_be_most/",
     "source": "Reddit ML",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2836167926838266654,
+    "id": -8875789196712024379,
     "title": "OpenAI fires employee for using confidential info on prediction markets",
     "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2465249516700740656,
+    "id": 2403836923046380676,
     "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
     "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2488892707927274892,
+    "id": 5445649906098282891,
     "title": "[D] Edge AI Projects on Jetson Orin – Ideas?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rghtsb/d_edge_ai_projects_on_jetson_orin_ideas/",
     "source": "Reddit ML",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -675161216138696822,
+    "id": 984506141478306235,
     "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
     "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5690688333919667380,
+    "id": 219161157374591597,
     "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
     "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
     "source": "TechCrunch",
@@ -135,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 7703623966006992054,
-    "title": "747s and Coding Agents",
-    "link": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-27T17:22:00",
-    "saved": false
-  },
-  {
-    "id": -5085011418999599076,
+    "id": 6983233598718618228,
     "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
     "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
     "source": "TechCrunch",
@@ -153,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4632496288259469522,
+    "id": -7957311799749760620,
     "title": "Perplexity’s new Computer is another bet that users need many AI models",
     "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
     "source": "TechCrunch",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 8074698919429601451,
+    "id": -8346261619905784336,
     "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
     "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
     "source": "TechCrunch",
@@ -171,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 3646114253620195076,
+    "id": -1683543118125870547,
     "title": "[D] MICCAI 2026, Submission completed yesterday and saved, but still \"Intention-to-submit registered\"",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rg0xsm/d_miccai_2026_submission_completed_yesterday_and/",
     "source": "Reddit ML",
@@ -180,21 +180,12 @@
     "saved": false
   },
   {
-    "id": 1550870639974862076,
-    "title": "[D] Waiting for PhD thesis examination results is affecting my mental health",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rfua88/d_waiting_for_phd_thesis_examination_results_is/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-27T02:26:57",
-    "saved": false
-  },
-  {
-    "id": -5683994922837509132,
-    "title": "Deterministic Programming with LLMs",
-    "link": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "id": 1875563088173513330,
+    "title": "Pigeons and Planes Has a Website Again",
+    "link": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-25T22:17:29",
+    "date": "2026-02-26T10:51:29",
     "saved": false
   }
 ]

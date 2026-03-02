@@ -1,6 +1,42 @@
 [
   {
-    "id": -1581174252759890978,
+    "id": 4828667223073896692,
+    "title": "WebMCP is available for early preview",
+    "link": "https://developer.chrome.com/blog/webmcp-epp",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-01T22:13:58",
+    "saved": false
+  },
+  {
+    "id": -276336650524937092,
+    "title": "[P] R2IR & R2ID: Resolution Invariant Image Resampler and Diffuser - Trained on 1:1 32x32 images, generalized to arbitrary aspect ratio and resolution, diffuses 4MP images at 4 steps per second.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ri2rwx/p_r2ir_r2id_resolution_invariant_image_resampler/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-01T17:12:05",
+    "saved": false
+  },
+  {
+    "id": -4943972565851340797,
+    "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
+    "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-01T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -1969861164541175340,
+    "title": "OpenAI reveals more details about its agreement with the Pentagon",
+    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-01T16:30:10",
+    "saved": false
+  },
+  {
+    "id": 4421774256821283954,
     "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
     "source": "Reddit ML",
@@ -9,25 +45,16 @@
     "saved": false
   },
   {
-    "id": -2526814341783538223,
-    "title": "10-202: Introduction to Modern AI (CMU)",
-    "link": "https://modernaicourse.org",
+    "id": 2580436594308477369,
+    "title": "Microgpt explained interactively",
+    "link": "https://growingswe.com/blog/microgpt",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-01T07:35:03",
+    "date": "2026-03-01T09:43:43",
     "saved": false
   },
   {
-    "id": -5827508872446141822,
-    "title": "We do not think Anthropic should be designated as a supply chain risk",
-    "link": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-28T21:24:16",
-    "saved": false
-  },
-  {
-    "id": 1534367944976151153,
+    "id": -2903799693467434470,
     "title": "The billion-dollar infrastructure deals powering the AI boom",
     "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -472521525445646577,
+    "id": -6557228656864598889,
     "title": "[R] AudioMuse-AI-DCLAP - LAION CLAP distilled for text to music",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rh82jp/r_audiomuseaidclap_laion_clap_distilled_for_text/",
     "source": "Reddit ML",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 706286432562708520,
+    "id": 6776596887823692128,
     "title": "[D] AI/ML PhD Committee",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rh6v3s/d_aiml_phd_committee/",
     "source": "Reddit ML",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 3968908386547045068,
+    "id": 4675169037547470868,
     "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
     "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -3714741316404153619,
+    "id": 2984414301355680183,
     "title": "[P] A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rh5f8o/p_a_dream_of_spring_for_openweight_llms_10/",
     "source": "Reddit ML",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2140065438654041075,
+    "id": -3805364345206198182,
     "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
     "link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1703338927180970294,
+    "id": -5464208608816918939,
     "title": "[D] MICCAI 2026 Submission guidelines",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rgxibl/d_miccai_2026_submission_guidelines/",
     "source": "Reddit ML",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 7415455284981721257,
+    "id": -2744365451153231244,
     "title": "Advice Needed: What AI/ML Topic Would Be Most Useful for a Tech Talk to a Non-ML Tech Team? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rgswtj/advice_needed_what_aiml_topic_would_be_most/",
     "source": "Reddit ML",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -8875789196712024379,
+    "id": 5504041618641087160,
     "title": "OpenAI fires employee for using confidential info on prediction markets",
     "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
     "source": "TechCrunch",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2403836923046380676,
+    "id": -3380820851118032174,
     "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
     "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5445649906098282891,
+    "id": -106955199375554916,
     "title": "[D] Edge AI Projects on Jetson Orin – Ideas?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rghtsb/d_edge_ai_projects_on_jetson_orin_ideas/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 984506141478306235,
+    "id": 8979302394024945470,
     "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
     "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
     "source": "TechCrunch",
@@ -135,57 +162,12 @@
     "saved": false
   },
   {
-    "id": 219161157374591597,
-    "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
-    "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T17:22:02",
-    "saved": false
-  },
-  {
-    "id": 6983233598718618228,
-    "title": "Apple and Netflix team up to air Formula 1 Canadian Grand Prix",
-    "link": "https://techcrunch.com/2026/02/27/apple-and-netflix-team-up-to-air-formula-1-canadian-grand-prix/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T17:17:18",
-    "saved": false
-  },
-  {
-    "id": -7957311799749760620,
-    "title": "Perplexity’s new Computer is another bet that users need many AI models",
-    "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T17:00:55",
-    "saved": false
-  },
-  {
-    "id": -8346261619905784336,
-    "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
-    "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T16:23:58",
-    "saved": false
-  },
-  {
-    "id": -1683543118125870547,
-    "title": "[D] MICCAI 2026, Submission completed yesterday and saved, but still \"Intention-to-submit registered\"",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rg0xsm/d_miccai_2026_submission_completed_yesterday_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-27T08:14:54",
-    "saved": false
-  },
-  {
-    "id": 1875563088173513330,
-    "title": "Pigeons and Planes Has a Website Again",
-    "link": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+    "id": 8884406811141151237,
+    "title": "Python Type Checker Comparison: Empty Container Inference",
+    "link": "https://pyrefly.org/blog/container-inference-comparison/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-02-26T10:51:29",
+    "date": "2026-02-25T13:45:02",
     "saved": false
   }
 ]

@@ -1,6 +1,24 @@
 [
   {
-    "id": -6368562230038896874,
+    "id": 1454376883130915737,
+    "title": "[D] frontier models are a zero sum game for a few tasks - what they gain in reasoning they lose in your specific thing",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rjmmmv/d_frontier_models_are_a_zero_sum_game_for_a_few/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-03T11:13:01",
+    "saved": false
+  },
+  {
+    "id": -6656198877007314192,
+    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+    "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-03T01:12:30",
+    "saved": false
+  },
+  {
+    "id": -3047240984671014420,
     "title": "Stripe wants to turn your AI costs into a profit center",
     "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
     "source": "TechCrunch",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 5850984198103075093,
+    "id": 8835666867658292766,
     "title": "No one has a good plan for how AI companies should work with the government",
     "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
     "source": "TechCrunch",
@@ -18,7 +36,16 @@
     "saved": false
   },
   {
-    "id": -3222306925030976235,
+    "id": 8753359636050582357,
+    "title": "Meta’s AI smart glasses and data privacy concerns",
+    "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-02T22:32:35",
+    "saved": false
+  },
+  {
+    "id": -5232015113708896815,
     "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
     "link": "https://www.ntik.me/posts/voice-agent",
     "source": "Hacker News",
@@ -27,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -515028544820855644,
-    "title": "[P] Vera: a programming language designed for LLMs to write",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rj5moq/p_vera_a_programming_language_designed_for_llms/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-02T21:20:40",
-    "saved": false
-  },
-  {
-    "id": -4566505640311382151,
+    "id": 2416820238291620855,
     "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
     "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 676420687639728702,
+    "id": 7773025965482090361,
     "title": "X adds ‘Paid Partnership’ labels so creators can ditch the hashtags",
     "link": "https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1160551373932667071,
+    "id": 5226205403547035436,
     "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
     "link": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -6428292156094569952,
+    "id": -1463831176552821259,
     "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
     "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6058489885183523119,
+    "id": 3099471308892579650,
     "title": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
     "link": "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2228349543425666528,
+    "id": -336454577057340585,
     "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
     "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
     "source": "Hacker News",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8799300640406758917,
+    "id": 305376486589131395,
     "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
     "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2682981157715612214,
+    "id": -617233125199299025,
     "title": "Hackers and internet outages hit Iran amid US air strikes",
     "link": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3975336017156557230,
+    "id": 411681733755729871,
     "title": "New iPad Air, powered by M4",
     "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
     "source": "Hacker News",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6539782404989696663,
+    "id": 7384022188781134323,
     "title": "MyFitnessPal has acquired Cal AI, the viral calorie app built by teens",
     "link": "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5427247824686890817,
+    "id": 3028220027083553675,
     "title": "[P] easy-torch-tpu: Making it easy to train PyTorch-based models on Google TPUs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rigxhy/p_easytorchtpu_making_it_easy_to_train/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -6278298924211581076,
+    "id": -8551035489103216454,
     "title": "[P] R2IR & R2ID: Resolution Invariant Image Resampler and Diffuser - Trained on 1:1 32x32 images, generalized to arbitrary aspect ratio and resolution, diffuses 4MP images at 4 steps per second.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ri2rwx/p_r2ir_r2id_resolution_invariant_image_resampler/",
     "source": "Reddit ML",
@@ -144,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -5794624733927706872,
-    "title": "Against Query Based Compilers",
-    "link": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-01T12:54:47",
-    "saved": false
-  },
-  {
-    "id": -7277257754010202334,
+    "id": 4875486966364897981,
     "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
     "source": "Reddit ML",

@@ -1,6 +1,132 @@
 [
   {
-    "id": -7599381152259877812,
+    "id": -6368562230038896874,
+    "title": "Stripe wants to turn your AI costs into a profit center",
+    "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T23:18:27",
+    "saved": false
+  },
+  {
+    "id": 5850984198103075093,
+    "title": "No one has a good plan for how AI companies should work with the government",
+    "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T22:59:10",
+    "saved": false
+  },
+  {
+    "id": -3222306925030976235,
+    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+    "link": "https://www.ntik.me/posts/voice-agent",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-02T21:23:40",
+    "saved": false
+  },
+  {
+    "id": -515028544820855644,
+    "title": "[P] Vera: a programming language designed for LLMs to write",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rj5moq/p_vera_a_programming_language_designed_for_llms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-02T21:20:40",
+    "saved": false
+  },
+  {
+    "id": -4566505640311382151,
+    "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T17:18:34",
+    "saved": false
+  },
+  {
+    "id": 676420687639728702,
+    "title": "X adds ‘Paid Partnership’ labels so creators can ditch the hashtags",
+    "link": "https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T16:25:08",
+    "saved": false
+  },
+  {
+    "id": 1160551373932667071,
+    "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
+    "link": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T16:11:56",
+    "saved": false
+  },
+  {
+    "id": -6428292156094569952,
+    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T15:14:36",
+    "saved": false
+  },
+  {
+    "id": -6058489885183523119,
+    "title": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
+    "link": "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T15:06:20",
+    "saved": false
+  },
+  {
+    "id": -2228349543425666528,
+    "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+    "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-02T14:54:58",
+    "saved": false
+  },
+  {
+    "id": 8799300640406758917,
+    "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
+    "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T14:53:14",
+    "saved": false
+  },
+  {
+    "id": -2682981157715612214,
+    "title": "Hackers and internet outages hit Iran amid US air strikes",
+    "link": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T14:16:53",
+    "saved": false
+  },
+  {
+    "id": 3975336017156557230,
+    "title": "New iPad Air, powered by M4",
+    "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-02T14:11:23",
+    "saved": false
+  },
+  {
+    "id": 6539782404989696663,
+    "title": "MyFitnessPal has acquired Cal AI, the viral calorie app built by teens",
+    "link": "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-02T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -5427247824686890817,
     "title": "[P] easy-torch-tpu: Making it easy to train PyTorch-based models on Google TPUs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rigxhy/p_easytorchtpu_making_it_easy_to_train/",
     "source": "Reddit ML",
@@ -9,34 +135,7 @@
     "saved": false
   },
   {
-    "id": 2548895015490813980,
-    "title": "If AI writes code, should the session be part of the commit?",
-    "link": "https://github.com/mandel-macaque/memento",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-02T00:27:52",
-    "saved": false
-  },
-  {
-    "id": -5568798608378549121,
-    "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
-    "link": "https://github.com/AlexsJones/llmfit",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-01T23:15:16",
-    "saved": false
-  },
-  {
-    "id": -4229336993818931569,
-    "title": "WebMCP is available for early preview",
-    "link": "https://developer.chrome.com/blog/webmcp-epp",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-01T22:13:58",
-    "saved": false
-  },
-  {
-    "id": -3795559681780041813,
+    "id": -6278298924211581076,
     "title": "[P] R2IR & R2ID: Resolution Invariant Image Resampler and Diffuser - Trained on 1:1 32x32 images, generalized to arbitrary aspect ratio and resolution, diffuses 4MP images at 4 steps per second.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ri2rwx/p_r2ir_r2id_resolution_invariant_image_resampler/",
     "source": "Reddit ML",
@@ -45,102 +144,21 @@
     "saved": false
   },
   {
-    "id": -8248088414194525673,
-    "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
-    "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-01T17:00:00",
+    "id": -5794624733927706872,
+    "title": "Against Query Based Compilers",
+    "link": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-01T12:54:47",
     "saved": false
   },
   {
-    "id": 5535218734245869140,
-    "title": "OpenAI reveals more details about its agreement with the Pentagon",
-    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-01T16:30:10",
-    "saved": false
-  },
-  {
-    "id": 4449172607884687361,
+    "id": -7277257754010202334,
     "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-01T11:21:16",
-    "saved": false
-  },
-  {
-    "id": -8587048559688592059,
-    "title": "The billion-dollar infrastructure deals powering the AI boom",
-    "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-28T20:41:55",
-    "saved": false
-  },
-  {
-    "id": -1074682731149051145,
-    "title": "[D] AI/ML PhD Committee",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rh6v3s/d_aiml_phd_committee/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-02-28T16:25:29",
-    "saved": false
-  },
-  {
-    "id": -7705684587381934713,
-    "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-28T16:17:36",
-    "saved": false
-  },
-  {
-    "id": 4162687915914779443,
-    "title": "Xiaomi launches 17 Ultra smartphone, an AirTag clone, and an ultra slim powerbank",
-    "link": "https://techcrunch.com/2026/02/28/xiaomi-launches-17-ultra-smartphone-an-airtag-clone-and-an-ultra-slim-powerbank/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-28T15:09:03",
-    "saved": false
-  },
-  {
-    "id": 4709664485908984603,
-    "title": "OpenAI fires employee for using confidential info on prediction markets",
-    "link": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T23:00:54",
-    "saved": false
-  },
-  {
-    "id": 1189430479055508196,
-    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T21:53:14",
-    "saved": false
-  },
-  {
-    "id": -2011750258260884409,
-    "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
-    "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-02-27T19:42:00",
-    "saved": false
-  },
-  {
-    "id": -2929513775539001001,
-    "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
-    "link": "https://copyrightlately.com/mondrian-public-domain-controversy/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-02-27T15:28:57",
     "saved": false
   }
 ]

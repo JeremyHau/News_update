@@ -1,150 +1,141 @@
 [
   {
-    "id": 1454376883130915737,
-    "title": "[D] frontier models are a zero sum game for a few tasks - what they gain in reasoning they lose in your specific thing",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rjmmmv/d_frontier_models_are_a_zero_sum_game_for_a_few/",
+    "id": 472835144255357741,
+    "title": "Why AI startups are selling the same equity at two different prices",
+    "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-04T00:31:25",
+    "saved": false
+  },
+  {
+    "id": 8206005285337861629,
+    "title": "Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal",
+    "link": "https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-04T00:10:38",
+    "saved": false
+  },
+  {
+    "id": 7462673717315881645,
+    "title": "[P] *Free Code* Real-time voice-to-voice with your LLM & full reasoning LLM interface (Telegram + 25 tools, vision, docs, memory) on a Mac Studio running Qwen 3.5 35B — 100% local, zero API cost. Full build open-sourced. cloudfare + n8n + Pipecat + MLX unlock insane possibilities on consumer hardwar",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rk66ay/p_free_code_realtime_voicetovoice_with_your_llm/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-03T11:13:01",
+    "date": "2026-03-04T00:08:52",
     "saved": false
   },
   {
-    "id": -6656198877007314192,
-    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-    "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+    "id": 8493614038611249933,
+    "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+    "link": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-03T01:12:30",
+    "date": "2026-03-03T23:34:05",
     "saved": false
   },
   {
-    "id": -3047240984671014420,
-    "title": "Stripe wants to turn your AI costs into a profit center",
-    "link": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/",
+    "id": 3613885356633489249,
+    "title": "Alibaba’s Qwen tech lead steps down after major AI push",
+    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-03-02T23:18:27",
+    "date": "2026-03-03T23:16:36",
     "saved": false
   },
   {
-    "id": 8835666867658292766,
-    "title": "No one has a good plan for how AI companies should work with the government",
-    "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+    "id": 4568204941421446091,
+    "title": "[P] I trained Qwen2.5-1.5b with RLVR (GRPO) vs SFT and compared benchmark performance",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rk2kcz/p_i_trained_qwen2515b_with_rlvr_grpo_vs_sft_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-03T21:44:35",
+    "saved": false
+  },
+  {
+    "id": 541028248246272832,
+    "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
+    "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-03-02T22:59:10",
+    "date": "2026-03-03T21:44:09",
     "saved": false
   },
   {
-    "id": 8753359636050582357,
-    "title": "Meta’s AI smart glasses and data privacy concerns",
-    "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "id": -5110505769222151058,
+    "title": "Anduril aims at $60 billion valuation in new funding round",
+    "link": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-03T20:06:45",
+    "saved": false
+  },
+  {
+    "id": -5242507017621261349,
+    "title": "Android users can now share tracker tag info with airlines to help locate lost luggage",
+    "link": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-03T19:00:00",
+    "saved": false
+  },
+  {
+    "id": -285108362339965416,
+    "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+    "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-03T18:27:47",
+    "saved": false
+  },
+  {
+    "id": 3912083196902779520,
+    "title": "Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran",
+    "link": "https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-03T17:37:59",
+    "saved": false
+  },
+  {
+    "id": -5061560294944765784,
+    "title": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
+    "link": "https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-03T17:27:37",
+    "saved": false
+  },
+  {
+    "id": 8217984904234418964,
+    "title": "When AI writes the software, who verifies it?",
+    "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-02T22:32:35",
+    "date": "2026-03-03T16:34:53",
     "saved": false
   },
   {
-    "id": -5232015113708896815,
-    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-    "link": "https://www.ntik.me/posts/voice-agent",
+    "id": 1130577464436432839,
+    "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
+    "link": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-03T15:41:36",
+    "saved": false
+  },
+  {
+    "id": -3930816800890999861,
+    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+    "link": "https://news.ycombinator.com/item?id=47232903",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-02T21:23:40",
+    "date": "2026-03-03T14:30:58",
     "saved": false
   },
   {
-    "id": 2416820238291620855,
-    "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
-    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T17:18:34",
-    "saved": false
-  },
-  {
-    "id": 7773025965482090361,
-    "title": "X adds ‘Paid Partnership’ labels so creators can ditch the hashtags",
-    "link": "https://techcrunch.com/2026/03/02/x-ads-paid-partnership-labels-for-creators-so-they-can-ditch-the-hashtags/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T16:25:08",
-    "saved": false
-  },
-  {
-    "id": 5226205403547035436,
-    "title": "Hacktivists claim to have hacked Homeland Security to release ICE contract data",
-    "link": "https://techcrunch.com/2026/03/02/hacktivists-claim-to-have-hacked-homeland-security-to-release-ice-contract-data/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T16:11:56",
-    "saved": false
-  },
-  {
-    "id": -1463831176552821259,
-    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T15:14:36",
-    "saved": false
-  },
-  {
-    "id": 3099471308892579650,
-    "title": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
-    "link": "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T15:06:20",
-    "saved": false
-  },
-  {
-    "id": -336454577057340585,
-    "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-    "link": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-02T14:54:58",
-    "saved": false
-  },
-  {
-    "id": 305376486589131395,
-    "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
-    "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T14:53:14",
-    "saved": false
-  },
-  {
-    "id": -617233125199299025,
-    "title": "Hackers and internet outages hit Iran amid US air strikes",
-    "link": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T14:16:53",
-    "saved": false
-  },
-  {
-    "id": 411681733755729871,
-    "title": "New iPad Air, powered by M4",
-    "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-02T14:11:23",
-    "saved": false
-  },
-  {
-    "id": 7384022188781134323,
-    "title": "MyFitnessPal has acquired Cal AI, the viral calorie app built by teens",
-    "link": "https://techcrunch.com/2026/03/02/myfitnesspal-has-acquired-cal-ai-the-viral-calorie-app-built-by-teens/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-02T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 3028220027083553675,
+    "id": -8817855781272226182,
     "title": "[P] easy-torch-tpu: Making it easy to train PyTorch-based models on Google TPUs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rigxhy/p_easytorchtpu_making_it_easy_to_train/",
     "source": "Reddit ML",
@@ -153,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -8551035489103216454,
-    "title": "[P] R2IR & R2ID: Resolution Invariant Image Resampler and Diffuser - Trained on 1:1 32x32 images, generalized to arbitrary aspect ratio and resolution, diffuses 4MP images at 4 steps per second.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ri2rwx/p_r2ir_r2id_resolution_invariant_image_resampler/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-01T17:12:05",
-    "saved": false
-  },
-  {
-    "id": 4875486966364897981,
+    "id": 5616069040881324688,
     "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
     "source": "Reddit ML",

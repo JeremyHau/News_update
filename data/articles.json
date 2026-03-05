@@ -1,7 +1,79 @@
 [
   {
-    "id": -4147292085954485108,
-    "title": "Anthropic CEO calls OpenAI's messaging around military deal 'straight up lies'",
+    "id": -4021903506528481618,
+    "title": "[D] Ijcai 2026 reviews",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rle02j/d_ijcai_2026_reviews/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-05T10:18:31",
+    "saved": false
+  },
+  {
+    "id": -7612011431603955181,
+    "title": "[D] Impact of EU AI Act on your work?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rldp59/d_impact_of_eu_ai_act_on_your_work/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-05T10:00:22",
+    "saved": false
+  },
+  {
+    "id": 1128168524978120022,
+    "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
+    "link": "https://netbsd-jails.petermann-digital.de/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-05T07:23:40",
+    "saved": false
+  },
+  {
+    "id": -9167590980680390690,
+    "title": "[P] Bypassing CoreML to natively train a 110M Transformer on the Apple Neural Engine (Orion)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rl9k3r/p_bypassing_coreml_to_natively_train_a_110m/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-05T05:51:36",
+    "saved": false
+  },
+  {
+    "id": -3396186974187815420,
+    "title": "Relicensing with AI-Assisted Rewrite",
+    "link": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-05T05:07:33",
+    "saved": false
+  },
+  {
+    "id": -4906433551553115690,
+    "title": "[P] I built an open cognitive architecture for Android that maintains persistent beliefs, doubts, and goals across conversations. 13-section reasoning pipeline, local knowledge graph, flat cost at scale. Free.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rl7nnd/p_i_built_an_open_cognitive_architecture_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-05T04:13:51",
+    "saved": false
+  },
+  {
+    "id": 2670791391035310815,
+    "title": "The L in \"LLM\" Stands for Lying",
+    "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-05T04:02:32",
+    "saved": false
+  },
+  {
+    "id": -2003819552550613996,
+    "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+    "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-05T01:08:28",
+    "saved": false
+  },
+  {
+    "id": 360997969825383198,
+    "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
     "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
     "source": "Hacker News",
     "category": "ai",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 3466344136542377293,
+    "id": 3161560400266622592,
     "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
     "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
     "source": "TechCrunch",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2525825716050289857,
+    "id": -8239423028590292701,
     "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
     "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
     "source": "TechCrunch",
@@ -27,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 2047506124084486975,
-    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
-    "link": "https://roboflow.com/careers",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-04T17:49:44",
-    "saved": false
-  },
-  {
-    "id": 8007326453279076785,
+    "id": -474705423396854729,
     "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
     "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1090700153825956156,
+    "id": 5985667636557215538,
     "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
     "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1945731170073895350,
+    "id": 7744540507277385823,
     "title": "[R] IJCAI-ECAI'26 Summary Rejects status",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rkln6n/r_ijcaiecai26_summary_rejects_status/",
     "source": "Reddit ML",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6709097588074819874,
+    "id": 470861843923758475,
     "title": "Eight Sleep raises $50M at $1.5B valuation",
     "link": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
     "source": "TechCrunch",
@@ -72,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 835846021594797780,
+    "id": 2556766952181519744,
     "title": "[P] I open-sourced a synth framework for creating physics-simulated humanoids in Unity with MuJoCo -- train them with on-device RL and interact in VR",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rkf5rn/p_i_opensourced_a_synth_framework_for_creating/",
     "source": "Reddit ML",
@@ -81,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -80383944410721595,
-    "title": "[D] Quantified analysis of 2,218 Gary Marcus claims - two independent LLM pipelines, scored against evidence",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rk8e5p/d_quantified_analysis_of_2218_gary_marcus_claims/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-04T01:45:38",
-    "saved": false
-  },
-  {
-    "id": 558832943516615419,
+    "id": 344718987492331619,
     "title": "Why AI startups are selling the same equity at two different prices",
     "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
     "source": "TechCrunch",
@@ -99,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -4487014312550216801,
-    "title": "Alibaba’s Qwen tech lead steps down after major AI push",
-    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T23:16:36",
-    "saved": false
-  },
-  {
-    "id": 6713341647234167516,
+    "id": 1096611835322867856,
     "title": "[P] I trained Qwen2.5-1.5b with RLVR (GRPO) vs SFT and compared benchmark performance",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rk2kcz/p_i_trained_qwen2515b_with_rlvr_grpo_vs_sft_and/",
     "source": "Reddit ML",
@@ -117,12 +162,21 @@
     "saved": false
   },
   {
-    "id": 2482220250358501732,
-    "title": "[P] easy-torch-tpu: Making it easy to train PyTorch-based models on Google TPUs",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rigxhy/p_easytorchtpu_making_it_easy_to_train/",
-    "source": "Reddit ML",
+    "id": 8631511271603465699,
+    "title": "AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time",
+    "link": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-02T02:39:21",
+    "date": "2026-03-02T11:51:57",
+    "saved": false
+  },
+  {
+    "id": 2741704790949595393,
+    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+    "link": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-01T16:49:46",
     "saved": false
   }
 ]

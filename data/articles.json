@@ -1,15 +1,69 @@
 [
   {
-    "id": 1070428667057605605,
-    "title": "Users fume over Outlook.com email 'carnage'",
-    "link": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "id": -4147292085954485108,
+    "title": "Anthropic CEO calls OpenAI's messaging around military deal 'straight up lies'",
+    "link": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-04T11:33:46",
+    "date": "2026-03-04T23:51:10",
     "saved": false
   },
   {
-    "id": 4442282362968739892,
+    "id": 3466344136542377293,
+    "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+    "link": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-04T21:43:58",
+    "saved": false
+  },
+  {
+    "id": -2525825716050289857,
+    "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+    "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-04T18:50:58",
+    "saved": false
+  },
+  {
+    "id": 2047506124084486975,
+    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+    "link": "https://roboflow.com/careers",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-04T17:49:44",
+    "saved": false
+  },
+  {
+    "id": 8007326453279076785,
+    "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+    "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-04T14:58:36",
+    "saved": false
+  },
+  {
+    "id": 1090700153825956156,
+    "title": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
+    "link": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-04T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -1945731170073895350,
+    "title": "[R] IJCAI-ECAI'26 Summary Rejects status",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rkln6n/r_ijcaiecai26_summary_rejects_status/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-04T13:37:48",
+    "saved": false
+  },
+  {
+    "id": -6709097588074819874,
     "title": "Eight Sleep raises $50M at $1.5B valuation",
     "link": "https://techcrunch.com/2026/03/04/eight-sleep-raises-50m-at-1-5b-valuation/",
     "source": "TechCrunch",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -3189707310640090439,
-    "title": "Bet on German Train Delays",
-    "link": "https://bahn.bet",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-04T09:42:20",
-    "saved": false
-  },
-  {
-    "id": 3006605006354029682,
+    "id": 835846021594797780,
     "title": "[P] I open-sourced a synth framework for creating physics-simulated humanoids in Unity with MuJoCo -- train them with on-device RL and interact in VR",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rkf5rn/p_i_opensourced_a_synth_framework_for_creating/",
     "source": "Reddit ML",
@@ -36,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -5014438279054951477,
-    "title": "Agentic Engineering Patterns",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-04T05:00:37",
-    "saved": false
-  },
-  {
-    "id": -7763577327230954063,
+    "id": -80383944410721595,
     "title": "[D] Quantified analysis of 2,218 Gary Marcus claims - two independent LLM pipelines, scored against evidence",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rk8e5p/d_quantified_analysis_of_2218_gary_marcus_claims/",
     "source": "Reddit ML",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2138367805841860092,
+    "id": 558832943516615419,
     "title": "Why AI startups are selling the same equity at two different prices",
     "link": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3165948720433001054,
+    "id": -4487014312550216801,
     "title": "Alibaba’s Qwen tech lead steps down after major AI push",
     "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8683929919643912985,
+    "id": 6713341647234167516,
     "title": "[P] I trained Qwen2.5-1.5b with RLVR (GRPO) vs SFT and compared benchmark performance",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rk2kcz/p_i_trained_qwen2515b_with_rlvr_grpo_vs_sft_and/",
     "source": "Reddit ML",
@@ -81,75 +117,12 @@
     "saved": false
   },
   {
-    "id": 1846770774303767446,
-    "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
-    "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T21:44:09",
-    "saved": false
-  },
-  {
-    "id": 7674916322642001066,
-    "title": "Anduril aims at $60 billion valuation in new funding round",
-    "link": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T20:06:45",
-    "saved": false
-  },
-  {
-    "id": 2869601261532561508,
-    "title": "Android users can now share tracker tag info with airlines to help locate lost luggage",
-    "link": "https://techcrunch.com/2026/03/03/android-users-can-now-share-tracker-tag-info-with-airlines-to-help-locate-lost-luggage/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T19:00:00",
-    "saved": false
-  },
-  {
-    "id": -7852421666177149029,
-    "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
-    "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T18:27:47",
-    "saved": false
-  },
-  {
-    "id": 8720162132726832718,
-    "title": "Hacked traffic cams and hijacked TVs: How cyber operations supported the war against Iran",
-    "link": "https://techcrunch.com/2026/03/03/hacked-traffic-cams-and-hijacked-tvs-how-cyber-operations-supported-the-war-against-iran/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T17:37:59",
-    "saved": false
-  },
-  {
-    "id": -6673232813572235192,
-    "title": "Activist investor Elliott takes a $1B stake in Pinterest, betting on AI-driven growth",
-    "link": "https://techcrunch.com/2026/03/03/activist-investor-elliot-takes-a-1b-stake-in-pinterest-betting-on-ai-driven-growth/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-03T17:27:37",
-    "saved": false
-  },
-  {
-    "id": 4980118932699207682,
+    "id": 2482220250358501732,
     "title": "[P] easy-torch-tpu: Making it easy to train PyTorch-based models on Google TPUs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rigxhy/p_easytorchtpu_making_it_easy_to_train/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-02T02:39:21",
-    "saved": false
-  },
-  {
-    "id": 6391341652198725869,
-    "title": "[R] Benchmarked 94 LLM endpoints for jan 2026. open source is now within 5 quality points of proprietary",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rhuwyt/r_benchmarked_94_llm_endpoints_for_jan_2026_open/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-01T11:21:16",
     "saved": false
   }
 ]

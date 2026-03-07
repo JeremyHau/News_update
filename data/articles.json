@@ -1,24 +1,42 @@
 [
   {
-    "id": -2149353624124061635,
-    "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
-    "link": "https://github.com/c0m4r/kula",
-    "source": "Hacker News",
+    "id": 3535280870918256865,
+    "title": "[P] NanoJudge: Instead of prompting a big LLM once, it prompts a tiny LLM thousands of times.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rn8g9a/p_nanojudge_instead_of_prompting_a_big_llm_once/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-07T00:07:25",
+    "date": "2026-03-07T12:10:08",
     "saved": false
   },
   {
-    "id": -1827145267066982804,
-    "title": "The worst acquisition in history, again",
-    "link": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
+    "id": 3294808058918267265,
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-06T21:07:43",
+    "date": "2026-03-07T09:18:40",
     "saved": false
   },
   {
-    "id": -2427454788725318871,
+    "id": -2581521990384794334,
+    "title": "Sarvam 105B, the first competitive Indian open source LLM",
+    "link": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T07:43:57",
+    "saved": false
+  },
+  {
+    "id": 8424101485987121798,
+    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T01:17:57",
+    "saved": false
+  },
+  {
+    "id": 718630046667404708,
     "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "source": "TechCrunch",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -8838107305089647939,
+    "id": 7836217222320766438,
     "title": "[P] Domain specific LoRA fine tuning on consumer hardware",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rmkcek/p_domain_specific_lora_fine_tuning_on_consumer/",
     "source": "Reddit ML",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -8328974543583991420,
+    "id": 1553101935140583350,
     "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
     "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4966497309564627021,
+    "id": -8191259237504346397,
     "title": "Quantum scale-up Pasqal plans $2B SPAC listing, promises to ‘remain French’",
     "link": "https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -8182669948281493198,
+    "id": 8362186678206447822,
     "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
     "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3021039446814218712,
+    "id": -1780195627367937273,
     "title": "[R] Anyone experimenting with heterogeneous (different base LLMs) multi-agent systems for open-ended scientific reasoning or hypothesis generation?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rm6lqd/r_anyone_experimenting_with_heterogeneous/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7486258016007967725,
+    "id": -5244082534496323654,
     "title": "[R] MICCAI 2026 Early Decisions",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rm1a2y/r_miccai_2026_early_decisions/",
     "source": "Reddit ML",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7181109220874800302,
+    "id": -7393268112689820722,
     "title": "Anthropic to challenge DOD’s supply-chain label in court",
     "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 838814014606321950,
+    "id": -4049422490845326007,
     "title": "[D] IJCAI'26 AI4Tech track",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rlyiyi/d_ijcai26_ai4tech_track/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6485302532051391908,
+    "id": -7156394563869462594,
     "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
     "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -3716443290324172031,
+    "id": 9119544065778376433,
     "title": "[D] Has anyone read Blaise Agüera y Arcas' What is Intelligence?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rlo7ss/d_has_anyone_read_blaise_agüera_y_arcas_what_is/",
     "source": "Reddit ML",
@@ -117,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 3367875428561714675,
-    "title": "[D] Ijcai 2026 reviews",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rle02j/d_ijcai_2026_reviews/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-05T10:18:31",
-    "saved": false
-  },
-  {
-    "id": 361321795493176762,
-    "title": "[D] Impact of EU AI Act on your work?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rldp59/d_impact_of_eu_ai_act_on_your_work/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-05T10:00:22",
-    "saved": false
-  },
-  {
-    "id": -8570806826742826810,
+    "id": 2741748115295951032,
     "title": "[P] Bypassing CoreML to natively train a 110M Transformer on the Apple Neural Engine (Orion)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rl9k3r/p_bypassing_coreml_to_natively_train_a_110m/",
     "source": "Reddit ML",

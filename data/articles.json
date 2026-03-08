@@ -1,6 +1,33 @@
 [
   {
-    "id": 775298378847299435,
+    "id": 9185206325851105449,
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+    "link": "https://arxiv.org/abs/2603.03823",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-08T08:11:50",
+    "saved": false
+  },
+  {
+    "id": -5157143273048031002,
+    "title": "A roadmap for AI, if anyone will listen",
+    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-08T06:05:26",
+    "saved": false
+  },
+  {
+    "id": 4211761429502902066,
+    "title": "Warn about PyPy being unmaintained",
+    "link": "https://github.com/astral-sh/uv/pull/17643",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-08T01:35:21",
+    "saved": false
+  },
+  {
+    "id": -3157871641312243363,
     "title": "Google just gave Sundar Pichai a $692M pay package",
     "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
     "source": "TechCrunch",
@@ -9,25 +36,7 @@
     "saved": false
   },
   {
-    "id": 5976077477434999313,
-    "title": "Why developers using AI are working longer hours",
-    "link": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T23:39:04",
-    "saved": false
-  },
-  {
-    "id": 7090776956865750219,
-    "title": "[R] LLMs asked to \"be creative\" converge on the same few archetypes. I tested 3 architectures that escape this across 196 solutions.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlu24/r_llms_asked_to_be_creative_converge_on_the_same/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-07T21:24:32",
-    "saved": false
-  },
-  {
-    "id": -982551374786517158,
+    "id": -7133786429992804413,
     "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
     "source": "Reddit ML",
@@ -36,16 +45,7 @@
     "saved": false
   },
   {
-    "id": -8277372935938181660,
-    "title": "LLM Writing Tropes.md",
-    "link": "https://tropes.fyi/tropes-md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T21:08:40",
-    "saved": false
-  },
-  {
-    "id": -1943837079099013405,
+    "id": -197201731501560178,
     "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
     "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -8290470478240761698,
+    "id": -6698077997882623117,
     "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
     "link": "https://github.com/karpathy/autoresearch",
     "source": "Hacker News",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -585770824203434323,
+    "id": -586041495783376582,
     "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
     "source": "Reddit ML",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1245402337018808745,
+    "id": -1424119148430947498,
     "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
     "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8342815087588671664,
+    "id": 1879990605264512942,
     "title": "A decade of Docker containers",
     "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
     "source": "Hacker News",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -542888841064441607,
+    "id": 8729165677566128144,
     "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4359537356977772036,
+    "id": -6168493273859397116,
     "title": "[R] I built a \"Safety Oracle\" for L4 Autonomous Driving using Flow Matching (and why it's better than standard Heuristics).",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rndxi9/r_i_built_a_safety_oracle_for_l4_autonomous/",
     "source": "Reddit ML",
@@ -108,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 2551073529033315474,
-    "title": "[P] NanoJudge: Instead of prompting a big LLM once, it prompts a tiny LLM thousands of times.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rn8g9a/p_nanojudge_instead_of_prompting_a_big_llm_once/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-07T12:10:08",
-    "saved": false
-  },
-  {
-    "id": -7295877073115713103,
+    "id": 8627423914053460085,
     "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "source": "TechCrunch",
@@ -126,12 +117,21 @@
     "saved": false
   },
   {
-    "id": 322942810800489371,
-    "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
-    "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-06T14:00:00",
+    "id": -6801822098500696229,
+    "title": "[P] Domain specific LoRA fine tuning on consumer hardware",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rmkcek/p_domain_specific_lora_fine_tuning_on_consumer/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-06T17:29:58",
+    "saved": false
+  },
+  {
+    "id": 7241796746247287862,
+    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
+    "link": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-04T15:42:49",
     "saved": false
   }
 ]

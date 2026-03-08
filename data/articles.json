@@ -1,6 +1,114 @@
 [
   {
-    "id": 3535280870918256865,
+    "id": 775298378847299435,
+    "title": "Google just gave Sundar Pichai a $692M pay package",
+    "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-08T00:20:10",
+    "saved": false
+  },
+  {
+    "id": 5976077477434999313,
+    "title": "Why developers using AI are working longer hours",
+    "link": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T23:39:04",
+    "saved": false
+  },
+  {
+    "id": 7090776956865750219,
+    "title": "[R] LLMs asked to \"be creative\" converge on the same few archetypes. I tested 3 architectures that escape this across 196 solutions.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlu24/r_llms_asked_to_be_creative_converge_on_the_same/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-07T21:24:32",
+    "saved": false
+  },
+  {
+    "id": -982551374786517158,
+    "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-07T21:17:37",
+    "saved": false
+  },
+  {
+    "id": -8277372935938181660,
+    "title": "LLM Writing Tropes.md",
+    "link": "https://tropes.fyi/tropes-md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T21:08:40",
+    "saved": false
+  },
+  {
+    "id": -1943837079099013405,
+    "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+    "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-07T20:44:25",
+    "saved": false
+  },
+  {
+    "id": -8290470478240761698,
+    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+    "link": "https://github.com/karpathy/autoresearch",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T20:22:45",
+    "saved": false
+  },
+  {
+    "id": -585770824203434323,
+    "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-07T17:42:55",
+    "saved": false
+  },
+  {
+    "id": -1245402337018808745,
+    "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+    "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-07T17:28:41",
+    "saved": false
+  },
+  {
+    "id": -8342815087588671664,
+    "title": "A decade of Docker containers",
+    "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T16:55:18",
+    "saved": false
+  },
+  {
+    "id": -542888841064441607,
+    "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-07T16:31:14",
+    "saved": false
+  },
+  {
+    "id": -4359537356977772036,
+    "title": "[R] I built a \"Safety Oracle\" for L4 Autonomous Driving using Flow Matching (and why it's better than standard Heuristics).",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rndxi9/r_i_built_a_safety_oracle_for_l4_autonomous/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-07T16:15:47",
+    "saved": false
+  },
+  {
+    "id": 2551073529033315474,
     "title": "[P] NanoJudge: Instead of prompting a big LLM once, it prompts a tiny LLM thousands of times.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rn8g9a/p_nanojudge_instead_of_prompting_a_big_llm_once/",
     "source": "Reddit ML",
@@ -9,34 +117,7 @@
     "saved": false
   },
   {
-    "id": 3294808058918267265,
-    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-    "link": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T09:18:40",
-    "saved": false
-  },
-  {
-    "id": -2581521990384794334,
-    "title": "Sarvam 105B, the first competitive Indian open source LLM",
-    "link": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T07:43:57",
-    "saved": false
-  },
-  {
-    "id": 8424101485987121798,
-    "title": "LLMs work best when the user defines their acceptance criteria first",
-    "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T01:17:57",
-    "saved": false
-  },
-  {
-    "id": 718630046667404708,
+    "id": -7295877073115713103,
     "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "source": "TechCrunch",
@@ -45,102 +126,12 @@
     "saved": false
   },
   {
-    "id": 7836217222320766438,
-    "title": "[P] Domain specific LoRA fine tuning on consumer hardware",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rmkcek/p_domain_specific_lora_fine_tuning_on_consumer/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-06T17:29:58",
-    "saved": false
-  },
-  {
-    "id": 1553101935140583350,
+    "id": 322942810800489371,
     "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
     "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-06T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -8191259237504346397,
-    "title": "Quantum scale-up Pasqal plans $2B SPAC listing, promises to ‘remain French’",
-    "link": "https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-06T13:44:18",
-    "saved": false
-  },
-  {
-    "id": 8362186678206447822,
-    "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
-    "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-06T13:20:43",
-    "saved": false
-  },
-  {
-    "id": -1780195627367937273,
-    "title": "[R] Anyone experimenting with heterogeneous (different base LLMs) multi-agent systems for open-ended scientific reasoning or hypothesis generation?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rm6lqd/r_anyone_experimenting_with_heterogeneous/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-06T06:35:49",
-    "saved": false
-  },
-  {
-    "id": -5244082534496323654,
-    "title": "[R] MICCAI 2026 Early Decisions",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rm1a2y/r_miccai_2026_early_decisions/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-06T02:13:00",
-    "saved": false
-  },
-  {
-    "id": -7393268112689820722,
-    "title": "Anthropic to challenge DOD’s supply-chain label in court",
-    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-06T01:28:54",
-    "saved": false
-  },
-  {
-    "id": -4049422490845326007,
-    "title": "[D] IJCAI'26 AI4Tech track",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rlyiyi/d_ijcai26_ai4tech_track/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-06T00:12:54",
-    "saved": false
-  },
-  {
-    "id": -7156394563869462594,
-    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-05T23:14:04",
-    "saved": false
-  },
-  {
-    "id": 9119544065778376433,
-    "title": "[D] Has anyone read Blaise Agüera y Arcas' What is Intelligence?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rlo7ss/d_has_anyone_read_blaise_agüera_y_arcas_what_is/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-05T17:47:19",
-    "saved": false
-  },
-  {
-    "id": 2741748115295951032,
-    "title": "[P] Bypassing CoreML to natively train a 110M Transformer on the Apple Neural Engine (Orion)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rl9k3r/p_bypassing_coreml_to_natively_train_a_110m/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-05T05:51:36",
     "saved": false
   }
 ]

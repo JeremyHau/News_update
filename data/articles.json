@@ -1,15 +1,60 @@
 [
   {
-    "id": 9185206325851105449,
-    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-    "link": "https://arxiv.org/abs/2603.03823",
+    "id": -8380944715792559209,
+    "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+    "link": "https://agent-safehouse.dev/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-08T08:11:50",
+    "date": "2026-03-08T20:30:18",
     "saved": false
   },
   {
-    "id": -5157143273048031002,
+    "id": -5676680876907636718,
+    "title": "We should revisit literate programming in the agent era",
+    "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-08T19:58:15",
+    "saved": false
+  },
+  {
+    "id": 2755046229306883151,
+    "title": "[P] Made an AI FIA Steward to predict penalties during a F1 race",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1roe3ua/p_made_an_ai_fia_steward_to_predict_penalties/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-08T19:34:46",
+    "saved": false
+  },
+  {
+    "id": -813222896293460118,
+    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-08T16:30:00",
+    "saved": false
+  },
+  {
+    "id": 5945986301383220758,
+    "title": "[D] We analyzed 4,000 Ethereum contracts by combining an LLM and symbolic execution and found 5,783 issues",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ro8t22/d_we_analyzed_4000_ethereum_contracts_by/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-08T16:14:02",
+    "saved": false
+  },
+  {
+    "id": 4749592339139758610,
+    "title": "Living human brain cells play DOOM on a CL1 [video]",
+    "link": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-08T15:07:28",
+    "saved": false
+  },
+  {
+    "id": -741948627353364780,
     "title": "A roadmap for AI, if anyone will listen",
     "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
     "source": "TechCrunch",
@@ -18,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 4211761429502902066,
-    "title": "Warn about PyPy being unmaintained",
-    "link": "https://github.com/astral-sh/uv/pull/17643",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-08T01:35:21",
-    "saved": false
-  },
-  {
-    "id": -3157871641312243363,
+    "id": 1497067569128639861,
     "title": "Google just gave Sundar Pichai a $692M pay package",
     "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7133786429992804413,
+    "id": 1007992838251255338,
     "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
     "source": "Reddit ML",
@@ -45,8 +81,8 @@
     "saved": false
   },
   {
-    "id": -197201731501560178,
-    "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+    "id": -5164483628464988604,
+    "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
     "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
     "source": "TechCrunch",
     "category": "tech",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -6698077997882623117,
-    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-    "link": "https://github.com/karpathy/autoresearch",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T20:22:45",
-    "saved": false
-  },
-  {
-    "id": -586041495783376582,
+    "id": -4463880206234004308,
     "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
     "source": "Reddit ML",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1424119148430947498,
+    "id": 2847472081275660351,
     "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
     "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
     "source": "TechCrunch",
@@ -81,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 1879990605264512942,
-    "title": "A decade of Docker containers",
-    "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-07T16:55:18",
-    "saved": false
-  },
-  {
-    "id": 8729165677566128144,
+    "id": 7883727798363367266,
     "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6168493273859397116,
+    "id": 4186734432914127849,
     "title": "[R] I built a \"Safety Oracle\" for L4 Autonomous Driving using Flow Matching (and why it's better than standard Heuristics).",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rndxi9/r_i_built_a_safety_oracle_for_l4_autonomous/",
     "source": "Reddit ML",
@@ -108,30 +126,12 @@
     "saved": false
   },
   {
-    "id": 8627423914053460085,
+    "id": 5836277905966844843,
     "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-06T19:50:10",
-    "saved": false
-  },
-  {
-    "id": -6801822098500696229,
-    "title": "[P] Domain specific LoRA fine tuning on consumer hardware",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rmkcek/p_domain_specific_lora_fine_tuning_on_consumer/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-06T17:29:58",
-    "saved": false
-  },
-  {
-    "id": 7241796746247287862,
-    "title": "Rijksmuseum researchers discover new painting by Rembrandt van Rijn",
-    "link": "https://www.rijksmuseum.nl/en/press/press-releases/rijksmuseum-researchers-discover-new-painting-by-rembrandt-van-rijn",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-04T15:42:49",
     "saved": false
   }
 ]

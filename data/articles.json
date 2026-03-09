@@ -1,6 +1,33 @@
 [
   {
-    "id": -8380944715792559209,
+    "id": 8798083848025099786,
+    "title": "[R] Seeking arXiv Endorsement for cs.AI: Memento - A Fragment-Based Memory System for LLM Agents",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1roykna/r_seeking_arxiv_endorsement_for_csai_memento_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-09T12:13:47",
+    "saved": false
+  },
+  {
+    "id": -1860819989614218575,
+    "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
+    "link": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T10:28:08",
+    "saved": false
+  },
+  {
+    "id": -3120439928478806074,
+    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+    "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T06:28:02",
+    "saved": false
+  },
+  {
+    "id": -8581828710228020586,
     "title": "Agent Safehouse – macOS-native sandboxing for local agents",
     "link": "https://agent-safehouse.dev/",
     "source": "Hacker News",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -5676680876907636718,
+    "id": 5808909151708853136,
     "title": "We should revisit literate programming in the agent era",
     "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
     "source": "Hacker News",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 2755046229306883151,
+    "id": -445687092994824875,
     "title": "[P] Made an AI FIA Steward to predict penalties during a F1 race",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1roe3ua/p_made_an_ai_fia_steward_to_predict_penalties/",
     "source": "Reddit ML",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -813222896293460118,
+    "id": -4712385680652155625,
     "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
     "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 5945986301383220758,
+    "id": 3415264594107867211,
     "title": "[D] We analyzed 4,000 Ethereum contracts by combining an LLM and symbolic execution and found 5,783 issues",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ro8t22/d_we_analyzed_4000_ethereum_contracts_by/",
     "source": "Reddit ML",
@@ -45,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 4749592339139758610,
-    "title": "Living human brain cells play DOOM on a CL1 [video]",
-    "link": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-08T15:07:28",
-    "saved": false
-  },
-  {
-    "id": -741948627353364780,
+    "id": 4174345106343915718,
     "title": "A roadmap for AI, if anyone will listen",
     "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1497067569128639861,
+    "id": -7405298775940649668,
     "title": "Google just gave Sundar Pichai a $692M pay package",
     "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 1007992838251255338,
+    "id": 2042650090143881705,
     "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
     "source": "Reddit ML",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5164483628464988604,
+    "id": -5068991580696059257,
     "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
     "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4463880206234004308,
+    "id": 9210513681137267443,
     "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2847472081275660351,
+    "id": 8933381553276664776,
     "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
     "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7883727798363367266,
+    "id": 1168498037304736019,
     "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
     "source": "Reddit ML",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4186734432914127849,
+    "id": 7703318867518501901,
     "title": "[R] I built a \"Safety Oracle\" for L4 Autonomous Driving using Flow Matching (and why it's better than standard Heuristics).",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rndxi9/r_i_built_a_safety_oracle_for_l4_autonomous/",
     "source": "Reddit ML",
@@ -126,12 +144,21 @@
     "saved": false
   },
   {
-    "id": 5836277905966844843,
+    "id": -3475166771192941745,
     "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
     "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-06T19:50:10",
+    "saved": false
+  },
+  {
+    "id": -495980206006309974,
+    "title": "I love email (2023)",
+    "link": "https://blog.xoria.org/email/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-05T17:37:13",
     "saved": false
   }
 ]

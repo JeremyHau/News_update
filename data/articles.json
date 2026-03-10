@@ -1,6 +1,60 @@
 [
   {
-    "id": -8902724577515765412,
+    "id": -4299135709459980313,
+    "title": "AI network startup Eridu emerges from stealth with hefty $200M Series A",
+    "link": "https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-10T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 8443771950187493484,
+    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "link": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-10T10:50:30",
+    "saved": false
+  },
+  {
+    "id": -7697398556901445085,
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "link": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-10T08:54:53",
+    "saved": false
+  },
+  {
+    "id": -2417274275942477293,
+    "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+    "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-10T05:00:00",
+    "saved": false
+  },
+  {
+    "id": 2242288429807613649,
+    "title": "Electric air taxi maker Archer hits back at Joby in countersuit alleging concealed Chinese ties",
+    "link": "https://techcrunch.com/2026/03/09/electric-air-taxi-maker-archer-hits-back-at-joby-in-countersuit-alleging-concealed-chinese-ties/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-10T01:41:38",
+    "saved": false
+  },
+  {
+    "id": 8967091108126562944,
+    "title": "[D] Real-time multi-dimensional LLM output scoring in production, what's actually feasible today?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rpixo7/d_realtime_multidimensional_llm_output_scoring_in/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-10T01:09:17",
+    "saved": false
+  },
+  {
+    "id": -4841296036377766627,
     "title": "Electric air taxis are about to take flight in 26 states",
     "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -1125445700015738469,
+    "id": -8059166279182265530,
     "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
     "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
     "source": "TechCrunch",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 4043389942945528265,
-    "title": "The first airplane fatality",
-    "link": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-09T20:32:45",
-    "saved": false
-  },
-  {
-    "id": -7333739960498122870,
+    "id": 5244599887114728067,
     "title": "Anthropic launches code review tool to check flood of AI-generated code",
     "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
     "source": "TechCrunch",
@@ -36,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 342358704271755679,
-    "title": "[P] Connect your research data easily to AI agents",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rpadsk/p_connect_your_research_data_easily_to_ai_agents/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-09T19:41:06",
-    "saved": false
-  },
-  {
-    "id": -8549632064503781522,
+    "id": 3965810404050291124,
     "title": "[R] Retraining a CNN with noisy data, should i expect this to work?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rp8vgb/r_retraining_a_cnn_with_noisy_data_should_i/",
     "source": "Reddit ML",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6306243845733791088,
+    "id": -2868670555666728306,
     "title": "OpenAI acquires Promptfoo to secure its AI agents",
     "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
     "source": "TechCrunch",
@@ -63,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -21253750800497929,
-    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-    "link": "https://fixfest.therestartproject.org/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-09T17:34:27",
-    "saved": false
-  },
-  {
-    "id": 5605535271158772462,
+    "id": -3401982223228610839,
     "title": "GM figured out how to navigate EV uncertainty with the Chevy Bolt",
     "link": "https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5318197428192242014,
+    "id": 2305526061892557598,
     "title": "Anthropic sues Defense Department over supply-chain risk designation",
     "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
     "source": "TechCrunch",
@@ -90,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 305692743238535023,
-    "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-    "link": "https://news.ycombinator.com/item?id=47311657",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-09T16:53:52",
-    "saved": false
-  },
-  {
-    "id": -78723994143054055,
+    "id": 7480629176526242758,
     "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
     "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
     "source": "Hacker News",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7495415653170225773,
+    "id": 6078917145639831003,
     "title": "[R] Seeking arXiv Endorsement for cs.AI: Memento - A Fragment-Based Memory System for LLM Agents",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1roykna/r_seeking_arxiv_endorsement_for_csai_memento_a/",
     "source": "Reddit ML",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2633495319362177425,
+    "id": -7486553818057960845,
     "title": "[P] Made an AI FIA Steward to predict penalties during a F1 race",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1roe3ua/p_made_an_ai_fia_steward_to_predict_penalties/",
     "source": "Reddit ML",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -7000677738992937149,
+    "id": -3375086224371679183,
     "title": "[D] We analyzed 4,000 Ethereum contracts by combining an LLM and symbolic execution and found 5,783 issues",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ro8t22/d_we_analyzed_4000_ethereum_contracts_by/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7214582639201094026,
+    "id": 8269761432828416063,
     "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
     "source": "Reddit ML",
@@ -144,21 +162,30 @@
     "saved": false
   },
   {
-    "id": 3189569293606966112,
-    "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-07T17:42:55",
-    "saved": false
-  },
-  {
-    "id": 1214018435601630327,
+    "id": -4561634703548225405,
     "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-07T16:31:14",
+    "saved": false
+  },
+  {
+    "id": 966384505176586377,
+    "title": "The Gervais Principle, or the Office According to \"The Office\"",
+    "link": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T11:28:37",
+    "saved": false
+  },
+  {
+    "id": -3906024601982847815,
+    "title": "TCXO Failure Analysis",
+    "link": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-07T04:49:38",
     "saved": false
   }
 ]

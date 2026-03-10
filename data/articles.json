@@ -1,6 +1,114 @@
 [
   {
-    "id": 8798083848025099786,
+    "id": -8902724577515765412,
+    "title": "Electric air taxis are about to take flight in 26 states",
+    "link": "https://techcrunch.com/2026/03/09/electric-air-taxis-are-about-to-take-flight-in-26-states/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-09T22:30:35",
+    "saved": false
+  },
+  {
+    "id": -1125445700015738469,
+    "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+    "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-09T21:15:17",
+    "saved": false
+  },
+  {
+    "id": 4043389942945528265,
+    "title": "The first airplane fatality",
+    "link": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T20:32:45",
+    "saved": false
+  },
+  {
+    "id": -7333739960498122870,
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-09T19:41:34",
+    "saved": false
+  },
+  {
+    "id": 342358704271755679,
+    "title": "[P] Connect your research data easily to AI agents",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rpadsk/p_connect_your_research_data_easily_to_ai_agents/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-09T19:41:06",
+    "saved": false
+  },
+  {
+    "id": -8549632064503781522,
+    "title": "[R] Retraining a CNN with noisy data, should i expect this to work?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rp8vgb/r_retraining_a_cnn_with_noisy_data_should_i/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-09T18:46:30",
+    "saved": false
+  },
+  {
+    "id": 6306243845733791088,
+    "title": "OpenAI acquires Promptfoo to secure its AI agents",
+    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-09T17:49:04",
+    "saved": false
+  },
+  {
+    "id": -21253750800497929,
+    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+    "link": "https://fixfest.therestartproject.org/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T17:34:27",
+    "saved": false
+  },
+  {
+    "id": 5605535271158772462,
+    "title": "GM figured out how to navigate EV uncertainty with the Chevy Bolt",
+    "link": "https://techcrunch.com/2026/03/09/gm-figured-out-how-to-navigate-ev-uncertainty-with-the-chevy-bolt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-09T17:29:58",
+    "saved": false
+  },
+  {
+    "id": -5318197428192242014,
+    "title": "Anthropic sues Defense Department over supply-chain risk designation",
+    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-09T17:25:40",
+    "saved": false
+  },
+  {
+    "id": 305692743238535023,
+    "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+    "link": "https://news.ycombinator.com/item?id=47311657",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T16:53:52",
+    "saved": false
+  },
+  {
+    "id": -78723994143054055,
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T15:12:53",
+    "saved": false
+  },
+  {
+    "id": 7495415653170225773,
     "title": "[R] Seeking arXiv Endorsement for cs.AI: Memento - A Fragment-Based Memory System for LLM Agents",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1roykna/r_seeking_arxiv_endorsement_for_csai_memento_a/",
     "source": "Reddit ML",
@@ -9,43 +117,7 @@
     "saved": false
   },
   {
-    "id": -1860819989614218575,
-    "title": "Show HN: VS Code Agent Kanban: Task Management for the AI-Assisted Developer",
-    "link": "https://www.appsoftware.com/blog/introducing-vs-code-agent-kanban-task-management-for-the-ai-assisted-developer",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-09T10:28:08",
-    "saved": false
-  },
-  {
-    "id": -3120439928478806074,
-    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
-    "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-09T06:28:02",
-    "saved": false
-  },
-  {
-    "id": -8581828710228020586,
-    "title": "Agent Safehouse – macOS-native sandboxing for local agents",
-    "link": "https://agent-safehouse.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-08T20:30:18",
-    "saved": false
-  },
-  {
-    "id": 5808909151708853136,
-    "title": "We should revisit literate programming in the agent era",
-    "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-08T19:58:15",
-    "saved": false
-  },
-  {
-    "id": -445687092994824875,
+    "id": 2633495319362177425,
     "title": "[P] Made an AI FIA Steward to predict penalties during a F1 race",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1roe3ua/p_made_an_ai_fia_steward_to_predict_penalties/",
     "source": "Reddit ML",
@@ -54,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -4712385680652155625,
-    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-    "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-08T16:30:00",
-    "saved": false
-  },
-  {
-    "id": 3415264594107867211,
+    "id": -7000677738992937149,
     "title": "[D] We analyzed 4,000 Ethereum contracts by combining an LLM and symbolic execution and found 5,783 issues",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ro8t22/d_we_analyzed_4000_ethereum_contracts_by/",
     "source": "Reddit ML",
@@ -72,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 4174345106343915718,
-    "title": "A roadmap for AI, if anyone will listen",
-    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-08T06:05:26",
-    "saved": false
-  },
-  {
-    "id": -7405298775940649668,
-    "title": "Google just gave Sundar Pichai a $692M pay package",
-    "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-08T00:20:10",
-    "saved": false
-  },
-  {
-    "id": 2042650090143881705,
+    "id": -7214582639201094026,
     "title": "[P] TraceML: wrap your PyTorch training step in single context manager and see what’s slowing training live",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnlo0q/p_traceml_wrap_your_pytorch_training_step_in/",
     "source": "Reddit ML",
@@ -99,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -5068991580696059257,
-    "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-    "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-07T20:44:25",
-    "saved": false
-  },
-  {
-    "id": 9210513681137267443,
+    "id": 3189569293606966112,
     "title": "[P] Introducing NNsight v0.6: Open-source Interpretability Toolkit for LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rng5px/p_introducing_nnsight_v06_opensource/",
     "source": "Reddit ML",
@@ -117,48 +153,12 @@
     "saved": false
   },
   {
-    "id": 8933381553276664776,
-    "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-    "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-07T17:28:41",
-    "saved": false
-  },
-  {
-    "id": 1168498037304736019,
+    "id": 1214018435601630327,
     "title": "[P] Combining Stanford's ACE paper with the Reflective Language Model pattern - agents that write code to analyze their own execution traces at scale",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rnebal/p_combining_stanfords_ace_paper_with_the/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-07T16:31:14",
-    "saved": false
-  },
-  {
-    "id": 7703318867518501901,
-    "title": "[R] I built a \"Safety Oracle\" for L4 Autonomous Driving using Flow Matching (and why it's better than standard Heuristics).",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rndxi9/r_i_built_a_safety_oracle_for_l4_autonomous/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-07T16:15:47",
-    "saved": false
-  },
-  {
-    "id": -3475166771192941745,
-    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-    "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-06T19:50:10",
-    "saved": false
-  },
-  {
-    "id": -495980206006309974,
-    "title": "I love email (2023)",
-    "link": "https://blog.xoria.org/email/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-05T17:37:13",
     "saved": false
   }
 ]

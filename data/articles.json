@@ -1,6 +1,69 @@
 [
   {
-    "id": -3807829321797139298,
+    "id": -8625660900713657086,
+    "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+    "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T12:30:00",
+    "saved": false
+  },
+  {
+    "id": 740856402191634582,
+    "title": "Are LLMs not getting better?",
+    "link": "https://entropicthoughts.com/no-swe-bench-improvement",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T11:49:05",
+    "saved": false
+  },
+  {
+    "id": -6874654824909689486,
+    "title": "Google is using old news reports and AI to predict flash floods",
+    "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T10:00:00",
+    "saved": false
+  },
+  {
+    "id": 8803725538346496597,
+    "title": "[D] How to increase/optimize for gpu utilization while doing model training?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rrm4g9/d_how_to_increaseoptimize_for_gpu_utilization/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-12T09:31:25",
+    "saved": false
+  },
+  {
+    "id": 399781729416197268,
+    "title": "Reliable Software in the LLM Era",
+    "link": "https://quint-lang.org/posts/llm_era",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T08:19:46",
+    "saved": false
+  },
+  {
+    "id": 5627109954587160336,
+    "title": "Returning to Rails in 2026",
+    "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T06:06:46",
+    "saved": false
+  },
+  {
+    "id": -3090788790621086357,
+    "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
+    "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T04:00:00",
+    "saved": false
+  },
+  {
+    "id": -8605207161306678180,
     "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
     "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
     "source": "TechCrunch",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 8085574894438668274,
+    "id": 8053248491353337123,
     "title": "Nuro is testing its autonomous vehicle tech on Tokyo’s streets",
     "link": "https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/",
     "source": "TechCrunch",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -691648930667646587,
+    "id": 4475403816819167370,
     "title": "Google Play is adding new paid and PC games, game trials, community posts, and more",
     "link": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
     "source": "TechCrunch",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4826644652058646681,
+    "id": 4962488947472849847,
     "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
     "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1208892811068829284,
+    "id": 3771010695853089195,
     "title": "Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery",
     "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1900288357666637569,
+    "id": -3981595474524732842,
     "title": "Zendesk acquires agentic customer service startup Forethought",
     "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1820782325455236939,
+    "id": -175996056626777182,
     "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
     "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
     "source": "TechCrunch",
@@ -63,25 +126,7 @@
     "saved": false
   },
   {
-    "id": 3260786987390516931,
-    "title": "Preliminary data from a longitudinal AI impact study",
-    "link": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-11T21:23:24",
-    "saved": false
-  },
-  {
-    "id": -8562216302670192084,
-    "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-    "link": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-11T21:06:06",
-    "saved": false
-  },
-  {
-    "id": 3940904717058681513,
+    "id": -3904022771858758563,
     "title": "[D] - Cross-retailer post-purchase outcome data doesn't exist as infrastructure. Is anyone working on this?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rr5jok/d_crossretailer_postpurchase_outcome_data_doesnt/",
     "source": "Reddit ML",
@@ -90,8 +135,8 @@
     "saved": false
   },
   {
-    "id": -2820961561984238428,
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans.",
+    "id": -8890009705882272373,
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "link": "https://news.ycombinator.com/newsguidelines.html#generated",
     "source": "Hacker News",
     "category": "ai",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 2998042962717431007,
+    "id": -6974698602385443930,
     "title": "I was interviewed by an AI bot for a job",
     "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
     "source": "Hacker News",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 9085456128926925433,
+    "id": 7816920144197493068,
     "title": "Breakout Ventures raises $114M fund to back AI science startups",
     "link": "https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/",
     "source": "TechCrunch",
@@ -117,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 8971673617745789402,
-    "title": "VC mega-funds are back with General Catalyst, Spark rumored to be raising billions",
-    "link": "https://techcrunch.com/2026/03/11/vc-mega-funds-are-back-with-general-catalyst-spark-rumored-to-be-raising-billions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T17:53:47",
-    "saved": false
-  },
-  {
-    "id": -4761275519400869395,
+    "id": 6522532394649810839,
     "title": "[R] IDP Leaderboard: Open benchmark for document AI across 16 VLMs, 9,000+ documents, 3 benchmark suites",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqx94q/r_idp_leaderboard_open_benchmark_for_document_ai/",
     "source": "Reddit ML",
@@ -135,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 7498917964281477426,
+    "id": 2713752270856508685,
     "title": "[D] ICML paper to review is fully AI generated",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/",
     "source": "Reddit ML",
@@ -144,57 +180,12 @@
     "saved": false
   },
   {
-    "id": -3844504180203673,
-    "title": "Against vibes: When is a generative model useful",
-    "link": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-10T19:59:39",
-    "saved": false
-  },
-  {
-    "id": -8239776669186768045,
+    "id": -2899344642808322097,
     "title": "How I topped the Open LLM Leaderboard using 2x 4090 GPUs - Research notes in Blog form",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rq6g08/how_i_topped_the_open_llm_leaderboard_using_2x/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-10T19:17:59",
-    "saved": false
-  },
-  {
-    "id": 1337600449885387127,
-    "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
-    "link": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-10T05:58:56",
-    "saved": false
-  },
-  {
-    "id": 2128617658241306876,
-    "title": "[D] Real-time multi-dimensional LLM output scoring in production, what's actually feasible today?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rpixo7/d_realtime_multidimensional_llm_output_scoring_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-10T01:09:17",
-    "saved": false
-  },
-  {
-    "id": -2525660439504427303,
-    "title": "[R] Retraining a CNN with noisy data, should i expect this to work?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rp8vgb/r_retraining_a_cnn_with_noisy_data_should_i/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-09T18:46:30",
-    "saved": false
-  },
-  {
-    "id": -7322883308013421085,
-    "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-    "link": "https://poloclub.github.io/cnn-explainer/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-08T11:22:42",
     "saved": false
   }
 ]

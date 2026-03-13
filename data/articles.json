@@ -1,15 +1,15 @@
 [
   {
-    "id": -6139932736756346332,
-    "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
-    "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
-    "source": "Hacker News",
+    "id": -6125787046196537347,
+    "title": "[D] What is even the point of these LLM benchmarking papers?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rsdify/d_what_is_even_the_point_of_these_llm/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-13T00:17:34",
+    "date": "2026-03-13T04:21:26",
     "saved": false
   },
   {
-    "id": 768633702363471256,
+    "id": 6436408183978427007,
     "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
     "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
     "source": "TechCrunch",
@@ -18,16 +18,7 @@
     "saved": false
   },
   {
-    "id": 7482296019384759107,
-    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
-    "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-12T20:55:51",
-    "saved": false
-  },
-  {
-    "id": 7053253126541713700,
+    "id": -7392431002111839985,
     "title": "[P] Visual verification as a feedback loop for LLM code generation",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rrzwp9/p_visual_verification_as_a_feedback_loop_for_llm/",
     "source": "Reddit ML",
@@ -36,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 6066884454060815783,
+    "id": -3224222672057598752,
     "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
     "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
     "source": "TechCrunch",
@@ -45,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8072644668609025264,
+    "id": -2176153923605833954,
     "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
     "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8055241041940618570,
+    "id": 546374564821540994,
     "title": "Webflow buys AI content-generation platform Vidoso to bolster its marketing suite",
     "link": "https://techcrunch.com/2026/03/12/webflow-buys-ai-content-generation-platform-vidoso-to-bolster-its-marketing-suite/",
     "source": "TechCrunch",
@@ -63,16 +54,16 @@
     "saved": false
   },
   {
-    "id": 8007704116602157768,
-    "title": "Bumble to launch an AI dating assistant, ‘Bee’",
-    "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+    "id": 5784416296936227359,
+    "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+    "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-12T16:52:17",
     "saved": false
   },
   {
-    "id": -2784668627129406449,
+    "id": 3578583031662691815,
     "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
     "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
     "source": "TechCrunch",
@@ -81,17 +72,8 @@
     "saved": false
   },
   {
-    "id": -7184974729011292441,
-    "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
-    "link": "https://github.com/onecli/onecli",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-12T16:41:06",
-    "saved": false
-  },
-  {
-    "id": 3202763084923534198,
-    "title": "Reversing memory loss via gut-brain communication",
+    "id": -832960388015456287,
+    "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
     "link": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
     "source": "Hacker News",
     "category": "ai",
@@ -99,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1941105480794227179,
+    "id": -8798160231382215203,
     "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
     "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
     "source": "TechCrunch",
@@ -108,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -974472044185364606,
+    "id": 5766583149974285557,
     "title": "Wonderful raises $150M Series B at $2B valuation",
     "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
     "source": "TechCrunch",
@@ -117,25 +99,7 @@
     "saved": false
   },
   {
-    "id": 8196770178992804800,
-    "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
-    "link": "https://github.com/jrswab/axe",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-12T13:49:12",
-    "saved": false
-  },
-  {
-    "id": 1481372434337563468,
-    "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
-    "link": "https://aminrj.com/posts/rag-document-poisoning/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-12T13:40:36",
-    "saved": false
-  },
-  {
-    "id": 5172076578991838385,
+    "id": 2212975262218875017,
     "title": "[D] How to increase/optimize for gpu utilization while doing model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rrm4g9/d_how_to_increaseoptimize_for_gpu_utilization/",
     "source": "Reddit ML",
@@ -144,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5529578848267173388,
+    "id": -7076666623922055264,
     "title": "[D] - Cross-retailer post-purchase outcome data doesn't exist as infrastructure. Is anyone working on this?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rr5jok/d_crossretailer_postpurchase_outcome_data_doesnt/",
     "source": "Reddit ML",
@@ -153,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 5798052131787954964,
+    "id": 87656229768746680,
     "title": "[R] IDP Leaderboard: Open benchmark for document AI across 16 VLMs, 9,000+ documents, 3 benchmark suites",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqx94q/r_idp_leaderboard_open_benchmark_for_document_ai/",
     "source": "Reddit ML",
@@ -162,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7035695121546543374,
+    "id": 4377349381375046156,
     "title": "[D] ICML paper to review is fully AI generated",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/",
     "source": "Reddit ML",
@@ -171,12 +135,21 @@
     "saved": false
   },
   {
-    "id": -115398823066174249,
+    "id": -1206631269137243539,
     "title": "How I topped the Open LLM Leaderboard using 2x 4090 GPUs - Research notes in Blog form",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rq6g08/how_i_topped_the_open_llm_leaderboard_using_2x/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-10T19:17:59",
+    "saved": false
+  },
+  {
+    "id": -2390655009723631304,
+    "title": "Okmain: How to pick an OK main colour of an image",
+    "link": "https://dgroshev.com/blog/okmain/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-09T14:16:53",
     "saved": false
   }
 ]

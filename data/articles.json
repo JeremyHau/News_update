@@ -1,33 +1,141 @@
 [
   {
-    "id": -8625660900713657086,
-    "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
-    "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-12T12:30:00",
-    "saved": false
-  },
-  {
-    "id": 740856402191634582,
-    "title": "Are LLMs not getting better?",
-    "link": "https://entropicthoughts.com/no-swe-bench-improvement",
+    "id": -6139932736756346332,
+    "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+    "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-12T11:49:05",
+    "date": "2026-03-13T00:17:34",
     "saved": false
   },
   {
-    "id": -6874654824909689486,
-    "title": "Google is using old news reports and AI to predict flash floods",
-    "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+    "id": 768633702363471256,
+    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-03-12T10:00:00",
+    "date": "2026-03-12T22:25:50",
     "saved": false
   },
   {
-    "id": 8803725538346496597,
+    "id": 7482296019384759107,
+    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+    "link": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T20:55:51",
+    "saved": false
+  },
+  {
+    "id": 7053253126541713700,
+    "title": "[P] Visual verification as a feedback loop for LLM code generation",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rrzwp9/p_visual_verification_as_a_feedback_loop_for_llm/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-12T19:06:11",
+    "saved": false
+  },
+  {
+    "id": 6066884454060815783,
+    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T18:20:33",
+    "saved": false
+  },
+  {
+    "id": -8072644668609025264,
+    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+    "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T17:20:19",
+    "saved": false
+  },
+  {
+    "id": 8055241041940618570,
+    "title": "Webflow buys AI content-generation platform Vidoso to bolster its marketing suite",
+    "link": "https://techcrunch.com/2026/03/12/webflow-buys-ai-content-generation-platform-vidoso-to-bolster-its-marketing-suite/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 8007704116602157768,
+    "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+    "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T16:52:17",
+    "saved": false
+  },
+  {
+    "id": -2784668627129406449,
+    "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+    "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T16:42:40",
+    "saved": false
+  },
+  {
+    "id": -7184974729011292441,
+    "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+    "link": "https://github.com/onecli/onecli",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T16:41:06",
+    "saved": false
+  },
+  {
+    "id": 3202763084923534198,
+    "title": "Reversing memory loss via gut-brain communication",
+    "link": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T16:38:51",
+    "saved": false
+  },
+  {
+    "id": 1941105480794227179,
+    "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+    "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T15:30:00",
+    "saved": false
+  },
+  {
+    "id": -974472044185364606,
+    "title": "Wonderful raises $150M Series B at $2B valuation",
+    "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-12T15:12:35",
+    "saved": false
+  },
+  {
+    "id": 8196770178992804800,
+    "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+    "link": "https://github.com/jrswab/axe",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T13:49:12",
+    "saved": false
+  },
+  {
+    "id": 1481372434337563468,
+    "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+    "link": "https://aminrj.com/posts/rag-document-poisoning/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-12T13:40:36",
+    "saved": false
+  },
+  {
+    "id": 5172076578991838385,
     "title": "[D] How to increase/optimize for gpu utilization while doing model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rrm4g9/d_how_to_increaseoptimize_for_gpu_utilization/",
     "source": "Reddit ML",
@@ -36,97 +144,7 @@
     "saved": false
   },
   {
-    "id": 399781729416197268,
-    "title": "Reliable Software in the LLM Era",
-    "link": "https://quint-lang.org/posts/llm_era",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-12T08:19:46",
-    "saved": false
-  },
-  {
-    "id": 5627109954587160336,
-    "title": "Returning to Rails in 2026",
-    "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-12T06:06:46",
-    "saved": false
-  },
-  {
-    "id": -3090788790621086357,
-    "title": "Chinese brain interface startup Gestala raises $21M just two months after launch",
-    "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-12T04:00:00",
-    "saved": false
-  },
-  {
-    "id": -8605207161306678180,
-    "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T23:35:03",
-    "saved": false
-  },
-  {
-    "id": 8053248491353337123,
-    "title": "Nuro is testing its autonomous vehicle tech on Tokyo’s streets",
-    "link": "https://techcrunch.com/2026/03/11/nuro-is-testing-its-autonomous-vehicle-tech-on-tokyos-streets/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T23:09:38",
-    "saved": false
-  },
-  {
-    "id": 4475403816819167370,
-    "title": "Google Play is adding new paid and PC games, game trials, community posts, and more",
-    "link": "https://techcrunch.com/2026/03/11/google-play-is-adding-new-paid-and-pc-games-game-trials-community-posts-and-more/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T23:00:00",
-    "saved": false
-  },
-  {
-    "id": 4962488947472849847,
-    "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T22:51:39",
-    "saved": false
-  },
-  {
-    "id": 3771010695853089195,
-    "title": "Ride-hailing inDrive acquires Pakistan’s Krave Mart to bolster grocery delivery",
-    "link": "https://techcrunch.com/2026/03/11/ride-hailing-indrive-acquires-pakistans-kravemart-to-bolster-grocery-delivery/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T22:45:35",
-    "saved": false
-  },
-  {
-    "id": -3981595474524732842,
-    "title": "Zendesk acquires agentic customer service startup Forethought",
-    "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T22:41:27",
-    "saved": false
-  },
-  {
-    "id": -175996056626777182,
-    "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T22:00:05",
-    "saved": false
-  },
-  {
-    "id": -3904022771858758563,
+    "id": 5529578848267173388,
     "title": "[D] - Cross-retailer post-purchase outcome data doesn't exist as infrastructure. Is anyone working on this?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rr5jok/d_crossretailer_postpurchase_outcome_data_doesnt/",
     "source": "Reddit ML",
@@ -135,34 +153,7 @@
     "saved": false
   },
   {
-    "id": -8890009705882272373,
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-    "link": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-11T19:29:29",
-    "saved": false
-  },
-  {
-    "id": -6974698602385443930,
-    "title": "I was interviewed by an AI bot for a job",
-    "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-11T18:17:30",
-    "saved": false
-  },
-  {
-    "id": 7816920144197493068,
-    "title": "Breakout Ventures raises $114M fund to back AI science startups",
-    "link": "https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-11T18:06:34",
-    "saved": false
-  },
-  {
-    "id": 6522532394649810839,
+    "id": 5798052131787954964,
     "title": "[R] IDP Leaderboard: Open benchmark for document AI across 16 VLMs, 9,000+ documents, 3 benchmark suites",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqx94q/r_idp_leaderboard_open_benchmark_for_document_ai/",
     "source": "Reddit ML",
@@ -171,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 2713752270856508685,
+    "id": 7035695121546543374,
     "title": "[D] ICML paper to review is fully AI generated",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/",
     "source": "Reddit ML",
@@ -180,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -2899344642808322097,
+    "id": -115398823066174249,
     "title": "How I topped the Open LLM Leaderboard using 2x 4090 GPUs - Research notes in Blog form",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rq6g08/how_i_topped_the_open_llm_leaderboard_using_2x/",
     "source": "Reddit ML",

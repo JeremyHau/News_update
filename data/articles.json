@@ -1,6 +1,24 @@
 [
   {
-    "id": 8670106937436731076,
+    "id": 3290696648969030987,
+    "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-14T11:40:04",
+    "saved": false
+  },
+  {
+    "id": -7106849513722436446,
+    "title": "[D] Has interpretability research been applied to model training?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rt8t19/d_has_interpretability_research_been_applied_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-14T03:30:40",
+    "saved": false
+  },
+  {
+    "id": -1513095509034550214,
     "title": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
     "source": "Reddit ML",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -3705295300804735971,
+    "id": -884217238900247867,
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -2111899581579893142,
+    "id": 5921005313863677481,
     "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
     "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
     "source": "TechCrunch",
@@ -27,25 +45,7 @@
     "saved": false
   },
   {
-    "id": -528623197101097685,
-    "title": "[P] zer0dex - dual-layer memory for local LLM agents: 91.2% recall vs 80.3% R.A.G. across 97 benchmarked cases",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rt2fpb/p_zer0dex_duallayer_memory_for_local_llm_agents/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-13T22:51:10",
-    "saved": false
-  },
-  {
-    "id": -3469958569349092538,
-    "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
-    "link": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-13T22:28:04",
-    "saved": false
-  },
-  {
-    "id": 1303304665669054139,
+    "id": -6314967523788107602,
     "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
     "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 418727497198378010,
+    "id": -4740975958327937684,
     "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
     "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -7889325227384194805,
+    "id": 12322893405469288,
     "title": "The biggest AI stories of the year (so far)",
     "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4037560235037530828,
+    "id": -8898220488334622034,
     "title": "[Project] JudgeGPT — open-source LLM-as-judge benchmarking tool with configurable scoring rubrics, CoT reasoning, and real-time GPU telemetry",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsxcl3/project_judgegpt_opensource_llmasjudge/",
     "source": "Reddit ML",
@@ -81,7 +81,16 @@
     "saved": false
   },
   {
-    "id": 6993212476122279979,
+    "id": 4798547704933266363,
+    "title": "Digg is gone again",
+    "link": "https://digg.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-13T18:52:17",
+    "saved": false
+  },
+  {
+    "id": -3929276147801148930,
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "link": "https://claude.com/blog/1m-context-ga",
     "source": "Hacker News",
@@ -90,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 7034827612406120632,
-    "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-    "link": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-13T16:40:42",
-    "saved": false
-  },
-  {
-    "id": 5009403357720459625,
+    "id": 1245569451619004497,
     "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
     "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
     "source": "TechCrunch",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1604487570239713253,
+    "id": 1759580846042759639,
     "title": "Can I run AI locally?",
     "link": "https://www.canirun.ai/",
     "source": "Hacker News",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2719760976087646848,
+    "id": -5165832079468290130,
     "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
     "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
     "source": "Hacker News",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6334514600168242368,
+    "id": -763403919031498734,
     "title": "[D] ICLR 2026 poster format for main conference posters?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsjvln/d_iclr_2026_poster_format_for_main_conference/",
     "source": "Reddit ML",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3032586967114062012,
+    "id": -437523690529998365,
     "title": "[D] What is even the point of these LLM benchmarking papers?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsdify/d_what_is_even_the_point_of_these_llm/",
     "source": "Reddit ML",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -394461493193347065,
+    "id": 7137731935181206488,
     "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
     "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
     "source": "TechCrunch",
@@ -153,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -3077507434490207463,
+    "id": 1501192831073791565,
     "title": "[P] Visual verification as a feedback loop for LLM code generation",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rrzwp9/p_visual_verification_as_a_feedback_loop_for_llm/",
     "source": "Reddit ML",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 5003251706489067234,
+    "id": -8984640344513302690,
     "title": "[D] How to increase/optimize for gpu utilization while doing model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rrm4g9/d_how_to_increaseoptimize_for_gpu_utilization/",
     "source": "Reddit ML",
@@ -171,25 +171,7 @@
     "saved": false
   },
   {
-    "id": 3421404582357910306,
-    "title": "New 'negative light' technology hides data transfers in plain sight",
-    "link": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-11T20:46:24",
-    "saved": false
-  },
-  {
-    "id": -5302658786662583345,
-    "title": "MetaGenesis Core – offline verification for computational claims",
-    "link": "https://www.metagenesis-core.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-11T13:37:24",
-    "saved": false
-  },
-  {
-    "id": -4680588182979105351,
+    "id": 1273654241358785526,
     "title": "[D] ICML paper to review is fully AI generated",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/",
     "source": "Reddit ML",

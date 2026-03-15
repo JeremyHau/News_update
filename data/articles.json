@@ -1,6 +1,60 @@
 [
   {
-    "id": 3290696648969030987,
+    "id": -4783512523499832504,
+    "title": "[P] KG Is the Brain",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ru0o7p/p_kg_is_the_brain/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-15T01:10:57",
+    "saved": false
+  },
+  {
+    "id": 4534647104281732498,
+    "title": "FCC chairman threatens TV broadcast licenses over news coverage",
+    "link": "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-15T00:08:22",
+    "saved": false
+  },
+  {
+    "id": 4859294537350227843,
+    "title": "Airbus is preparing two uncrewed combat aircraft",
+    "link": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-14T23:10:24",
+    "saved": false
+  },
+  {
+    "id": 411560238329179583,
+    "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+    "link": "https://github.com/groverburger/grobpaint",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-14T22:41:28",
+    "saved": false
+  },
+  {
+    "id": -5536946338341785419,
+    "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+    "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-14T21:24:10",
+    "saved": false
+  },
+  {
+    "id": -7084519392043120651,
+    "title": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. \"After decades of productive partnership with Cornell University, and with support from the Simons Foundation, arXiv is establishing itself as an independent nonprofit organization\"",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-14T13:32:02",
+    "saved": false
+  },
+  {
+    "id": -3483545538924240461,
     "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
     "source": "Reddit ML",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -7106849513722436446,
+    "id": -2364269526748508748,
     "title": "[D] Has interpretability research been applied to model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rt8t19/d_has_interpretability_research_been_applied_to/",
     "source": "Reddit ML",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1513095509034550214,
+    "id": 1030106043104546979,
     "title": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
     "source": "Reddit ML",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -884217238900247867,
+    "id": -1098662625451704713,
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5921005313863677481,
+    "id": -275791690097529862,
     "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
     "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6314967523788107602,
+    "id": 5090557496131003598,
     "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
     "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4740975958327937684,
+    "id": 438817810680863302,
     "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
     "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 12322893405469288,
+    "id": -6239033287687358830,
     "title": "The biggest AI stories of the year (so far)",
     "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -8898220488334622034,
+    "id": 1639848695865375921,
     "title": "[Project] JudgeGPT — open-source LLM-as-judge benchmarking tool with configurable scoring rubrics, CoT reasoning, and real-time GPU telemetry",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsxcl3/project_judgegpt_opensource_llmasjudge/",
     "source": "Reddit ML",
@@ -81,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 4798547704933266363,
-    "title": "Digg is gone again",
-    "link": "https://digg.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-13T18:52:17",
-    "saved": false
-  },
-  {
-    "id": -3929276147801148930,
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "link": "https://claude.com/blog/1m-context-ga",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-13T17:19:01",
-    "saved": false
-  },
-  {
-    "id": 1245569451619004497,
+    "id": 4113031847559969589,
     "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
     "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
     "source": "TechCrunch",
@@ -108,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 1759580846042759639,
-    "title": "Can I run AI locally?",
-    "link": "https://www.canirun.ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-13T12:46:10",
-    "saved": false
-  },
-  {
-    "id": -5165832079468290130,
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-13T12:31:09",
-    "saved": false
-  },
-  {
-    "id": -763403919031498734,
+    "id": -6790448680458239745,
     "title": "[D] ICLR 2026 poster format for main conference posters?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsjvln/d_iclr_2026_poster_format_for_main_conference/",
     "source": "Reddit ML",
@@ -135,48 +153,12 @@
     "saved": false
   },
   {
-    "id": -437523690529998365,
+    "id": -682249092069849406,
     "title": "[D] What is even the point of these LLM benchmarking papers?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsdify/d_what_is_even_the_point_of_these_llm/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-13T04:21:26",
-    "saved": false
-  },
-  {
-    "id": 7137731935181206488,
-    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-12T22:25:50",
-    "saved": false
-  },
-  {
-    "id": 1501192831073791565,
-    "title": "[P] Visual verification as a feedback loop for LLM code generation",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rrzwp9/p_visual_verification_as_a_feedback_loop_for_llm/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-12T19:06:11",
-    "saved": false
-  },
-  {
-    "id": -8984640344513302690,
-    "title": "[D] How to increase/optimize for gpu utilization while doing model training?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rrm4g9/d_how_to_increaseoptimize_for_gpu_utilization/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-12T09:31:25",
-    "saved": false
-  },
-  {
-    "id": 1273654241358785526,
-    "title": "[D] ICML paper to review is fully AI generated",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-11T12:19:28",
     "saved": false
   }
 ]

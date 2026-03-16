@@ -1,15 +1,87 @@
 [
   {
-    "id": -400894870478814760,
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-    "link": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-15T10:15:47",
+    "id": -8840545547364204992,
+    "title": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T00:30:00",
     "saved": false
   },
   {
-    "id": 6062039492780593302,
+    "id": 1798304281863263604,
+    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells",
+    "link": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-16T00:22:48",
+    "saved": false
+  },
+  {
+    "id": -2737773025546583253,
+    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "link": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-15T22:15:50",
+    "saved": false
+  },
+  {
+    "id": 5081111541125130587,
+    "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
+    "link": "https://github.com/EvanZhouDev/openai-oauth",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-15T21:29:52",
+    "saved": false
+  },
+  {
+    "id": -2355502946316223134,
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-15T18:49:32",
+    "saved": false
+  },
+  {
+    "id": 2386710245421428459,
+    "title": "[P] Using SHAP to explain Unsupervised Anomaly Detection on PCA-anonymized data (Credit Card Fraud). Is this a valid approach for a thesis?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rul706/p_using_shap_to_explain_unsupervised_anomaly/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-15T18:11:20",
+    "saved": false
+  },
+  {
+    "id": 7703163137560901773,
+    "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+    "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-15T16:05:00",
+    "saved": false
+  },
+  {
+    "id": -7162564606003167381,
+    "title": "LLM Architecture Gallery",
+    "link": "https://sebastianraschka.com/llm-architecture-gallery/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-15T16:01:09",
+    "saved": false
+  },
+  {
+    "id": 5799179470108342478,
+    "title": "[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-15T13:57:27",
+    "saved": false
+  },
+  {
+    "id": -4636534428014688608,
     "title": "[P] I've trained my own OMR model (Optical Music Recognition)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ru8okj/p_ive_trained_my_own_omr_model_optical_music/",
     "source": "Reddit ML",
@@ -18,25 +90,7 @@
     "saved": false
   },
   {
-    "id": 273397947140834937,
-    "title": "The Appalling Stupidity of Spotify's AI DJ",
-    "link": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-15T08:04:55",
-    "saved": false
-  },
-  {
-    "id": -1636350169136440348,
-    "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-    "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-15T02:48:33",
-    "saved": false
-  },
-  {
-    "id": 3515180975657632625,
+    "id": 8347068765395617724,
     "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
     "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8684083200656649763,
+    "id": 8206452949171104061,
     "title": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. \"After decades of productive partnership with Cornell University, and with support from the Simons Foundation, arXiv is establishing itself as an independent nonprofit organization\"",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
     "source": "Reddit ML",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3294928852662198451,
+    "id": -392872178696034967,
     "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
     "source": "Reddit ML",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5172615693488944516,
+    "id": 8068451574296379138,
     "title": "[D] Has interpretability research been applied to model training?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rt8t19/d_has_interpretability_research_been_applied_to/",
     "source": "Reddit ML",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -3365002172712818283,
+    "id": -9094333236404701633,
     "title": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
     "source": "Reddit ML",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 8547710931928829790,
+    "id": -4145048154618474132,
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
     "source": "TechCrunch",
@@ -90,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 2178344690560941181,
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-14T00:01:02",
-    "saved": false
-  },
-  {
-    "id": -2453030931453933643,
+    "id": -7253404936027367534,
     "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
     "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -8786857792037807348,
+    "id": -1942831782074973486,
     "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
     "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
     "source": "TechCrunch",
@@ -117,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -4649813883040452512,
+    "id": -5608379478768509544,
     "title": "The biggest AI stories of the year (so far)",
     "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
     "source": "TechCrunch",
@@ -126,34 +171,7 @@
     "saved": false
   },
   {
-    "id": -4229422266621008942,
-    "title": "[Project] JudgeGPT — open-source LLM-as-judge benchmarking tool with configurable scoring rubrics, CoT reasoning, and real-time GPU telemetry",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rsxcl3/project_judgegpt_opensource_llmasjudge/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-13T19:36:57",
-    "saved": false
-  },
-  {
-    "id": 2463712012280200279,
-    "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-    "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-13T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 2163026534102175732,
-    "title": "[D] ICLR 2026 poster format for main conference posters?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rsjvln/d_iclr_2026_poster_format_for_main_conference/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-13T10:40:32",
-    "saved": false
-  },
-  {
-    "id": 7039507757397335538,
+    "id": 5447232944217146788,
     "title": "[D] What is even the point of these LLM benchmarking papers?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rsdify/d_what_is_even_the_point_of_these_llm/",
     "source": "Reddit ML",

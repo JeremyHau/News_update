@@ -1,6 +1,33 @@
 [
   {
-    "id": 4934176059614625978,
+    "id": -9102898392652044326,
+    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+    "link": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-17T12:01:05",
+    "saved": false
+  },
+  {
+    "id": -5872308194719921896,
+    "title": "[D] Releasing a professional MQM-annotated MT dataset (16 lang pairs, 48 annotators)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rw3a3j/d_releasing_a_professional_mqmannotated_mt/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-17T10:56:52",
+    "saved": false
+  },
+  {
+    "id": 5643974561981119636,
+    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
+    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-17T04:01:00",
+    "saved": false
+  },
+  {
+    "id": 7823861383051084373,
     "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
     "link": "https://mistral.ai/news/leanstral",
     "source": "Hacker News",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8623592030925068050,
+    "id": 6922939943634748972,
     "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
     "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -9165190447625502950,
+    "id": 384314098579691347,
     "title": "Memories AI is building the visual memory layer for wearables and robotics",
     "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2341797988283101773,
+    "id": -4708200063842945477,
     "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
     "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -5715166471917617304,
+    "id": 5844125980448218261,
     "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
     "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7419350514745220303,
+    "id": -3141329764058581268,
     "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
     "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4386549466673715364,
+    "id": -8060013872051650523,
     "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
     "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -5917259896602216174,
+    "id": 5299618214683462107,
     "title": "The dictionary sues OpenAI",
     "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
     "source": "TechCrunch",
@@ -72,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -4433442553729195272,
-    "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-    "link": "https://news.ycombinator.com/item?id=47401042",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-16T16:21:07",
-    "saved": false
-  },
-  {
-    "id": 1095584113668362982,
+    "id": 3116547404745951976,
     "title": "Shopify is preparing for AI shopping agents to change everything, exec says",
     "link": "https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/",
     "source": "TechCrunch",
@@ -90,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 6891505145642150851,
-    "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-    "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-16T15:25:36",
-    "saved": false
-  },
-  {
-    "id": -3326471520519117222,
+    "id": -5368666898090049434,
     "title": "Apple quietly launches AirPods Max 2",
     "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
     "source": "TechCrunch",
@@ -108,34 +117,7 @@
     "saved": false
   },
   {
-    "id": 7498042059959590906,
-    "title": "AirPods Max 2",
-    "link": "https://www.apple.com/airpods-max/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-16T13:22:03",
-    "saved": false
-  },
-  {
-    "id": -914160418530800589,
-    "title": "Starlink Mini as a failover",
-    "link": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-16T08:07:29",
-    "saved": false
-  },
-  {
-    "id": -7292917635428502410,
-    "title": "The billionaires made a promise — now some want out",
-    "link": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-16T04:40:24",
-    "saved": false
-  },
-  {
-    "id": -7737449141560558314,
+    "id": 8658620159778393688,
     "title": "[P] Using SHAP to explain Unsupervised Anomaly Detection on PCA-anonymized data (Credit Card Fraud). Is this a valid approach for a thesis?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rul706/p_using_shap_to_explain_unsupervised_anomaly/",
     "source": "Reddit ML",
@@ -144,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1010087619277237540,
+    "id": -3859913728161784107,
     "title": "[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
     "source": "Reddit ML",
@@ -153,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5525869005337613130,
+    "id": -4381649963920929528,
     "title": "[P] I've trained my own OMR model (Optical Music Recognition)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ru8okj/p_ive_trained_my_own_omr_model_optical_music/",
     "source": "Reddit ML",
@@ -162,21 +144,12 @@
     "saved": false
   },
   {
-    "id": 6315232060522640921,
+    "id": 7856542530579393020,
     "title": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. \"After decades of productive partnership with Cornell University, and with support from the Simons Foundation, arXiv is establishing itself as an independent nonprofit organization\"",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-14T13:32:02",
-    "saved": false
-  },
-  {
-    "id": 3413469086229209403,
-    "title": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-14T00:19:27",
     "saved": false
   }
 ]

@@ -1,15 +1,132 @@
 [
   {
-    "id": 3876942592569171909,
-    "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
-    "link": "https://jobs.ashbyhq.com/Nango",
+    "id": 4934176059614625978,
+    "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+    "link": "https://mistral.ai/news/leanstral",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-16T12:03:13",
+    "date": "2026-03-16T20:59:40",
     "saved": false
   },
   {
-    "id": 618669862313386549,
+    "id": -8623592030925068050,
+    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T20:58:36",
+    "saved": false
+  },
+  {
+    "id": -9165190447625502950,
+    "title": "Memories AI is building the visual memory layer for wearables and robotics",
+    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T20:30:00",
+    "saved": false
+  },
+  {
+    "id": 2341797988283101773,
+    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T19:18:44",
+    "saved": false
+  },
+  {
+    "id": -5715166471917617304,
+    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+    "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T19:12:19",
+    "saved": false
+  },
+  {
+    "id": 7419350514745220303,
+    "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+    "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T18:36:42",
+    "saved": false
+  },
+  {
+    "id": -4386549466673715364,
+    "title": "Fuse raises $25M  to disrupt aging loan origination systems used by US credit unions",
+    "link": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T17:43:27",
+    "saved": false
+  },
+  {
+    "id": -5917259896602216174,
+    "title": "The dictionary sues OpenAI",
+    "link": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T17:38:34",
+    "saved": false
+  },
+  {
+    "id": -4433442553729195272,
+    "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+    "link": "https://news.ycombinator.com/item?id=47401042",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-16T16:21:07",
+    "saved": false
+  },
+  {
+    "id": 1095584113668362982,
+    "title": "Shopify is preparing for AI shopping agents to change everything, exec says",
+    "link": "https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T15:56:39",
+    "saved": false
+  },
+  {
+    "id": 6891505145642150851,
+    "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+    "link": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-16T15:25:36",
+    "saved": false
+  },
+  {
+    "id": -3326471520519117222,
+    "title": "Apple quietly launches AirPods Max 2",
+    "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-16T14:12:50",
+    "saved": false
+  },
+  {
+    "id": 7498042059959590906,
+    "title": "AirPods Max 2",
+    "link": "https://www.apple.com/airpods-max/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-16T13:22:03",
+    "saved": false
+  },
+  {
+    "id": -914160418530800589,
+    "title": "Starlink Mini as a failover",
+    "link": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-16T08:07:29",
+    "saved": false
+  },
+  {
+    "id": -7292917635428502410,
     "title": "The billionaires made a promise — now some want out",
     "link": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
     "source": "TechCrunch",
@@ -18,43 +135,7 @@
     "saved": false
   },
   {
-    "id": -4765325211720104943,
-    "title": "How I write software with LLMs",
-    "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-16T01:24:09",
-    "saved": false
-  },
-  {
-    "id": -6141175697513841776,
-    "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-16T00:30:00",
-    "saved": false
-  },
-  {
-    "id": 1904874569292148036,
-    "title": "LLMs can be exhausting",
-    "link": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-15T20:56:21",
-    "saved": false
-  },
-  {
-    "id": -308947425322836748,
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-15T18:49:32",
-    "saved": false
-  },
-  {
-    "id": 7920141550526939757,
+    "id": -7737449141560558314,
     "title": "[P] Using SHAP to explain Unsupervised Anomaly Detection on PCA-anonymized data (Credit Card Fraud). Is this a valid approach for a thesis?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rul706/p_using_shap_to_explain_unsupervised_anomaly/",
     "source": "Reddit ML",
@@ -63,25 +144,7 @@
     "saved": false
   },
   {
-    "id": -6109089976812959263,
-    "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
-    "link": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-15T16:05:00",
-    "saved": false
-  },
-  {
-    "id": -8403551466025841250,
-    "title": "LLM Architecture Gallery",
-    "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-15T16:01:09",
-    "saved": false
-  },
-  {
-    "id": -2639819316438308306,
+    "id": 1010087619277237540,
     "title": "[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
     "source": "Reddit ML",
@@ -90,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -5673159076404287802,
+    "id": 5525869005337613130,
     "title": "[P] I've trained my own OMR model (Optical Music Recognition)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ru8okj/p_ive_trained_my_own_omr_model_optical_music/",
     "source": "Reddit ML",
@@ -99,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -7114464385774035623,
-    "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
-    "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-14T21:24:10",
-    "saved": false
-  },
-  {
-    "id": 3868370843999845997,
+    "id": 6315232060522640921,
     "title": "The arXiv is separating from Cornell University, and is hiring a CEO, who will be paid roughly $300,000/year. \"After decades of productive partnership with Cornell University, and with support from the Simons Foundation, arXiv is establishing itself as an independent nonprofit organization\"",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/",
     "source": "Reddit ML",
@@ -117,57 +171,12 @@
     "saved": false
   },
   {
-    "id": -1384851809789188212,
-    "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-14T11:40:04",
-    "saved": false
-  },
-  {
-    "id": -1539219121491358381,
-    "title": "[D] Has interpretability research been applied to model training?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rt8t19/d_has_interpretability_research_been_applied_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-14T03:30:40",
-    "saved": false
-  },
-  {
-    "id": -1152166615224620807,
+    "id": 3413469086229209403,
     "title": "[D] ran controlled experiments on meta's COCONUT and found the \"latent reasoning\" is mostly just good training. the recycled hidden states actually hurt generalization",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rt4lyd/d_ran_controlled_experiments_on_metas_coconut_and/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-14T00:19:27",
-    "saved": false
-  },
-  {
-    "id": -1577813500439991102,
-    "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-    "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-14T00:12:22",
-    "saved": false
-  },
-  {
-    "id": -8600171333124438415,
-    "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-    "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-13T21:37:01",
-    "saved": false
-  },
-  {
-    "id": 7958351763317921941,
-    "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-    "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-13T19:47:58",
     "saved": false
   }
 ]

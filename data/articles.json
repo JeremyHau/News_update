@@ -1,6 +1,33 @@
 [
   {
-    "id": 2176365014854503409,
+    "id": -3804918862806529862,
+    "title": "[D] ICML rejects papers of reviewers who used LLMs despite agreeing not to",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T12:03:38",
+    "saved": false
+  },
+  {
+    "id": 9141972177580829005,
+    "title": "[R] From Garbage to Gold: A Formal Proof that GIGO Fails for High-Dimensional Data with Latent Structure — with a Connection to Benign Overfitting Prerequisites",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rwyy9g/r_from_garbage_to_gold_a_formal_proof_that_gigo/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T09:17:30",
+    "saved": false
+  },
+  {
+    "id": 6466793845213542884,
+    "title": "[P] Tridiagonal eigenvalue models in PyTorch: cheaper training/inference than dense spectral models",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rwy5ch/p_tridiagonal_eigenvalue_models_in_pytorch/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T08:27:22",
+    "saved": false
+  },
+  {
+    "id": 6301798619282701284,
     "title": "[P] I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwm05e/p_i_built_a_visual_draganddrop_ml_trainer_no_code/",
     "source": "Reddit ML",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8500588876129575956,
+    "id": -2817960044802332201,
     "title": "[P] Weight Norm Clipping Accelerates Grokking 18-66× | Zero Failures Across 300 Seeds | PDF in Repo",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwl1sq/p_weight_norm_clipping_accelerates_grokking_1866/",
     "source": "Reddit ML",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 6127702083751926222,
-    "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-    "link": "https://arxiv.org/abs/2603.15381",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-17T21:42:39",
-    "saved": false
-  },
-  {
-    "id": -8950011894924547580,
+    "id": 2571496239469023286,
     "title": "Mistral AI Releases Forge",
     "link": "https://mistral.ai/news/forge",
     "source": "Hacker News",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7518713849077701193,
+    "id": -99338524808265224,
     "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
     "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
     "source": "TechCrunch",
@@ -45,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 1734369356508813954,
-    "title": "[R] Emergent AI societies in a persistent multi-agent environment (TerraLingua + dataset + code)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rwdrs1/r_emergent_ai_societies_in_a_persistent/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-17T17:49:24",
-    "saved": false
-  },
-  {
-    "id": 6084239068478413020,
+    "id": 816674811453187844,
     "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
     "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
     "source": "TechCrunch",
@@ -63,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -932793556442997619,
-    "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-    "link": "https://theasc.com/articles/the-secret-agent-cinematography",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-17T15:56:09",
-    "saved": false
-  },
-  {
-    "id": -6980183875299809722,
+    "id": 6965977705388562115,
     "title": "OpenAI expands government footprint with AWS deal, report says",
     "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 510396876996979556,
+    "id": -2432437897499560727,
     "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
     "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7394255588473981338,
+    "id": -6590985794517484559,
     "title": "World launches tool to verify humans behind AI shopping agents",
     "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 6671790967153107173,
+    "id": -294062530248649584,
     "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
     "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
     "source": "TechCrunch",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7714457239845652206,
+    "id": -864054992008144788,
     "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
     "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8110281557584153997,
+    "id": -8274988811393829682,
     "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
     "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -430819297367133820,
+    "id": -6176684981100993001,
     "title": "[P] mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rw58ku/p_mlxtune_finetune_llms_on_apple_silicon_with_mlx/",
     "source": "Reddit ML",
@@ -135,30 +135,12 @@
     "saved": false
   },
   {
-    "id": 2488881129409452302,
-    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-    "link": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-17T12:01:05",
-    "saved": false
-  },
-  {
-    "id": 4587657659798862727,
+    "id": 7299125831529237356,
     "title": "[D] Releasing a professional MQM-annotated MT dataset (16 lang pairs, 48 annotators)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rw3a3j/d_releasing_a_professional_mqmannotated_mt/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-17T10:56:52",
-    "saved": false
-  },
-  {
-    "id": -5260813525391231236,
-    "title": "[P] preflight, a pre-training validator for PyTorch I built after losing 3 days to label leakage",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ruepfx/p_preflight_a_pretraining_validator_for_pytorch_i/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-15T13:57:27",
     "saved": false
   }
 ]

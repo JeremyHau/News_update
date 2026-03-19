@@ -1,6 +1,132 @@
 [
   {
-    "id": -3804918862806529862,
+    "id": -1011226783462699914,
+    "title": "Meta is having trouble with rogue AI agents",
+    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T23:42:46",
+    "saved": false
+  },
+  {
+    "id": -8189263620482001166,
+    "title": "[P] Interactive course showing the full AI agent stack in 60 lines of Python",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rxjhv5/p_interactive_course_showing_the_full_ai_agent/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T23:07:13",
+    "saved": false
+  },
+  {
+    "id": 6247713542100704564,
+    "title": "[P] Weber Electrodynamic Optimizer + SDR Hardware Entropy for Autonomous ML Research (fork of karpathy/autoresearch)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rxh7xs/p_weber_electrodynamic_optimizer_sdr_hardware/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T21:39:21",
+    "saved": false
+  },
+  {
+    "id": 3839145847606232407,
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+    "link": "https://github.com/alainnothere/llm-circuit-finder",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-18T21:31:12",
+    "saved": false
+  },
+  {
+    "id": 3554054262074285552,
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T20:30:52",
+    "saved": false
+  },
+  {
+    "id": 6711540416447561747,
+    "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
+    "link": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T17:58:28",
+    "saved": false
+  },
+  {
+    "id": -7969534708306034953,
+    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T17:54:31",
+    "saved": false
+  },
+  {
+    "id": -9131922857980978589,
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "link": "https://tmux.thijsverreck.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-18T17:46:25",
+    "saved": false
+  },
+  {
+    "id": 5898228425826312040,
+    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+    "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T17:15:00",
+    "saved": false
+  },
+  {
+    "id": 2919438054221573563,
+    "title": "[R] Extreme Sudoku as a constraint-satisfaction benchmark, solved natively without tools or CoT or solution backtracking",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rx9qn4/r_extreme_sudoku_as_a_constraintsatisfaction/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T17:09:09",
+    "saved": false
+  },
+  {
+    "id": -6257666847012957386,
+    "title": "[P] AIBuildAI: An AI agent that automatically builds AI models (#1 on OpenAI MLE-Bench)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rx7uz5/p_aibuildai_an_ai_agent_that_automatically_builds/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-18T16:00:49",
+    "saved": false
+  },
+  {
+    "id": 5866588067337687871,
+    "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+    "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T15:33:49",
+    "saved": false
+  },
+  {
+    "id": 4138532982011372582,
+    "title": "Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools",
+    "link": "https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -132655048387850999,
+    "title": "Mave Health aims to improve attention and mood with its brain-stimulating headset",
+    "link": "https://techcrunch.com/2026/03/18/mave-health-aims-to-improve-attention-and-mood-with-its-brain-stimulating-headset/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-18T12:54:43",
+    "saved": false
+  },
+  {
+    "id": -8056466462152981048,
     "title": "[D] ICML rejects papers of reviewers who used LLMs despite agreeing not to",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/",
     "source": "Reddit ML",
@@ -9,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 9141972177580829005,
+    "id": 6725110170100522115,
     "title": "[R] From Garbage to Gold: A Formal Proof that GIGO Fails for High-Dimensional Data with Latent Structure — with a Connection to Benign Overfitting Prerequisites",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwyy9g/r_from_garbage_to_gold_a_formal_proof_that_gigo/",
     "source": "Reddit ML",
@@ -18,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 6466793845213542884,
+    "id": -8152177629643086383,
     "title": "[P] Tridiagonal eigenvalue models in PyTorch: cheaper training/inference than dense spectral models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwy5ch/p_tridiagonal_eigenvalue_models_in_pytorch/",
     "source": "Reddit ML",
@@ -27,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 6301798619282701284,
-    "title": "[P] I built a visual drag-and-drop ML trainer (no code required). Free & open source.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rwm05e/p_i_built_a_visual_draganddrop_ml_trainer_no_code/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-17T22:41:37",
-    "saved": false
-  },
-  {
-    "id": -2817960044802332201,
+    "id": 2995894338203214201,
     "title": "[P] Weight Norm Clipping Accelerates Grokking 18-66× | Zero Failures Across 300 Seeds | PDF in Repo",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwl1sq/p_weight_norm_clipping_accelerates_grokking_1866/",
     "source": "Reddit ML",
@@ -45,88 +162,7 @@
     "saved": false
   },
   {
-    "id": 2571496239469023286,
-    "title": "Mistral AI Releases Forge",
-    "link": "https://mistral.ai/news/forge",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-17T21:04:26",
-    "saved": false
-  },
-  {
-    "id": -99338524808265224,
-    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T21:00:00",
-    "saved": false
-  },
-  {
-    "id": 816674811453187844,
-    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T17:17:15",
-    "saved": false
-  },
-  {
-    "id": 6965977705388562115,
-    "title": "OpenAI expands government footprint with AWS deal, report says",
-    "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T15:37:03",
-    "saved": false
-  },
-  {
-    "id": -2432437897499560727,
-    "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-    "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T15:16:21",
-    "saved": false
-  },
-  {
-    "id": -6590985794517484559,
-    "title": "World launches tool to verify humans behind AI shopping agents",
-    "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -294062530248649584,
-    "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
-    "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T13:15:22",
-    "saved": false
-  },
-  {
-    "id": -864054992008144788,
-    "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-    "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -8274988811393829682,
-    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
-    "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-17T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -6176684981100993001,
+    "id": -9155476600233781730,
     "title": "[P] mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rw58ku/p_mlxtune_finetune_llms_on_apple_silicon_with_mlx/",
     "source": "Reddit ML",
@@ -135,12 +171,12 @@
     "saved": false
   },
   {
-    "id": 7299125831529237356,
-    "title": "[D] Releasing a professional MQM-annotated MT dataset (16 lang pairs, 48 annotators)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rw3a3j/d_releasing_a_professional_mqmannotated_mt/",
-    "source": "Reddit ML",
+    "id": 7366552912823474157,
+    "title": "The math that explains why bell curves are everywhere",
+    "link": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-17T10:56:52",
+    "date": "2026-03-16T16:51:32",
     "saved": false
   }
 ]

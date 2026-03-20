@@ -1,6 +1,123 @@
 [
   {
-    "id": -8425169423940764214,
+    "id": -2133805264141641068,
+    "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+    "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T23:28:37",
+    "saved": false
+  },
+  {
+    "id": -4613358226169447184,
+    "title": "[R] Doc-to-LoRA: Learning to Instantly Internalize Contexts from Sakana AI",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ryew3g/r_doctolora_learning_to_instantly_internalize/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-19T22:40:51",
+    "saved": false
+  },
+  {
+    "id": -7907329030900549211,
+    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T22:09:24",
+    "saved": false
+  },
+  {
+    "id": -7684553102255141787,
+    "title": "[P] I got tired of spending more time on data prep than training, so I built a platform with pre-cleaned datasets ready for fine-tuning",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rydlfo/p_i_got_tired_of_spending_more_time_on_data_prep/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-19T21:51:04",
+    "saved": false
+  },
+  {
+    "id": -9133181379343433930,
+    "title": "Be intentional about how AI changes your codebase",
+    "link": "https://aicode.swerdlow.dev",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-19T21:23:24",
+    "saved": false
+  },
+  {
+    "id": -6418365999249735791,
+    "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+    "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T21:13:50",
+    "saved": false
+  },
+  {
+    "id": -7794665032034718651,
+    "title": "EsoLang-Bench: Evaluating Genuine Reasoning in LLMs via Esoteric Languages",
+    "link": "https://esolang-bench.vercel.app/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-19T21:01:03",
+    "saved": false
+  },
+  {
+    "id": 8676035163116078495,
+    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T17:24:13",
+    "saved": false
+  },
+  {
+    "id": -4675093255859630905,
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
+    "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-19T17:16:04",
+    "saved": false
+  },
+  {
+    "id": -1831787750993949225,
+    "title": "Google introduces a new way for users to sideload Android apps that still protects against scams",
+    "link": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -4517612908470934711,
+    "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T16:14:00",
+    "saved": false
+  },
+  {
+    "id": 1752709733797140322,
+    "title": "Consumer-focused privacy company Cloaked raises $375M as it expands to enterprise",
+    "link": "https://techcrunch.com/2026/03/19/consumer-focused-privacy-company-cloaked-raises-375m-as-it-expands-to-enterprise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-19T13:19:41",
+    "saved": false
+  },
+  {
+    "id": -1940733577914032382,
+    "title": "Astral to Join OpenAI",
+    "link": "https://astral.sh/blog/openai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-19T13:05:50",
+    "saved": false
+  },
+  {
+    "id": -925609535320803176,
     "title": "[D] Breaking down MiroThinker H1's verification centric reasoning: why fewer interaction rounds produce better agent performance",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rxz4xk/d_breaking_down_mirothinker_h1s_verification/",
     "source": "Reddit ML",
@@ -9,34 +126,7 @@
     "saved": false
   },
   {
-    "id": 4779612165619935080,
-    "title": "The strait of Hormuz blockade will strangle US defense industry",
-    "link": "https://www.theguardian.com/world/2026/mar/19/west-point-analysis-iran-war-costs",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-19T12:26:13",
-    "saved": false
-  },
-  {
-    "id": -5248217743981977313,
-    "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
-    "link": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-19T10:17:46",
-    "saved": false
-  },
-  {
-    "id": -5346629863792582312,
-    "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
-    "link": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-19T09:51:56",
-    "saved": false
-  },
-  {
-    "id": 1961930612624897766,
+    "id": -5050057458145265484,
     "title": "[P] Volga - Data Engine for Real-Time AI/ML",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rxurqt/p_volga_data_engine_for_realtime_aiml/",
     "source": "Reddit ML",
@@ -45,79 +135,7 @@
     "saved": false
   },
   {
-    "id": 8738484533802762997,
-    "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-19T08:00:00",
-    "saved": false
-  },
-  {
-    "id": 3607392042902693527,
-    "title": "A sufficiently detailed spec is code",
-    "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-19T02:23:17",
-    "saved": false
-  },
-  {
-    "id": -6672427173783267192,
-    "title": "Meta is having trouble with rogue AI agents",
-    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-18T23:42:46",
-    "saved": false
-  },
-  {
-    "id": 5606192780835411885,
-    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
-    "link": "https://github.com/alainnothere/llm-circuit-finder",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-18T21:31:12",
-    "saved": false
-  },
-  {
-    "id": 4473607666165632763,
-    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-18T20:30:52",
-    "saved": false
-  },
-  {
-    "id": -1641192185500541499,
-    "title": "Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes",
-    "link": "https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-18T17:58:28",
-    "saved": false
-  },
-  {
-    "id": -7068952785090186238,
-    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-18T17:54:31",
-    "saved": false
-  },
-  {
-    "id": -4413880269520891320,
-    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-    "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-18T17:15:00",
-    "saved": false
-  },
-  {
-    "id": 3079072079354445298,
+    "id": -755620649412568637,
     "title": "[R] Extreme Sudoku as a constraint-satisfaction benchmark, solved natively without tools or CoT or solution backtracking",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rx9qn4/r_extreme_sudoku_as_a_constraintsatisfaction/",
     "source": "Reddit ML",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 6274101650429145075,
+    "id": 2046147156775566859,
     "title": "[D] ICML rejects papers of reviewers who used LLMs despite agreeing not to",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4678431944990287285,
+    "id": 4799329220910044075,
     "title": "[R] From Garbage to Gold: A Formal Proof that GIGO Fails for High-Dimensional Data with Latent Structure — with a Connection to Benign Overfitting Prerequisites",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwyy9g/r_from_garbage_to_gold_a_formal_proof_that_gigo/",
     "source": "Reddit ML",
@@ -144,39 +162,12 @@
     "saved": false
   },
   {
-    "id": 4373512176291636173,
+    "id": -7756646199526479952,
     "title": "[P] Tridiagonal eigenvalue models in PyTorch: cheaper training/inference than dense spectral models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rwy5ch/p_tridiagonal_eigenvalue_models_in_pytorch/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-18T08:27:22",
-    "saved": false
-  },
-  {
-    "id": 5801572908785776357,
-    "title": "[P] Weight Norm Clipping Accelerates Grokking 18-66× | Zero Failures Across 300 Seeds | PDF in Repo",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rwl1sq/p_weight_norm_clipping_accelerates_grokking_1866/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-17T22:05:45",
-    "saved": false
-  },
-  {
-    "id": -6497292819462656589,
-    "title": "[P] mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rw58ku/p_mlxtune_finetune_llms_on_apple_silicon_with_mlx/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-17T12:33:15",
-    "saved": false
-  },
-  {
-    "id": 1114638346950786459,
-    "title": "Pretraining Language Models via Neural Cellular Automata",
-    "link": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-15T15:23:26",
     "saved": false
   }
 ]

@@ -1,16 +1,61 @@
 [
   {
-    "id": -3785956911000327875,
-    "title": "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
-    "link": "https://github.com/FormerLab/shadow-fleet-tracker-light",
-    "source": "Hacker News",
+    "id": 3379542216672528261,
+    "title": "[P] Benchmark: Using XGBoost vs. DistilBERT for detecting \"Month 2 Tanking\" in cold email infrastructure?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzpc28/p_benchmark_using_xgboost_vs_distilbert_for/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-20T21:04:11",
+    "date": "2026-03-21T11:41:17",
     "saved": false
   },
   {
-    "id": -958185642594041008,
-    "title": "OpenCode – The open source AI coding agent",
+    "id": -8345530235888485732,
+    "title": "[N] ArXiv, the pioneering preprint server, declares independence from Cornell | Science | As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-21T11:31:26",
+    "saved": false
+  },
+  {
+    "id": -8279301509243746081,
+    "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+    "link": "https://blog.atuin.sh/atuin-v18-13/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-21T10:35:20",
+    "saved": false
+  },
+  {
+    "id": 356491329554574115,
+    "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+    "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-21T07:30:16",
+    "saved": false
+  },
+  {
+    "id": -3092261245468693371,
+    "title": "[D] How do you add theoretical justification to an AI/ML paper?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzkuxd/d_how_do_you_add_theoretical_justification_to_an/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-21T06:59:59",
+    "saved": false
+  },
+  {
+    "id": 6314218319962417224,
+    "title": "[D] Seeking feedback: Safe autonomous agents for enterprise systems",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1rziq9q/d_seeking_feedback_safe_autonomous_agents_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-21T04:56:03",
+    "saved": false
+  },
+  {
+    "id": -5628078029305570025,
+    "title": "OpenCode – Open source AI coding agent",
     "link": "https://opencode.ai/",
     "source": "Hacker News",
     "category": "ai",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4680547905320363754,
+    "id": 5847236815743340925,
     "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
     "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4368540962619994445,
+    "id": -9168806144145643519,
     "title": "Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz748k/medical_ai_gets_66_worse_when_you_use_automated/",
     "source": "Reddit ML",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -698290578976265595,
+    "id": 4938460030275198855,
     "title": "[D] Has \"AI research lab\" become completely meaningless as a term?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz5met/d_has_ai_research_lab_become_completely/",
     "source": "Reddit ML",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6947848930706726081,
+    "id": 233132088774183347,
     "title": "[P] neuropt: LLM-guided hyperparameter optimization that reads your training curves",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz4tri/p_neuropt_llmguided_hyperparameter_optimization/",
     "source": "Reddit ML",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7136945983402337615,
+    "id": 5945819250068609274,
     "title": "[D] opinions about a fund for creators sponsored by AI companies?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz4r23/d_opinions_about_a_fund_for_creators_sponsored_by/",
     "source": "Reddit ML",
@@ -63,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -5462601404052844541,
-    "title": "Show HN: I made an email app inspired by Arc browser",
-    "link": "https://demo.define.app",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-20T18:06:20",
-    "saved": false
-  },
-  {
-    "id": 8631848229114968328,
+    "id": 4106520450465758576,
     "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
     "link": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8579132280820066410,
+    "id": -3099445216320574762,
     "title": "WordPress.com now lets AI agents write and publish posts, and more",
     "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3798311807062399473,
+    "id": -6834398285828748899,
     "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
     "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6404018799193750234,
+    "id": -2491050324749039599,
     "title": "AI startups are eating the venture industry and the returns, so far, are good",
     "link": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
     "source": "TechCrunch",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -7462116527434227471,
+    "id": 6284343005449688869,
     "title": "[P] Zero-code runtime visibility for PyTorch training",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ryww1u/p_zerocode_runtime_visibility_for_pytorch_training/",
     "source": "Reddit ML",
@@ -117,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -3140490348942692916,
-    "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-    "link": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-20T13:01:56",
-    "saved": false
-  },
-  {
-    "id": 4532205838263186722,
+    "id": -3116978020151547084,
     "title": "The best AI investment might be in energy tech",
     "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
     "source": "TechCrunch",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -8724012236195911939,
+    "id": 8026178106671424540,
     "title": "These AI notetaking devices can help you record and transcribe your meetings",
     "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
     "source": "TechCrunch",
@@ -144,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 8228341794513132044,
+    "id": -5443132247651714510,
     "title": "[D] Scale AI ML Research Engineer Interview",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rym21x/d_scale_ai_ml_research_engineer_interview/",
     "source": "Reddit ML",
@@ -153,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -5361705170163841101,
+    "id": -2793235464283666463,
     "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
     "link": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
     "source": "TechCrunch",
@@ -162,16 +189,7 @@
     "saved": false
   },
   {
-    "id": 8262385325525141671,
-    "title": "[R] Doc-to-LoRA: Learning to Instantly Internalize Contexts from Sakana AI",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ryew3g/r_doctolora_learning_to_instantly_internalize/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-19T22:40:51",
-    "saved": false
-  },
-  {
-    "id": 621241424034760255,
+    "id": 9025034609774294012,
     "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
     "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
     "source": "TechCrunch",
@@ -180,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -1076202155994309573,
+    "id": 4139436823344448813,
     "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
     "link": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
     "source": "TechCrunch",
@@ -189,12 +207,21 @@
     "saved": false
   },
   {
-    "id": 1203853917833391973,
-    "title": "[D] Breaking down MiroThinker H1's verification centric reasoning: why fewer interaction rounds produce better agent performance",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rxz4xk/d_breaking_down_mirothinker_h1s_verification/",
-    "source": "Reddit ML",
+    "id": -3666128486674580081,
+    "title": "Cryptography in Home Entertainment (2004)",
+    "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-19T12:31:24",
+    "date": "2026-03-18T21:29:14",
+    "saved": false
+  },
+  {
+    "id": 5100787162990785300,
+    "title": "The Ugliest Airplane: An Appreciation",
+    "link": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-18T16:52:58",
     "saved": false
   }
 ]

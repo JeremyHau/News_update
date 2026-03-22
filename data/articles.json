@@ -1,24 +1,51 @@
 [
   {
-    "id": -6623616204442219457,
-    "title": "The Impact of AI on Game Dev Jobs. Open to Work Crisis",
-    "link": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-21T22:03:05",
+    "id": 3796051580241396537,
+    "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-22T12:00:00",
     "saved": false
   },
   {
-    "id": 6031574401494147710,
-    "title": "Tinybox – Offline AI device 120B parameters",
-    "link": "https://tinygrad.org/#tinybox",
-    "source": "Hacker News",
+    "id": -6058410823041230191,
+    "title": "[P] Awesome Jewelry AI: curated resources for AI-generated jewelry imagery (papers, datasets, open-source models, tools)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s0j9nl/p_awesome_jewelry_ai_curated_resources_for/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-21T20:08:37",
+    "date": "2026-03-22T11:30:35",
     "saved": false
   },
   {
-    "id": 4387689632107336691,
+    "id": -8256725624309173912,
+    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-22T06:20:43",
+    "saved": false
+  },
+  {
+    "id": 57945478107889752,
+    "title": "[D] Single-artist longitudinal fine art dataset spanning 5 decades now on Hugging Face — potential applications in style evolution, figure representation, and ethical training data",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s0dce7/d_singleartist_longitudinal_fine_art_dataset/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-22T05:24:48",
+    "saved": false
+  },
+  {
+    "id": -6013145406230140925,
+    "title": "Sashiko: An agentic Linux kernel code review system",
+    "link": "https://sashiko.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-22T03:59:46",
+    "saved": false
+  },
+  {
+    "id": -8183100041623166876,
     "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
     "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
     "source": "TechCrunch",
@@ -27,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -4338132969439830644,
-    "title": "[R] Seeing arxiv endorser (eess.IV or cs.CV) CT lung nodule AI validation preprint",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rztzib/r_seeing_arxiv_endorser_eessiv_or_cscv_ct_lung/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-21T15:15:14",
-    "saved": false
-  },
-  {
-    "id": -6118900835787097293,
+    "id": 4946713577363182849,
     "title": "[P] Vibecoded on a home PC: building a ~2700 Elo browser-playable neural chess engine with a Karpathy-inspired AI-assisted research loop",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzrs17/p_vibecoded_on_a_home_pc_building_a_2700_elo/",
     "source": "Reddit ML",
@@ -45,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -5833362184613397497,
-    "title": "[P] Benchmark: Using XGBoost vs. DistilBERT for detecting \"Month 2 Tanking\" in cold email infrastructure?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzpc28/p_benchmark_using_xgboost_vs_distilbert_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-21T11:41:17",
-    "saved": false
-  },
-  {
-    "id": 5407443439537529310,
+    "id": 7374613404793449465,
     "title": "[N] ArXiv, the pioneering preprint server, declares independence from Cornell | Science | As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
     "source": "Reddit ML",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3708373014505689778,
+    "id": -6038428188031101972,
     "title": "[D] How do you add theoretical justification to an AI/ML paper?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzkuxd/d_how_do_you_add_theoretical_justification_to_an/",
     "source": "Reddit ML",
@@ -72,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 4142101305493418604,
-    "title": "[D] Seeking feedback: Safe autonomous agents for enterprise systems",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rziq9q/d_seeking_feedback_safe_autonomous_agents_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-21T04:56:03",
-    "saved": false
-  },
-  {
-    "id": 3162730255798768152,
+    "id": 4253869514668896055,
     "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
     "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5306595692900199113,
+    "id": -347973399295111614,
     "title": "Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz748k/medical_ai_gets_66_worse_when_you_use_automated/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7071303447359732407,
+    "id": -6556994421609640631,
     "title": "[D] Has \"AI research lab\" become completely meaningless as a term?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz5met/d_has_ai_research_lab_become_completely/",
     "source": "Reddit ML",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5156753590129668098,
+    "id": 6115565542858471793,
     "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
     "link": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4641729393497501507,
+    "id": -8608333171480046398,
     "title": "WordPress.com now lets AI agents write and publish posts, and more",
     "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7709512498243002063,
+    "id": 8045897929104643294,
     "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
     "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
     "source": "TechCrunch",
@@ -135,48 +135,12 @@
     "saved": false
   },
   {
-    "id": 8693074064182933102,
+    "id": -6231903942017954322,
     "title": "AI startups are eating the venture industry and the returns, so far, are good",
     "link": "https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-20T15:41:21",
-    "saved": false
-  },
-  {
-    "id": -9046260899684301149,
-    "title": "[P] Zero-code runtime visibility for PyTorch training",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ryww1u/p_zerocode_runtime_visibility_for_pytorch_training/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-20T13:55:16",
-    "saved": false
-  },
-  {
-    "id": -3874008200578399788,
-    "title": "[D] Scale AI ML Research Engineer Interview",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rym21x/d_scale_ai_ml_research_engineer_interview/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-20T03:56:44",
-    "saved": false
-  },
-  {
-    "id": 7401896341757619716,
-    "title": "Trivy ecosystem supply chain briefly compromised",
-    "link": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-20T03:30:07",
-    "saved": false
-  },
-  {
-    "id": -1982212398631266186,
-    "title": "The paddle wheel aircraft carriers of Lake Michigan",
-    "link": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-17T16:48:51",
     "saved": false
   }
 ]

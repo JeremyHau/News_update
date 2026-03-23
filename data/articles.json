@@ -1,6 +1,24 @@
 [
   {
-    "id": -6012252217983603605,
+    "id": 1812955869088048676,
+    "title": "[P] no-magic: 47 AI/ML algorithms implemented from scratch in single-file, zero-dependency Python",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1fnev/p_nomagic_47_aiml_algorithms_implemented_from/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-23T12:36:38",
+    "saved": false
+  },
+  {
+    "id": 6000801993995615275,
+    "title": "GitHub appears to be struggling with measly three nines availability",
+    "link": "https://www.theregister.com/2026/02/10/github_outages/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-23T10:39:39",
+    "saved": false
+  },
+  {
+    "id": -1525637797956419985,
     "title": "[D] Training a classifier entirely in SQL (no iterative optimization)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0y1n2/d_training_a_classifier_entirely_in_sql_no/",
     "source": "Reddit ML",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -4119543824338827150,
+    "id": 5112328630467076874,
     "title": "[R] Designing AI Chip Software and Hardware",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0y008/r_designing_ai_chip_software_and_hardware/",
     "source": "Reddit ML",
@@ -18,16 +36,7 @@
     "saved": false
   },
   {
-    "id": -7336325136089195911,
-    "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-    "link": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-22T21:14:11",
-    "saved": false
-  },
-  {
-    "id": 8365100280245239418,
+    "id": 3126996007073723189,
     "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
     "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
     "source": "TechCrunch",
@@ -36,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 2649622189245137149,
-    "title": "What Young Workers Are Doing to AI-Proof Themselves",
-    "link": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-22T18:18:01",
-    "saved": false
-  },
-  {
-    "id": -8888996414515934748,
+    "id": 452131436725979388,
     "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
     "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2972968889405131344,
+    "id": -8863305715441015398,
     "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
     "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -2906570799352165669,
+    "id": 2883410428778308538,
     "title": "[D] Single-artist longitudinal fine art dataset spanning 5 decades now on Hugging Face — potential applications in style evolution, figure representation, and ethical training data",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0dce7/d_singleartist_longitudinal_fine_art_dataset/",
     "source": "Reddit ML",
@@ -72,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 1061798392193637579,
-    "title": "How to Attract AI Bots to Your Open Source Project",
-    "link": "https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-21T20:58:01",
-    "saved": false
-  },
-  {
-    "id": -3116486143598591910,
+    "id": -1473277703533607624,
     "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
     "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
     "source": "TechCrunch",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3681607587300555920,
+    "id": -2773776520298924351,
     "title": "[P] Vibecoded on a home PC: building a ~2700 Elo browser-playable neural chess engine with a Karpathy-inspired AI-assisted research loop",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzrs17/p_vibecoded_on_a_home_pc_building_a_2700_elo/",
     "source": "Reddit ML",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2623322880821568535,
+    "id": 1420384837092819954,
     "title": "[N] ArXiv, the pioneering preprint server, declares independence from Cornell | Science | As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
     "source": "Reddit ML",
@@ -108,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5717206163898117260,
+    "id": 63005535271016054,
     "title": "[D] How do you add theoretical justification to an AI/ML paper?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzkuxd/d_how_do_you_add_theoretical_justification_to_an/",
     "source": "Reddit ML",
@@ -117,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2694264284302398359,
+    "id": 4804882190302470067,
     "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
     "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
     "source": "TechCrunch",
@@ -126,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2341094937970508431,
+    "id": -1330886437960313065,
     "title": "Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rz748k/medical_ai_gets_66_worse_when_you_use_automated/",
     "source": "Reddit ML",
@@ -135,39 +126,12 @@
     "saved": false
   },
   {
-    "id": -6323673175356497479,
-    "title": "[D] Has \"AI research lab\" become completely meaningless as a term?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rz5met/d_has_ai_research_lab_become_completely/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-20T19:23:02",
-    "saved": false
-  },
-  {
-    "id": -7068814511900197059,
+    "id": -6356511781117449434,
     "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
     "link": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-20T17:21:18",
-    "saved": false
-  },
-  {
-    "id": -5330840882237541002,
-    "title": "I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
-    "link": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-19T04:56:25",
-    "saved": false
-  },
-  {
-    "id": 5153113774688568621,
-    "title": "LLMs predict my coffee",
-    "link": "https://dynomight.net/coffee/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-18T13:56:37",
     "saved": false
   }
 ]

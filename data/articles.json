@@ -1,6 +1,33 @@
 [
   {
-    "id": 7627980718534877993,
+    "id": -80344862350567699,
+    "title": "[R] Evaluating MLLMs with Child-Inspired Cognitive Tasks",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s2clxr/r_evaluating_mllms_with_childinspired_cognitive/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-24T12:39:35",
+    "saved": false
+  },
+  {
+    "id": -2456226262766389697,
+    "title": "[D] Decoding backchannel info: Is a PI being \"aggressive in research\" a massive red flag? (C1 vs Siemens AI Lab)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s20svb/d_decoding_backchannel_info_is_a_pi_being/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-24T01:54:11",
+    "saved": false
+  },
+  {
+    "id": -2958343655045146864,
+    "title": "[R] VLouvain: Louvain Community Detection Directly on Vectors, No Graph Construction",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1ynf8/r_vlouvain_louvain_community_detection_directly/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-24T00:21:41",
+    "saved": false
+  },
+  {
+    "id": -8996755913065112891,
     "title": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
     "link": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 4297864023794539919,
+    "id": 2608980394531632223,
     "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
     "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -682615657559780210,
+    "id": 5356541978198345971,
     "title": "[P] Prompt optimization for analog circuit placement — 97% of expert quality, zero training data",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s1uvfr/p_prompt_optimization_for_analog_circuit/",
     "source": "Reddit ML",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5091070254289758677,
+    "id": 7670250198170012527,
     "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
     "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
     "source": "TechCrunch",
@@ -36,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -1790530537191560242,
-    "title": "Designing AI for Disruptive Science",
-    "link": "https://www.asimov.press/p/ai-science",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-23T18:19:05",
-    "saved": false
-  },
-  {
-    "id": 6808713649079964912,
+    "id": -7821136779799103525,
     "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
     "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 6591440950648772576,
+    "id": -1042919589056498407,
     "title": "Show HN: Cq – Stack Overflow for AI coding agents",
     "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
     "source": "Hacker News",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 9190793138943676406,
+    "id": -302147899296714306,
     "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
     "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8393495961710280742,
+    "id": 1127400113698052578,
     "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
     "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6275504079098338405,
+    "id": 5914566201809172272,
     "title": "Grab to buy Foodpanda Taiwan from Delivery Hero for $600 million",
     "link": "https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/",
     "source": "TechCrunch",
@@ -90,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 4958202965806609389,
-    "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-    "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-23T15:03:36",
-    "saved": false
-  },
-  {
-    "id": 4242025581075562348,
+    "id": -3732141728559406168,
     "title": "[R] Detection Is Cheap, Routing Is Learned: Why Refusal-Based Alignment Evaluation Fails (arXiv 2603.18280)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s1j4tr/r_detection_is_cheap_routing_is_learned_why/",
     "source": "Reddit ML",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -4087108898463744038,
+    "id": -4819837386610917640,
     "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
     "link": "https://twitter.com/anemll/status/2035901335984611412",
     "source": "Hacker News",
@@ -117,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 8785872118720935290,
-    "title": "I built an AI receptionist for a mechanic shop",
-    "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-23T10:32:33",
-    "saved": false
-  },
-  {
-    "id": 7550911743543986595,
+    "id": -8280722885135304380,
     "title": "[D] Training a classifier entirely in SQL (no iterative optimization)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0y1n2/d_training_a_classifier_entirely_in_sql_no/",
     "source": "Reddit ML",
@@ -135,57 +135,12 @@
     "saved": false
   },
   {
-    "id": 1461220850891640796,
+    "id": -6932262200556555371,
     "title": "[R] Designing AI Chip Software and Hardware",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0y008/r_designing_ai_chip_software_and_hardware/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-22T21:33:21",
-    "saved": false
-  },
-  {
-    "id": 6953540579964139406,
-    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-    "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-22T09:45:14",
-    "saved": false
-  },
-  {
-    "id": -1933409334305862959,
-    "title": "[D] Single-artist longitudinal fine art dataset spanning 5 decades now on Hugging Face — potential applications in style evolution, figure representation, and ethical training data",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s0dce7/d_singleartist_longitudinal_fine_art_dataset/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-22T05:24:48",
-    "saved": false
-  },
-  {
-    "id": -3086316984572160949,
-    "title": "Ju Ci: The Art of Repairing Porcelain",
-    "link": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-21T15:07:29",
-    "saved": false
-  },
-  {
-    "id": -3888285918552553923,
-    "title": "[P] Vibecoded on a home PC: building a ~2700 Elo browser-playable neural chess engine with a Karpathy-inspired AI-assisted research loop",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzrs17/p_vibecoded_on_a_home_pc_building_a_2700_elo/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-21T13:41:26",
-    "saved": false
-  },
-  {
-    "id": -7749209379645582799,
-    "title": "[N] ArXiv, the pioneering preprint server, declares independence from Cornell | Science | As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-21T11:31:26",
     "saved": false
   }
 ]

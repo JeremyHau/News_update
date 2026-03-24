@@ -1,24 +1,132 @@
 [
   {
-    "id": 1812955869088048676,
-    "title": "[P] no-magic: 47 AI/ML algorithms implemented from scratch in single-file, zero-dependency Python",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1fnev/p_nomagic_47_aiml_algorithms_implemented_from/",
+    "id": 7627980718534877993,
+    "title": "Bengaluru food delivery startup Swish raises $38M, its third round in 18 months",
+    "link": "https://techcrunch.com/2026/03/23/bengaluru-food-startup-swish-raises-38m-in-its-third-round-in-18-months/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T23:30:00",
+    "saved": false
+  },
+  {
+    "id": 4297864023794539919,
+    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+    "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T22:36:39",
+    "saved": false
+  },
+  {
+    "id": -682615657559780210,
+    "title": "[P] Prompt optimization for analog circuit placement — 97% of expert quality, zero training data",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1uvfr/p_prompt_optimization_for_analog_circuit/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-23T12:36:38",
+    "date": "2026-03-23T21:52:51",
     "saved": false
   },
   {
-    "id": 6000801993995615275,
-    "title": "GitHub appears to be struggling with measly three nines availability",
-    "link": "https://www.theregister.com/2026/02/10/github_outages/",
+    "id": -5091070254289758677,
+    "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+    "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T20:15:59",
+    "saved": false
+  },
+  {
+    "id": -1790530537191560242,
+    "title": "Designing AI for Disruptive Science",
+    "link": "https://www.asimov.press/p/ai-science",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-23T10:39:39",
+    "date": "2026-03-23T18:19:05",
     "saved": false
   },
   {
-    "id": -1525637797956419985,
+    "id": 6808713649079964912,
+    "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+    "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T18:00:45",
+    "saved": false
+  },
+  {
+    "id": 6591440950648772576,
+    "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+    "link": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-23T16:11:03",
+    "saved": false
+  },
+  {
+    "id": 9190793138943676406,
+    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+    "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 8393495961710280742,
+    "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+    "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -6275504079098338405,
+    "title": "Grab to buy Foodpanda Taiwan from Delivery Hero for $600 million",
+    "link": "https://techcrunch.com/2026/03/23/grab-to-buy-foodpanda-taiwan-from-delivery-hero-for-600-million/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T15:41:40",
+    "saved": false
+  },
+  {
+    "id": 4958202965806609389,
+    "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+    "link": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-23T15:03:36",
+    "saved": false
+  },
+  {
+    "id": 4242025581075562348,
+    "title": "[R] Detection Is Cheap, Routing Is Learned: Why Refusal-Based Alignment Evaluation Fails (arXiv 2603.18280)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1j4tr/r_detection_is_cheap_routing_is_learned_why/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-23T14:55:48",
+    "saved": false
+  },
+  {
+    "id": -4087108898463744038,
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "link": "https://twitter.com/anemll/status/2035901335984611412",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-23T14:30:10",
+    "saved": false
+  },
+  {
+    "id": 8785872118720935290,
+    "title": "I built an AI receptionist for a mechanic shop",
+    "link": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-23T10:32:33",
+    "saved": false
+  },
+  {
+    "id": 7550911743543986595,
     "title": "[D] Training a classifier entirely in SQL (no iterative optimization)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0y1n2/d_training_a_classifier_entirely_in_sql_no/",
     "source": "Reddit ML",
@@ -27,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5112328630467076874,
+    "id": 1461220850891640796,
     "title": "[R] Designing AI Chip Software and Hardware",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0y008/r_designing_ai_chip_software_and_hardware/",
     "source": "Reddit ML",
@@ -36,34 +144,16 @@
     "saved": false
   },
   {
-    "id": 3126996007073723189,
-    "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-22T18:41:09",
+    "id": 6953540579964139406,
+    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+    "link": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-22T09:45:14",
     "saved": false
   },
   {
-    "id": 452131436725979388,
-    "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-22T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -8863305715441015398,
-    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-22T06:20:43",
-    "saved": false
-  },
-  {
-    "id": 2883410428778308538,
+    "id": -1933409334305862959,
     "title": "[D] Single-artist longitudinal fine art dataset spanning 5 decades now on Hugging Face — potential applications in style evolution, figure representation, and ethical training data",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s0dce7/d_singleartist_longitudinal_fine_art_dataset/",
     "source": "Reddit ML",
@@ -72,16 +162,16 @@
     "saved": false
   },
   {
-    "id": -1473277703533607624,
-    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-21T19:30:27",
+    "id": -3086316984572160949,
+    "title": "Ju Ci: The Art of Repairing Porcelain",
+    "link": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-21T15:07:29",
     "saved": false
   },
   {
-    "id": -2773776520298924351,
+    "id": -3888285918552553923,
     "title": "[P] Vibecoded on a home PC: building a ~2700 Elo browser-playable neural chess engine with a Karpathy-inspired AI-assisted research loop",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzrs17/p_vibecoded_on_a_home_pc_building_a_2700_elo/",
     "source": "Reddit ML",
@@ -90,48 +180,12 @@
     "saved": false
   },
   {
-    "id": 1420384837092819954,
+    "id": -7749209379645582799,
     "title": "[N] ArXiv, the pioneering preprint server, declares independence from Cornell | Science | As an independent nonprofit, it hopes to raise funds to cope with exploding submissions and “AI slop”",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-21T11:31:26",
-    "saved": false
-  },
-  {
-    "id": 63005535271016054,
-    "title": "[D] How do you add theoretical justification to an AI/ML paper?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rzkuxd/d_how_do_you_add_theoretical_justification_to_an/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-21T06:59:59",
-    "saved": false
-  },
-  {
-    "id": 4804882190302470067,
-    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-20T20:53:09",
-    "saved": false
-  },
-  {
-    "id": -1330886437960313065,
-    "title": "Medical AI gets 66% worse when you use automated labels for training, and the benchmark hides it! [R][P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1rz748k/medical_ai_gets_66_worse_when_you_use_automated/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-20T20:20:09",
-    "saved": false
-  },
-  {
-    "id": -6356511781117449434,
-    "title": "A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava",
-    "link": "https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-20T17:21:18",
     "saved": false
   }
 ]

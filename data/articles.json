@@ -1,15 +1,42 @@
 [
   {
-    "id": -2101687074916991246,
-    "title": "[D] LLM API aggregators in 2026: OpenRouter vs alternatives",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3sneb/d_llm_api_aggregators_in_2026_openrouter_vs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-26T00:35:03",
+    "id": -4493335685101086944,
+    "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+    "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-26T12:00:00",
     "saved": false
   },
   {
-    "id": 972663959554933798,
+    "id": -3293860574148530174,
+    "title": "[D] Probabilistic Neuron Activation in Predictive Coding Algorithm using 1 Bit LLM Architecture",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s43b2e/d_probabilistic_neuron_activation_in_predictive/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-26T10:04:42",
+    "saved": false
+  },
+  {
+    "id": -4271489040265852920,
+    "title": "[N] TurboQuant: Redefining AI efficiency with extreme compression",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3yjyl/n_turboquant_redefining_ai_efficiency_with/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-26T05:13:48",
+    "saved": false
+  },
+  {
+    "id": 273703658307681853,
+    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+    "link": "https://github.com/lightfeed/extractor",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-26T03:55:52",
+    "saved": false
+  },
+  {
+    "id": -1862283004747116427,
     "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
     "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 3374615204859905798,
+    "id": 2606572729506211337,
     "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
     "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
     "source": "TechCrunch",
@@ -27,25 +54,7 @@
     "saved": false
   },
   {
-    "id": -6727279250054935441,
-    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-    "link": "https://lab.puga.com.br/cog/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-25T23:29:13",
-    "saved": false
-  },
-  {
-    "id": -5079040144936082992,
-    "title": "[N] LiteLLM supply chain attack risks to Al pipelines and API key exposure",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3okes/n_litellm_supply_chain_attack_risks_to_al/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-25T21:51:32",
-    "saved": false
-  },
-  {
-    "id": -9157504518201632064,
+    "id": 4517381894107443309,
     "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
     "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 3140606512267137453,
+    "id": -8346212966516805403,
     "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
     "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
     "source": "TechCrunch",
@@ -63,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -513623293745736636,
-    "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-    "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-25T19:14:42",
-    "saved": false
-  },
-  {
-    "id": 7686377145942591072,
+    "id": -7126925762959128652,
     "title": "[D] Is LeCun’s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s3j3ef/d_is_lecuns_1b_seed_round_the_signal_that/",
     "source": "Reddit ML",
@@ -81,43 +81,7 @@
     "saved": false
   },
   {
-    "id": -6817332985271301381,
-    "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
-    "link": "https://github.com/jonwiggins/optio",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-25T17:10:21",
-    "saved": false
-  },
-  {
-    "id": -4452902902984813751,
-    "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-    "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-25T14:48:40",
-    "saved": false
-  },
-  {
-    "id": 3948265612894884736,
-    "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-    "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-25T14:45:20",
-    "saved": false
-  },
-  {
-    "id": 6603002469573845308,
-    "title": "Ensu – Ente’s Local LLM app",
-    "link": "https://ente.com/blog/ensu/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-25T12:49:14",
-    "saved": false
-  },
-  {
-    "id": -2243157015806309812,
+    "id": -5210101402670392525,
     "title": "[R] Ternary neural networks as a path to more efficient AI - is (+1, 0, -1) weight quantization getting serious research attention?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s366un/r_ternary_neural_networks_as_a_path_to_more/",
     "source": "Reddit ML",
@@ -126,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -262931024384396055,
+    "id": 5873114237491344565,
     "title": "[P] Best approach for online crowd density prediction from noisy video counts? (no training data)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s32g40/p_best_approach_for_online_crowd_density/",
     "source": "Reddit ML",
@@ -135,39 +99,12 @@
     "saved": false
   },
   {
-    "id": -6390112579728651137,
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-    "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "id": 3133023097325281703,
+    "title": "From zero to a RAG system: successes and failures",
+    "link": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-25T05:00:54",
-    "saved": false
-  },
-  {
-    "id": 2794248741218506502,
-    "title": "[R] Evaluating MLLMs with Child-Inspired Cognitive Tasks",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s2clxr/r_evaluating_mllms_with_childinspired_cognitive/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-24T12:39:35",
-    "saved": false
-  },
-  {
-    "id": -325944743426984168,
-    "title": "[D] Decoding backchannel info: Is a PI being \"aggressive in research\" a massive red flag? (C1 vs Siemens AI Lab)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s20svb/d_decoding_backchannel_info_is_a_pi_being/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-24T01:54:11",
-    "saved": false
-  },
-  {
-    "id": 8892345005811080537,
-    "title": "My astrophotography in the movie Project Hail Mary",
-    "link": "https://rpastro.square.site/s/stories/phm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-22T14:28:06",
+    "date": "2026-03-24T06:53:30",
     "saved": false
   }
 ]

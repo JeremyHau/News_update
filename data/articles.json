@@ -1,24 +1,123 @@
 [
   {
-    "id": 3285291979028836713,
-    "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-    "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+    "id": -2101687074916991246,
+    "title": "[D] LLM API aggregators in 2026: OpenRouter vs alternatives",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3sneb/d_llm_api_aggregators_in_2026_openrouter_vs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-26T00:35:03",
+    "saved": false
+  },
+  {
+    "id": 972663959554933798,
+    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-03-25T11:00:00",
+    "date": "2026-03-26T00:30:00",
     "saved": false
   },
   {
-    "id": 7753910749371651847,
-    "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-    "link": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+    "id": 3374615204859905798,
+    "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+    "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-26T00:03:52",
+    "saved": false
+  },
+  {
+    "id": -6727279250054935441,
+    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+    "link": "https://lab.puga.com.br/cog/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-25T10:28:49",
+    "date": "2026-03-25T23:29:13",
     "saved": false
   },
   {
-    "id": 6331361974201449999,
+    "id": -5079040144936082992,
+    "title": "[N] LiteLLM supply chain attack risks to Al pipelines and API key exposure",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3okes/n_litellm_supply_chain_attack_risks_to_al/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-25T21:51:32",
+    "saved": false
+  },
+  {
+    "id": -9157504518201632064,
+    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-25T21:44:13",
+    "saved": false
+  },
+  {
+    "id": 3140606512267137453,
+    "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-25T20:38:45",
+    "saved": false
+  },
+  {
+    "id": -513623293745736636,
+    "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+    "link": "https://lapcatsoftware.com/articles/2026/3/11.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-25T19:14:42",
+    "saved": false
+  },
+  {
+    "id": 7686377145942591072,
+    "title": "[D] Is LeCun’s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3j3ef/d_is_lecuns_1b_seed_round_the_signal_that/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-25T18:32:19",
+    "saved": false
+  },
+  {
+    "id": -6817332985271301381,
+    "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+    "link": "https://github.com/jonwiggins/optio",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-25T17:10:21",
+    "saved": false
+  },
+  {
+    "id": -4452902902984813751,
+    "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+    "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-25T14:48:40",
+    "saved": false
+  },
+  {
+    "id": 3948265612894884736,
+    "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+    "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-25T14:45:20",
+    "saved": false
+  },
+  {
+    "id": 6603002469573845308,
+    "title": "Ensu – Ente’s Local LLM app",
+    "link": "https://ente.com/blog/ensu/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-25T12:49:14",
+    "saved": false
+  },
+  {
+    "id": -2243157015806309812,
     "title": "[R] Ternary neural networks as a path to more efficient AI - is (+1, 0, -1) weight quantization getting serious research attention?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s366un/r_ternary_neural_networks_as_a_path_to_more/",
     "source": "Reddit ML",
@@ -27,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -9009912423994973633,
+    "id": -262931024384396055,
     "title": "[P] Best approach for online crowd density prediction from noisy video counts? (no training data)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s32g40/p_best_approach_for_online_crowd_density/",
     "source": "Reddit ML",
@@ -36,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2031015187389902210,
+    "id": -6390112579728651137,
     "title": "TurboQuant: Redefining AI efficiency with extreme compression",
     "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
     "source": "Hacker News",
@@ -45,115 +144,7 @@
     "saved": false
   },
   {
-    "id": 3864610790641450351,
-    "title": "[R] KALAVAI: Predicting When Independent Specialist Fusion Works (gain = 0.82 × divergence − 2.72, R² = 0.856, tested 410M–6.9B)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s2yr9b/r_kalavai_predicting_when_independent_specialist/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-25T02:42:47",
-    "saved": false
-  },
-  {
-    "id": -1975195421221981064,
-    "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-    "link": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-25T00:47:20",
-    "saved": false
-  },
-  {
-    "id": 5011742131630832377,
-    "title": "Flighty Airports",
-    "link": "https://flighty.com/airports",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-25T00:29:45",
-    "saved": false
-  },
-  {
-    "id": 8749673980366269781,
-    "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
-    "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T23:57:55",
-    "saved": false
-  },
-  {
-    "id": 2516776442472452887,
-    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-    "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T20:56:25",
-    "saved": false
-  },
-  {
-    "id": -9000844764137980040,
-    "title": "Databricks bought two startups to underpin its new AI security product",
-    "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T20:40:56",
-    "saved": false
-  },
-  {
-    "id": -8640579301050280495,
-    "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-    "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T19:27:56",
-    "saved": false
-  },
-  {
-    "id": 5427955097424093976,
-    "title": "OpenAI adds open source tools to help developers build for teen safety",
-    "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T18:41:34",
-    "saved": false
-  },
-  {
-    "id": -5100165933385425148,
-    "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
-    "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T18:41:33",
-    "saved": false
-  },
-  {
-    "id": -4249190147423001460,
-    "title": "BKR Capital raises $14.5M (so far) to  invest in Black founders",
-    "link": "https://techcrunch.com/2026/03/24/bkr-capital-raises-14-5m-so-far-to-invest-in-black-founders/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T17:47:41",
-    "saved": false
-  },
-  {
-    "id": 6702473838269170439,
-    "title": "Crunchyroll confirms data breach after hacker claims unauthorized access",
-    "link": "https://techcrunch.com/2026/03/24/crunchyroll-confirms-data-breach-after-hacker-claims-unauthorized-access/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-24T17:20:07",
-    "saved": false
-  },
-  {
-    "id": -3261223633739110762,
-    "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-    "link": "https://www.emailmd.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-24T16:26:00",
-    "saved": false
-  },
-  {
-    "id": 8330327263273151072,
+    "id": 2794248741218506502,
     "title": "[R] Evaluating MLLMs with Child-Inspired Cognitive Tasks",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s2clxr/r_evaluating_mllms_with_childinspired_cognitive/",
     "source": "Reddit ML",
@@ -162,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 5156211149356411176,
-    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "link": "https://github.com/BerriAI/litellm/issues/24512",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-24T12:06:29",
-    "saved": false
-  },
-  {
-    "id": 6109307159125033949,
+    "id": -325944743426984168,
     "title": "[D] Decoding backchannel info: Is a PI being \"aggressive in research\" a massive red flag? (C1 vs Siemens AI Lab)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s20svb/d_decoding_backchannel_info_is_a_pi_being/",
     "source": "Reddit ML",
@@ -180,21 +162,12 @@
     "saved": false
   },
   {
-    "id": -4188005336996637451,
-    "title": "[R] VLouvain: Louvain Community Detection Directly on Vectors, No Graph Construction",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1ynf8/r_vlouvain_louvain_community_detection_directly/",
-    "source": "Reddit ML",
+    "id": 8892345005811080537,
+    "title": "My astrophotography in the movie Project Hail Mary",
+    "link": "https://rpastro.square.site/s/stories/phm",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-24T00:21:41",
-    "saved": false
-  },
-  {
-    "id": 8527383609836355191,
-    "title": "[P] Prompt optimization for analog circuit placement — 97% of expert quality, zero training data",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s1uvfr/p_prompt_optimization_for_analog_circuit/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-23T21:52:51",
+    "date": "2026-03-22T14:28:06",
     "saved": false
   }
 ]

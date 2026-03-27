@@ -1,6 +1,42 @@
 [
   {
-    "id": -2452958074751951878,
+    "id": 9041090784471822830,
+    "title": "[P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-27T11:21:40",
+    "saved": false
+  },
+  {
+    "id": -5783343628947361716,
+    "title": "Retraining vs Fine-tuning or Transfer Learning? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s4uzmy/retraining_vs_finetuning_or_transfer_learning_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-27T05:07:40",
+    "saved": false
+  },
+  {
+    "id": -1649312069603114544,
+    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T01:26:40",
+    "saved": false
+  },
+  {
+    "id": 3991840228146068510,
+    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T01:18:38",
+    "saved": false
+  },
+  {
+    "id": -4959309649419737275,
     "title": "[R] Interested in recent research into recall vs recognition in LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4o5vu/r_interested_in_recent_research_into_recall_vs/",
     "source": "Reddit ML",
@@ -9,16 +45,7 @@
     "saved": false
   },
   {
-    "id": -7439325058318968948,
-    "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
-    "link": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-26T23:33:53",
-    "saved": false
-  },
-  {
-    "id": -191829216578204765,
+    "id": 9175765125899453731,
     "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
     "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
     "source": "Hacker News",
@@ -27,7 +54,16 @@
     "saved": false
   },
   {
-    "id": -8151152625119093090,
+    "id": -6629184839287331031,
+    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+    "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-26T22:36:41",
+    "saved": false
+  },
+  {
+    "id": 6009581136547031879,
     "title": "Pretrained ADAM v2 weights [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4lfcn/pretrained_adam_v2_weights_d/",
     "source": "Reddit ML",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -389435732103064591,
+    "id": 2354174495385571614,
     "title": "Wikipedia cracks down on the use of AI in article writing",
     "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -1433262606055910344,
+    "id": -8439380379275101106,
     "title": "Netflix confirms it’s raising prices again",
     "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6416743995941393097,
+    "id": 3846862642478347838,
     "title": "[D] Why evaluating only final outputs is misleading for local LLM agents",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/",
     "source": "Reddit ML",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6497893291195967037,
+    "id": -1275217466045922196,
     "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
     "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2674304850088361300,
+    "id": 2946847770918474860,
     "title": "Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
     "link": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2070052168372270900,
+    "id": 997256379693317139,
     "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve",
     "link": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4259049251444084995,
+    "id": 370882278712997158,
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "link": "https://futuresearch.ai/blog/litellm-attack-transcript/",
     "source": "Hacker News",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7208658156931230796,
+    "id": 5032844942244968991,
     "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
     "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
     "source": "TechCrunch",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -4660933191040362887,
+    "id": -1688741471156799304,
     "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
     "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
     "source": "TechCrunch",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 1452525451575971822,
+    "id": 8654057924753207489,
     "title": "WhatsApp can now draft AI-generated responses based on your conversations",
     "link": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
     "source": "TechCrunch",
@@ -126,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -6772423624606679333,
-    "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-    "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -5492035358837357309,
-    "title": "[D] Probabilistic Neuron Activation in Predictive Coding Algorithm using 1 Bit LLM Architecture",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s43b2e/d_probabilistic_neuron_activation_in_predictive/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-26T10:04:42",
-    "saved": false
-  },
-  {
-    "id": 6996559247437717820,
+    "id": 4739325171136343431,
     "title": "[N] TurboQuant: Redefining AI efficiency with extreme compression",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s3yjyl/n_turboquant_redefining_ai_efficiency_with/",
     "source": "Reddit ML",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -1130135721955274992,
+    "id": 4692686066516401949,
     "title": "[D] Is LeCun’s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s3j3ef/d_is_lecuns_1b_seed_round_the_signal_that/",
     "source": "Reddit ML",
@@ -162,21 +180,21 @@
     "saved": false
   },
   {
-    "id": -5960260706369338959,
-    "title": "[R] Ternary neural networks as a path to more efficient AI - is (+1, 0, -1) weight quantization getting serious research attention?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s366un/r_ternary_neural_networks_as_a_path_to_more/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-25T09:43:49",
-    "saved": false
-  },
-  {
-    "id": 3100206487135646695,
+    "id": -8876176102337782575,
     "title": "HyperAgents: Self-referential self-improving agents",
     "link": "https://github.com/facebookresearch/hyperagents",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-03-24T16:54:10",
+    "saved": false
+  },
+  {
+    "id": 6443016363858264119,
+    "title": "Everything old is new again: memory optimization",
+    "link": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-23T18:22:33",
     "saved": false
   }
 ]

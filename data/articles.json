@@ -1,6 +1,96 @@
 [
   {
-    "id": 9041090784471822830,
+    "id": -6532891212245638685,
+    "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+    "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T23:59:40",
+    "saved": false
+  },
+  {
+    "id": 144209476048541199,
+    "title": "[R] Controlled experiment: giving an LLM agent access to CS papers during automated hyperparameter search improves results by 3.2%",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s5jpgz/r_controlled_experiment_giving_an_llm_agent/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-27T23:05:45",
+    "saved": false
+  },
+  {
+    "id": -5915350994524360915,
+    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T21:44:45",
+    "saved": false
+  },
+  {
+    "id": 2814074447194698522,
+    "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
+    "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-27T21:41:41",
+    "saved": false
+  },
+  {
+    "id": 7133998867584488411,
+    "title": "European Commission confirms cyberattack after hackers claim data breach",
+    "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T17:59:29",
+    "saved": false
+  },
+  {
+    "id": -4231865048857102375,
+    "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
+    "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T17:05:26",
+    "saved": false
+  },
+  {
+    "id": -5598364969544636825,
+    "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
+    "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T15:39:07",
+    "saved": false
+  },
+  {
+    "id": 110638859738918493,
+    "title": "[D] Real-time Student Attention Detection: ResNet vs Facial Landmarks - Which approach for resource-constrained deployment?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s56ljk/d_realtime_student_attention_detection_resnet_vs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-27T15:01:38",
+    "saved": false
+  },
+  {
+    "id": -2152215606391825376,
+    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-27T13:30:00",
+    "saved": false
+  },
+  {
+    "id": -920155422369557806,
+    "title": "[D] Building a demand forecasting system for multi-location retail with no POS integration, architecture feedback wanted",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s53w67/d_building_a_demand_forecasting_system_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-27T13:19:54",
+    "saved": false
+  },
+  {
+    "id": -8550110208097470516,
     "title": "[P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
     "source": "Reddit ML",
@@ -9,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5783343628947361716,
+    "id": 7595434815230388077,
     "title": "Retraining vs Fine-tuning or Transfer Learning? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4uzmy/retraining_vs_finetuning_or_transfer_learning_d/",
     "source": "Reddit ML",
@@ -18,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1649312069603114544,
+    "id": 4123904009841234585,
     "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
     "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
     "source": "TechCrunch",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 3991840228146068510,
+    "id": -2728730627051169661,
     "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
     "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
     "source": "TechCrunch",
@@ -36,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4959309649419737275,
+    "id": -7926279849827191411,
     "title": "[R] Interested in recent research into recall vs recognition in LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4o5vu/r_interested_in_recent_research_into_recall_vs/",
     "source": "Reddit ML",
@@ -45,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 9175765125899453731,
-    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-    "link": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-26T22:41:25",
-    "saved": false
-  },
-  {
-    "id": -6629184839287331031,
-    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-    "link": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-26T22:36:41",
-    "saved": false
-  },
-  {
-    "id": 6009581136547031879,
+    "id": -3148377944634040469,
     "title": "Pretrained ADAM v2 weights [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4lfcn/pretrained_adam_v2_weights_d/",
     "source": "Reddit ML",
@@ -72,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 2354174495385571614,
+    "id": -8696317012658772748,
     "title": "Wikipedia cracks down on the use of AI in article writing",
     "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
     "source": "TechCrunch",
@@ -81,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -8439380379275101106,
+    "id": -1447799124960547389,
     "title": "Netflix confirms it’s raising prices again",
     "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
     "source": "TechCrunch",
@@ -90,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 3846862642478347838,
+    "id": 4841885288653372624,
     "title": "[D] Why evaluating only final outputs is misleading for local LLM agents",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/",
     "source": "Reddit ML",
@@ -99,102 +171,12 @@
     "saved": false
   },
   {
-    "id": -1275217466045922196,
+    "id": -1274516200679778281,
     "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
     "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-26T18:34:02",
-    "saved": false
-  },
-  {
-    "id": 2946847770918474860,
-    "title": "Defense startup Shield AI lands $12.7B valuation, up 140%, after US Air Force deal",
-    "link": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T18:05:51",
-    "saved": false
-  },
-  {
-    "id": 997256379693317139,
-    "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve",
-    "link": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T16:06:33",
-    "saved": false
-  },
-  {
-    "id": 370882278712997158,
-    "title": "My minute-by-minute response to the LiteLLM malware attack",
-    "link": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-26T15:48:40",
-    "saved": false
-  },
-  {
-    "id": 5032844942244968991,
-    "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-    "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T15:25:13",
-    "saved": false
-  },
-  {
-    "id": -1688741471156799304,
-    "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-    "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T13:41:00",
-    "saved": false
-  },
-  {
-    "id": 8654057924753207489,
-    "title": "WhatsApp can now draft AI-generated responses based on your conversations",
-    "link": "https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 4739325171136343431,
-    "title": "[N] TurboQuant: Redefining AI efficiency with extreme compression",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3yjyl/n_turboquant_redefining_ai_efficiency_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-26T05:13:48",
-    "saved": false
-  },
-  {
-    "id": 4692686066516401949,
-    "title": "[D] Is LeCun’s $1B seed round the signal that autoregressive LLMs have actually hit a wall for formal reasoning?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s3j3ef/d_is_lecuns_1b_seed_round_the_signal_that/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-25T18:32:19",
-    "saved": false
-  },
-  {
-    "id": -8876176102337782575,
-    "title": "HyperAgents: Self-referential self-improving agents",
-    "link": "https://github.com/facebookresearch/hyperagents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-24T16:54:10",
-    "saved": false
-  },
-  {
-    "id": 6443016363858264119,
-    "title": "Everything old is new again: memory optimization",
-    "link": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-23T18:22:33",
     "saved": false
   }
 ]

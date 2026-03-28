@@ -1,6 +1,42 @@
 [
   {
-    "id": -6532891212245638685,
+    "id": 1337113068801405317,
+    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+    "link": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T12:01:07",
+    "saved": false
+  },
+  {
+    "id": 4343484845156112354,
+    "title": "Britain today generating 90%+ of electricity from renewables",
+    "link": "https://grid.iamkate.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T11:06:44",
+    "saved": false
+  },
+  {
+    "id": 8630383079813477642,
+    "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
+    "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T08:06:19",
+    "saved": false
+  },
+  {
+    "id": 700325008475330468,
+    "title": "Go hard on agents, not on your filesystem",
+    "link": "https://jai.scs.stanford.edu/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T00:39:54",
+    "saved": false
+  },
+  {
+    "id": -1857592085314946106,
     "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
     "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 144209476048541199,
+    "id": -5564662969419945542,
     "title": "[R] Controlled experiment: giving an LLM agent access to CS papers during automated hyperparameter search improves results by 3.2%",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s5jpgz/r_controlled_experiment_giving_an_llm_agent/",
     "source": "Reddit ML",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5915350994524360915,
+    "id": 5287930581459081403,
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
     "source": "TechCrunch",
@@ -27,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 2814074447194698522,
-    "title": "DOJ confirms FBI Director Kash Patel's personal email was hacked",
-    "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-27T21:41:41",
-    "saved": false
-  },
-  {
-    "id": 7133998867584488411,
+    "id": -8183884606370844061,
     "title": "European Commission confirms cyberattack after hackers claim data breach",
     "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4231865048857102375,
+    "id": -4573371690615931511,
     "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
     "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -5598364969544636825,
+    "id": 1960361214408185900,
     "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
     "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 110638859738918493,
+    "id": 7247626345910828973,
     "title": "[D] Real-time Student Attention Detection: ResNet vs Facial Landmarks - Which approach for resource-constrained deployment?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s56ljk/d_realtime_student_attention_detection_resnet_vs/",
     "source": "Reddit ML",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2152215606391825376,
+    "id": -3451932970967222720,
     "title": "OpenAI shuts down Sora while Meta gets shut out in court",
     "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -920155422369557806,
+    "id": -45647763933601195,
     "title": "[D] Building a demand forecasting system for multi-location retail with no POS integration, architecture feedback wanted",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s53w67/d_building_a_demand_forecasting_system_for/",
     "source": "Reddit ML",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8550110208097470516,
+    "id": -2640470717321816859,
     "title": "[P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
     "source": "Reddit ML",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7595434815230388077,
+    "id": 3991817193229831141,
     "title": "Retraining vs Fine-tuning or Transfer Learning? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4uzmy/retraining_vs_finetuning_or_transfer_learning_d/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4123904009841234585,
+    "id": -451460531139814369,
     "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
     "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2728730627051169661,
+    "id": -3724518248544876787,
     "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
     "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
     "source": "TechCrunch",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7926279849827191411,
+    "id": 5030372583267483009,
     "title": "[R] Interested in recent research into recall vs recognition in LLMs",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4o5vu/r_interested_in_recent_research_into_recall_vs/",
     "source": "Reddit ML",
@@ -135,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -3148377944634040469,
-    "title": "Pretrained ADAM v2 weights [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s4lfcn/pretrained_adam_v2_weights_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-26T22:04:33",
-    "saved": false
-  },
-  {
-    "id": -8696317012658772748,
+    "id": -6372275761164106898,
     "title": "Wikipedia cracks down on the use of AI in article writing",
     "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
     "source": "TechCrunch",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -1447799124960547389,
+    "id": -5527458947247372875,
     "title": "Netflix confirms it’s raising prices again",
     "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
     "source": "TechCrunch",
@@ -162,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 4841885288653372624,
+    "id": -2026212500545255962,
     "title": "[D] Why evaluating only final outputs is misleading for local LLM agents",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/",
     "source": "Reddit ML",
@@ -171,12 +189,12 @@
     "saved": false
   },
   {
-    "id": -1274516200679778281,
-    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T18:34:02",
+    "id": -930882161888923979,
+    "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+    "link": "https://github.com/dbrll/ATTN-11",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-25T15:20:08",
     "saved": false
   }
 ]

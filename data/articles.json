@@ -1,42 +1,96 @@
 [
   {
-    "id": 1337113068801405317,
-    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
-    "link": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "id": -3297361251275026315,
+    "title": "Computer chip material inspired by the human brain could slash AI energy use",
+    "link": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-28T12:01:07",
+    "date": "2026-03-28T23:04:14",
     "saved": false
   },
   {
-    "id": 4343484845156112354,
-    "title": "Britain today generating 90%+ of electricity from renewables",
-    "link": "https://grid.iamkate.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-28T11:06:44",
+    "id": 3297647199270388491,
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-28T23:00:00",
     "saved": false
   },
   {
-    "id": 8630383079813477642,
-    "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-    "link": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "id": 8289264414208861182,
+    "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+    "link": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-28T08:06:19",
+    "date": "2026-03-28T21:35:22",
     "saved": false
   },
   {
-    "id": 700325008475330468,
-    "title": "Go hard on agents, not on your filesystem",
-    "link": "https://jai.scs.stanford.edu/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-28T00:39:54",
+    "id": -8385749434826071433,
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-28T20:45:54",
     "saved": false
   },
   {
-    "id": -1857592085314946106,
+    "id": 4564368738506573722,
+    "title": "The first 40 months of the AI era",
+    "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T18:42:08",
+    "saved": false
+  },
+  {
+    "id": -3986047756961207920,
+    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+    "link": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T18:38:59",
+    "saved": false
+  },
+  {
+    "id": 510945155837112006,
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-28T16:11:16",
+    "saved": false
+  },
+  {
+    "id": -3112951300480962526,
+    "title": "[P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-28T15:19:49",
+    "saved": false
+  },
+  {
+    "id": -1459475378727218848,
+    "title": "[D] Litellm supply chain attack and what it means for api key management",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-28T15:07:16",
+    "saved": false
+  },
+  {
+    "id": -6548684583545386843,
+    "title": "AI overly affirms users asking for personal advice",
+    "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-28T14:08:33",
+    "saved": false
+  },
+  {
+    "id": -366658711046949720,
     "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
     "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5564662969419945542,
+    "id": -3096582281330474677,
     "title": "[R] Controlled experiment: giving an LLM agent access to CS papers during automated hyperparameter search improves results by 3.2%",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s5jpgz/r_controlled_experiment_giving_an_llm_agent/",
     "source": "Reddit ML",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5287930581459081403,
+    "id": 7762617430214480020,
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8183884606370844061,
+    "id": 5530550164173785669,
     "title": "European Commission confirms cyberattack after hackers claim data breach",
     "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4573371690615931511,
+    "id": -2037591891202740884,
     "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
     "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 1960361214408185900,
+    "id": -8529696058906792807,
     "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
     "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
     "source": "TechCrunch",
@@ -90,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 7247626345910828973,
-    "title": "[D] Real-time Student Attention Detection: ResNet vs Facial Landmarks - Which approach for resource-constrained deployment?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s56ljk/d_realtime_student_attention_detection_resnet_vs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-27T15:01:38",
-    "saved": false
-  },
-  {
-    "id": -3451932970967222720,
+    "id": -8393440288787759539,
     "title": "OpenAI shuts down Sora while Meta gets shut out in court",
     "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -45647763933601195,
+    "id": -7524876044069941142,
     "title": "[D] Building a demand forecasting system for multi-location retail with no POS integration, architecture feedback wanted",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s53w67/d_building_a_demand_forecasting_system_for/",
     "source": "Reddit ML",
@@ -117,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -2640470717321816859,
+    "id": 5471201009458793199,
     "title": "[P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
     "source": "Reddit ML",
@@ -126,75 +171,12 @@
     "saved": false
   },
   {
-    "id": 3991817193229831141,
+    "id": 7921304632441138322,
     "title": "Retraining vs Fine-tuning or Transfer Learning? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s4uzmy/retraining_vs_finetuning_or_transfer_learning_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-27T05:07:40",
-    "saved": false
-  },
-  {
-    "id": -451460531139814369,
-    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T01:26:40",
-    "saved": false
-  },
-  {
-    "id": -3724518248544876787,
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T01:18:38",
-    "saved": false
-  },
-  {
-    "id": 5030372583267483009,
-    "title": "[R] Interested in recent research into recall vs recognition in LLMs",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s4o5vu/r_interested_in_recent_research_into_recall_vs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-26T23:53:35",
-    "saved": false
-  },
-  {
-    "id": -6372275761164106898,
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T21:50:10",
-    "saved": false
-  },
-  {
-    "id": -5527458947247372875,
-    "title": "Netflix confirms it’s raising prices again",
-    "link": "https://techcrunch.com/2026/03/26/netflix-confirms-its-raising-prices-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-26T20:39:17",
-    "saved": false
-  },
-  {
-    "id": -2026212500545255962,
-    "title": "[D] Why evaluating only final outputs is misleading for local LLM agents",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s4i6h5/d_why_evaluating_only_final_outputs_is_misleading/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-26T20:01:45",
-    "saved": false
-  },
-  {
-    "id": -930882161888923979,
-    "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-    "link": "https://github.com/dbrll/ATTN-11",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-25T15:20:08",
     "saved": false
   }
 ]

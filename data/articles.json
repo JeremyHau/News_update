@@ -1,15 +1,51 @@
 [
   {
-    "id": -3297361251275026315,
-    "title": "Computer chip material inspired by the human brain could slash AI energy use",
-    "link": "https://www.cam.ac.uk/research/news/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use",
+    "id": -5394078558023316668,
+    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+    "link": "https://github.com/austin-weeks/miasma",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-28T23:04:14",
+    "date": "2026-03-29T10:10:12",
     "saved": false
   },
   {
-    "id": 3297647199270388491,
+    "id": 5566572566357575552,
+    "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
+    "link": "https://github.com/1st1/lat.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-29T08:59:52",
+    "saved": false
+  },
+  {
+    "id": -1756814998983298378,
+    "title": "What if AI doesn't need more RAM but better math?",
+    "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-29T08:18:55",
+    "saved": false
+  },
+  {
+    "id": -6760718600519018805,
+    "title": "Show HN: Public transit systems as data – lines, stations, railcars, and history",
+    "link": "https://publictransit.systems",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-29T07:38:58",
+    "saved": false
+  },
+  {
+    "id": 3925802911520261480,
+    "title": "[R] I built a benchmark that catches LLMs breaking physics laws",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-29T03:25:01",
+    "saved": false
+  },
+  {
+    "id": -1331536022299558825,
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "source": "TechCrunch",
@@ -18,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 8289264414208861182,
-    "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
-    "link": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-28T21:35:22",
-    "saved": false
-  },
-  {
-    "id": -8385749434826071433,
+    "id": -7669433247094766811,
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "source": "TechCrunch",
@@ -36,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 4564368738506573722,
-    "title": "The first 40 months of the AI era",
-    "link": "https://lzon.ca/posts/other/thoughts-ai-era/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-28T18:42:08",
-    "saved": false
-  },
-  {
-    "id": -3986047756961207920,
+    "id": 7844650020032516104,
     "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
     "link": "https://twitter.com/BoWang87/status/2037648937453232504",
     "source": "Hacker News",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 510945155837112006,
+    "id": -5641234932934739149,
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3112951300480962526,
+    "id": -7500643828516122052,
     "title": "[P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1459475378727218848,
+    "id": 2857058247729445336,
     "title": "[D] Litellm supply chain attack and what it means for api key management",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
     "source": "Reddit ML",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6548684583545386843,
+    "id": -2374960593982352193,
     "title": "AI overly affirms users asking for personal advice",
     "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
     "source": "Hacker News",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -366658711046949720,
+    "id": -791604094598312179,
     "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
     "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -3096582281330474677,
+    "id": -674054350345045799,
     "title": "[R] Controlled experiment: giving an LLM agent access to CS papers during automated hyperparameter search improves results by 3.2%",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s5jpgz/r_controlled_experiment_giving_an_llm_agent/",
     "source": "Reddit ML",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7762617430214480020,
+    "id": 5372455986440854558,
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5530550164173785669,
+    "id": -1191908359006307340,
     "title": "European Commission confirms cyberattack after hackers claim data breach",
     "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2037591891202740884,
+    "id": -7932757566723915169,
     "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
     "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
     "source": "TechCrunch",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -8529696058906792807,
+    "id": -294160918590587369,
     "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
     "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
     "source": "TechCrunch",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -8393440288787759539,
+    "id": 5344610523419157367,
     "title": "OpenAI shuts down Sora while Meta gets shut out in court",
     "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
     "source": "TechCrunch",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -7524876044069941142,
+    "id": -5323898272529078814,
     "title": "[D] Building a demand forecasting system for multi-location retail with no POS integration, architecture feedback wanted",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s53w67/d_building_a_demand_forecasting_system_for/",
     "source": "Reddit ML",
@@ -162,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 5471201009458793199,
+    "id": -4224924486069302611,
     "title": "[P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
     "source": "Reddit ML",
@@ -171,12 +189,12 @@
     "saved": false
   },
   {
-    "id": 7921304632441138322,
-    "title": "Retraining vs Fine-tuning or Transfer Learning? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s4uzmy/retraining_vs_finetuning_or_transfer_learning_d/",
-    "source": "Reddit ML",
+    "id": -9217560992745942549,
+    "title": "Siclair Microvision (1977)",
+    "link": "https://r-type.org/articles/art-452.htm",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-27T05:07:40",
+    "date": "2026-03-26T17:33:25",
     "saved": false
   }
 ]

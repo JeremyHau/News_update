@@ -1,42 +1,69 @@
 [
   {
-    "id": 3005609321676418224,
-    "title": "[R] I trained a 3k parameter model on XOR sequences of length 20. It extrapolates perfectly to length 1,000,000. Here's why I think that's architecturally significant.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s796pz/r_i_trained_a_3k_parameter_model_on_xor_sequences/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-29T22:33:37",
+    "id": 6737830920742182206,
+    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+    "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T12:49:51",
     "saved": false
   },
   {
-    "id": -2690189167510241957,
-    "title": "Coding Agents Could Make Free Software Matter Again",
-    "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+    "id": -5998210405607239793,
+    "title": "Qodo raises $70M for code verification as AI coding scales",
+    "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T12:30:00",
+    "saved": false
+  },
+  {
+    "id": 5695634061760584982,
+    "title": "How the AI Bubble Bursts",
+    "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T22:21:34",
+    "date": "2026-03-30T12:28:36",
     "saved": false
   },
   {
-    "id": -1798680398860577634,
-    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-    "link": "https://github.com/anthropics/claude-code/issues/40710",
+    "id": -3582966876344044861,
+    "title": "Mathematical methods and human thought in the age of AI",
+    "link": "https://arxiv.org/abs/2603.26524",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T22:15:06",
+    "date": "2026-03-30T11:05:37",
     "saved": false
   },
   {
-    "id": 2934862540915159584,
-    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-    "link": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
+    "id": -675650970565308510,
+    "title": "Starcloud raises $170 million Series Ato build data centers in space",
+    "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T11:00:00",
+    "saved": false
+  },
+  {
+    "id": -6908163430417195123,
+    "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
+    "link": "https://dani2442.github.io/posts/continuous-rl/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T20:00:02",
+    "date": "2026-03-30T07:34:04",
     "saved": false
   },
   {
-    "id": -329145704970111815,
+    "id": -200778594147510578,
+    "title": "Why OpenAI really shut down Sora",
+    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T03:09:38",
+    "saved": false
+  },
+  {
+    "id": -3437641944551397211,
     "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
     "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3375818685530116287,
+    "id": -2948881839522439230,
     "title": "[D] Data curation and targeted replacement as a pre-training alignment and controllability method",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s73jb1/d_data_curation_and_targeted_replacement_as_a/",
     "source": "Reddit ML",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7499723655829761427,
+    "id": 8038005849003677259,
     "title": "[P] I built an autonomous ML agent that runs experiments on tabular data indefinitely - inspired by Karpathy's AutoResearch",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s73gma/p_i_built_an_autonomous_ml_agent_that_runs/",
     "source": "Reddit ML",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 9186498168939485921,
+    "id": -969347681078264061,
     "title": "Sora’s shutdown could be a reality check moment for AI video",
     "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 553198930697018409,
+    "id": -5233613366896211275,
     "title": "[P] I tested Meta’s brain-response model on posts. It predicted the Elon one almost perfectly.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s6ylp1/p_i_tested_metas_brainresponse_model_on_posts_it/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1433747919613151719,
+    "id": 5361220471163613889,
     "title": "[P] I trained an AI to play Resident Evil 4 Remake using Behavioral Cloning + LSTM",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s6wfde/p_i_trained_an_ai_to_play_resident_evil_4_remake/",
     "source": "Reddit ML",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2000043502963532223,
+    "id": 6203608078674828564,
     "title": "[R] I built a benchmark that catches LLMs breaking physics laws",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
     "source": "Reddit ML",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 2920649917203584453,
+    "id": -7452024027088477806,
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "source": "TechCrunch",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3462342054157593172,
+    "id": 3097718180733173077,
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 324467336714672663,
+    "id": -1154178701676792207,
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
     "source": "TechCrunch",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6772695090894465683,
+    "id": -4008474635018783754,
     "title": "[P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
     "source": "Reddit ML",
@@ -135,30 +162,12 @@
     "saved": false
   },
   {
-    "id": 5673711285617574895,
+    "id": 6116114710786812103,
     "title": "[D] Litellm supply chain attack and what it means for api key management",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-03-28T15:07:16",
-    "saved": false
-  },
-  {
-    "id": -6121021998123356272,
-    "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
-    "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T23:59:40",
-    "saved": false
-  },
-  {
-    "id": -2178010390632152676,
-    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T21:44:45",
     "saved": false
   }
 ]

@@ -1,42 +1,96 @@
 [
   {
-    "id": -5394078558023316668,
-    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-    "link": "https://github.com/austin-weeks/miasma",
-    "source": "Hacker News",
+    "id": 3005609321676418224,
+    "title": "[R] I trained a 3k parameter model on XOR sequences of length 20. It extrapolates perfectly to length 1,000,000. Here's why I think that's architecturally significant.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s796pz/r_i_trained_a_3k_parameter_model_on_xor_sequences/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-29T10:10:12",
+    "date": "2026-03-29T22:33:37",
     "saved": false
   },
   {
-    "id": 5566572566357575552,
-    "title": "Lat.md: Agent Lattice: a knowledge graph for your codebase, written in Markdown",
-    "link": "https://github.com/1st1/lat.md",
+    "id": -2690189167510241957,
+    "title": "Coding Agents Could Make Free Software Matter Again",
+    "link": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T08:59:52",
+    "date": "2026-03-29T22:21:34",
     "saved": false
   },
   {
-    "id": -1756814998983298378,
-    "title": "What if AI doesn't need more RAM but better math?",
-    "link": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+    "id": -1798680398860577634,
+    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+    "link": "https://github.com/anthropics/claude-code/issues/40710",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T08:18:55",
+    "date": "2026-03-29T22:15:06",
     "saved": false
   },
   {
-    "id": -6760718600519018805,
-    "title": "Show HN: Public transit systems as data – lines, stations, railcars, and history",
-    "link": "https://publictransit.systems",
+    "id": 2934862540915159584,
+    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+    "link": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T07:38:58",
+    "date": "2026-03-29T20:00:02",
     "saved": false
   },
   {
-    "id": 3925802911520261480,
+    "id": -329145704970111815,
+    "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
+    "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-29T19:50:57",
+    "saved": false
+  },
+  {
+    "id": -3375818685530116287,
+    "title": "[D] Data curation and targeted replacement as a pre-training alignment and controllability method",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s73jb1/d_data_curation_and_targeted_replacement_as_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-29T18:53:52",
+    "saved": false
+  },
+  {
+    "id": -7499723655829761427,
+    "title": "[P] I built an autonomous ML agent that runs experiments on tabular data indefinitely - inspired by Karpathy's AutoResearch",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s73gma/p_i_built_an_autonomous_ml_agent_that_runs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-29T18:50:52",
+    "saved": false
+  },
+  {
+    "id": 9186498168939485921,
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-29T16:30:00",
+    "saved": false
+  },
+  {
+    "id": 553198930697018409,
+    "title": "[P] I tested Meta’s brain-response model on posts. It predicted the Elon one almost perfectly.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s6ylp1/p_i_tested_metas_brainresponse_model_on_posts_it/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-29T15:47:38",
+    "saved": false
+  },
+  {
+    "id": -1433747919613151719,
+    "title": "[P] I trained an AI to play Resident Evil 4 Remake using Behavioral Cloning + LSTM",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s6wfde/p_i_trained_an_ai_to_play_resident_evil_4_remake/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-29T14:23:32",
+    "saved": false
+  },
+  {
+    "id": 2000043502963532223,
     "title": "[R] I built a benchmark that catches LLMs breaking physics laws",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1331536022299558825,
+    "id": 2920649917203584453,
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
     "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7669433247094766811,
+    "id": -3462342054157593172,
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "source": "TechCrunch",
@@ -63,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 7844650020032516104,
-    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-    "link": "https://twitter.com/BoWang87/status/2037648937453232504",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-28T18:38:59",
-    "saved": false
-  },
-  {
-    "id": -5641234932934739149,
+    "id": 324467336714672663,
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7500643828516122052,
+    "id": 6772695090894465683,
     "title": "[P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
     "source": "Reddit ML",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2857058247729445336,
+    "id": 5673711285617574895,
     "title": "[D] Litellm supply chain attack and what it means for api key management",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
     "source": "Reddit ML",
@@ -99,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -2374960593982352193,
-    "title": "AI overly affirms users asking for personal advice",
-    "link": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-28T14:08:33",
-    "saved": false
-  },
-  {
-    "id": -791604094598312179,
+    "id": -6121021998123356272,
     "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
     "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
     "source": "TechCrunch",
@@ -117,84 +153,12 @@
     "saved": false
   },
   {
-    "id": -674054350345045799,
-    "title": "[R] Controlled experiment: giving an LLM agent access to CS papers during automated hyperparameter search improves results by 3.2%",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s5jpgz/r_controlled_experiment_giving_an_llm_agent/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-27T23:05:45",
-    "saved": false
-  },
-  {
-    "id": 5372455986440854558,
+    "id": -2178010390632152676,
     "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
     "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-27T21:44:45",
-    "saved": false
-  },
-  {
-    "id": -1191908359006307340,
-    "title": "European Commission confirms cyberattack after hackers claim data breach",
-    "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T17:59:29",
-    "saved": false
-  },
-  {
-    "id": -7932757566723915169,
-    "title": "Aetherflux reportedly raising Series B at $2 billion valuation",
-    "link": "https://techcrunch.com/2026/03/27/aetherflux-reportedly-raising-series-b-at-2-billion-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T17:05:26",
-    "saved": false
-  },
-  {
-    "id": -294160918590587369,
-    "title": "Iranian hackers claim breach of FBI director Kash Patel’s personal email account",
-    "link": "https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T15:39:07",
-    "saved": false
-  },
-  {
-    "id": 5344610523419157367,
-    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-27T13:30:00",
-    "saved": false
-  },
-  {
-    "id": -5323898272529078814,
-    "title": "[D] Building a demand forecasting system for multi-location retail with no POS integration, architecture feedback wanted",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s53w67/d_building_a_demand_forecasting_system_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-27T13:19:54",
-    "saved": false
-  },
-  {
-    "id": -4224924486069302611,
-    "title": "[P] Deezer showed CNN detection fails on compressed audio, here's a dual-engine approach that survives MP3",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s51amm/p_deezer_showed_cnn_detection_fails_on_compressed/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-27T11:21:40",
-    "saved": false
-  },
-  {
-    "id": -9217560992745942549,
-    "title": "Siclair Microvision (1977)",
-    "link": "https://r-type.org/articles/art-452.htm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-26T17:33:25",
     "saved": false
   }
 ]

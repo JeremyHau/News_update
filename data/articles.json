@@ -1,6 +1,60 @@
 [
   {
-    "id": 7555047369038386834,
+    "id": 1954194328929182082,
+    "title": "Google is now letting users in the US change their Gmail address",
+    "link": "https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T12:30:26",
+    "saved": false
+  },
+  {
+    "id": -1977732259167075438,
+    "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+    "link": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-31T10:02:34",
+    "saved": false
+  },
+  {
+    "id": -5058231257993673210,
+    "title": "Airbnb is introducing a private car pick-up service",
+    "link": "https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T09:00:00",
+    "saved": false
+  },
+  {
+    "id": 5041814697972736862,
+    "title": "RamAIn (YC W26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-31T07:01:15",
+    "saved": false
+  },
+  {
+    "id": 477229345933409604,
+    "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.",
+    "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T05:30:20",
+    "saved": false
+  },
+  {
+    "id": -6020686827660350610,
+    "title": "[P] I trained a language model from scratch for a low resource language and got it running fully on-device on Android (no GPU, demo)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s89pv3/p_i_trained_a_language_model_from_scratch_for_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-31T01:31:01",
+    "saved": false
+  },
+  {
+    "id": -3890175105025355914,
     "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
     "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8721888650990371659,
+    "id": 4261738704778870058,
     "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
     "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7802269005928799410,
+    "id": -5360751271101500581,
     "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
     "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
     "source": "TechCrunch",
@@ -27,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -843135202127033408,
-    "title": "[D] Awesome AI Agent Incidents - A curated list of incidents, attack vectors, failure modes, and defensive tools for autonomous AI agents.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s836un/d_awesome_ai_agent_incidents_a_curated_list_of/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-30T21:00:35",
-    "saved": false
-  },
-  {
-    "id": 38919470524685215,
+    "id": 3183380649350304348,
     "title": "As more Americans adopt AI tools, fewer say they can trust the results",
     "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8690190173284172289,
+    "id": 1368606147676582347,
     "title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
     "link": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7699942978968669094,
+    "id": 7910718112459646427,
     "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance",
     "link": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
     "source": "TechCrunch",
@@ -63,25 +108,7 @@
     "saved": false
   },
   {
-    "id": -4546891219573590532,
-    "title": "Recover Apple Keychain",
-    "link": "https://arkoinad.com/posts/apple_keychain_recovery.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-30T17:21:49",
-    "saved": false
-  },
-  {
-    "id": -364685177095637124,
-    "title": "[R] ETH AI PhD Fellowship",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s7uuh6/r_eth_ai_phd_fellowship/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-30T16:06:10",
-    "saved": false
-  },
-  {
-    "id": 1280906822102970630,
+    "id": 1597540404072351528,
     "title": "Apple will hide your email address from apps and websites, but not cops",
     "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
     "source": "TechCrunch",
@@ -90,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 6384833196509718424,
-    "title": "Show HN: Coasts – Containerized Hosts for Agents",
-    "link": "https://github.com/coast-guard/coasts",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-30T15:17:51",
-    "saved": false
-  },
-  {
-    "id": -1140527456024062523,
+    "id": 1060139587532013407,
     "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
     "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3460824989363351195,
+    "id": 46716687162493541,
     "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
     "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4175550542785460955,
+    "id": 6839715267347679274,
     "title": "[P] Using YouTube as a data source (lessons from building a coffee domain dataset)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s7r3ln/p_using_youtube_as_a_data_source_lessons_from/",
     "source": "Reddit ML",
@@ -126,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 9211064278301000858,
-    "title": "Bird brains (2023)",
-    "link": "https://www.dhanishsemar.com/writing/bird-brains",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-30T13:14:27",
-    "saved": false
-  },
-  {
-    "id": -6503019572596785909,
+    "id": -5468393134069164079,
     "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
     "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
     "source": "TechCrunch",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -2873573119807419842,
+    "id": -368656412804200399,
     "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
     "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
     "source": "TechCrunch",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4469328280359957830,
+    "id": 2846543217970312376,
     "title": "Qodo raises $70M for code verification as AI coding scales",
     "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
     "source": "TechCrunch",
@@ -162,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 4136461653966240331,
+    "id": -2241087412003648832,
     "title": "TRACER: Learn-to-Defer for LLM Classification with Formal Teacher-Agreement Guarantees",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s7p0au/tracer_learntodefer_for_llm_classification_with/",
     "source": "Reddit ML",
@@ -171,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -3278065090490154190,
+    "id": 5879344973127396749,
     "title": "Starcloud raises $170 million Series A to build data centers in space",
     "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
     "source": "TechCrunch",
@@ -180,30 +189,12 @@
     "saved": false
   },
   {
-    "id": -1455280574203920046,
-    "title": "Why OpenAI really shut down Sora",
-    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T03:09:38",
-    "saved": false
-  },
-  {
-    "id": -5350411767151904351,
-    "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
-    "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-29T19:50:57",
-    "saved": false
-  },
-  {
-    "id": 2452193549316526826,
-    "title": "Agents of Chaos",
-    "link": "https://agentsofchaos.baulab.info/report.html",
+    "id": 6928634629280669968,
+    "title": "Clojure: The Documentary, official trailer [video]",
+    "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-27T20:30:05",
+    "date": "2026-03-26T17:00:54",
     "saved": false
   }
 ]

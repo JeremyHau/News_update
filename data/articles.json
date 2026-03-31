@@ -1,6 +1,150 @@
 [
   {
-    "id": 6737830920742182206,
+    "id": 7555047369038386834,
+    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T23:41:48",
+    "saved": false
+  },
+  {
+    "id": -8721888650990371659,
+    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+    "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T23:08:12",
+    "saved": false
+  },
+  {
+    "id": 7802269005928799410,
+    "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
+    "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T21:53:09",
+    "saved": false
+  },
+  {
+    "id": -843135202127033408,
+    "title": "[D] Awesome AI Agent Incidents - A curated list of incidents, attack vectors, failure modes, and defensive tools for autonomous AI agents.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s836un/d_awesome_ai_agent_incidents_a_curated_list_of/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-30T21:00:35",
+    "saved": false
+  },
+  {
+    "id": 38919470524685215,
+    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+    "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T20:24:53",
+    "saved": false
+  },
+  {
+    "id": 8690190173284172289,
+    "title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T18:26:07",
+    "saved": false
+  },
+  {
+    "id": -7699942978968669094,
+    "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance",
+    "link": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T18:03:59",
+    "saved": false
+  },
+  {
+    "id": -4546891219573590532,
+    "title": "Recover Apple Keychain",
+    "link": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-30T17:21:49",
+    "saved": false
+  },
+  {
+    "id": -364685177095637124,
+    "title": "[R] ETH AI PhD Fellowship",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s7uuh6/r_eth_ai_phd_fellowship/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-30T16:06:10",
+    "saved": false
+  },
+  {
+    "id": 1280906822102970630,
+    "title": "Apple will hide your email address from apps and websites, but not cops",
+    "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T15:34:41",
+    "saved": false
+  },
+  {
+    "id": 6384833196509718424,
+    "title": "Show HN: Coasts – Containerized Hosts for Agents",
+    "link": "https://github.com/coast-guard/coasts",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-30T15:17:51",
+    "saved": false
+  },
+  {
+    "id": -1140527456024062523,
+    "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+    "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T14:30:00",
+    "saved": false
+  },
+  {
+    "id": 3460824989363351195,
+    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+    "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T13:52:02",
+    "saved": false
+  },
+  {
+    "id": 4175550542785460955,
+    "title": "[P] Using YouTube as a data source (lessons from building a coffee domain dataset)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s7r3ln/p_using_youtube_as_a_data_source_lessons_from/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-30T13:48:33",
+    "saved": false
+  },
+  {
+    "id": 9211064278301000858,
+    "title": "Bird brains (2023)",
+    "link": "https://www.dhanishsemar.com/writing/bird-brains",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-30T13:14:27",
+    "saved": false
+  },
+  {
+    "id": -6503019572596785909,
+    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-30T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -2873573119807419842,
     "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
     "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
     "source": "TechCrunch",
@@ -9,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -5998210405607239793,
+    "id": 4469328280359957830,
     "title": "Qodo raises $70M for code verification as AI coding scales",
     "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
     "source": "TechCrunch",
@@ -18,26 +162,17 @@
     "saved": false
   },
   {
-    "id": 5695634061760584982,
-    "title": "How the AI Bubble Bursts",
-    "link": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-    "source": "Hacker News",
+    "id": 4136461653966240331,
+    "title": "TRACER: Learn-to-Defer for LLM Classification with Formal Teacher-Agreement Guarantees",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s7p0au/tracer_learntodefer_for_llm_classification_with/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-03-30T12:28:36",
+    "date": "2026-03-30T12:21:53",
     "saved": false
   },
   {
-    "id": -3582966876344044861,
-    "title": "Mathematical methods and human thought in the age of AI",
-    "link": "https://arxiv.org/abs/2603.26524",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-30T11:05:37",
-    "saved": false
-  },
-  {
-    "id": -675650970565308510,
-    "title": "Starcloud raises $170 million Series Ato build data centers in space",
+    "id": -3278065090490154190,
+    "title": "Starcloud raises $170 million Series A to build data centers in space",
     "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
     "source": "TechCrunch",
     "category": "tech",
@@ -45,16 +180,7 @@
     "saved": false
   },
   {
-    "id": -6908163430417195123,
-    "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-    "link": "https://dani2442.github.io/posts/continuous-rl/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-30T07:34:04",
-    "saved": false
-  },
-  {
-    "id": -200778594147510578,
+    "id": -1455280574203920046,
     "title": "Why OpenAI really shut down Sora",
     "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
     "source": "TechCrunch",
@@ -63,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -3437641944551397211,
+    "id": -5350411767151904351,
     "title": "‘Project Hail Mary’ becomes Amazon MGM’s biggest box office hit",
     "link": "https://techcrunch.com/2026/03/29/project-hail-mary-becomes-amazon-mgms-biggest-box-office-hit/",
     "source": "TechCrunch",
@@ -72,102 +198,12 @@
     "saved": false
   },
   {
-    "id": -2948881839522439230,
-    "title": "[D] Data curation and targeted replacement as a pre-training alignment and controllability method",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s73jb1/d_data_curation_and_targeted_replacement_as_a/",
-    "source": "Reddit ML",
+    "id": 2452193549316526826,
+    "title": "Agents of Chaos",
+    "link": "https://agentsofchaos.baulab.info/report.html",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-29T18:53:52",
-    "saved": false
-  },
-  {
-    "id": 8038005849003677259,
-    "title": "[P] I built an autonomous ML agent that runs experiments on tabular data indefinitely - inspired by Karpathy's AutoResearch",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s73gma/p_i_built_an_autonomous_ml_agent_that_runs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-29T18:50:52",
-    "saved": false
-  },
-  {
-    "id": -969347681078264061,
-    "title": "Sora’s shutdown could be a reality check moment for AI video",
-    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-29T16:30:00",
-    "saved": false
-  },
-  {
-    "id": -5233613366896211275,
-    "title": "[P] I tested Meta’s brain-response model on posts. It predicted the Elon one almost perfectly.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s6ylp1/p_i_tested_metas_brainresponse_model_on_posts_it/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-29T15:47:38",
-    "saved": false
-  },
-  {
-    "id": 5361220471163613889,
-    "title": "[P] I trained an AI to play Resident Evil 4 Remake using Behavioral Cloning + LSTM",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s6wfde/p_i_trained_an_ai_to_play_resident_evil_4_remake/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-29T14:23:32",
-    "saved": false
-  },
-  {
-    "id": 6203608078674828564,
-    "title": "[R] I built a benchmark that catches LLMs breaking physics laws",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s6keh0/r_i_built_a_benchmark_that_catches_llms_breaking/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-29T03:25:01",
-    "saved": false
-  },
-  {
-    "id": -7452024027088477806,
-    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-28T23:00:00",
-    "saved": false
-  },
-  {
-    "id": 3097718180733173077,
-    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-28T20:45:54",
-    "saved": false
-  },
-  {
-    "id": -1154178701676792207,
-    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-28T16:11:16",
-    "saved": false
-  },
-  {
-    "id": -4008474635018783754,
-    "title": "[P] TurboQuant for weights: near‑optimal 4‑bit LLM quantization with lossless 8‑bit residual – 3.2× memory savings",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s634wk/p_turboquant_for_weights_nearoptimal_4bit_llm/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-28T15:19:49",
-    "saved": false
-  },
-  {
-    "id": 6116114710786812103,
-    "title": "[D] Litellm supply chain attack and what it means for api key management",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s62taq/d_litellm_supply_chain_attack_and_what_it_means/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-28T15:07:16",
+    "date": "2026-03-27T20:30:05",
     "saved": false
   }
 ]

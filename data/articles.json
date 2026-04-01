@@ -1,51 +1,114 @@
 [
   {
-    "id": 1954194328929182082,
-    "title": "Google is now letting users in the US change their Gmail address",
-    "link": "https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T12:30:26",
+    "id": 1511788004943200095,
+    "title": "[P] Looking for people who have had training runs fail unexpectedly to beta test a stability monitor. Free, takes 5 minutes to add to your existing loop. DM me.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s93kzm/p_looking_for_people_who_have_had_training_runs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-31T23:21:34",
     "saved": false
   },
   {
-    "id": -1977732259167075438,
-    "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
-    "link": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
+    "id": 5569072069002605903,
+    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T22:46:25",
+    "saved": false
+  },
+  {
+    "id": -8893480329982761274,
+    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T21:25:04",
+    "saved": false
+  },
+  {
+    "id": -3676393212001345626,
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "link": "https://prismml.com/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-31T10:02:34",
+    "date": "2026-03-31T21:01:18",
     "saved": false
   },
   {
-    "id": -5058231257993673210,
-    "title": "Airbnb is introducing a private car pick-up service",
-    "link": "https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/",
+    "id": -6058699805202060928,
+    "title": "It’s not your imagination: AI seed startups are commanding higher valuations",
+    "link": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-03-31T09:00:00",
+    "date": "2026-03-31T21:00:00",
     "saved": false
   },
   {
-    "id": 5041814697972736862,
-    "title": "RamAIn (YC W26) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+    "id": 3536479969739653784,
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-31T07:01:15",
+    "date": "2026-03-31T20:07:30",
     "saved": false
   },
   {
-    "id": 477229345933409604,
-    "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.",
-    "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
+    "id": 969467987834215355,
+    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-03-31T05:30:20",
+    "date": "2026-03-31T20:01:07",
     "saved": false
   },
   {
-    "id": -6020686827660350610,
+    "id": 3621983326484122848,
+    "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+    "link": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-31T19:46:43",
+    "saved": false
+  },
+  {
+    "id": 869563619049818275,
+    "title": "Uber and WeRide ramp up robotaxi operations in Dubai",
+    "link": "https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T16:26:26",
+    "saved": false
+  },
+  {
+    "id": 944204726061828429,
+    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -7985292430770996396,
+    "title": "Rivian spinoff Also will build autonomous delivery vehicles for DoorDash",
+    "link": "https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-03-31T14:32:08",
+    "saved": false
+  },
+  {
+    "id": -5005297546310368815,
+    "title": "[D] The problem with comparing AI memory system benchmarks — different evaluation methods make scores meaningless",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1s8osi9/d_the_problem_with_comparing_ai_memory_system/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-03-31T14:20:50",
+    "saved": false
+  },
+  {
+    "id": -3625576571945504480,
     "title": "[P] I trained a language model from scratch for a low resource language and got it running fully on-device on Android (no GPU, demo)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s89pv3/p_i_trained_a_language_model_from_scratch_for_a/",
     "source": "Reddit ML",
@@ -54,147 +117,12 @@
     "saved": false
   },
   {
-    "id": -3890175105025355914,
-    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T23:41:48",
-    "saved": false
-  },
-  {
-    "id": 4261738704778870058,
-    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T23:08:12",
-    "saved": false
-  },
-  {
-    "id": -5360751271101500581,
-    "title": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup",
-    "link": "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T21:53:09",
-    "saved": false
-  },
-  {
-    "id": 3183380649350304348,
-    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-    "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T20:24:53",
-    "saved": false
-  },
-  {
-    "id": 1368606147676582347,
-    "title": "Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’",
-    "link": "https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T18:26:07",
-    "saved": false
-  },
-  {
-    "id": 7910718112459646427,
-    "title": "Bluesky’s new AI tool Attie is already the most blocked account other than J. D. Vance",
-    "link": "https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T18:03:59",
-    "saved": false
-  },
-  {
-    "id": 1597540404072351528,
-    "title": "Apple will hide your email address from apps and websites, but not cops",
-    "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T15:34:41",
-    "saved": false
-  },
-  {
-    "id": 1060139587532013407,
-    "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-    "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T14:30:00",
-    "saved": false
-  },
-  {
-    "id": 46716687162493541,
-    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-    "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T13:52:02",
-    "saved": false
-  },
-  {
-    "id": 6839715267347679274,
-    "title": "[P] Using YouTube as a data source (lessons from building a coffee domain dataset)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s7r3ln/p_using_youtube_as_a_data_source_lessons_from/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-30T13:48:33",
-    "saved": false
-  },
-  {
-    "id": -5468393134069164079,
-    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-    "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -368656412804200399,
-    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-    "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T12:49:51",
-    "saved": false
-  },
-  {
-    "id": 2846543217970312376,
-    "title": "Qodo raises $70M for code verification as AI coding scales",
-    "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T12:30:00",
-    "saved": false
-  },
-  {
-    "id": -2241087412003648832,
-    "title": "TRACER: Learn-to-Defer for LLM Classification with Formal Teacher-Agreement Guarantees",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s7p0au/tracer_learntodefer_for_llm_classification_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-30T12:21:53",
-    "saved": false
-  },
-  {
-    "id": 5879344973127396749,
-    "title": "Starcloud raises $170 million Series A to build data centers in space",
-    "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-30T11:00:00",
-    "saved": false
-  },
-  {
-    "id": 6928634629280669968,
-    "title": "Clojure: The Documentary, official trailer [video]",
-    "link": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+    "id": -5317335233888829622,
+    "title": "Back to FreeBSD – Part 2 – Jails",
+    "link": "https://hypha.pub/back-to-freebsd-part-2",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-03-26T17:00:54",
+    "date": "2026-03-27T18:55:02",
     "saved": false
   }
 ]

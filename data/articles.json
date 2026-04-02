@@ -1,6 +1,60 @@
 [
   {
-    "id": -4708299552986149758,
+    "id": 8446936082300729498,
+    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+    "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-01T23:45:03",
+    "saved": false
+  },
+  {
+    "id": 513106501871946654,
+    "title": "‘System failure’ paralyzes Baidu robotaxis in China",
+    "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-01T21:12:14",
+    "saved": false
+  },
+  {
+    "id": 194056978686990159,
+    "title": "InspectMind AI (YC W24) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-01T21:00:06",
+    "saved": false
+  },
+  {
+    "id": -2070430675790860635,
+    "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
+    "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-01T19:02:18",
+    "saved": false
+  },
+  {
+    "id": 6141067952864932225,
+    "title": "AI for American-produced cement and concrete",
+    "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-01T17:17:24",
+    "saved": false
+  },
+  {
+    "id": 8275956128598521522,
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-01T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -1006342902919672586,
     "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
     "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3385118533850242594,
+    "id": -5393593967478540457,
     "title": "[D] Why I abandoned YOLO for safety critical plant/fungi identification. Closed-set classification is a silent failure mode",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s9idcm/d_why_i_abandoned_yolo_for_safety_critical/",
     "source": "Reddit ML",
@@ -18,8 +72,8 @@
     "saved": false
   },
   {
-    "id": 1537723863743335684,
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+    "id": -9002714725273649939,
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
     "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
     "source": "TechCrunch",
     "category": "tech",
@@ -27,84 +81,12 @@
     "saved": false
   },
   {
-    "id": 590592294991409263,
+    "id": -8471584115684653295,
     "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
     "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-03-31T22:46:25",
-    "saved": false
-  },
-  {
-    "id": -7445690892142840521,
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T21:25:04",
-    "saved": false
-  },
-  {
-    "id": -864397145346258149,
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-    "link": "https://prismml.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-31T21:01:18",
-    "saved": false
-  },
-  {
-    "id": -8146347676782099365,
-    "title": "It’s not your imagination: AI seed startups are commanding higher valuations",
-    "link": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T21:00:00",
-    "saved": false
-  },
-  {
-    "id": 204818298216026682,
-    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T20:01:07",
-    "saved": false
-  },
-  {
-    "id": 2551381855428902769,
-    "title": "Uber and WeRide ramp up robotaxi operations in Dubai",
-    "link": "https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T16:26:26",
-    "saved": false
-  },
-  {
-    "id": 9090577149968863314,
-    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 4739643104397345918,
-    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-    "link": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-31T09:30:43",
-    "saved": false
-  },
-  {
-    "id": -5583261974304678704,
-    "title": "[P] I trained a language model from scratch for a low resource language and got it running fully on-device on Android (no GPU, demo)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s89pv3/p_i_trained_a_language_model_from_scratch_for_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-03-31T01:31:01",
     "saved": false
   }
 ]

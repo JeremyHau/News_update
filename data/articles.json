@@ -1,15 +1,51 @@
 [
   {
-    "id": 8446936082300729498,
-    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
-    "link": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-    "source": "Hacker News",
+    "id": 3434057556923578718,
+    "title": "[D] Agentic AI: From Tantrums to Trust",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sag9an/d_agentic_ai_from_tantrums_to_trust/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-01T23:45:03",
+    "date": "2026-04-02T12:39:26",
     "saved": false
   },
   {
-    "id": 513106501871946654,
+    "id": 158200922011824723,
+    "title": "A Founder Tried to Pitch – and Got a Restraining Order",
+    "link": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T12:10:46",
+    "saved": false
+  },
+  {
+    "id": 6955415639498475187,
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "link": "https://lemonade-server.ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T11:04:51",
+    "saved": false
+  },
+  {
+    "id": -2056333048677329872,
+    "title": "Significant Raise of Reports",
+    "link": "https://lwn.net/Articles/1065620/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T09:14:18",
+    "saved": false
+  },
+  {
+    "id": -1056185567301755828,
+    "title": "Email obfuscation: What works in 2026?",
+    "link": "https://spencermortensen.com/articles/email-obfuscation/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T03:35:33",
+    "saved": false
+  },
+  {
+    "id": -6040067670447904353,
     "title": "‘System failure’ paralyzes Baidu robotaxis in China",
     "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
     "source": "TechCrunch",
@@ -18,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 194056978686990159,
-    "title": "InspectMind AI (YC W24) Is Hiring",
-    "link": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-01T21:00:06",
-    "saved": false
-  },
-  {
-    "id": -2070430675790860635,
+    "id": -5551501265226017983,
     "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
     "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
     "source": "TechCrunch",
@@ -36,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 6141067952864932225,
-    "title": "AI for American-produced cement and concrete",
-    "link": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-01T17:17:24",
-    "saved": false
-  },
-  {
-    "id": 8275956128598521522,
+    "id": -3959707374481182786,
     "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
     "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1006342902919672586,
+    "id": -3496890551038222427,
     "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
     "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -5393593967478540457,
+    "id": 8997567379754481818,
     "title": "[D] Why I abandoned YOLO for safety critical plant/fungi identification. Closed-set classification is a silent failure mode",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s9idcm/d_why_i_abandoned_yolo_for_safety_critical/",
     "source": "Reddit ML",
@@ -72,21 +90,12 @@
     "saved": false
   },
   {
-    "id": -9002714725273649939,
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+    "id": -2461335063035492615,
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-01T01:42:59",
-    "saved": false
-  },
-  {
-    "id": -8471584115684653295,
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-03-31T22:46:25",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-01T04:14:41",
     "saved": false
   }
 ]

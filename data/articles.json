@@ -1,24 +1,123 @@
 [
   {
-    "id": 3434057556923578718,
-    "title": "[D] Agentic AI: From Tantrums to Trust",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sag9an/d_agentic_ai_from_tantrums_to_trust/",
+    "id": -4822586045208778250,
+    "title": "[R] Solving the Jane Street Dormant LLM Challenge: A Systematic Approach to Backdoor Discovery",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sarnt0/r_solving_the_jane_street_dormant_llm_challenge_a/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-02T12:39:26",
+    "date": "2026-04-02T19:47:24",
     "saved": false
   },
   {
-    "id": 158200922011824723,
-    "title": "A Founder Tried to Pitch – and Got a Restraining Order",
-    "link": "https://trellis.law/case/26-civ-00518/a16z-capital-management-llc-vs-dulat-akan",
+    "id": 6566813540334145528,
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-02T19:21:00",
+    "saved": false
+  },
+  {
+    "id": -729018270836359787,
+    "title": "ElevenLabs releases a new AI-powered music-generation app",
+    "link": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-02T18:58:45",
+    "saved": false
+  },
+  {
+    "id": -5472085950485620046,
+    "title": "Tailscale's new macOS home",
+    "link": "https://tailscale.com/blog/macos-notch-escape",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-02T12:10:46",
+    "date": "2026-04-02T18:22:03",
     "saved": false
   },
   {
-    "id": 6955415639498475187,
+    "id": 1719475345187942462,
+    "title": "NASA astronauts prove that sending an email really is rocket science",
+    "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-02T18:19:39",
+    "saved": false
+  },
+  {
+    "id": -8651324033030383243,
+    "title": "[P] Gemma 4 running on NVIDIA B200 and AMD MI355X from the same inference stack, 15% throughput gain over vLLM on Blackwell",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1saot07/p_gemma_4_running_on_nvidia_b200_and_amd_mi355x/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-02T18:01:47",
+    "saved": false
+  },
+  {
+    "id": 4237260091587909551,
+    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+    "link": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T17:29:03",
+    "saved": false
+  },
+  {
+    "id": -3969970938800848699,
+    "title": "OpenAI Acquires TBPN",
+    "link": "https://openai.com/index/openai-acquires-tbpn/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T17:26:49",
+    "saved": false
+  },
+  {
+    "id": 3002079409024634557,
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-02T16:48:16",
+    "saved": false
+  },
+  {
+    "id": -5814334442353640335,
+    "title": "[P] PhAIL (phail.ai) – an open benchmark for robot AI on real hardware. Best model: 5% of human throughput, needs help every 4 minutes.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sajdwr/p_phail_phailai_an_open_benchmark_for_robot_ai_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-02T14:45:26",
+    "saved": false
+  },
+  {
+    "id": 8443057561028961808,
+    "title": "United’s mobile app now shows TSA wait times at select airports",
+    "link": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-02T14:44:21",
+    "saved": false
+  },
+  {
+    "id": -173461808580838317,
+    "title": "Qwen3.6-Plus: Towards real world agents",
+    "link": "https://qwen.ai/blog?id=qwen3.6",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-02T14:28:52",
+    "saved": false
+  },
+  {
+    "id": 1426462283804863478,
+    "title": "Beehiiv expands into podcasting, taking aim at Patreon",
+    "link": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-02T12:50:00",
+    "saved": false
+  },
+  {
+    "id": 5764982698624977468,
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "link": "https://lemonade-server.ai",
     "source": "Hacker News",
@@ -27,8 +126,8 @@
     "saved": false
   },
   {
-    "id": -2056333048677329872,
-    "title": "Significant Raise of Reports",
+    "id": 3381157667004642864,
+    "title": "Significant raise of reports",
     "link": "https://lwn.net/Articles/1065620/",
     "source": "Hacker News",
     "category": "ai",
@@ -36,66 +135,12 @@
     "saved": false
   },
   {
-    "id": -1056185567301755828,
-    "title": "Email obfuscation: What works in 2026?",
-    "link": "https://spencermortensen.com/articles/email-obfuscation/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-02T03:35:33",
-    "saved": false
-  },
-  {
-    "id": -6040067670447904353,
-    "title": "‘System failure’ paralyzes Baidu robotaxis in China",
-    "link": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-01T21:12:14",
-    "saved": false
-  },
-  {
-    "id": -5551501265226017983,
-    "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
-    "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-01T19:02:18",
-    "saved": false
-  },
-  {
-    "id": -3959707374481182786,
-    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-01T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -3496890551038222427,
-    "title": "Nothing’s AI devices plan reportedly contains smart glasses and earbuds",
-    "link": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-01T12:33:24",
-    "saved": false
-  },
-  {
-    "id": 8997567379754481818,
+    "id": -6820590558497656872,
     "title": "[D] Why I abandoned YOLO for safety critical plant/fungi identification. Closed-set classification is a silent failure mode",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s9idcm/d_why_i_abandoned_yolo_for_safety_critical/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-01T11:54:14",
-    "saved": false
-  },
-  {
-    "id": -2461335063035492615,
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-01T04:14:41",
     "saved": false
   }
 ]

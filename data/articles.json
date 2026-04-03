@@ -1,6 +1,42 @@
 [
   {
-    "id": -4822586045208778250,
+    "id": 3594087283374154077,
+    "title": "[D] Reviewer said he will increase his score but he hasn’t (yet)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sbao9y/d_reviewer_said_he_will_increase_his_score_but_he/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-03T11:12:42",
+    "saved": false
+  },
+  {
+    "id": -2091834636193063931,
+    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+    "link": "https://github.com/oven-sh/bun/pull/28801",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-03T11:09:58",
+    "saved": false
+  },
+  {
+    "id": -9081571806030136875,
+    "title": "[R] VOID: Video Object and Interaction Deletion (physically-consistent video inpainting)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sb9d9s/r_void_video_object_and_interaction_deletion/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-03T10:00:56",
+    "saved": false
+  },
+  {
+    "id": -3461917756360112433,
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "link": "https://apfel.franzai.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-03T09:15:34",
+    "saved": false
+  },
+  {
+    "id": -1789502475282624835,
     "title": "[R] Solving the Jane Street Dormant LLM Challenge: A Systematic Approach to Backdoor Discovery",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sarnt0/r_solving_the_jane_street_dormant_llm_challenge_a/",
     "source": "Reddit ML",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 6566813540334145528,
+    "id": -3157198739625870241,
     "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
     "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -729018270836359787,
+    "id": 7876994238979244223,
     "title": "ElevenLabs releases a new AI-powered music-generation app",
     "link": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -5472085950485620046,
+    "id": -7322607327691951914,
     "title": "Tailscale's new macOS home",
     "link": "https://tailscale.com/blog/macos-notch-escape",
     "source": "Hacker News",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1719475345187942462,
+    "id": 7405712882866063157,
     "title": "NASA astronauts prove that sending an email really is rocket science",
     "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8651324033030383243,
+    "id": -2713718724242773883,
     "title": "[P] Gemma 4 running on NVIDIA B200 and AMD MI355X from the same inference stack, 15% throughput gain over vLLM on Blackwell",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1saot07/p_gemma_4_running_on_nvidia_b200_and_amd_mi355x/",
     "source": "Reddit ML",
@@ -54,25 +90,7 @@
     "saved": false
   },
   {
-    "id": 4237260091587909551,
-    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-    "link": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-02T17:29:03",
-    "saved": false
-  },
-  {
-    "id": -3969970938800848699,
-    "title": "OpenAI Acquires TBPN",
-    "link": "https://openai.com/index/openai-acquires-tbpn/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-02T17:26:49",
-    "saved": false
-  },
-  {
-    "id": 3002079409024634557,
+    "id": 7203731182558595644,
     "title": "Microsoft takes on AI rivals with three new foundational models",
     "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5814334442353640335,
+    "id": 6900253275464686549,
     "title": "[P] PhAIL (phail.ai) – an open benchmark for robot AI on real hardware. Best model: 5% of human throughput, needs help every 4 minutes.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sajdwr/p_phail_phailai_an_open_benchmark_for_robot_ai_on/",
     "source": "Reddit ML",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8443057561028961808,
+    "id": -1388021304041370908,
     "title": "United’s mobile app now shows TSA wait times at select airports",
     "link": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -173461808580838317,
+    "id": 4744471011517311288,
     "title": "Qwen3.6-Plus: Towards real world agents",
     "link": "https://qwen.ai/blog?id=qwen3.6",
     "source": "Hacker News",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1426462283804863478,
+    "id": -6494160085552145159,
     "title": "Beehiiv expands into podcasting, taking aim at Patreon",
     "link": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
     "source": "TechCrunch",
@@ -117,30 +135,30 @@
     "saved": false
   },
   {
-    "id": 5764982698624977468,
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "link": "https://lemonade-server.ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-02T11:04:51",
-    "saved": false
-  },
-  {
-    "id": 3381157667004642864,
-    "title": "Significant raise of reports",
-    "link": "https://lwn.net/Articles/1065620/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-02T09:14:18",
-    "saved": false
-  },
-  {
-    "id": -6820590558497656872,
+    "id": -2647714728562301471,
     "title": "[D] Why I abandoned YOLO for safety critical plant/fungi identification. Closed-set classification is a silent failure mode",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1s9idcm/d_why_i_abandoned_yolo_for_safety_critical/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-01T11:54:14",
+    "saved": false
+  },
+  {
+    "id": -7032631833038500993,
+    "title": "Intel Assured Supply Chain Product Brief",
+    "link": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-30T13:00:09",
+    "saved": false
+  },
+  {
+    "id": -2053609491832943167,
+    "title": "The True Shape of Io's Steeple Mountain",
+    "link": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-29T12:07:24",
     "saved": false
   }
 ]

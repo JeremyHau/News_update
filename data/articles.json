@@ -1,24 +1,33 @@
 [
   {
-    "id": 8585427812329737036,
-    "title": "How to Write Unmaintainable Code (1999)",
-    "link": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
+    "id": 2892031258274087991,
+    "title": "Mbodi AI (YC P25) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-03T23:22:37",
+    "date": "2026-04-04T12:00:38",
     "saved": false
   },
   {
-    "id": -8490163166476800036,
-    "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
-    "link": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-    "source": "Hacker News",
+    "id": 2934368626942310602,
+    "title": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-03T21:25:55",
+    "date": "2026-04-04T11:52:25",
     "saved": false
   },
   {
-    "id": 733582317821115650,
+    "id": -8135524889375269438,
+    "title": "Run Linux containers on Android, no root required",
+    "link": "https://github.com/ExTV/Podroid",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-03T22:23:55",
+    "saved": false
+  },
+  {
+    "id": 4926191774269596659,
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
     "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -2508030042852572582,
+    "id": 7284295957581908067,
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
     "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -4468714406142872164,
+    "id": 9205651366441174545,
     "title": "[D] CVPR 2026 Travel Grant/Registration Waiver",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sbknlv/d_cvpr_2026_travel_grantregistration_waiver/",
     "source": "Reddit ML",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1781173110771805701,
+    "id": 3203941497250543456,
     "title": "The Facebook insider building content moderation for the AI era",
     "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6048055370880214858,
+    "id": 3035289051271854911,
     "title": "[P] I trained a Mamba-3 log anomaly detector that hit 0.9975 F1 on HDFS — and I’m curious how far this can go",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sbe0dk/p_i_trained_a_mamba3_log_anomaly_detector_that/",
     "source": "Reddit ML",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5921815741225827637,
+    "id": -7799522179639117882,
     "title": "[R] VOID: Video Object and Interaction Deletion (physically-consistent video inpainting)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sb9d9s/r_void_video_object_and_interaction_deletion/",
     "source": "Reddit ML",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6306744986493761187,
+    "id": -9130244165804236820,
     "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
     "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7479465292973426385,
+    "id": -3753365062751234627,
     "title": "ElevenLabs releases a new AI-powered music-generation app",
     "link": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
     "source": "TechCrunch",
@@ -90,30 +99,12 @@
     "saved": false
   },
   {
-    "id": 9080083239117820598,
+    "id": -7428936817652690130,
     "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-04-02T18:24:29",
-    "saved": false
-  },
-  {
-    "id": -6023245316486095122,
-    "title": "NASA astronauts prove that sending an email really is rocket science",
-    "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-02T18:19:39",
-    "saved": false
-  },
-  {
-    "id": -1943259350775541967,
-    "title": "[P] PhAIL (phail.ai) – an open benchmark for robot AI on real hardware. Best model: 5% of human throughput, needs help every 4 minutes.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sajdwr/p_phail_phailai_an_open_benchmark_for_robot_ai_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-02T14:45:26",
     "saved": false
   }
 ]

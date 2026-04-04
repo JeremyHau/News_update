@@ -1,24 +1,69 @@
 [
   {
-    "id": 3594087283374154077,
-    "title": "[D] Reviewer said he will increase his score but he hasn’t (yet)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sbao9y/d_reviewer_said_he_will_increase_his_score_but_he/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-03T11:12:42",
-    "saved": false
-  },
-  {
-    "id": -2091834636193063931,
-    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
-    "link": "https://github.com/oven-sh/bun/pull/28801",
+    "id": 8585427812329737036,
+    "title": "How to Write Unmaintainable Code (1999)",
+    "link": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-03T11:09:58",
+    "date": "2026-04-03T23:22:37",
     "saved": false
   },
   {
-    "id": -9081571806030136875,
+    "id": -8490163166476800036,
+    "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+    "link": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-03T21:25:55",
+    "saved": false
+  },
+  {
+    "id": 733582317821115650,
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-03T20:35:34",
+    "saved": false
+  },
+  {
+    "id": -2508030042852572582,
+    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-03T19:48:22",
+    "saved": false
+  },
+  {
+    "id": -4468714406142872164,
+    "title": "[D] CVPR 2026 Travel Grant/Registration Waiver",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sbknlv/d_cvpr_2026_travel_grantregistration_waiver/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-03T17:52:58",
+    "saved": false
+  },
+  {
+    "id": -1781173110771805701,
+    "title": "The Facebook insider building content moderation for the AI era",
+    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-03T14:00:15",
+    "saved": false
+  },
+  {
+    "id": 6048055370880214858,
+    "title": "[P] I trained a Mamba-3 log anomaly detector that hit 0.9975 F1 on HDFS — and I’m curious how far this can go",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sbe0dk/p_i_trained_a_mamba3_log_anomaly_detector_that/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-03T13:44:02",
+    "saved": false
+  },
+  {
+    "id": -5921815741225827637,
     "title": "[R] VOID: Video Object and Interaction Deletion (physically-consistent video inpainting)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sb9d9s/r_void_video_object_and_interaction_deletion/",
     "source": "Reddit ML",
@@ -27,25 +72,7 @@
     "saved": false
   },
   {
-    "id": -3461917756360112433,
-    "title": "Show HN: Apfel – The free AI already on your Mac",
-    "link": "https://apfel.franzai.com",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-03T09:15:34",
-    "saved": false
-  },
-  {
-    "id": -1789502475282624835,
-    "title": "[R] Solving the Jane Street Dormant LLM Challenge: A Systematic Approach to Backdoor Discovery",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sarnt0/r_solving_the_jane_street_dormant_llm_challenge_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-02T19:47:24",
-    "saved": false
-  },
-  {
-    "id": -3157198739625870241,
+    "id": 6306744986493761187,
     "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
     "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7876994238979244223,
+    "id": 7479465292973426385,
     "title": "ElevenLabs releases a new AI-powered music-generation app",
     "link": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
     "source": "TechCrunch",
@@ -63,16 +90,16 @@
     "saved": false
   },
   {
-    "id": -7322607327691951914,
-    "title": "Tailscale's new macOS home",
-    "link": "https://tailscale.com/blog/macos-notch-escape",
+    "id": 9080083239117820598,
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "link": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-02T18:22:03",
+    "date": "2026-04-02T18:24:29",
     "saved": false
   },
   {
-    "id": 7405712882866063157,
+    "id": -6023245316486095122,
     "title": "NASA astronauts prove that sending an email really is rocket science",
     "link": "https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/",
     "source": "TechCrunch",
@@ -81,84 +108,12 @@
     "saved": false
   },
   {
-    "id": -2713718724242773883,
-    "title": "[P] Gemma 4 running on NVIDIA B200 and AMD MI355X from the same inference stack, 15% throughput gain over vLLM on Blackwell",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1saot07/p_gemma_4_running_on_nvidia_b200_and_amd_mi355x/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-02T18:01:47",
-    "saved": false
-  },
-  {
-    "id": 7203731182558595644,
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-02T16:48:16",
-    "saved": false
-  },
-  {
-    "id": 6900253275464686549,
+    "id": -1943259350775541967,
     "title": "[P] PhAIL (phail.ai) – an open benchmark for robot AI on real hardware. Best model: 5% of human throughput, needs help every 4 minutes.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sajdwr/p_phail_phailai_an_open_benchmark_for_robot_ai_on/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-02T14:45:26",
-    "saved": false
-  },
-  {
-    "id": -1388021304041370908,
-    "title": "United’s mobile app now shows TSA wait times at select airports",
-    "link": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-02T14:44:21",
-    "saved": false
-  },
-  {
-    "id": 4744471011517311288,
-    "title": "Qwen3.6-Plus: Towards real world agents",
-    "link": "https://qwen.ai/blog?id=qwen3.6",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-02T14:28:52",
-    "saved": false
-  },
-  {
-    "id": -6494160085552145159,
-    "title": "Beehiiv expands into podcasting, taking aim at Patreon",
-    "link": "https://techcrunch.com/2026/04/02/beehiiv-expands-into-podcasts-taking-aim-at-patreon-substack-newsletters/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-02T12:50:00",
-    "saved": false
-  },
-  {
-    "id": -2647714728562301471,
-    "title": "[D] Why I abandoned YOLO for safety critical plant/fungi identification. Closed-set classification is a silent failure mode",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1s9idcm/d_why_i_abandoned_yolo_for_safety_critical/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-01T11:54:14",
-    "saved": false
-  },
-  {
-    "id": -7032631833038500993,
-    "title": "Intel Assured Supply Chain Product Brief",
-    "link": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-30T13:00:09",
-    "saved": false
-  },
-  {
-    "id": -2053609491832943167,
-    "title": "The True Shape of Io's Steeple Mountain",
-    "link": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-29T12:07:24",
     "saved": false
   }
 ]

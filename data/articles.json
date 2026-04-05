@@ -1,6 +1,15 @@
 [
   {
-    "id": 8410784273635547216,
+    "id": 701875804635236262,
+    "title": "Building behavioural response models of public figures using Brain scan data (Predict their next move using psychological modelling) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sd2blx/building_behavioural_response_models_of_public/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-05T12:26:08",
+    "saved": false
+  },
+  {
+    "id": -3660373168101651186,
     "title": "[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/",
     "source": "Reddit ML",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": -5761298459273195461,
+    "id": 2320421907445478039,
     "title": "LLM Wiki – example of an \"idea file\"",
     "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
     "source": "Hacker News",
@@ -18,25 +27,7 @@
     "saved": false
   },
   {
-    "id": -5513580128416583066,
-    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-    "link": "https://sllm.cloud",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-04T15:18:58",
-    "saved": false
-  },
-  {
-    "id": -2808686788058091272,
-    "title": "Components of a Coding Agent",
-    "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-04T13:16:33",
-    "saved": false
-  },
-  {
-    "id": -2181830554660991357,
+    "id": -4047528427841235056,
     "title": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
     "source": "Reddit ML",
@@ -45,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -3171384458670109269,
+    "id": -8128345195769157981,
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
     "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -7173228241098155670,
+    "id": 7884369815719727775,
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
     "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
     "source": "TechCrunch",
@@ -63,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 6222269538065811532,
+    "id": -1141422720007562901,
     "title": "[D] CVPR 2026 Travel Grant/Registration Waiver",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sbknlv/d_cvpr_2026_travel_grantregistration_waiver/",
     "source": "Reddit ML",
@@ -72,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -833642903939563301,
+    "id": 5139447765805988140,
     "title": "The Facebook insider building content moderation for the AI era",
     "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
     "source": "TechCrunch",
@@ -81,12 +72,21 @@
     "saved": false
   },
   {
-    "id": -3268964088334648433,
+    "id": -972650606908359359,
     "title": "[P] I trained a Mamba-3 log anomaly detector that hit 0.9975 F1 on HDFS — and I’m curious how far this can go",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sbe0dk/p_i_trained_a_mamba3_log_anomaly_detector_that/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-03T13:44:02",
+    "saved": false
+  },
+  {
+    "id": -3938515146510464897,
+    "title": "Costco sued for seeking refunds on tariffs customers paid",
+    "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-03-31T16:55:16",
     "saved": false
   }
 ]

@@ -1,15 +1,60 @@
 [
   {
-    "id": 701875804635236262,
-    "title": "Building behavioural response models of public figures using Brain scan data (Predict their next move using psychological modelling) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sd2blx/building_behavioural_response_models_of_public/",
+    "id": -3642809323634952445,
+    "title": "[P] SpeakFlow - AI Dialogue Practice Coach with GLM 5.1",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdjzoh/p_speakflow_ai_dialogue_practice_coach_with_glm_51/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-05T12:26:08",
+    "date": "2026-04-06T00:35:33",
     "saved": false
   },
   {
-    "id": -3660373168101651186,
+    "id": -8799130628283404290,
+    "title": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-05T22:24:36",
+    "saved": false
+  },
+  {
+    "id": 5624710710208990911,
+    "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+    "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-05T19:36:03",
+    "saved": false
+  },
+  {
+    "id": -5606492658817788776,
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-05T18:51:37",
+    "saved": false
+  },
+  {
+    "id": 565978946734990838,
+    "title": "A tail-call interpreter in (nightly) Rust",
+    "link": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-05T15:18:01",
+    "saved": false
+  },
+  {
+    "id": -8162653494638924046,
+    "title": "Eight years of wanting, three months of building with AI",
+    "link": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-05T12:43:47",
+    "saved": false
+  },
+  {
+    "id": -8509851572145702062,
     "title": "[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/",
     "source": "Reddit ML",
@@ -18,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 2320421907445478039,
-    "title": "LLM Wiki – example of an \"idea file\"",
-    "link": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-04T16:57:45",
-    "saved": false
-  },
-  {
-    "id": -4047528427841235056,
+    "id": -1389491308034497330,
     "title": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
     "source": "Reddit ML",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -8128345195769157981,
+    "id": -9130632204377072206,
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
     "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
     "source": "TechCrunch",
@@ -45,48 +81,12 @@
     "saved": false
   },
   {
-    "id": 7884369815719727775,
+    "id": -4419443560682577146,
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
     "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-03T19:48:22",
-    "saved": false
-  },
-  {
-    "id": -1141422720007562901,
-    "title": "[D] CVPR 2026 Travel Grant/Registration Waiver",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sbknlv/d_cvpr_2026_travel_grantregistration_waiver/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-03T17:52:58",
-    "saved": false
-  },
-  {
-    "id": 5139447765805988140,
-    "title": "The Facebook insider building content moderation for the AI era",
-    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-03T14:00:15",
-    "saved": false
-  },
-  {
-    "id": -972650606908359359,
-    "title": "[P] I trained a Mamba-3 log anomaly detector that hit 0.9975 F1 on HDFS — and I’m curious how far this can go",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sbe0dk/p_i_trained_a_mamba3_log_anomaly_detector_that/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-03T13:44:02",
-    "saved": false
-  },
-  {
-    "id": -3938515146510464897,
-    "title": "Costco sued for seeking refunds on tariffs customers paid",
-    "link": "https://arstechnica.com/tech-policy/2026/03/costco-sued-for-seeking-refunds-on-tariffs-customers-paid/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-03-31T16:55:16",
     "saved": false
   }
 ]

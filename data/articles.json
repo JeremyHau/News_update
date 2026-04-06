@@ -1,6 +1,60 @@
 [
   {
-    "id": -3642809323634952445,
+    "id": -6366211181264495827,
+    "title": "The Intelligence Failure in Iran",
+    "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T11:21:35",
+    "saved": false
+  },
+  {
+    "id": 6107663163606934121,
+    "title": "[D] IJCAI 2026 rebuttal discussion",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdu1gd/d_ijcai_2026_rebuttal_discussion/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T09:29:56",
+    "saved": false
+  },
+  {
+    "id": 3544700127682587933,
+    "title": "France pulls last gold held in US for $15B gain",
+    "link": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T08:03:43",
+    "saved": false
+  },
+  {
+    "id": 2758108470536346788,
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "link": "https://drop.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T04:24:49",
+    "saved": false
+  },
+  {
+    "id": 5546618385493998128,
+    "title": "[R] deadlines for main conferences",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdneq4/r_deadlines_for_main_conferences/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T03:12:29",
+    "saved": false
+  },
+  {
+    "id": -6015831009729487652,
+    "title": "[D] How to break free from LLM's chains as a PhD student?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T02:36:24",
+    "saved": false
+  },
+  {
+    "id": 8046467063120032396,
     "title": "[P] SpeakFlow - AI Dialogue Practice Coach with GLM 5.1",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdjzoh/p_speakflow_ai_dialogue_practice_coach_with_glm_51/",
     "source": "Reddit ML",
@@ -9,7 +63,25 @@
     "saved": false
   },
   {
-    "id": -8799130628283404290,
+    "id": -4150781973985296663,
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "link": "https://github.com/arman-bd/guppylm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T00:20:12",
+    "saved": false
+  },
+  {
+    "id": -8845677845283482647,
+    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "link": "https://github.com/kessler/gemma-gem",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T00:14:37",
+    "saved": false
+  },
+  {
+    "id": -1429276066430983777,
     "title": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
     "source": "Reddit ML",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5624710710208990911,
+    "id": 8471669487441595271,
     "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
     "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
     "source": "TechCrunch",
@@ -27,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5606492658817788776,
+    "id": 2799862809012800618,
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
     "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
     "source": "TechCrunch",
@@ -36,34 +108,16 @@
     "saved": false
   },
   {
-    "id": 565978946734990838,
-    "title": "A tail-call interpreter in (nightly) Rust",
-    "link": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "id": -3473917861633785057,
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "link": "https://github.com/fikrikarim/parlor",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-05T15:18:01",
+    "date": "2026-04-05T17:53:19",
     "saved": false
   },
   {
-    "id": -8162653494638924046,
-    "title": "Eight years of wanting, three months of building with AI",
-    "link": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-05T12:43:47",
-    "saved": false
-  },
-  {
-    "id": -8509851572145702062,
-    "title": "[P] Cadenza: Connect Wandb logs to agents easily for autonomous research.",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1scm9do/p_cadenza_connect_wandb_logs_to_agents_easily_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-04T22:09:24",
-    "saved": false
-  },
-  {
-    "id": -1389491308034497330,
+    "id": -9196490716832826362,
     "title": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
     "source": "Reddit ML",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -9130632204377072206,
+    "id": 3107974127656598483,
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
     "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4419443560682577146,
+    "id": 1398729860530470124,
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
     "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
     "source": "TechCrunch",

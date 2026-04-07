@@ -1,15 +1,141 @@
 [
   {
-    "id": -6366211181264495827,
-    "title": "The Intelligence Failure in Iran",
-    "link": "https://www.theatlantic.com/national-security/2026/04/iran-war-intelligence-failure-trump/686694/",
-    "source": "Hacker News",
+    "id": 1900973352487238752,
+    "title": "[R] 94.42% on BANKING77 Official Test Split with Lightweight Embedding + Example Reranking (strict full-train protocol)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sefidi/r_9442_on_banking77_official_test_split_with/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-06T11:21:35",
+    "date": "2026-04-06T23:40:30",
     "saved": false
   },
   {
-    "id": 6107663163606934121,
+    "id": -6917770553060598619,
+    "title": "[D] Tested model routing on financial AI datasets — good savings and curious what benchmarks others use.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sedqda/d_tested_model_routing_on_financial_ai_datasets/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T22:28:14",
+    "saved": false
+  },
+  {
+    "id": 8611289854929201517,
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+    "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-06T21:54:26",
+    "saved": false
+  },
+  {
+    "id": -7083016919677403853,
+    "title": "[D] AI research on small language models",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1secv6c/d_ai_research_on_small_language_models/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T21:54:01",
+    "saved": false
+  },
+  {
+    "id": 7864525196729239863,
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "link": "https://github.com/kitfunso/hippo-memory",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T21:49:34",
+    "saved": false
+  },
+  {
+    "id": 3934596244993304716,
+    "title": "Agent Reading Test",
+    "link": "https://agentreadingtest.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T18:56:57",
+    "saved": false
+  },
+  {
+    "id": 251193662291289443,
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-06T18:54:33",
+    "saved": false
+  },
+  {
+    "id": 7909266113056046381,
+    "title": "Iran threatens ‘Stargate’ AI data centers",
+    "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-06T18:06:28",
+    "saved": false
+  },
+  {
+    "id": -5339998112517287487,
+    "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+    "link": "https://www.freestyle.sh/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T16:32:11",
+    "saved": false
+  },
+  {
+    "id": 9131776933407919983,
+    "title": "[D] USQL Joins Were Cool, But Now I Want to Join the GenAI Party",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1se3oe6/d_usql_joins_were_cool_but_now_i_want_to_join_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T16:25:17",
+    "saved": false
+  },
+  {
+    "id": 7489197055264866729,
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-06T15:57:07",
+    "saved": false
+  },
+  {
+    "id": -3611434549739466007,
+    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+    "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-06T15:55:55",
+    "saved": false
+  },
+  {
+    "id": -7970256257540896895,
+    "title": "[P] Easily provide Wandb logs as context to agents for analysis and planning.",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1se1rmd/p_easily_provide_wandb_logs_as_context_to_agents/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-06T15:16:50",
+    "saved": false
+  },
+  {
+    "id": -7611958694980133405,
+    "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
+    "link": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-06T13:03:04",
+    "saved": false
+  },
+  {
+    "id": -6632702610450624765,
+    "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+    "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-06T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -3092214401136313147,
     "title": "[D] IJCAI 2026 rebuttal discussion",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdu1gd/d_ijcai_2026_rebuttal_discussion/",
     "source": "Reddit ML",
@@ -18,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 3544700127682587933,
-    "title": "France pulls last gold held in US for $15B gain",
-    "link": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T08:03:43",
-    "saved": false
-  },
-  {
-    "id": 2758108470536346788,
-    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
-    "link": "https://drop.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T04:24:49",
-    "saved": false
-  },
-  {
-    "id": 5546618385493998128,
-    "title": "[R] deadlines for main conferences",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdneq4/r_deadlines_for_main_conferences/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-06T03:12:29",
-    "saved": false
-  },
-  {
-    "id": -6015831009729487652,
+    "id": -834476781201637214,
     "title": "[D] How to break free from LLM's chains as a PhD student?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
     "source": "Reddit ML",
@@ -54,34 +153,7 @@
     "saved": false
   },
   {
-    "id": 8046467063120032396,
-    "title": "[P] SpeakFlow - AI Dialogue Practice Coach with GLM 5.1",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sdjzoh/p_speakflow_ai_dialogue_practice_coach_with_glm_51/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-06T00:35:33",
-    "saved": false
-  },
-  {
-    "id": -4150781973985296663,
-    "title": "Show HN: I built a tiny LLM to demystify how language models work",
-    "link": "https://github.com/arman-bd/guppylm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T00:20:12",
-    "saved": false
-  },
-  {
-    "id": -8845677845283482647,
-    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-    "link": "https://github.com/kessler/gemma-gem",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T00:14:37",
-    "saved": false
-  },
-  {
-    "id": -1429276066430983777,
+    "id": 9009646164128783839,
     "title": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
     "source": "Reddit ML",
@@ -90,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 8471669487441595271,
+    "id": 3123918131286577599,
     "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
     "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
     "source": "TechCrunch",
@@ -99,48 +171,12 @@
     "saved": false
   },
   {
-    "id": 2799862809012800618,
+    "id": 6249099541233682305,
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
     "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-05T18:51:37",
-    "saved": false
-  },
-  {
-    "id": -3473917861633785057,
-    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-    "link": "https://github.com/fikrikarim/parlor",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-05T17:53:19",
-    "saved": false
-  },
-  {
-    "id": -9196490716832826362,
-    "title": "[D] ICML reviewer making up false claim in acknowledgement, what to do?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sc79nk/d_icml_reviewer_making_up_false_claim_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-04T11:52:25",
-    "saved": false
-  },
-  {
-    "id": 3107974127656598483,
-    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-03T20:35:34",
-    "saved": false
-  },
-  {
-    "id": 1398729860530470124,
-    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-    "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-03T19:48:22",
     "saved": false
   }
 ]

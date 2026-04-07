@@ -1,6 +1,60 @@
 [
   {
-    "id": 1900973352487238752,
+    "id": 8856924536303680892,
+    "title": "Hermeus raises $350M to build autonomous hypersonic fighters",
+    "link": "https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-07T12:30:00",
+    "saved": false
+  },
+  {
+    "id": -7344494550520787841,
+    "title": "LLM may be standardizing human expression – and subtly influencing how we think",
+    "link": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-07T11:29:02",
+    "saved": false
+  },
+  {
+    "id": -3241750776516131908,
+    "title": "Blackholing My Email",
+    "link": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-07T08:42:05",
+    "saved": false
+  },
+  {
+    "id": 8140599935752854861,
+    "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-07T05:30:00",
+    "saved": false
+  },
+  {
+    "id": -1924916647308786749,
+    "title": "[R] Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis (236 occupations, 5 US metros)",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1selu8x/r_agentic_ai_and_occupational_displacement_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-07T04:24:06",
+    "saved": false
+  },
+  {
+    "id": -2736079457378538255,
+    "title": "AI design platform Picsart launches a creator monetization program",
+    "link": "https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-07T04:01:00",
+    "saved": false
+  },
+  {
+    "id": -8260002371722322915,
     "title": "[R] 94.42% on BANKING77 Official Test Split with Lightweight Embedding + Example Reranking (strict full-train protocol)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sefidi/r_9442_on_banking77_official_test_split_with/",
     "source": "Reddit ML",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -6917770553060598619,
+    "id": -7489694846488862008,
     "title": "[D] Tested model routing on financial AI datasets — good savings and curious what benchmarks others use.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sedqda/d_tested_model_routing_on_financial_ai_datasets/",
     "source": "Reddit ML",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 8611289854929201517,
+    "id": -2832715848320797119,
     "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
     "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7083016919677403853,
+    "id": 6094024628388441958,
     "title": "[D] AI research on small language models",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1secv6c/d_ai_research_on_small_language_models/",
     "source": "Reddit ML",
@@ -36,25 +90,7 @@
     "saved": false
   },
   {
-    "id": 7864525196729239863,
-    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-    "link": "https://github.com/kitfunso/hippo-memory",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T21:49:34",
-    "saved": false
-  },
-  {
-    "id": 3934596244993304716,
-    "title": "Agent Reading Test",
-    "link": "https://agentreadingtest.com",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T18:56:57",
-    "saved": false
-  },
-  {
-    "id": 251193662291289443,
+    "id": -8466180196892790385,
     "title": "Google quietly launched an AI dictation app that works offline",
     "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7909266113056046381,
+    "id": -1112354413113504440,
     "title": "Iran threatens ‘Stargate’ AI data centers",
     "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
     "source": "TechCrunch",
@@ -72,34 +108,7 @@
     "saved": false
   },
   {
-    "id": -5339998112517287487,
-    "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-    "link": "https://www.freestyle.sh/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T16:32:11",
-    "saved": false
-  },
-  {
-    "id": 9131776933407919983,
-    "title": "[D] USQL Joins Were Cool, But Now I Want to Join the GenAI Party",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1se3oe6/d_usql_joins_were_cool_but_now_i_want_to_join_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-06T16:25:17",
-    "saved": false
-  },
-  {
-    "id": 7489197055264866729,
-    "title": "AI singer now occupies eleven spots on iTunes singles chart",
-    "link": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-06T15:57:07",
-    "saved": false
-  },
-  {
-    "id": -3611434549739466007,
+    "id": 76135408040913276,
     "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
     "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7970256257540896895,
+    "id": 5152989496401353044,
     "title": "[P] Easily provide Wandb logs as context to agents for analysis and planning.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1se1rmd/p_easily_provide_wandb_logs_as_context_to_agents/",
     "source": "Reddit ML",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7611958694980133405,
+    "id": -1777180860895102244,
     "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
     "link": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6632702610450624765,
+    "id": 539631797666691911,
     "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
     "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -3092214401136313147,
+    "id": -9012071594132498153,
     "title": "[D] IJCAI 2026 rebuttal discussion",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdu1gd/d_ijcai_2026_rebuttal_discussion/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -834476781201637214,
+    "id": -9131837693162274756,
     "title": "[D] How to break free from LLM's chains as a PhD student?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
     "source": "Reddit ML",
@@ -153,30 +162,12 @@
     "saved": false
   },
   {
-    "id": 9009646164128783839,
+    "id": -3517820821120653090,
     "title": "[P] Dante-2B: I'm training a 2.1B bilingual fully open Italian/English LLM from scratch on 2×H200. Phase 1 done — here's what I've built.",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sdh08w/p_dante2b_im_training_a_21b_bilingual_fully_open/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-05T22:24:36",
-    "saved": false
-  },
-  {
-    "id": 3123918131286577599,
-    "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
-    "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-05T19:36:03",
-    "saved": false
-  },
-  {
-    "id": 6249099541233682305,
-    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-    "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-05T18:51:37",
     "saved": false
   }
 ]

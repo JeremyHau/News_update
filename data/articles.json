@@ -1,6 +1,33 @@
 [
   {
-    "id": -1080789592646791215,
+    "id": -5739935483446653453,
+    "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
+    "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-10T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -2615701876460116270,
+    "title": "What image/video training data is hardest to find right now? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-10T10:08:50",
+    "saved": false
+  },
+  {
+    "id": -1355066467127508574,
+    "title": "We've raised $17M to build what comes after Git",
+    "link": "https://blog.gitbutler.com/series-a",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-10T01:52:58",
+    "saved": false
+  },
+  {
+    "id": 5619413437736901396,
     "title": "Started a video series on building an orchestration layer for LLM post-training [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sh76ji/started_a_video_series_on_building_an/",
     "source": "Reddit ML",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 7785740148125853857,
+    "id": -7360646598766592857,
     "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
     "source": "TechCrunch",
@@ -18,25 +45,7 @@
     "saved": false
   },
   {
-    "id": 3355021640459969770,
-    "title": "The Training Example Lie Bracket",
-    "link": "https://pbement.com/posts/lie_brackets/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-09T21:59:28",
-    "saved": false
-  },
-  {
-    "id": -5697401139342761838,
-    "title": "Can strangers in a discord server produce SOTA AI research? Let's find out. [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sh1sa5/can_strangers_in_a_discord_server_produce_sota_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-09T20:45:12",
-    "saved": false
-  },
-  {
-    "id": 2648939245152480542,
+    "id": -3619703067067861045,
     "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1091116527677576849,
+    "id": 9065394239153345885,
     "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
     "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
     "source": "TechCrunch",
@@ -54,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -8470369767670618779,
-    "title": "Instant 1.0, a backend for AI-coded apps",
-    "link": "https://www.instantdb.com/essays/architecture",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-09T18:30:59",
-    "saved": false
-  },
-  {
-    "id": -3812919878736728267,
+    "id": 1535834758056549858,
     "title": "Google and Intel deepen AI infrastructure partnership",
     "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
     "source": "TechCrunch",
@@ -72,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 2272497282001939740,
-    "title": "Research-Driven Agents: When an agent reads before it codes",
-    "link": "https://blog.skypilot.co/research-driven-agents/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-09T16:58:49",
-    "saved": false
-  },
-  {
-    "id": 2071730057583074252,
+    "id": 6230872244509945833,
     "title": "Avec’s Tinder-style email app allows you to swipe through your inbox",
     "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
     "source": "TechCrunch",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -6315638579638860169,
+    "id": -1715672631792232740,
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
     "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
     "source": "TechCrunch",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -895807929217653081,
+    "id": -3621792067153119436,
     "title": "AI Systems Performance Engineering by Chris Fregly - is it worth it? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sgodjl/ai_systems_performance_engineering_by_chris/",
     "source": "Reddit ML",
@@ -108,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5829811758848761777,
+    "id": 2999241937865174807,
     "title": "Studying Sutton and Barto's RL book and its connections to RL for LLMs (e.g., tool use, math reasoning, agents, and so on)? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sgknct/studying_sutton_and_bartos_rl_book_and_its/",
     "source": "Reddit ML",
@@ -117,12 +108,21 @@
     "saved": false
   },
   {
-    "id": 8062165192438533031,
+    "id": -5151260543572027978,
     "title": "[P] Building a LLM from scratch with Mary Shelley's \"Frankenstein\" (on Kaggle)",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sfuwqh/p_building_a_llm_from_scratch_with_mary_shelleys/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-08T14:44:31",
+    "saved": false
+  },
+  {
+    "id": -7722520977970414553,
+    "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
+    "link": "https://github.com/marimo-team/marimo-pair",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-07T17:47:46",
     "saved": false
   }
 ]

@@ -1,24 +1,6 @@
 [
   {
-    "id": 1900023941620251739,
-    "title": "Italo Calvino: A Traveller in a World of Uncertainty",
-    "link": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-10T23:48:07",
-    "saved": false
-  },
-  {
-    "id": -3280811791195690239,
-    "title": "Sam Altman's response to Molotov cocktail incident",
-    "link": "https://blog.samaltman.com/2279512",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-10T23:05:48",
-    "saved": false
-  },
-  {
-    "id": 1217968999447374807,
+    "id": -7146193945403898865,
     "title": "AI assistance when contributing to the Linux kernel",
     "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
     "source": "Hacker News",
@@ -27,7 +9,7 @@
     "saved": false
   },
   {
-    "id": -9094859284512092681,
+    "id": 7500104730711830000,
     "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
     "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "source": "TechCrunch",
@@ -36,16 +18,7 @@
     "saved": false
   },
   {
-    "id": 8262997434840310654,
-    "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
-    "link": "https://twill.ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-10T16:22:13",
-    "saved": false
-  },
-  {
-    "id": -1723735031283888111,
+    "id": -2153216263043110426,
     "title": "Every fusion startup that has raised over $100M",
     "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
     "source": "TechCrunch",
@@ -54,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 6276187519284064315,
+    "id": 1962588911081703412,
     "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
     "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
     "source": "TechCrunch",
@@ -63,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -6140669035559230662,
+    "id": -9054826990029551643,
     "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
     "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
     "source": "TechCrunch",
@@ -72,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 4271838384845203030,
+    "id": 257194878868973136,
     "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
     "source": "TechCrunch",
@@ -81,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1171580730603912632,
+    "id": 3330564227776875422,
     "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
     "source": "TechCrunch",

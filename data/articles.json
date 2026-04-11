@@ -1,6 +1,69 @@
 [
   {
-    "id": -5739935483446653453,
+    "id": 1900023941620251739,
+    "title": "Italo Calvino: A Traveller in a World of Uncertainty",
+    "link": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-10T23:48:07",
+    "saved": false
+  },
+  {
+    "id": -3280811791195690239,
+    "title": "Sam Altman's response to Molotov cocktail incident",
+    "link": "https://blog.samaltman.com/2279512",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-10T23:05:48",
+    "saved": false
+  },
+  {
+    "id": 1217968999447374807,
+    "title": "AI assistance when contributing to the Linux kernel",
+    "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-10T18:35:21",
+    "saved": false
+  },
+  {
+    "id": -9094859284512092681,
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-10T16:41:34",
+    "saved": false
+  },
+  {
+    "id": 8262997434840310654,
+    "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+    "link": "https://twill.ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-10T16:22:13",
+    "saved": false
+  },
+  {
+    "id": -1723735031283888111,
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-10T14:05:00",
+    "saved": false
+  },
+  {
+    "id": 6276187519284064315,
+    "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
+    "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-10T13:52:02",
+    "saved": false
+  },
+  {
+    "id": -6140669035559230662,
     "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
     "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
     "source": "TechCrunch",
@@ -9,34 +72,7 @@
     "saved": false
   },
   {
-    "id": -2615701876460116270,
-    "title": "What image/video training data is hardest to find right now? [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-10T10:08:50",
-    "saved": false
-  },
-  {
-    "id": -1355066467127508574,
-    "title": "We've raised $17M to build what comes after Git",
-    "link": "https://blog.gitbutler.com/series-a",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-10T01:52:58",
-    "saved": false
-  },
-  {
-    "id": 5619413437736901396,
-    "title": "Started a video series on building an orchestration layer for LLM post-training [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sh76ji/started_a_video_series_on_building_an/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-10T00:24:33",
-    "saved": false
-  },
-  {
-    "id": -7360646598766592857,
+    "id": 4271838384845203030,
     "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
     "source": "TechCrunch",
@@ -45,84 +81,12 @@
     "saved": false
   },
   {
-    "id": -3619703067067861045,
+    "id": -1171580730603912632,
     "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-09T20:11:55",
-    "saved": false
-  },
-  {
-    "id": 9065394239153345885,
-    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-    "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-09T19:10:07",
-    "saved": false
-  },
-  {
-    "id": 1535834758056549858,
-    "title": "Google and Intel deepen AI infrastructure partnership",
-    "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-09T18:27:47",
-    "saved": false
-  },
-  {
-    "id": 6230872244509945833,
-    "title": "Avec’s Tinder-style email app allows you to swipe through your inbox",
-    "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-09T15:58:22",
-    "saved": false
-  },
-  {
-    "id": -1715672631792232740,
-    "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-    "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-09T14:27:57",
-    "saved": false
-  },
-  {
-    "id": -3621792067153119436,
-    "title": "AI Systems Performance Engineering by Chris Fregly - is it worth it? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sgodjl/ai_systems_performance_engineering_by_chris/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-09T12:35:30",
-    "saved": false
-  },
-  {
-    "id": 2999241937865174807,
-    "title": "Studying Sutton and Barto's RL book and its connections to RL for LLMs (e.g., tool use, math reasoning, agents, and so on)? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sgknct/studying_sutton_and_bartos_rl_book_and_its/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-09T09:21:23",
-    "saved": false
-  },
-  {
-    "id": -5151260543572027978,
-    "title": "[P] Building a LLM from scratch with Mary Shelley's \"Frankenstein\" (on Kaggle)",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sfuwqh/p_building_a_llm_from_scratch_with_mary_shelleys/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-08T14:44:31",
-    "saved": false
-  },
-  {
-    "id": -7722520977970414553,
-    "title": "Show HN: Marimo pair – Reactive Python notebooks as environments for agents",
-    "link": "https://github.com/marimo-team/marimo-pair",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-07T17:47:46",
     "saved": false
   }
 ]

@@ -1,15 +1,51 @@
 [
   {
-    "id": -7146193945403898865,
-    "title": "AI assistance when contributing to the Linux kernel",
-    "link": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "id": -2743344385662274956,
+    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+    "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-10T18:35:21",
+    "date": "2026-04-11T19:15:56",
     "saved": false
   },
   {
-    "id": 7500104730711830000,
+    "id": 5493493465732617984,
+    "title": "Is \"live AI video generation\" a meaningful technical category or just a marketing term? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1siqg5d/is_live_ai_video_generation_a_meaningful/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-11T18:13:20",
+    "saved": false
+  },
+  {
+    "id": -4172873437429459450,
+    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+    "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-11T14:03:00",
+    "saved": false
+  },
+  {
+    "id": 4207610171965995227,
+    "title": "Cirrus Labs to join OpenAI",
+    "link": "https://cirruslabs.org/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-11T13:01:34",
+    "saved": false
+  },
+  {
+    "id": 1214672617575191088,
+    "title": "Getting sabotaged by a reviewer at IJCAI [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1si2od5/getting_sabotaged_by_a_reviewer_at_ijcai_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-10T23:26:23",
+    "saved": false
+  },
+  {
+    "id": 7160397643515093337,
     "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
     "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -2153216263043110426,
+    "id": -7751985416817269372,
     "title": "Every fusion startup that has raised over $100M",
     "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1962588911081703412,
+    "id": 3208975088202031582,
     "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
     "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
     "source": "TechCrunch",
@@ -36,7 +72,16 @@
     "saved": false
   },
   {
-    "id": -9054826990029551643,
+    "id": 208128357037989243,
+    "title": "How does the ML community view AI-assisted writing in technical discussions? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1shmx8k/how_does_the_ml_community_view_aiassisted_writing/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-10T13:42:32",
+    "saved": false
+  },
+  {
+    "id": 13361381188758970,
     "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
     "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
     "source": "TechCrunch",
@@ -45,7 +90,25 @@
     "saved": false
   },
   {
-    "id": 257194878868973136,
+    "id": -372533631910235605,
+    "title": "What image/video training data is hardest to find right now? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-10T10:08:50",
+    "saved": false
+  },
+  {
+    "id": 3610859978788195073,
+    "title": "Started a video series on building an orchestration layer for LLM post-training [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sh76ji/started_a_video_series_on_building_an/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-10T00:24:33",
+    "saved": false
+  },
+  {
+    "id": -9173424064080920614,
     "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
     "source": "TechCrunch",
@@ -54,12 +117,21 @@
     "saved": false
   },
   {
-    "id": 3330564227776875422,
-    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-09T20:11:55",
+    "id": -1970410713840782245,
+    "title": "AI Systems Performance Engineering by Chris Fregly - is it worth it? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sgodjl/ai_systems_performance_engineering_by_chris/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-09T12:35:30",
+    "saved": false
+  },
+  {
+    "id": -5405678647973702911,
+    "title": "Studying Sutton and Barto's RL book and its connections to RL for LLMs (e.g., tool use, math reasoning, agents, and so on)? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sgknct/studying_sutton_and_bartos_rl_book_and_its/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-09T09:21:23",
     "saved": false
   }
 ]

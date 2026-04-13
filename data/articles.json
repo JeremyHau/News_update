@@ -1,24 +1,24 @@
 [
   {
-    "id": 6596796625353482620,
-    "title": "Frameworks For Supporting LLM/Agentic Benchmarking [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjnha5/frameworks_for_supporting_llmagentic_benchmarking/",
-    "source": "Reddit ML",
+    "id": 496530387999397447,
+    "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+    "link": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-12T19:08:52",
+    "date": "2026-04-13T12:05:35",
     "saved": false
   },
   {
-    "id": 2445664800854018839,
-    "title": "KIV: 1M token context window on a RTX 4070 (12GB VRAM), no retraining, drop-in HuggingFace cache replacement - Works with any model that uses DynamicCache [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjkmwz/kiv_1m_token_context_window_on_a_rtx_4070_12gb/",
-    "source": "Reddit ML",
+    "id": -1711695426688830114,
+    "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-12T17:23:40",
+    "date": "2026-04-13T08:13:40",
     "saved": false
   },
   {
-    "id": -7971212175220819200,
+    "id": -8835888889965335272,
     "title": "X says it’s reducing payments to clickbait accounts",
     "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
     "source": "TechCrunch",
@@ -27,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 6425037008497427736,
+    "id": -3790210705476420830,
     "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
     "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -36,26 +36,17 @@
     "saved": false
   },
   {
-    "id": -4332369078642280209,
-    "title": "Educational PyTorch repo for distributed training from scratch: DP, FSDP, TP, FSDP+TP, and PP [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjglrn/educational_pytorch_repo_for_distributed_training/",
-    "source": "Reddit ML",
+    "id": -3712368412772339784,
+    "title": "We have a 99% email reputation, but Gmail disagrees",
+    "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-12T14:51:44",
+    "date": "2026-04-12T12:42:25",
     "saved": false
   },
   {
-    "id": -5628246551857560159,
-    "title": "Training an AI to play Resident Evil Requiem using Behavior Cloning + HG-DAgge [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjg4ph/training_an_ai_to_play_resident_evil_requiem/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-12T14:32:47",
-    "saved": false
-  },
-  {
-    "id": -1381486706286460667,
-    "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
+    "id": -4436264818132807540,
+    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
     "link": "https://news.ycombinator.com/item?id=47738883",
     "source": "Hacker News",
     "category": "ai",
@@ -63,34 +54,7 @@
     "saved": false
   },
   {
-    "id": -8548469603601494581,
-    "title": "LLMs learn backwards, and the scaling hypothesis is bounded. [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sj888x/llms_learn_backwards_and_the_scaling_hypothesis/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-12T07:51:03",
-    "saved": false
-  },
-  {
-    "id": 5193338704725471385,
-    "title": "Ijcai 2026 rebuttal doubt [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sj7irs/ijcai_2026_rebuttal_doubt_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-12T07:10:40",
-    "saved": false
-  },
-  {
-    "id": -4957640430137427841,
-    "title": "Is \"live AI video generation\" a meaningful technical category or just a marketing term? [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1siqg5d/is_live_ai_video_generation_a_meaningful/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-11T18:13:20",
-    "saved": false
-  },
-  {
-    "id": -6025176861740726673,
+    "id": 2090923657055827701,
     "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
     "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
     "source": "TechCrunch",
@@ -99,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 7164229179494542035,
-    "title": "Getting sabotaged by a reviewer at IJCAI [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1si2od5/getting_sabotaged_by_a_reviewer_at_ijcai_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-10T23:26:23",
-    "saved": false
-  },
-  {
-    "id": 4034177547156631423,
+    "id": -128137757282298974,
     "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
     "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "source": "TechCrunch",
@@ -117,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 930131841009382468,
+    "id": 5732483125901862330,
     "title": "I gave every train in New York an instrument",
     "link": "https://www.trainjazz.com/",
     "source": "Hacker News",

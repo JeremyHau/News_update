@@ -1,6 +1,69 @@
 [
   {
-    "id": 6812990968344009506,
+    "id": 6596796625353482620,
+    "title": "Frameworks For Supporting LLM/Agentic Benchmarking [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjnha5/frameworks_for_supporting_llmagentic_benchmarking/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-12T19:08:52",
+    "saved": false
+  },
+  {
+    "id": 2445664800854018839,
+    "title": "KIV: 1M token context window on a RTX 4070 (12GB VRAM), no retraining, drop-in HuggingFace cache replacement - Works with any model that uses DynamicCache [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjkmwz/kiv_1m_token_context_window_on_a_rtx_4070_12gb/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-12T17:23:40",
+    "saved": false
+  },
+  {
+    "id": -7971212175220819200,
+    "title": "X says it’s reducing payments to clickbait accounts",
+    "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-12T17:02:20",
+    "saved": false
+  },
+  {
+    "id": 6425037008497427736,
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-12T15:07:08",
+    "saved": false
+  },
+  {
+    "id": -4332369078642280209,
+    "title": "Educational PyTorch repo for distributed training from scratch: DP, FSDP, TP, FSDP+TP, and PP [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjglrn/educational_pytorch_repo_for_distributed_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-12T14:51:44",
+    "saved": false
+  },
+  {
+    "id": -5628246551857560159,
+    "title": "Training an AI to play Resident Evil Requiem using Behavior Cloning + HG-DAgge [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sjg4ph/training_an_ai_to_play_resident_evil_requiem/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-12T14:32:47",
+    "saved": false
+  },
+  {
+    "id": -1381486706286460667,
+    "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
+    "link": "https://news.ycombinator.com/item?id=47738883",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-12T12:28:57",
+    "saved": false
+  },
+  {
+    "id": -8548469603601494581,
     "title": "LLMs learn backwards, and the scaling hypothesis is bounded. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sj888x/llms_learn_backwards_and_the_scaling_hypothesis/",
     "source": "Reddit ML",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5676373482634214049,
+    "id": 5193338704725471385,
     "title": "Ijcai 2026 rebuttal doubt [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sj7irs/ijcai_2026_rebuttal_doubt_d/",
     "source": "Reddit ML",
@@ -18,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 2465292024876371327,
-    "title": "[D] Will Google’s TurboQuant algorithm hurt AI demand for memory chips? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sj5hsx/d_will_googles_turboquant_algorithm_hurt_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-12T05:17:44",
-    "saved": false
-  },
-  {
-    "id": 2691945173110353438,
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-    "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-11T19:15:56",
-    "saved": false
-  },
-  {
-    "id": -877106477606468275,
+    "id": -4957640430137427841,
     "title": "Is \"live AI video generation\" a meaningful technical category or just a marketing term? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1siqg5d/is_live_ai_video_generation_a_meaningful/",
     "source": "Reddit ML",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1950797901821425186,
+    "id": -6025176861740726673,
     "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
     "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2426499684241428358,
+    "id": 7164229179494542035,
     "title": "Getting sabotaged by a reviewer at IJCAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1si2od5/getting_sabotaged_by_a_reviewer_at_ijcai_d/",
     "source": "Reddit ML",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 9004332299421967751,
+    "id": 4034177547156631423,
     "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
     "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
     "source": "TechCrunch",
@@ -72,48 +117,12 @@
     "saved": false
   },
   {
-    "id": -2980334742246823035,
-    "title": "Every fusion startup that has raised over $100M",
-    "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-10T14:05:00",
-    "saved": false
-  },
-  {
-    "id": 5399537354885614171,
-    "title": "PSA: If you use the Meta AI app, your friends will find out and it will be embarrassing",
-    "link": "https://techcrunch.com/2026/04/10/psa-if-you-use-the-meta-ai-app-your-friends-will-find-out-and-it-will-be-embarrassing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-10T13:52:02",
-    "saved": false
-  },
-  {
-    "id": 3537981300910355829,
-    "title": "Snap gets closer to releasing new AI glasses after years-long hiatus",
-    "link": "https://techcrunch.com/2026/04/10/snap-gets-closer-to-releasing-new-ai-glasses-after-years-long-hiatus/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-10T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -9028862225231087790,
-    "title": "What image/video training data is hardest to find right now? [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1shibc9/what_imagevideo_training_data_is_hardest_to_find/",
-    "source": "Reddit ML",
+    "id": 930131841009382468,
+    "title": "I gave every train in New York an instrument",
+    "link": "https://www.trainjazz.com/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-10T10:08:50",
-    "saved": false
-  },
-  {
-    "id": -6063216369415908872,
-    "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting",
-    "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-09T22:13:26",
+    "date": "2026-04-10T15:21:07",
     "saved": false
   }
 ]

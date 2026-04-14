@@ -1,24 +1,78 @@
 [
   {
-    "id": 496530387999397447,
-    "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
-    "link": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-13T12:05:35",
+    "id": 4947472413863987565,
+    "title": "OpenAI has bought AI personal finance startup Hiro",
+    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-14T00:23:33",
     "saved": false
   },
   {
-    "id": -1711695426688830114,
-    "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
+    "id": 4363702265610886352,
+    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "link": "https://ndaybench.winfunc.com",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-13T08:13:40",
+    "date": "2026-04-13T21:54:03",
     "saved": false
   },
   {
-    "id": -8835888889965335272,
+    "id": 4641576423025372536,
+    "title": "(AMD) Build AI Agents That Run Locally",
+    "link": "https://amd-gaia.ai/docs",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-13T19:28:41",
+    "saved": false
+  },
+  {
+    "id": 2308093757795899829,
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-13T19:05:19",
+    "saved": false
+  },
+  {
+    "id": 4134704790731960625,
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-13T18:55:37",
+    "saved": false
+  },
+  {
+    "id": -4670181481660228374,
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-13T15:22:29",
+    "saved": false
+  },
+  {
+    "id": -7923055683144008819,
+    "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
+    "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-13T13:26:33",
+    "saved": false
+  },
+  {
+    "id": 6183162546688755289,
+    "title": "Servo is now available on crates.io",
+    "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-13T12:12:22",
+    "saved": false
+  },
+  {
+    "id": -6354313355821221310,
     "title": "X says it’s reducing payments to clickbait accounts",
     "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3790210705476420830,
+    "id": 7242772583264043828,
     "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
     "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -36,48 +90,12 @@
     "saved": false
   },
   {
-    "id": -3712368412772339784,
-    "title": "We have a 99% email reputation, but Gmail disagrees",
-    "link": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+    "id": 5759692461718579466,
+    "title": "Air Powered Segment Display? [video]",
+    "link": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-12T12:42:25",
-    "saved": false
-  },
-  {
-    "id": -4436264818132807540,
-    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-    "link": "https://news.ycombinator.com/item?id=47738883",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-12T12:28:57",
-    "saved": false
-  },
-  {
-    "id": 2090923657055827701,
-    "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-    "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-11T14:03:00",
-    "saved": false
-  },
-  {
-    "id": -128137757282298974,
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-10T16:41:34",
-    "saved": false
-  },
-  {
-    "id": 5732483125901862330,
-    "title": "I gave every train in New York an instrument",
-    "link": "https://www.trainjazz.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-10T15:21:07",
+    "date": "2026-04-11T09:32:17",
     "saved": false
   }
 ]

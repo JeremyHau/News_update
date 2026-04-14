@@ -1,6 +1,15 @@
 [
   {
-    "id": 4947472413863987565,
+    "id": 9094113722827860834,
+    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+    "link": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-14T05:32:48",
+    "saved": false
+  },
+  {
+    "id": 270813286944726321,
     "title": "OpenAI has bought AI personal finance startup Hiro",
     "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
     "source": "TechCrunch",
@@ -9,25 +18,7 @@
     "saved": false
   },
   {
-    "id": 4363702265610886352,
-    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-    "link": "https://ndaybench.winfunc.com",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-13T21:54:03",
-    "saved": false
-  },
-  {
-    "id": 4641576423025372536,
-    "title": "(AMD) Build AI Agents That Run Locally",
-    "link": "https://amd-gaia.ai/docs",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-13T19:28:41",
-    "saved": false
-  },
-  {
-    "id": 2308093757795899829,
+    "id": 4254175236561625284,
     "title": "Microsoft is working on yet another OpenClaw-like agent",
     "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
     "source": "TechCrunch",
@@ -36,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 4134704790731960625,
+    "id": 1130649212702453112,
     "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
     "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
     "source": "TechCrunch",
@@ -45,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -4670181481660228374,
+    "id": -6405922112579226424,
     "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
     "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -7923055683144008819,
+    "id": 2183744947772224494,
     "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
     "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
     "source": "TechCrunch",
@@ -63,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 6183162546688755289,
-    "title": "Servo is now available on crates.io",
-    "link": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-13T12:12:22",
-    "saved": false
-  },
-  {
-    "id": -6354313355821221310,
+    "id": -3072077007780534335,
     "title": "X says it’s reducing payments to clickbait accounts",
     "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
     "source": "TechCrunch",
@@ -81,21 +63,12 @@
     "saved": false
   },
   {
-    "id": 7242772583264043828,
-    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-12T15:07:08",
-    "saved": false
-  },
-  {
-    "id": 5759692461718579466,
-    "title": "Air Powered Segment Display? [video]",
-    "link": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+    "id": -6844830874522788076,
+    "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+    "link": "https://publicdomainreview.org/essay/the-great-majority/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-11T09:32:17",
+    "date": "2026-04-10T22:23:03",
     "saved": false
   }
 ]

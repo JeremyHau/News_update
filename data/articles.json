@@ -1,15 +1,69 @@
 [
   {
-    "id": 9094113722827860834,
-    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
-    "link": "https://kirancodes.me/posts/log-distributed-llms.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-14T05:32:48",
+    "id": 7351585967334173543,
+    "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+    "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-14T21:33:38",
     "saved": false
   },
   {
-    "id": 270813286944726321,
+    "id": 4415079956213767603,
+    "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
+    "link": "https://mrdns.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-14T20:42:21",
+    "saved": false
+  },
+  {
+    "id": 4466390418736572606,
+    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
+    "link": "https://github.com/dropseed/plain",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-14T17:43:17",
+    "saved": false
+  },
+  {
+    "id": 3827921716825567181,
+    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+    "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-14T17:13:03",
+    "saved": false
+  },
+  {
+    "id": 5460108819439213245,
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-14T17:09:43",
+    "saved": false
+  },
+  {
+    "id": 1802195082955510241,
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-14T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 6099866603291113775,
+    "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
+    "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-14T16:05:00",
+    "saved": false
+  },
+  {
+    "id": -6060350339441193059,
     "title": "OpenAI has bought AI personal finance startup Hiro",
     "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
     "source": "TechCrunch",
@@ -18,57 +72,12 @@
     "saved": false
   },
   {
-    "id": 4254175236561625284,
-    "title": "Microsoft is working on yet another OpenClaw-like agent",
-    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-13T19:05:19",
-    "saved": false
-  },
-  {
-    "id": 1130649212702453112,
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-13T18:55:37",
-    "saved": false
-  },
-  {
-    "id": -6405922112579226424,
-    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-13T15:22:29",
-    "saved": false
-  },
-  {
-    "id": 2183744947772224494,
-    "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
-    "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-13T13:26:33",
-    "saved": false
-  },
-  {
-    "id": -3072077007780534335,
-    "title": "X says it’s reducing payments to clickbait accounts",
-    "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-12T17:02:20",
-    "saved": false
-  },
-  {
-    "id": -6844830874522788076,
-    "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
-    "link": "https://publicdomainreview.org/essay/the-great-majority/",
+    "id": 4583920061983030666,
+    "title": "Troubleshooting Email Delivery to Microsoft Users",
+    "link": "https://rozumem.xyz/posts/14",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-10T22:23:03",
+    "date": "2026-04-12T12:40:34",
     "saved": false
   }
 ]

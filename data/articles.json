@@ -1,6 +1,24 @@
 [
   {
-    "id": 7351585967334173543,
+    "id": 8085013438345467526,
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-15T05:19:06",
+    "saved": false
+  },
+  {
+    "id": -6440797924308115031,
+    "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+    "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T02:31:04",
+    "saved": false
+  },
+  {
+    "id": -5153007211699403289,
     "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
     "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
     "source": "TechCrunch",
@@ -9,25 +27,7 @@
     "saved": false
   },
   {
-    "id": 4415079956213767603,
-    "title": "Free, fast diagnostic tools for DNS, email authentication, and network security",
-    "link": "https://mrdns.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-14T20:42:21",
-    "saved": false
-  },
-  {
-    "id": 4466390418736572606,
-    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
-    "link": "https://github.com/dropseed/plain",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-14T17:43:17",
-    "saved": false
-  },
-  {
-    "id": 3827921716825567181,
+    "id": -7081565116087974351,
     "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
     "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
     "source": "TechCrunch",
@@ -36,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 5460108819439213245,
+    "id": -7825026141492017083,
     "title": "Turn your best AI prompts into one-click tools in Chrome",
     "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
     "source": "Hacker News",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1802195082955510241,
+    "id": 6773912331321664055,
     "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
     "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
     "source": "TechCrunch",
@@ -54,30 +54,12 @@
     "saved": false
   },
   {
-    "id": 6099866603291113775,
+    "id": -3335540703507600995,
     "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
     "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-14T16:05:00",
-    "saved": false
-  },
-  {
-    "id": -6060350339441193059,
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-14T00:23:33",
-    "saved": false
-  },
-  {
-    "id": 4583920061983030666,
-    "title": "Troubleshooting Email Delivery to Microsoft Users",
-    "link": "https://rozumem.xyz/posts/14",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-12T12:40:34",
     "saved": false
   }
 ]

@@ -1,65 +1,119 @@
 [
   {
-    "id": 8085013438345467526,
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-    "link": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-15T05:19:06",
-    "saved": false
-  },
-  {
-    "id": -6440797924308115031,
-    "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-    "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+    "id": -7906601202499552433,
+    "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
+    "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-15T02:31:04",
+    "date": "2026-04-15T22:44:26",
     "saved": false
   },
   {
-    "id": -5153007211699403289,
-    "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-    "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+    "id": 7658679362833594199,
+    "title": "Wait, could they still actually break up Live Nation?",
+    "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-14T21:33:38",
+    "date": "2026-04-15T21:38:09",
     "saved": false
   },
   {
-    "id": -7081565116087974351,
-    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
-    "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "id": -3731838636896173110,
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-14T17:13:03",
+    "date": "2026-04-15T19:28:36",
     "saved": false
   },
   {
-    "id": -7825026141492017083,
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-14T17:09:43",
-    "saved": false
-  },
-  {
-    "id": 6773912331321664055,
-    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "id": 5669833153612727396,
+    "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+    "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-14T17:00:00",
+    "date": "2026-04-15T18:55:12",
     "saved": false
   },
   {
-    "id": -3335540703507600995,
-    "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
-    "link": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+    "id": 5934056631151728884,
+    "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+    "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-14T16:05:00",
+    "date": "2026-04-15T18:51:54",
+    "saved": false
+  },
+  {
+    "id": 2933116858624718037,
+    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+    "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T18:38:10",
+    "saved": false
+  },
+  {
+    "id": 4388645721428534258,
+    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+    "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T18:33:20",
+    "saved": false
+  },
+  {
+    "id": -7243507322024308111,
+    "title": "This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more",
+    "link": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T17:46:28",
+    "saved": false
+  },
+  {
+    "id": 4567487501279369951,
+    "title": "Accel raises $5B to back late-stage bets",
+    "link": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T17:37:56",
+    "saved": false
+  },
+  {
+    "id": 2845807644312335530,
+    "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+    "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T17:24:18",
+    "saved": false
+  },
+  {
+    "id": 9026977847845611207,
+    "title": "Motorola sues social platforms and creators over posts, raising speech concerns in India",
+    "link": "https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T16:00:17",
+    "saved": false
+  },
+  {
+    "id": -7642728720549164107,
+    "title": "Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world",
+    "link": "https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 7680473663099526488,
+    "title": "After sale of its shoe business, Allbirds pivots to AI",
+    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-15T14:24:31",
     "saved": false
   }
 ]

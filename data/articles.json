@@ -1,6 +1,60 @@
 [
   {
-    "id": -7906601202499552433,
+    "id": 2287160428299831988,
+    "title": "Canva’s AI assistant can now call various tools to make designs for you",
+    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-16T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 8857419118720209220,
+    "title": "Fashion retailer Express left customers’ personal data and order details exposed to the internet",
+    "link": "https://techcrunch.com/2026/04/16/fashion-retailer-express-left-customers-personal-data-and-order-details-exposed-to-the-internet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-16T12:39:56",
+    "saved": false
+  },
+  {
+    "id": -3378898595375937994,
+    "title": "This simulation startup wants to be the Cursor for physical AI",
+    "link": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-16T12:30:00",
+    "saved": false
+  },
+  {
+    "id": -1338125038163236275,
+    "title": "AI cybersecurity is not proof of work",
+    "link": "https://antirez.com/news/163",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-16T10:48:00",
+    "saved": false
+  },
+  {
+    "id": 4664448579266534413,
+    "title": "RamAIn (YC W26) Is Hiring",
+    "link": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-16T07:01:29",
+    "saved": false
+  },
+  {
+    "id": -4959774805971885098,
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "link": "https://daedal.io/@thomzane/116410863009847575",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-16T03:44:38",
+    "saved": false
+  },
+  {
+    "id": -7280474887905968452,
     "title": "Amazon-backed X-energy files to raise up to $800M in IPO",
     "link": "https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7658679362833594199,
+    "id": 5437556028706526247,
     "title": "Wait, could they still actually break up Live Nation?",
     "link": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3731838636896173110,
+    "id": -4241456332354124415,
     "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
     "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 5669833153612727396,
+    "id": 899250677748669011,
     "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
     "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5934056631151728884,
+    "id": -9012999609000216099,
     "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
     "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2933116858624718037,
+    "id": 3294386480562048458,
     "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
     "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 4388645721428534258,
+    "id": -4505401071910841863,
     "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
     "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7243507322024308111,
+    "id": 6967008791036234687,
     "title": "This Khosla-backed autonomous pod startup just raised $170M — now it’s aiming for more",
     "link": "https://techcrunch.com/2026/04/15/this-khosla-backed-autonomous-pod-startup-just-raised-170m-now-its-aiming-for-more/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4567487501279369951,
+    "id": 8240581062214340904,
     "title": "Accel raises $5B to back late-stage bets",
     "link": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 2845807644312335530,
+    "id": 2733676026533596162,
     "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
     "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
     "source": "TechCrunch",
@@ -90,30 +144,12 @@
     "saved": false
   },
   {
-    "id": 9026977847845611207,
+    "id": 8089859374532149755,
     "title": "Motorola sues social platforms and creators over posts, raising speech concerns in India",
     "link": "https://techcrunch.com/2026/04/15/motorola-sues-social-platforms-and-creators-over-posts-raising-speech-concerns-in-india/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-15T16:00:17",
-    "saved": false
-  },
-  {
-    "id": -7642728720549164107,
-    "title": "Airwallex is about to take on Stripe and the rest of the payments industry — in the physical world",
-    "link": "https://techcrunch.com/2026/04/15/airwallex-is-about-to-take-on-stripe-and-the-rest-of-the-payments-industry-in-the-physical-world/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-15T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 7680473663099526488,
-    "title": "After sale of its shoe business, Allbirds pivots to AI",
-    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-15T14:24:31",
     "saved": false
   }
 ]

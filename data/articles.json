@@ -1,6 +1,51 @@
 [
   {
-    "id": -8024585712359490883,
+    "id": 2390266473207962675,
+    "title": "Dad brains: How fatherhood rewires the male mind",
+    "link": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-18T22:24:47",
+    "saved": false
+  },
+  {
+    "id": -7132968362339697877,
+    "title": "AI chip startup Cerebras files for IPO",
+    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-18T19:19:11",
+    "saved": false
+  },
+  {
+    "id": 630401948851614426,
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-18T19:00:00",
+    "saved": false
+  },
+  {
+    "id": -6960732186050310406,
+    "title": "The App Store is booming again, and AI may be why",
+    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-18T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -3260034117369637090,
+    "title": "Why Japan has such good railways",
+    "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-18T12:29:06",
+    "saved": false
+  },
+  {
+    "id": 444304957978583954,
     "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
     "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -494294188893072209,
+    "id": -1268333119720633248,
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 897173390904790599,
+    "id": 1191627454769521339,
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
     "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "source": "TechCrunch",
@@ -27,57 +72,12 @@
     "saved": false
   },
   {
-    "id": -2560151939115434132,
+    "id": 2292371685962708723,
     "title": "Google’s AI Mode can now help you find products in stock nearby",
     "link": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-17T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 7928294457837544590,
-    "title": "Netflix plans to add a vertical video feed, use AI for recommendations",
-    "link": "https://techcrunch.com/2026/04/17/netflix-plans-to-add-a-vertical-video-feed-use-ai-for-recommendations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T13:17:18",
-    "saved": false
-  },
-  {
-    "id": 2197081032619158422,
-    "title": "SaySo is a new short-form video app that aims to restore users’ trust in news",
-    "link": "https://techcrunch.com/2026/04/17/sayso-is-a-new-short-form-video-app-that-aims-to-restore-users-trust-in-news/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -3849119561624244064,
-    "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
-    "link": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 892633547337174748,
-    "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets",
-    "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T02:55:06",
-    "saved": false
-  },
-  {
-    "id": -1812888201982544762,
-    "title": "Are the costs of AI agents also rising exponentially? (2025)",
-    "link": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-15T13:47:58",
     "saved": false
   }
 ]

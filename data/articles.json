@@ -1,15 +1,6 @@
 [
   {
-    "id": 2390266473207962675,
-    "title": "Dad brains: How fatherhood rewires the male mind",
-    "link": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-18T22:24:47",
-    "saved": false
-  },
-  {
-    "id": -7132968362339697877,
+    "id": 2633661114144128216,
     "title": "AI chip startup Cerebras files for IPO",
     "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "source": "TechCrunch",
@@ -18,7 +9,7 @@
     "saved": false
   },
   {
-    "id": 630401948851614426,
+    "id": 3225784996356528078,
     "title": "College instructor turns to typewriters to curb AI-written work",
     "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
     "source": "Hacker News",
@@ -27,7 +18,7 @@
     "saved": false
   },
   {
-    "id": -6960732186050310406,
+    "id": 3525821331996347786,
     "title": "The App Store is booming again, and AI may be why",
     "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "source": "TechCrunch",
@@ -36,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -3260034117369637090,
+    "id": -8648308848810316156,
     "title": "Why Japan has such good railways",
     "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
     "source": "Hacker News",
@@ -45,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 444304957978583954,
+    "id": -2723883639826686779,
     "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
     "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1268333119720633248,
+    "id": 1766304976644259810,
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
     "source": "TechCrunch",
@@ -63,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1191627454769521339,
+    "id": 7315383535102831963,
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
     "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "source": "TechCrunch",
@@ -72,12 +63,21 @@
     "saved": false
   },
   {
-    "id": 2292371685962708723,
+    "id": -1728970346186152641,
     "title": "Google’s AI Mode can now help you find products in stock nearby",
     "link": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-17T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 4100861347965647709,
+    "title": "Game devs explain the tricks involved with letting you pause a game",
+    "link": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-16T14:05:10",
     "saved": false
   }
 ]

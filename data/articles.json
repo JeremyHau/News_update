@@ -1,6 +1,51 @@
 [
   {
-    "id": 2633661114144128216,
+    "id": 2358633201776256886,
+    "title": "Swiss AI Initiative (2023)",
+    "link": "https://www.swiss-ai.org",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-19T22:58:35",
+    "saved": false
+  },
+  {
+    "id": 9026125908111835151,
+    "title": "2,100 Swiss municipalities showing which provider handles their official email",
+    "link": "https://mxmap.ch/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-19T22:55:47",
+    "saved": false
+  },
+  {
+    "id": 1063720572796281450,
+    "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+    "link": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-19T22:30:19",
+    "saved": false
+  },
+  {
+    "id": -4405529220150006552,
+    "title": "OpenAI’s existential questions",
+    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-19T21:24:06",
+    "saved": false
+  },
+  {
+    "id": 8159183622623741871,
+    "title": "Uber’s Anthropic AI push hits a wall",
+    "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-19T18:13:32",
+    "saved": false
+  },
+  {
+    "id": 1292437933157818926,
     "title": "AI chip startup Cerebras files for IPO",
     "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "source": "TechCrunch",
@@ -9,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 3225784996356528078,
-    "title": "College instructor turns to typewriters to curb AI-written work",
-    "link": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-18T19:00:00",
-    "saved": false
-  },
-  {
-    "id": 3525821331996347786,
+    "id": 5015747415081105608,
     "title": "The App Store is booming again, and AI may be why",
     "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "source": "TechCrunch",
@@ -27,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -8648308848810316156,
-    "title": "Why Japan has such good railways",
-    "link": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-18T12:29:06",
-    "saved": false
-  },
-  {
-    "id": -2723883639826686779,
+    "id": -3397956997393642440,
     "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
     "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1766304976644259810,
+    "id": -6061960298964732610,
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7315383535102831963,
+    "id": -4959782003076163711,
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
     "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "source": "TechCrunch",
@@ -63,21 +90,12 @@
     "saved": false
   },
   {
-    "id": -1728970346186152641,
-    "title": "Google’s AI Mode can now help you find products in stock nearby",
-    "link": "https://techcrunch.com/2026/04/17/googles-ai-mode-can-now-help-you-find-products-in-stock-nearby/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 4100861347965647709,
-    "title": "Game devs explain the tricks involved with letting you pause a game",
-    "link": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+    "id": 2764878348340474739,
+    "title": "Prove you are a robot: CAPTCHAs for agents",
+    "link": "https://browser-use.com/posts/prove-you-are-a-robot",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-16T14:05:10",
+    "date": "2026-04-15T17:03:39",
     "saved": false
   }
 ]

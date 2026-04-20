@@ -1,33 +1,15 @@
 [
   {
-    "id": 2358633201776256886,
-    "title": "Swiss AI Initiative (2023)",
-    "link": "https://www.swiss-ai.org",
+    "id": 5461629013618367874,
+    "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
+    "link": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-19T22:58:35",
+    "date": "2026-04-20T12:12:19",
     "saved": false
   },
   {
-    "id": 9026125908111835151,
-    "title": "2,100 Swiss municipalities showing which provider handles their official email",
-    "link": "https://mxmap.ch/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-19T22:55:47",
-    "saved": false
-  },
-  {
-    "id": 1063720572796281450,
-    "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
-    "link": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-19T22:30:19",
-    "saved": false
-  },
-  {
-    "id": -4405529220150006552,
+    "id": -2562566866259107037,
     "title": "OpenAI’s existential questions",
     "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "source": "TechCrunch",
@@ -36,16 +18,7 @@
     "saved": false
   },
   {
-    "id": 8159183622623741871,
-    "title": "Uber’s Anthropic AI push hits a wall",
-    "link": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-19T18:13:32",
-    "saved": false
-  },
-  {
-    "id": 1292437933157818926,
+    "id": 2267020323448710457,
     "title": "AI chip startup Cerebras files for IPO",
     "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "source": "TechCrunch",
@@ -54,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 5015747415081105608,
+    "id": -4392796846463428770,
     "title": "The App Store is booming again, and AI may be why",
     "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "source": "TechCrunch",
@@ -63,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -3397956997393642440,
+    "id": -7187055736313277826,
     "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
     "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
     "source": "TechCrunch",
@@ -72,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -6061960298964732610,
+    "id": -7588019922643406151,
     "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
     "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
     "source": "TechCrunch",
@@ -81,21 +54,12 @@
     "saved": false
   },
   {
-    "id": -4959782003076163711,
+    "id": 7971206525053033085,
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
     "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-04-17T19:17:26",
-    "saved": false
-  },
-  {
-    "id": 2764878348340474739,
-    "title": "Prove you are a robot: CAPTCHAs for agents",
-    "link": "https://browser-use.com/posts/prove-you-are-a-robot",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-15T17:03:39",
     "saved": false
   }
 ]

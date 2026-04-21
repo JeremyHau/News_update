@@ -1,15 +1,42 @@
 [
   {
-    "id": 5461629013618367874,
-    "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
-    "link": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
+    "id": 6712930800636335924,
+    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+    "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-20T12:12:19",
+    "date": "2026-04-20T21:20:52",
     "saved": false
   },
   {
-    "id": -2562566866259107037,
+    "id": -170082835315005245,
+    "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
+    "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-20T15:59:26",
+    "saved": false
+  },
+  {
+    "id": 1473975091844268574,
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-20T15:41:02",
+    "saved": false
+  },
+  {
+    "id": 255884630304878054,
+    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-20T15:30:19",
+    "saved": false
+  },
+  {
+    "id": -7014664096773174312,
     "title": "OpenAI’s existential questions",
     "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "source": "TechCrunch",
@@ -18,48 +45,12 @@
     "saved": false
   },
   {
-    "id": 2267020323448710457,
-    "title": "AI chip startup Cerebras files for IPO",
-    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-18T19:19:11",
-    "saved": false
-  },
-  {
-    "id": -4392796846463428770,
-    "title": "The App Store is booming again, and AI may be why",
-    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-18T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -7187055736313277826,
-    "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other",
-    "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-18T05:20:11",
-    "saved": false
-  },
-  {
-    "id": -7588019922643406151,
-    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T20:38:17",
-    "saved": false
-  },
-  {
-    "id": 7971206525053033085,
-    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-    "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-17T19:17:26",
+    "id": -2175904569677309992,
+    "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+    "link": "https://prismml.com/news/ternary-bonsai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-18T02:51:34",
     "saved": false
   }
 ]

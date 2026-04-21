@@ -1,15 +1,60 @@
 [
   {
-    "id": 6712930800636335924,
-    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-    "link": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-20T21:20:52",
+    "id": 3974845561513781782,
+    "title": "Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation",
+    "link": "https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-21T11:00:00",
     "saved": false
   },
   {
-    "id": -170082835315005245,
+    "id": -6259896641325924434,
+    "title": "Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards",
+    "link": "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-21T10:00:00",
+    "saved": false
+  },
+  {
+    "id": 748949233752545941,
+    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+    "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-21T05:27:35",
+    "saved": false
+  },
+  {
+    "id": 5267572975448549311,
+    "title": "The Beauty of Bonsai Styles",
+    "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-21T04:31:30",
+    "saved": false
+  },
+  {
+    "id": 6988399645249187149,
+    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+    "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-21T04:12:12",
+    "saved": false
+  },
+  {
+    "id": 2915640908752251141,
+    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "link": "https://docs.openclaw.ai/providers/anthropic",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-21T03:43:03",
+    "saved": false
+  },
+  {
+    "id": 5717268564559894186,
     "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
     "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
     "source": "TechCrunch",
@@ -18,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 1473975091844268574,
-    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-    "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-20T15:41:02",
-    "saved": false
-  },
-  {
-    "id": 255884630304878054,
+    "id": -1995386739416756839,
     "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
     "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
     "source": "TechCrunch",
@@ -36,7 +72,25 @@
     "saved": false
   },
   {
-    "id": -7014664096773174312,
+    "id": -4625275658146895592,
+    "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "link": "https://mediator.ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-20T15:07:04",
+    "saved": false
+  },
+  {
+    "id": 5406420513623681151,
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-20T14:57:05",
+    "saved": false
+  },
+  {
+    "id": -869479340988464760,
     "title": "OpenAI’s existential questions",
     "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "source": "TechCrunch",
@@ -45,12 +99,12 @@
     "saved": false
   },
   {
-    "id": -2175904569677309992,
-    "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-    "link": "https://prismml.com/news/ternary-bonsai",
+    "id": -3622719500907032220,
+    "title": "How a subsea cable is repaired (2021)",
+    "link": "https://www.onesteppower.com/post/subsea-cable-repair",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-18T02:51:34",
+    "date": "2026-04-16T18:25:28",
     "saved": false
   }
 ]

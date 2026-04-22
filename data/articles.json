@@ -1,6 +1,33 @@
 [
   {
-    "id": 8085823709328694919,
+    "id": -3752240826839020413,
+    "title": "Our eighth generation TPUs: two chips for the agentic era",
+    "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T12:15:29",
+    "saved": false
+  },
+  {
+    "id": 3091380382932035267,
+    "title": "Google Maps is about to get a big dose of AI",
+    "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -5593386361610394367,
+    "title": "Kernel code removals driven by LLM-created security reports",
+    "link": "https://lwn.net/Articles/1068928/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T11:48:07",
+    "saved": false
+  },
+  {
+    "id": 5080924017777017748,
     "title": "Meta will record employees’ keystrokes and use it to train its AI models",
     "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 4864146299891001823,
+    "id": -9161354658832385492,
     "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
     "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
     "source": "TechCrunch",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 3397191463879725332,
-    "title": "Zindex – Diagram Infrastructure for Agents",
-    "link": "https://zindex.ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-21T20:27:37",
-    "saved": false
-  },
-  {
-    "id": 4915400768781969566,
+    "id": -884938732756027092,
     "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
     "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -8381527361264146583,
+    "id": -7341652210669651726,
     "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
     "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
     "source": "TechCrunch",
@@ -45,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -4805264492021873782,
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-21T17:40:39",
-    "saved": false
-  },
-  {
-    "id": -4166622793045104657,
+    "id": 2431202601376789005,
     "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
     "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3039062644371374587,
+    "id": 3127432994323384835,
     "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
     "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8182252285714118822,
+    "id": -8392349770022792576,
     "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
     "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
     "source": "TechCrunch",
@@ -81,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -8310398388367275604,
-    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-    "link": "https://www.brex.com/crabtrap",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-21T15:29:16",
-    "saved": false
-  },
-  {
-    "id": -4660455981873481226,
+    "id": 6423137706054574945,
     "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
     "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
     "source": "TechCrunch",
@@ -99,30 +99,12 @@
     "saved": false
   },
   {
-    "id": 548573674486793792,
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T15:02:06",
-    "saved": false
-  },
-  {
-    "id": 4722789486941721978,
-    "title": "Show HN: GoModel – an open-source AI gateway in Go",
-    "link": "https://github.com/ENTERPILOT/GOModel/",
+    "id": -8007315314759550236,
+    "title": "All your agents are going async",
+    "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-21T14:11:53",
-    "saved": false
-  },
-  {
-    "id": -291204757106232120,
-    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-    "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-18T10:53:42",
+    "date": "2026-04-20T11:18:57",
     "saved": false
   }
 ]

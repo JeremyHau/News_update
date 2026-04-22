@@ -1,110 +1,128 @@
 [
   {
-    "id": 3974845561513781782,
-    "title": "Yelp’s updated AI assistant can answer questions and book a restaurant or service in one conversation",
-    "link": "https://techcrunch.com/2026/04/21/yelps-updated-ai-assistant-can-answer-questions-and-book-a-restaurant-or-service-in-one-conversation/",
+    "id": 8085823709328694919,
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-21T11:00:00",
+    "date": "2026-04-21T23:45:21",
     "saved": false
   },
   {
-    "id": -6259896641325924434,
-    "title": "Blue Energy raises $380M to build grid-scale nuclear reactors in shipyards",
-    "link": "https://techcrunch.com/2026/04/21/blue-energy-raises-380m-to-build-grid-scale-nuclear-reactors-in-shipyards/",
+    "id": 4864146299891001823,
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-21T10:00:00",
+    "date": "2026-04-21T23:26:45",
     "saved": false
   },
   {
-    "id": 748949233752545941,
-    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-    "link": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+    "id": 3397191463879725332,
+    "title": "Zindex – Diagram Infrastructure for Agents",
+    "link": "https://zindex.ai/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-21T05:27:35",
+    "date": "2026-04-21T20:27:37",
     "saved": false
   },
   {
-    "id": 5267572975448549311,
-    "title": "The Beauty of Bonsai Styles",
-    "link": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-21T04:31:30",
-    "saved": false
-  },
-  {
-    "id": 6988399645249187149,
-    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-    "link": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-21T04:12:12",
-    "saved": false
-  },
-  {
-    "id": 2915640908752251141,
-    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-    "link": "https://docs.openclaw.ai/providers/anthropic",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-21T03:43:03",
-    "saved": false
-  },
-  {
-    "id": 5717268564559894186,
-    "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
-    "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
+    "id": 4915400768781969566,
+    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-20T15:59:26",
+    "date": "2026-04-21T19:11:29",
     "saved": false
   },
   {
-    "id": -1995386739416756839,
-    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "id": -8381527361264146583,
+    "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
+    "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-20T15:30:19",
+    "date": "2026-04-21T19:09:12",
     "saved": false
   },
   {
-    "id": -4625275658146895592,
-    "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-    "link": "https://mediator.ai/",
+    "id": -4805264492021873782,
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-20T15:07:04",
+    "date": "2026-04-21T17:40:39",
     "saved": false
   },
   {
-    "id": 5406420513623681151,
-    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-    "link": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "id": -4166622793045104657,
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-20T14:57:05",
+    "date": "2026-04-21T17:11:01",
     "saved": false
   },
   {
-    "id": -869479340988464760,
-    "title": "OpenAI’s existential questions",
-    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "id": 3039062644371374587,
+    "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
+    "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-19T21:24:06",
+    "date": "2026-04-21T16:00:00",
     "saved": false
   },
   {
-    "id": -3622719500907032220,
-    "title": "How a subsea cable is repaired (2021)",
-    "link": "https://www.onesteppower.com/post/subsea-cable-repair",
+    "id": -8182252285714118822,
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-21T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -8310398388367275604,
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "link": "https://www.brex.com/crabtrap",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-16T18:25:28",
+    "date": "2026-04-21T15:29:16",
+    "saved": false
+  },
+  {
+    "id": -4660455981873481226,
+    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-21T15:24:29",
+    "saved": false
+  },
+  {
+    "id": 548573674486793792,
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-21T15:02:06",
+    "saved": false
+  },
+  {
+    "id": 4722789486941721978,
+    "title": "Show HN: GoModel – an open-source AI gateway in Go",
+    "link": "https://github.com/ENTERPILOT/GOModel/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-21T14:11:53",
+    "saved": false
+  },
+  {
+    "id": -291204757106232120,
+    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+    "link": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-18T10:53:42",
     "saved": false
   }
 ]

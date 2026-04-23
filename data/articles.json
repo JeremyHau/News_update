@@ -1,110 +1,119 @@
 [
   {
-    "id": -3752240826839020413,
+    "id": -8644330394648301161,
+    "title": "Google updates Workspace to make AI your new office intern",
+    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T22:44:26",
+    "saved": false
+  },
+  {
+    "id": -8763190493871900418,
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T22:25:53",
+    "saved": false
+  },
+  {
+    "id": 2063948841635018102,
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+    "link": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T20:24:05",
+    "saved": false
+  },
+  {
+    "id": -7675342109563824432,
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T19:51:51",
+    "saved": false
+  },
+  {
+    "id": -2143142725292731447,
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T18:39:27",
+    "saved": false
+  },
+  {
+    "id": 7062323004733228041,
+    "title": "Workspace Agents in ChatGPT",
+    "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T17:47:07",
+    "saved": false
+  },
+  {
+    "id": 6148610428995668092,
+    "title": "Parallel agents in Zed",
+    "link": "https://zed.dev/blog/parallel-agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T17:38:57",
+    "saved": false
+  },
+  {
+    "id": -810314804190298072,
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T17:30:00",
+    "saved": false
+  },
+  {
+    "id": 1889645857772900204,
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T16:58:27",
+    "saved": false
+  },
+  {
+    "id": 431477751900001043,
+    "title": "AI Overviews are coming to your Gmail at work",
+    "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T16:46:10",
+    "saved": false
+  },
+  {
+    "id": 3792747556597473073,
+    "title": "Cathie Wood’s ARK makes its first lead investment in startup Lucra — and it isn’t AI",
+    "link": "https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-22T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 208388305944394846,
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "link": "https://www.adriankrebs.ch/blog/design-slop/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T14:44:32",
+    "saved": false
+  },
+  {
+    "id": -7089070701940590844,
     "title": "Our eighth generation TPUs: two chips for the agentic era",
     "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-04-22T12:15:29",
-    "saved": false
-  },
-  {
-    "id": 3091380382932035267,
-    "title": "Google Maps is about to get a big dose of AI",
-    "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-22T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -5593386361610394367,
-    "title": "Kernel code removals driven by LLM-created security reports",
-    "link": "https://lwn.net/Articles/1068928/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-22T11:48:07",
-    "saved": false
-  },
-  {
-    "id": 5080924017777017748,
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T23:45:21",
-    "saved": false
-  },
-  {
-    "id": -9161354658832385492,
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T23:26:45",
-    "saved": false
-  },
-  {
-    "id": -884938732756027092,
-    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T19:11:29",
-    "saved": false
-  },
-  {
-    "id": -7341652210669651726,
-    "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
-    "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T19:09:12",
-    "saved": false
-  },
-  {
-    "id": 2431202601376789005,
-    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T17:11:01",
-    "saved": false
-  },
-  {
-    "id": 3127432994323384835,
-    "title": "Former Pinterest team redesigns email with Extra — and it’s actually good",
-    "link": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -8392349770022792576,
-    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 6423137706054574945,
-    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-21T15:24:29",
-    "saved": false
-  },
-  {
-    "id": -8007315314759550236,
-    "title": "All your agents are going async",
-    "link": "https://zknill.io/posts/all-your-agents-are-going-async/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-20T11:18:57",
     "saved": false
   }
 ]

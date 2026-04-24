@@ -1,6 +1,51 @@
 [
   {
-    "id": 1328291854881043932,
+    "id": -1471642289945032383,
+    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+    "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-24T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 3781113064092093959,
+    "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
+    "link": "https://www.bmj.com/content/393/bmj.s781",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-24T11:09:36",
+    "saved": false
+  },
+  {
+    "id": -4820750394656797615,
+    "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "link": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-24T09:17:57",
+    "saved": false
+  },
+  {
+    "id": -4918534079464594352,
+    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "link": "https://ynarwal.github.io/how-llms-work/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-24T06:48:53",
+    "saved": false
+  },
+  {
+    "id": 5231593623966357233,
+    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "link": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-23T21:56:15",
+    "saved": false
+  },
+  {
+    "id": 7645931153354858357,
     "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
     "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -993030778389218266,
+    "id": -4334040584005207289,
     "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
     "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -6257165826430277326,
+    "id": 6150894832550924766,
     "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
     "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -2984149379193425661,
+    "id": -3752394757672484077,
     "title": "MeshCore development team splits over trademark dispute and AI-generated code",
     "link": "https://blog.meshcore.io/2026/04/23/the-split",
     "source": "Hacker News",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8589361626237379456,
+    "id": 3964922809661270815,
     "title": "Era raises $11M to build a software platform for AI gadgets",
     "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8975351830371679390,
+    "id": -4830531035070324650,
     "title": "Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos",
     "link": "https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/",
     "source": "TechCrunch",
@@ -54,21 +99,12 @@
     "saved": false
   },
   {
-    "id": -7617575780164746857,
+    "id": 7552086379628153270,
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
     "link": "https://socket.dev/blog/bitwarden-cli-compromised",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-04-23T14:17:08",
-    "saved": false
-  },
-  {
-    "id": -2667003977755391474,
-    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-    "link": "https://github.com/Infisical/agent-vault",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-22T16:25:28",
     "saved": false
   }
 ]

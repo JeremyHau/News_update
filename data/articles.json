@@ -1,92 +1,74 @@
 [
   {
-    "id": -5096098726012240543,
-    "title": "Meta will now allow parents to see the topics their child discussed with Meta AI",
-    "link": "https://techcrunch.com/2026/04/23/meta-will-now-allow-parents-to-see-the-topics-their-child-discussed-with-meta-ai/",
+    "id": 1328291854881043932,
+    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-04-23T11:00:00",
+    "date": "2026-04-23T21:00:00",
     "saved": false
   },
   {
-    "id": 1097080944691801277,
-    "title": "Email could have been X.400 times better",
-    "link": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "id": -993030778389218266,
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-23T19:38:25",
+    "saved": false
+  },
+  {
+    "id": -6257165826430277326,
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-23T18:29:29",
+    "saved": false
+  },
+  {
+    "id": -2984149379193425661,
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "link": "https://blog.meshcore.io/2026/04/23/the-split",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-23T08:10:09",
+    "date": "2026-04-23T16:55:13",
     "saved": false
   },
   {
-    "id": -1311966010496069233,
-    "title": "Our newsroom AI policy",
-    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "id": -8589361626237379456,
+    "title": "Era raises $11M to build a software platform for AI gadgets",
+    "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-23T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 8975351830371679390,
+    "title": "Salmon raises $100M in equity and debt to bring digital credit to underbanked Filipinos",
+    "link": "https://techcrunch.com/2026/04/23/salmon-raises-100m-in-equity-and-debt-to-bring-digital-credit-to-underbanked-filipinos/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-23T14:55:49",
+    "saved": false
+  },
+  {
+    "id": -7617575780164746857,
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "link": "https://socket.dev/blog/bitwarden-cli-compromised",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-23T05:14:05",
+    "date": "2026-04-23T14:17:08",
     "saved": false
   },
   {
-    "id": -2358553996516937291,
-    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
-    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-23T04:38:45",
-    "saved": false
-  },
-  {
-    "id": -9011888206109379149,
-    "title": "Shade lands $14M to let creative teams search their video libraries in plain English",
-    "link": "https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-23T04:17:52",
-    "saved": false
-  },
-  {
-    "id": 456296457318993564,
-    "title": "Google updates Workspace to make AI your new office intern",
-    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-22T22:44:26",
-    "saved": false
-  },
-  {
-    "id": 1727779894328621774,
-    "title": "Hands on with X’s new AI-powered custom feeds",
-    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-22T22:25:53",
-    "saved": false
-  },
-  {
-    "id": 522818315940296448,
-    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
-    "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-22T19:51:51",
-    "saved": false
-  },
-  {
-    "id": -4652551398777794542,
-    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-    "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-22T18:39:27",
-    "saved": false
-  },
-  {
-    "id": 2152378997991087135,
-    "title": "Google turns Chrome into an AI co-worker for the workplace",
-    "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-22T17:30:00",
+    "id": -2667003977755391474,
+    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+    "link": "https://github.com/Infisical/agent-vault",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-22T16:25:28",
     "saved": false
   }
 ]

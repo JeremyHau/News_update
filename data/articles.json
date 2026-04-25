@@ -1,6 +1,33 @@
 [
   {
-    "id": 7344495652804839428,
+    "id": 876805922921254349,
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "link": "https://github.com/nex-crm/wuphf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-25T08:53:53",
+    "saved": false
+  },
+  {
+    "id": -8453835868181322849,
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "link": "https://alash3al.github.io/stash?_v01",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-25T01:24:40",
+    "saved": false
+  },
+  {
+    "id": 4986969733320686180,
+    "title": "Plain text has been around for decades and it’s here to stay",
+    "link": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-25T01:03:09",
+    "saved": false
+  },
+  {
+    "id": -4439325791056136453,
     "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
     "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 1814562131027342878,
+    "id": -2380586302721265676,
     "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
     "link": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1056914205731177890,
+    "id": 6631225277258471752,
     "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
     "link": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5871950301308424932,
+    "id": -1804285467769721809,
     "title": "Meta’s loss is Thinking Machines’ gain",
     "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3432871205697131470,
+    "id": -1464664340618213939,
     "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
     "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4104152172961057983,
+    "id": -7219534794209264842,
     "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
     "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 282063248233852407,
+    "id": -6401631065501486964,
     "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
     "link": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5578234906828073706,
+    "id": 6960968979787756087,
     "title": "Nothing introduces an AI-powered dictation tool",
     "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 337295123222001847,
+    "id": -3213530902176228151,
     "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
     "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8051934320108306507,
+    "id": 7148952163696700977,
     "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
     "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
     "source": "TechCrunch",
@@ -90,12 +117,12 @@
     "saved": false
   },
   {
-    "id": -6951282831429787934,
-    "title": "Email could have been X.400 times better",
-    "link": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "id": 243828210314956807,
+    "title": "The mail sent to a video game publisher",
+    "link": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-23T08:10:09",
+    "date": "2026-04-21T14:39:04",
     "saved": false
   }
 ]

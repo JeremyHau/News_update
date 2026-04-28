@@ -1,6 +1,69 @@
 [
   {
-    "id": 8476393142440529826,
+    "id": 8752944703310237079,
+    "title": "Show HN: AgentSwift – open-source iOS builder agent",
+    "link": "https://github.com/hpennington/agentswift",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-28T01:14:31",
+    "saved": false
+  },
+  {
+    "id": 6822651468746004297,
+    "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
+    "link": "https://github.com/49Agents/49Agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-28T00:36:24",
+    "saved": false
+  },
+  {
+    "id": -5839977646228623824,
+    "title": "Generative AI Vegetarianism",
+    "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-28T00:07:39",
+    "saved": false
+  },
+  {
+    "id": 187413927027991096,
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-27T17:40:38",
+    "saved": false
+  },
+  {
+    "id": -8330195690979847777,
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-27T17:24:21",
+    "saved": false
+  },
+  {
+    "id": 776751668823669538,
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-27T16:13:02",
+    "saved": false
+  },
+  {
+    "id": -523914624137706895,
+    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+    "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-27T13:22:42",
+    "saved": false
+  },
+  {
+    "id": 4854603053506332219,
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
     "source": "TechCrunch",
@@ -9,75 +72,21 @@
     "saved": false
   },
   {
-    "id": 8968873806092166011,
-    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-    "link": "https://github.com/dirac-run/dirac",
+    "id": -5711073067592221270,
+    "title": "China blocks Meta's acquisition of AI startup Manus",
+    "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-27T12:35:55",
+    "date": "2026-04-27T11:43:59",
     "saved": false
   },
   {
-    "id": -6165039110348724126,
-    "title": "Pgbackrest is no longer being maintained",
-    "link": "https://github.com/pgbackrest/pgbackrest",
+    "id": -1192293078840937152,
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+    "link": "https://app.oravys.com/blog/mercor-breach-2026",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-27T10:56:34",
-    "saved": false
-  },
-  {
-    "id": 7253646280619677030,
-    "title": "France's Mistral Built a $14B AI Empire by Not Being American",
-    "link": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-27T10:14:15",
-    "saved": false
-  },
-  {
-    "id": 8259816869355141341,
-    "title": "AI should elevate your thinking, not replace it",
-    "link": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-26T20:03:12",
-    "saved": false
-  },
-  {
-    "id": -2113302009108296511,
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-25T21:43:37",
-    "saved": false
-  },
-  {
-    "id": 686746210585391368,
-    "title": "Maine’s governor vetoes data center moratorium",
-    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-25T20:57:08",
-    "saved": false
-  },
-  {
-    "id": -7900327387733739291,
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-25T17:17:56",
-    "saved": false
-  },
-  {
-    "id": -1798595854970532155,
-    "title": "Getting my daily news from a dot matrix printer 2024",
-    "link": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-25T11:39:53",
+    "date": "2026-04-27T09:57:10",
     "saved": false
   }
 ]

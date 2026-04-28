@@ -1,33 +1,60 @@
 [
   {
-    "id": 8752944703310237079,
-    "title": "Show HN: AgentSwift – open-source iOS builder agent",
-    "link": "https://github.com/hpennington/agentswift",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-28T01:14:31",
+    "id": -5974197069624531861,
+    "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+    "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-28T13:00:00",
     "saved": false
   },
   {
-    "id": 6822651468746004297,
-    "title": "Show HN: 49Agents – Infinite canvas IDE for AI agents",
-    "link": "https://github.com/49Agents/49Agents",
-    "source": "Hacker News",
+    "id": 4337816811543056716,
+    "title": "IJCAI-ECAI'26: Chairingtool PaperStatus first changed to Rejected and now again to Submitted. [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sy0lp8/ijcaiecai26_chairingtool_paperstatus_first/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-28T00:36:24",
+    "date": "2026-04-28T12:54:33",
     "saved": false
   },
   {
-    "id": -5839977646228623824,
-    "title": "Generative AI Vegetarianism",
-    "link": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-    "source": "Hacker News",
+    "id": -7669066051069812495,
+    "title": "Dynamic batching for Encoder-Decoder MT training or generation when long sequence caps the batch size [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-04-28T00:07:39",
+    "date": "2026-04-28T12:31:50",
     "saved": false
   },
   {
-    "id": 187413927027991096,
+    "id": 7990772563877587738,
+    "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+    "link": "https://github.com/microsoft/VibeVoice",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-28T11:56:04",
+    "saved": false
+  },
+  {
+    "id": -1551303538672023029,
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "link": "https://github.com/localsend/localsend",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-28T11:54:20",
+    "saved": false
+  },
+  {
+    "id": 3736622883617727979,
+    "title": "Anyone using Tensordock GPU instances and having problems with failing VM’s [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sxdh95/anyone_using_tensordock_gpu_instances_and_having/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-27T19:11:35",
+    "saved": false
+  },
+  {
+    "id": 6424854257742555051,
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8330195690979847777,
+    "id": 6088611017130384584,
     "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
     "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 776751668823669538,
+    "id": 9096287507209214191,
     "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
     "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
     "source": "TechCrunch",
@@ -54,7 +81,16 @@
     "saved": false
   },
   {
-    "id": -523914624137706895,
+    "id": -3866896332302705435,
+    "title": "How do you test AI agents in production? The unpredictability is overwhelming.[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sx3p40/how_do_you_test_ai_agents_in_production_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-27T13:28:18",
+    "saved": false
+  },
+  {
+    "id": -8004386483402194578,
     "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "link": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
     "source": "Hacker News",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4854603053506332219,
+    "id": -8211037284509550811,
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
     "source": "TechCrunch",
@@ -72,21 +108,39 @@
     "saved": false
   },
   {
-    "id": -5711073067592221270,
-    "title": "China blocks Meta's acquisition of AI startup Manus",
-    "link": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-27T11:43:59",
-    "saved": false
-  },
-  {
-    "id": -1192293078840937152,
+    "id": 6515929320589440788,
     "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
     "link": "https://app.oravys.com/blog/mercor-breach-2026",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-04-27T09:57:10",
+    "saved": false
+  },
+  {
+    "id": 2222064337527237580,
+    "title": "Can Geometric Deep Learning lead eliminate the need of \"Brute Force\" pre-training [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1swkxx1/can_geometric_deep_learning_lead_eliminate_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-26T22:00:08",
+    "saved": false
+  },
+  {
+    "id": 5969666793095970956,
+    "title": "The predictable failure of the QDay Prize",
+    "link": "https://algassert.com/post/2601",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-26T16:45:40",
+    "saved": false
+  },
+  {
+    "id": -7599729007042168492,
+    "title": "Why do only big ML labs dominate widely-used models despite many open-source pretrained models smaller labs could do RL on? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1swa26o/why_do_only_big_ml_labs_dominate_widelyused/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-26T15:09:10",
     "saved": false
   }
 ]

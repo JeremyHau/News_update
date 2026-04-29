@@ -1,24 +1,87 @@
 [
   {
-    "id": 4786343835805741524,
-    "title": "Fuck Off AI Music",
-    "link": "http://fuckoffaimusic.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-29T01:03:41",
+    "id": -1170784094614518528,
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T13:10:57",
     "saved": false
   },
   {
-    "id": 9041982719698001777,
-    "title": "We decreased our LLM costs with Opus",
-    "link": "https://www.mendral.com/blog/frontier-model-lower-costs",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-29T00:57:12",
+    "id": 706790944232173166,
+    "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+    "link": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T13:10:00",
     "saved": false
   },
   {
-    "id": 2829164901284076673,
+    "id": -3987120623681037281,
+    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+    "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -5783021977263732840,
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+    "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-29T12:38:50",
+    "saved": false
+  },
+  {
+    "id": 3742077311236109190,
+    "title": "Am I crazy to think that the UAI authors are confusing the discussion deadline with the rebuttal deadline ? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1syx7n6/am_i_crazy_to_think_that_the_uai_authors_are/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-29T12:21:46",
+    "saved": false
+  },
+  {
+    "id": 1692547977911025810,
+    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+    "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T09:45:00",
+    "saved": false
+  },
+  {
+    "id": 8662179150528316845,
+    "title": "Free Registration & $20K Prize Pool: 2nd MLC-SLM Challenge 2026 on Multilingual Speech LLMs [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1symd9i/free_registration_20k_prize_pool_2nd_mlcslm/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-29T02:51:02",
+    "saved": false
+  },
+  {
+    "id": -6828442753509778449,
+    "title": "IJCAI-ECAI 2026: Decision Notification and ChairingTool Status Thread [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1syl769/ijcaiecai_2026_decision_notification_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-29T01:58:30",
+    "saved": false
+  },
+  {
+    "id": 2837468382196896257,
+    "title": "Why isn’t LLM reasoning done in vector space instead of natural language?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1syjlc2/why_isnt_llm_reasoning_done_in_vector_space/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-29T00:46:15",
+    "saved": false
+  },
+  {
+    "id": 6931553702120031414,
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
     "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "source": "TechCrunch",
@@ -27,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -1690719172986433386,
-    "title": "Claude system prompt bug wastes user money and bricks managed agents",
-    "link": "https://github.com/anthropics/claude-code/issues/49363",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-28T23:59:57",
-    "saved": false
-  },
-  {
-    "id": -1626021977887431770,
+    "id": 1411452097499371455,
     "title": "What is the scientific value of administering the standard Rorschach test to LLMs when the training data is almost certainly contaminated? (R) + [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1syc6ee/what_is_the_scientific_value_of_administering_the/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 152384062840989368,
+    "id": -6274808723860785115,
     "title": "Amazon is already offering new OpenAI products on AWS",
     "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3688760796109857916,
+    "id": 2315854365507270598,
     "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
     "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
     "source": "Hacker News",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -4738074638937812302,
+    "id": -9161962577219122699,
     "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
     "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -1529443697072198368,
+    "id": -209995801899437076,
     "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
     "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
     "source": "TechCrunch",
@@ -81,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 2509816276572423515,
-    "title": "Fast experiment on T4 GPU. Self play training on Dark Hex (Colab notebook) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sy3c93/fast_experiment_on_t4_gpu_self_play_training_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-28T14:40:00",
-    "saved": false
-  },
-  {
-    "id": -8482382712808629462,
+    "id": 4752630152723437797,
     "title": "Snapchat brings AI-powered conversational advertising to its app",
     "link": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
     "source": "TechCrunch",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 1509424110916787609,
+    "id": -3118567407543426799,
     "title": "YouTube is testing an AI-powered search feature that shows guided answers",
     "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
     "source": "TechCrunch",
@@ -108,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 1157392231984881856,
-    "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-    "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-28T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -153745959930623044,
+    "id": -3474560150667342574,
     "title": "IJCAI-ECAI'26: Chairingtool PaperStatus first changed to Rejected and now again to Submitted. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sy0lp8/ijcaiecai26_chairingtool_paperstatus_first/",
     "source": "Reddit ML",
@@ -126,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 8646492391487035626,
+    "id": 3126751120492820096,
     "title": "Dynamic batching for Encoder-Decoder MT training or generation when long sequence caps the batch size [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/",
     "source": "Reddit ML",
@@ -135,57 +171,21 @@
     "saved": false
   },
   {
-    "id": 4887610281425527848,
-    "title": "VibeVoice: Open-source frontier voice AI",
-    "link": "https://github.com/microsoft/VibeVoice",
+    "id": -5856653385596775350,
+    "title": "Withnail's Coat and I",
+    "link": "https://ontherow.substack.com/p/withnails-coat-and-i",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-28T11:56:04",
+    "date": "2026-04-27T19:27:47",
     "saved": false
   },
   {
-    "id": -6996618976695222139,
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "link": "https://github.com/localsend/localsend",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-28T11:54:20",
-    "saved": false
-  },
-  {
-    "id": 4875399837934823350,
-    "title": "Anyone using Tensordock GPU instances and having problems with failing VM’s [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1sxdh95/anyone_using_tensordock_gpu_instances_and_having/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-27T19:11:35",
-    "saved": false
-  },
-  {
-    "id": -8302139607577773610,
-    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-    "link": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-27T13:54:47",
-    "saved": false
-  },
-  {
-    "id": -9097477893945070838,
+    "id": 5156295005497797372,
     "title": "How do you test AI agents in production? The unpredictability is overwhelming.[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sx3p40/how_do_you_test_ai_agents_in_production_the/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-04-27T13:28:18",
-    "saved": false
-  },
-  {
-    "id": -3340815830451144594,
-    "title": "Can Geometric Deep Learning lead eliminate the need of \"Brute Force\" pre-training [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1swkxx1/can_geometric_deep_learning_lead_eliminate_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-04-26T22:00:08",
     "saved": false
   }
 ]

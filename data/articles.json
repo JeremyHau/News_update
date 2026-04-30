@@ -1,6 +1,132 @@
 [
   {
-    "id": -1170784094614518528,
+    "id": 299025786596541282,
+    "title": "Claude.ai and API Unavailable",
+    "link": "https://status.claude.com/incidents/2gf1jpyty350",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-30T01:21:03",
+    "saved": false
+  },
+  {
+    "id": 573795455066137133,
+    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-30T00:07:15",
+    "saved": false
+  },
+  {
+    "id": -941361423815125466,
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T23:55:23",
+    "saved": false
+  },
+  {
+    "id": -1469230839873744172,
+    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T23:02:23",
+    "saved": false
+  },
+  {
+    "id": 7865225646964527814,
+    "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+    "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T22:20:48",
+    "saved": false
+  },
+  {
+    "id": 2434681863213224880,
+    "title": "I benchmarked Claude Code's caveman plugin against \"be brief.\"",
+    "link": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-29T21:11:57",
+    "saved": false
+  },
+  {
+    "id": -7594840649707310368,
+    "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+    "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T20:59:00",
+    "saved": false
+  },
+  {
+    "id": -4027601521157442034,
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T18:33:05",
+    "saved": false
+  },
+  {
+    "id": -8648455426069911654,
+    "title": "How strongly do you believe LLM judges on the for the ML papers?? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1sz6uuj/how_strongly_do_you_believe_llm_judges_on_the_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-04-29T18:13:57",
+    "saved": false
+  },
+  {
+    "id": 1215515022793246083,
+    "title": "Copy Fail – CVE-2026-31431",
+    "link": "https://copy.fail/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-29T18:13:53",
+    "saved": false
+  },
+  {
+    "id": 6469556586487167980,
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "link": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-04-29T17:44:21",
+    "saved": false
+  },
+  {
+    "id": -2461824146588255974,
+    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+    "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T16:42:33",
+    "saved": false
+  },
+  {
+    "id": -1952158958914395301,
+    "title": "Uber is in the hotel business now, thanks in part to AI",
+    "link": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T15:12:14",
+    "saved": false
+  },
+  {
+    "id": 7941566021951805850,
+    "title": "Earth AI is vertically integrating the search for critical minerals",
+    "link": "https://techcrunch.com/2026/04/29/earth-ai-is-vertically-integrating-the-search-for-critical-minerals/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-04-29T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 5514861673356197147,
     "title": "Firestorm Labs raises $82M to take drone factories into the field",
     "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
     "source": "TechCrunch",
@@ -9,34 +135,7 @@
     "saved": false
   },
   {
-    "id": 706790944232173166,
-    "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
-    "link": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-29T13:10:00",
-    "saved": false
-  },
-  {
-    "id": -3987120623681037281,
-    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-    "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-29T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -5783021977263732840,
-    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-    "link": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-29T12:38:50",
-    "saved": false
-  },
-  {
-    "id": 3742077311236109190,
+    "id": 4836407909562337895,
     "title": "Am I crazy to think that the UAI authors are confusing the discussion deadline with the rebuttal deadline ? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1syx7n6/am_i_crazy_to_think_that_the_uai_authors_are/",
     "source": "Reddit ML",
@@ -45,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 1692547977911025810,
-    "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-    "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-29T09:45:00",
-    "saved": false
-  },
-  {
-    "id": 8662179150528316845,
+    "id": 8847082916014054453,
     "title": "Free Registration & $20K Prize Pool: 2nd MLC-SLM Challenge 2026 on Multilingual Speech LLMs [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1symd9i/free_registration_20k_prize_pool_2nd_mlcslm/",
     "source": "Reddit ML",
@@ -63,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -6828442753509778449,
+    "id": -2466227589184712728,
     "title": "IJCAI-ECAI 2026: Decision Notification and ChairingTool Status Thread [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1syl769/ijcaiecai_2026_decision_notification_and/",
     "source": "Reddit ML",
@@ -72,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 2837468382196896257,
+    "id": 6108258327602747007,
     "title": "Why isn’t LLM reasoning done in vector space instead of natural language?[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1syjlc2/why_isnt_llm_reasoning_done_in_vector_space/",
     "source": "Reddit ML",
@@ -81,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 6931553702120031414,
-    "title": "At his OpenAI trial, Musk relitigates an old friendship",
-    "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-29T00:40:16",
-    "saved": false
-  },
-  {
-    "id": 1411452097499371455,
+    "id": 2102009136515479624,
     "title": "What is the scientific value of administering the standard Rorschach test to LLMs when the training data is almost certainly contaminated? (R) + [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1syc6ee/what_is_the_scientific_value_of_administering_the/",
     "source": "Reddit ML",
@@ -99,61 +180,7 @@
     "saved": false
   },
   {
-    "id": -6274808723860785115,
-    "title": "Amazon is already offering new OpenAI products on AWS",
-    "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-28T19:48:02",
-    "saved": false
-  },
-  {
-    "id": 2315854365507270598,
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-    "link": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-28T19:24:43",
-    "saved": false
-  },
-  {
-    "id": -9161962577219122699,
-    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-    "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-28T18:49:54",
-    "saved": false
-  },
-  {
-    "id": -209995801899437076,
-    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-    "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-28T18:15:00",
-    "saved": false
-  },
-  {
-    "id": 4752630152723437797,
-    "title": "Snapchat brings AI-powered conversational advertising to its app",
-    "link": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-28T13:57:19",
-    "saved": false
-  },
-  {
-    "id": -3118567407543426799,
-    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-    "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-04-28T13:54:06",
-    "saved": false
-  },
-  {
-    "id": -3474560150667342574,
+    "id": -3470086454772453929,
     "title": "IJCAI-ECAI'26: Chairingtool PaperStatus first changed to Rejected and now again to Submitted. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sy0lp8/ijcaiecai26_chairingtool_paperstatus_first/",
     "source": "Reddit ML",
@@ -162,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 3126751120492820096,
+    "id": 8613858222750628689,
     "title": "Dynamic batching for Encoder-Decoder MT training or generation when long sequence caps the batch size [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sy01uz/dynamic_batching_for_encoderdecoder_mt_training/",
     "source": "Reddit ML",
@@ -171,16 +198,7 @@
     "saved": false
   },
   {
-    "id": -5856653385596775350,
-    "title": "Withnail's Coat and I",
-    "link": "https://ontherow.substack.com/p/withnails-coat-and-i",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-04-27T19:27:47",
-    "saved": false
-  },
-  {
-    "id": 5156295005497797372,
+    "id": 3544888265754264411,
     "title": "How do you test AI agents in production? The unpredictability is overwhelming.[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1sx3p40/how_do_you_test_ai_agents_in_production_the/",
     "source": "Reddit ML",

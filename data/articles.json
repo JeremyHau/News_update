@@ -1,6 +1,51 @@
 [
   {
-    "id": 5414712964543448363,
+    "id": -4539864783486122267,
+    "title": "[D] What Happened to Neurips Creative AI Track? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3hfcs/d_what_happened_to_neurips_creative_ai_track_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-04T13:16:07",
+    "saved": false
+  },
+  {
+    "id": 7459186303435914721,
+    "title": "[D]Trying to switch back to AI/ML — what skills are actually in demand right now?[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3h6ug/dtrying_to_switch_back_to_aiml_what_skills_are/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-04T13:06:50",
+    "saved": false
+  },
+  {
+    "id": -8647595507621978346,
+    "title": "Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -7338301667164070336,
+    "title": "Nicolas Sauvage is betting on the boring parts of AI",
+    "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T07:10:18",
+    "saved": false
+  },
+  {
+    "id": 4872659495798634756,
+    "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+    "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T02:02:25",
+    "saved": false
+  },
+  {
+    "id": -1426202393992542431,
     "title": "Let's Buy Spirit Air",
     "link": "https://letsbuyspiritair.com/",
     "source": "Hacker News",
@@ -9,17 +54,8 @@
     "saved": false
   },
   {
-    "id": -4093944097057792183,
-    "title": "Agentic Coding Is a Trap",
-    "link": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-03T22:52:07",
-    "saved": false
-  },
-  {
-    "id": -7345649055867173659,
-    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+    "id": 8881129178987298169,
+    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
     "link": "https://github.com/aattaran/deepclaude",
     "source": "Hacker News",
     "category": "ai",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3489390487805109513,
+    "id": 449776516063865842,
     "title": "‘This is fine’ creator says AI startup stole his art",
     "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
     "source": "TechCrunch",
@@ -36,7 +72,16 @@
     "saved": false
   },
   {
-    "id": 2387166015472051386,
+    "id": -953559473242604650,
+    "title": "I Trained an AI to Beat Final Fight… Here’s What Happened [p]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t2vfz7/i_trained_an_ai_to_beat_final_fight_heres_what/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-03T19:45:37",
+    "saved": false
+  },
+  {
+    "id": -2101088758191373496,
     "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
     "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
     "source": "TechCrunch",
@@ -45,25 +90,25 @@
     "saved": false
   },
   {
-    "id": 1040855286191812679,
-    "title": "LLMs Are Not a Higher Level of Abstraction",
-    "link": "https://www.lelanthran.com/chap15/content.html",
-    "source": "Hacker News",
+    "id": 8667343753184177934,
+    "title": "UAI Reviews disappeared [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t2p1w8/uai_reviews_disappeared_d/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-05-03T17:51:58",
+    "date": "2026-05-03T15:48:39",
     "saved": false
   },
   {
-    "id": 5125486722147894190,
-    "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-    "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-    "source": "Hacker News",
+    "id": 2867255182463013477,
+    "title": "Should I follow-up with the editor for a TMLR paper awaiting final decision? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t2i1pu/should_i_followup_with_the_editor_for_a_tmlr/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-05-03T00:30:50",
+    "date": "2026-05-03T10:42:33",
     "saved": false
   },
   {
-    "id": -933417994600790296,
+    "id": -1416258096346331991,
     "title": "AI-generated actors and scripts are now ineligible for Oscars",
     "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1259839400941555710,
+    "id": -2510479491537154193,
     "title": "The best AI dictation apps, tested and ranked",
     "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
     "source": "TechCrunch",
@@ -81,7 +126,16 @@
     "saved": false
   },
   {
-    "id": -4996248333146209946,
+    "id": -6607428412936016278,
+    "title": "Real World Physics-Informed AI Applications [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t1lmq0/real_world_physicsinformed_ai_applications_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-02T09:55:56",
+    "saved": false
+  },
+  {
+    "id": 3106130351527935335,
     "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
     "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
     "source": "TechCrunch",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2354750142199788850,
+    "id": 5270638804727604658,
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
     "source": "TechCrunch",

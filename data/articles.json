@@ -1,6 +1,132 @@
 [
   {
-    "id": -4539864783486122267,
+    "id": 2110280774280977951,
+    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+    "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T00:13:30",
+    "saved": false
+  },
+  {
+    "id": 1529519648930448654,
+    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+    "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T22:21:32",
+    "saved": false
+  },
+  {
+    "id": -8649764189163969536,
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T21:53:21",
+    "saved": false
+  },
+  {
+    "id": -357841219624546973,
+    "title": "Agent Skills",
+    "link": "https://addyosmani.com/blog/agent-skills/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-04T21:40:42",
+    "saved": false
+  },
+  {
+    "id": 1551445701516800822,
+    "title": "Is there a notable increase in demand for privacy-preserving AI/ML with the advent of LLMs? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3u2jh/is_there_a_notable_increase_in_demand_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-04T20:42:17",
+    "saved": false
+  },
+  {
+    "id": 5899226695156541157,
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-04T19:42:47",
+    "saved": false
+  },
+  {
+    "id": -8453559999161502041,
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T19:12:49",
+    "saved": false
+  },
+  {
+    "id": 4768446555305430608,
+    "title": "Katie Haun raises $1B for new venture funds",
+    "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T19:12:15",
+    "saved": false
+  },
+  {
+    "id": -67629602251963623,
+    "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+    "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T18:02:18",
+    "saved": false
+  },
+  {
+    "id": 6393396800868710607,
+    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T16:57:47",
+    "saved": false
+  },
+  {
+    "id": 937336527830850556,
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T16:45:55",
+    "saved": false
+  },
+  {
+    "id": 4606053231445247123,
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T16:36:03",
+    "saved": false
+  },
+  {
+    "id": -4233550841565645264,
+    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-04T15:59:24",
+    "saved": false
+  },
+  {
+    "id": 8591649238313217280,
+    "title": "Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-04T13:36:19",
+    "saved": false
+  },
+  {
+    "id": 3603400977449460119,
     "title": "[D] What Happened to Neurips Creative AI Track? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3hfcs/d_what_happened_to_neurips_creative_ai_track_r/",
     "source": "Reddit ML",
@@ -9,17 +135,8 @@
     "saved": false
   },
   {
-    "id": 7459186303435914721,
-    "title": "[D]Trying to switch back to AI/ML — what skills are actually in demand right now?[R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3h6ug/dtrying_to_switch_back_to_aiml_what_skills_are/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-04T13:06:50",
-    "saved": false
-  },
-  {
-    "id": -8647595507621978346,
-    "title": "Doordash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+    "id": -7990981566799556566,
+    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
     "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
     "source": "TechCrunch",
     "category": "tech",
@@ -27,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -7338301667164070336,
+    "id": 2677169533661574408,
     "title": "Nicolas Sauvage is betting on the boring parts of AI",
     "link": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
     "source": "TechCrunch",
@@ -36,8 +153,8 @@
     "saved": false
   },
   {
-    "id": 4872659495798634756,
-    "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+    "id": -1087993283261786598,
+    "title": "We’ll take it: A TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
     "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
     "source": "TechCrunch",
     "category": "tech",
@@ -45,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -1426202393992542431,
-    "title": "Let's Buy Spirit Air",
-    "link": "https://letsbuyspiritair.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-03T23:36:11",
-    "saved": false
-  },
-  {
-    "id": 8881129178987298169,
-    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-    "link": "https://github.com/aattaran/deepclaude",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-03T22:13:20",
-    "saved": false
-  },
-  {
-    "id": 449776516063865842,
+    "id": -8477183343800544569,
     "title": "‘This is fine’ creator says AI startup stole his art",
     "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
     "source": "TechCrunch",
@@ -72,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -953559473242604650,
+    "id": -4359728758309494860,
     "title": "I Trained an AI to Beat Final Fight… Here’s What Happened [p]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t2vfz7/i_trained_an_ai_to_beat_final_fight_heres_what/",
     "source": "Reddit ML",
@@ -81,16 +180,7 @@
     "saved": false
   },
   {
-    "id": -2101088758191373496,
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-03T18:00:09",
-    "saved": false
-  },
-  {
-    "id": 8667343753184177934,
+    "id": -1778020398137129601,
     "title": "UAI Reviews disappeared [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t2p1w8/uai_reviews_disappeared_d/",
     "source": "Reddit ML",
@@ -99,57 +189,12 @@
     "saved": false
   },
   {
-    "id": 2867255182463013477,
+    "id": -392242864906474932,
     "title": "Should I follow-up with the editor for a TMLR paper awaiting final decision? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t2i1pu/should_i_followup_with_the_editor_for_a_tmlr/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-03T10:42:33",
-    "saved": false
-  },
-  {
-    "id": -1416258096346331991,
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-02T21:54:58",
-    "saved": false
-  },
-  {
-    "id": -2510479491537154193,
-    "title": "The best AI dictation apps, tested and ranked",
-    "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-02T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -6607428412936016278,
-    "title": "Real World Physics-Informed AI Applications [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t1lmq0/real_world_physicsinformed_ai_applications_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-02T09:55:56",
-    "saved": false
-  },
-  {
-    "id": 3106130351527935335,
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-01T22:13:27",
-    "saved": false
-  },
-  {
-    "id": 5270638804727604658,
-    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-01T16:02:36",
     "saved": false
   }
 ]

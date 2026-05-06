@@ -1,6 +1,177 @@
 [
   {
-    "id": -7511079529634270270,
+    "id": -6437658468353699079,
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T23:50:10",
+    "saved": false
+  },
+  {
+    "id": 3518369878161169807,
+    "title": "As crypto cools, a16z crypto raises a $2.2B fund",
+    "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T21:15:56",
+    "saved": false
+  },
+  {
+    "id": 32604565148924568,
+    "title": "Competition - League of Robot Runners 2026: Multi-robot coordination under uncertainty [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4sjr7/competition_league_of_robot_runners_2026/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-05T21:09:19",
+    "saved": false
+  },
+  {
+    "id": 6720435124562000037,
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T20:56:41",
+    "saved": false
+  },
+  {
+    "id": -5867918544067134304,
+    "title": "Radar Engineer to Autonomy/AI [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4ombd/radar_engineer_to_autonomyai_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-05T18:49:28",
+    "saved": false
+  },
+  {
+    "id": -6070604745888929956,
+    "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+    "link": "https://paletteinspiration.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-05T18:13:14",
+    "saved": false
+  },
+  {
+    "id": 2916467489320585102,
+    "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
+    "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T18:09:03",
+    "saved": false
+  },
+  {
+    "id": 695006169414312439,
+    "title": "Production AI very different from the demos [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4mzm3/production_ai_very_different_from_the_demos_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-05T17:52:35",
+    "saved": false
+  },
+  {
+    "id": -5009199649288237971,
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+    "link": "https://arxiv.org/abs/2604.26752",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-05T17:52:31",
+    "saved": false
+  },
+  {
+    "id": -4776741279432828490,
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T17:46:10",
+    "saved": false
+  },
+  {
+    "id": 3512325539186443664,
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -260495164260202117,
+    "title": "Charting the AI Perception Gap: Across 71 scenarios, AI experts (N=119) and the public (N=1100) have differing views on the risks, benefits, and value of AI. More importantly, AI experts discount the influence of risks stronger than the public does when forming their value judgments [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4kvb2/charting_the_ai_perception_gap_across_71/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-05T16:40:52",
+    "saved": false
+  },
+  {
+    "id": 7356143550325162234,
+    "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
+    "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T15:49:55",
+    "saved": false
+  },
+  {
+    "id": -8893897379541740483,
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T15:31:37",
+    "saved": false
+  },
+  {
+    "id": 4660106653182527338,
+    "title": "Three Inverse Laws of AI",
+    "link": "https://susam.net/inverse-laws-of-robotics.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-05T15:27:18",
+    "saved": false
+  },
+  {
+    "id": 3782804285816291860,
+    "title": "Agents for financial services and insurance",
+    "link": "https://www.anthropic.com/news/finance-agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-05T15:05:47",
+    "saved": false
+  },
+  {
+    "id": -8549313664968647257,
+    "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+    "link": "https://news.ycombinator.com/item?id=48023496",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-05T15:03:18",
+    "saved": false
+  },
+  {
+    "id": -5970022775065459864,
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T14:27:00",
+    "saved": false
+  },
+  {
+    "id": 6037856596583418726,
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-05T14:07:47",
+    "saved": false
+  },
+  {
+    "id": 4858723763929350417,
     "title": "Visual graph classification for blockchain security: Experiences fine-tuning Qwen2-VL on AMD MI300X [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4dcej/visual_graph_classification_for_blockchain/",
     "source": "Reddit ML",
@@ -9,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 250498625718564691,
-    "title": "Moment Energy raises $40M to meet ‘infinite demand for power’ with EV batteries",
-    "link": "https://techcrunch.com/2026/05/05/moment-energy-raises-40m-to-meet-infinite-demand-for-power-with-ev-batteries/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-05T12:00:00",
-    "saved": false
-  },
-  {
-    "id": 4487190489633653151,
+    "id": -836955655865246735,
     "title": "When everyone has AI and the company still learns nothing",
     "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
     "source": "Hacker News",
@@ -27,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -8223538196189237973,
+    "id": -4476989463284080793,
     "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
     "source": "Hacker News",
@@ -36,52 +198,7 @@
     "saved": false
   },
   {
-    "id": 3356023482260465845,
-    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-    "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T07:05:25",
-    "saved": false
-  },
-  {
-    "id": -2331114009162854336,
-    "title": "Train Your Own LLM from Scratch",
-    "link": "https://github.com/angelos-p/llm-from-scratch",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T04:09:17",
-    "saved": false
-  },
-  {
-    "id": -8744276336309928576,
-    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-    "link": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T03:43:08",
-    "saved": false
-  },
-  {
-    "id": 127054767445871784,
-    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-05T03:31:54",
-    "saved": false
-  },
-  {
-    "id": 4872150973357555685,
-    "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
-    "link": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-05T00:13:30",
-    "saved": false
-  },
-  {
-    "id": 1133860387867187007,
+    "id": -1015500369772527553,
     "title": "Building a 9-ball AI player: Candidate generation for direct cut shots [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3xplr/building_a_9ball_ai_player_candidate_generation/",
     "source": "Reddit ML",
@@ -90,34 +207,7 @@
     "saved": false
   },
   {
-    "id": 3021486445150911873,
-    "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
-    "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T22:21:32",
-    "saved": false
-  },
-  {
-    "id": -4740415846698190269,
-    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T21:53:21",
-    "saved": false
-  },
-  {
-    "id": 8612106985144344395,
-    "title": "Agent Skills",
-    "link": "https://addyosmani.com/blog/agent-skills/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-04T21:40:42",
-    "saved": false
-  },
-  {
-    "id": 660277973675221570,
+    "id": -3847925605341198865,
     "title": "Is there a notable increase in demand for privacy-preserving AI/ML with the advent of LLMs? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3u2jh/is_there_a_notable_increase_in_demand_for/",
     "source": "Reddit ML",
@@ -126,79 +216,7 @@
     "saved": false
   },
   {
-    "id": 1499208417848423433,
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-04T19:42:47",
-    "saved": false
-  },
-  {
-    "id": -1437889232627807718,
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T19:12:49",
-    "saved": false
-  },
-  {
-    "id": -3165468075421937161,
-    "title": "Katie Haun raises $1B for new venture funds",
-    "link": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T19:12:15",
-    "saved": false
-  },
-  {
-    "id": 1485147831868227699,
-    "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
-    "link": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T18:02:18",
-    "saved": false
-  },
-  {
-    "id": -5704614077322569904,
-    "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T16:57:47",
-    "saved": false
-  },
-  {
-    "id": -5033391639098995302,
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T16:45:55",
-    "saved": false
-  },
-  {
-    "id": -216037410590285094,
-    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-    "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T16:36:03",
-    "saved": false
-  },
-  {
-    "id": -6226958486011037665,
-    "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-    "link": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T15:59:24",
-    "saved": false
-  },
-  {
-    "id": 2375355228734959906,
+    "id": -1706090610385278886,
     "title": "Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/",
     "source": "Reddit ML",
@@ -207,30 +225,12 @@
     "saved": false
   },
   {
-    "id": -105334529416624497,
-    "title": "[D] What Happened to Neurips Creative AI Track? [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3hfcs/d_what_happened_to_neurips_creative_ai_track_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-04T13:16:07",
-    "saved": false
-  },
-  {
-    "id": 3827371860216200145,
-    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "link": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-04T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 2219155633681751592,
-    "title": "Should I Run Plain Docker Compose in Production in 2026?",
-    "link": "https://distr.sh/blog/running-docker-in-production/",
+    "id": 6890418822392660095,
+    "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-04-30T13:21:43",
+    "date": "2026-05-03T15:28:48",
     "saved": false
   }
 ]

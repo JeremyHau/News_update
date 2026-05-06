@@ -1,6 +1,42 @@
 [
   {
-    "id": -6437658468353699079,
+    "id": 7757778246237540644,
+    "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+    "link": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-06T12:00:24",
+    "saved": false
+  },
+  {
+    "id": -3273338553755455816,
+    "title": "Stop letting LLMs edit your .bib [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-06T11:54:57",
+    "saved": false
+  },
+  {
+    "id": -440073311577063419,
+    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-06T06:34:32",
+    "saved": false
+  },
+  {
+    "id": -5477683882073051296,
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-06T03:10:33",
+    "saved": false
+  },
+  {
+    "id": -6543017966239325224,
     "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
     "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 3518369878161169807,
+    "id": -7148647720207735294,
     "title": "As crypto cools, a16z crypto raises a $2.2B fund",
     "link": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 32604565148924568,
+    "id": 6814193892611338068,
     "title": "Competition - League of Robot Runners 2026: Multi-robot coordination under uncertainty [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4sjr7/competition_league_of_robot_runners_2026/",
     "source": "Reddit ML",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6720435124562000037,
+    "id": 2989291677705363108,
     "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
     "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
     "source": "TechCrunch",
@@ -36,7 +72,16 @@
     "saved": false
   },
   {
-    "id": -5867918544067134304,
+    "id": -5230997174626553257,
+    "title": "DNSSEC disruption affecting .de domains – Resolved",
+    "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-05T20:16:35",
+    "saved": false
+  },
+  {
+    "id": -4827547337328188343,
     "title": "Radar Engineer to Autonomy/AI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4ombd/radar_engineer_to_autonomyai_d/",
     "source": "Reddit ML",
@@ -45,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -6070604745888929956,
-    "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-    "link": "https://paletteinspiration.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T18:13:14",
-    "saved": false
-  },
-  {
-    "id": 2916467489320585102,
+    "id": -6039721756848898426,
     "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
     "link": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 695006169414312439,
+    "id": -6043336757102264666,
     "title": "Production AI very different from the demos [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4mzm3/production_ai_very_different_from_the_demos_d/",
     "source": "Reddit ML",
@@ -72,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -5009199649288237971,
-    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-    "link": "https://arxiv.org/abs/2604.26752",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T17:52:31",
-    "saved": false
-  },
-  {
-    "id": -4776741279432828490,
+    "id": 7990187703836792836,
     "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
     "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 3512325539186443664,
+    "id": 4431483745965830041,
     "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
     "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -260495164260202117,
+    "id": -3365236145727776210,
     "title": "Charting the AI Perception Gap: Across 71 scenarios, AI experts (N=119) and the public (N=1100) have differing views on the risks, benefits, and value of AI. More importantly, AI experts discount the influence of risks stronger than the public does when forming their value judgments [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4kvb2/charting_the_ai_perception_gap_across_71/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7356143550325162234,
+    "id": -8031411289800897617,
     "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
     "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8893897379541740483,
+    "id": 6375619882730293544,
     "title": "Etsy launches its app within ChatGPT as it continues its AI push",
     "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
     "source": "TechCrunch",
@@ -126,52 +153,7 @@
     "saved": false
   },
   {
-    "id": 4660106653182527338,
-    "title": "Three Inverse Laws of AI",
-    "link": "https://susam.net/inverse-laws-of-robotics.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T15:27:18",
-    "saved": false
-  },
-  {
-    "id": 3782804285816291860,
-    "title": "Agents for financial services and insurance",
-    "link": "https://www.anthropic.com/news/finance-agents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T15:05:47",
-    "saved": false
-  },
-  {
-    "id": -8549313664968647257,
-    "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-    "link": "https://news.ycombinator.com/item?id=48023496",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T15:03:18",
-    "saved": false
-  },
-  {
-    "id": -5970022775065459864,
-    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-    "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-05T14:27:00",
-    "saved": false
-  },
-  {
-    "id": 6037856596583418726,
-    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-    "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-05T14:07:47",
-    "saved": false
-  },
-  {
-    "id": 4858723763929350417,
+    "id": -916084553896640421,
     "title": "Visual graph classification for blockchain security: Experiences fine-tuning Qwen2-VL on AMD MI300X [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4dcej/visual_graph_classification_for_blockchain/",
     "source": "Reddit ML",
@@ -180,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -836955655865246735,
-    "title": "When everyone has AI and the company still learns nothing",
-    "link": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T09:30:22",
-    "saved": false
-  },
-  {
-    "id": -4476989463284080793,
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-05T07:34:55",
-    "saved": false
-  },
-  {
-    "id": -1015500369772527553,
+    "id": -8797662356091609322,
     "title": "Building a 9-ball AI player: Candidate generation for direct cut shots [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3xplr/building_a_9ball_ai_player_candidate_generation/",
     "source": "Reddit ML",
@@ -207,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -3847925605341198865,
+    "id": -8921713599768667397,
     "title": "Is there a notable increase in demand for privacy-preserving AI/ML with the advent of LLMs? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3u2jh/is_there_a_notable_increase_in_demand_for/",
     "source": "Reddit ML",
@@ -216,21 +180,12 @@
     "saved": false
   },
   {
-    "id": -1706090610385278886,
+    "id": 5980597629654984229,
     "title": "Why SSMs struggle in parameter-constrained training: empirical findings at 25M parameters [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t3hxsy/why_ssms_struggle_in_parameterconstrained/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-04T13:36:19",
-    "saved": false
-  },
-  {
-    "id": 6890418822392660095,
-    "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
-    "link": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-03T15:28:48",
     "saved": false
   }
 ]

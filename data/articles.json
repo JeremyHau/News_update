@@ -1,15 +1,51 @@
 [
   {
-    "id": -4882324881410562897,
-    "title": "Running scope enforcement on every agent action in production — what I'm seeing after launch [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t5whgk/running_scope_enforcement_on_every_agent_action/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-07T01:37:38",
+    "id": -4148295927771590990,
+    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T12:20:04",
     "saved": false
   },
   {
-    "id": -6390160473465414319,
+    "id": -601139184239788448,
+    "title": "MICCAI 2026 Decisions [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t67xf4/miccai_2026_decisions_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-07T11:38:13",
+    "saved": false
+  },
+  {
+    "id": 673352338367030795,
+    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+    "link": "https://ahk.cardor.dev",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T10:45:59",
+    "saved": false
+  },
+  {
+    "id": -9168512958146083583,
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T05:25:10",
+    "saved": false
+  },
+  {
+    "id": -6639928586721241622,
+    "title": "META Superintelligence Lab Presents: ProgramBench: Can SOTA AI Recreate Real Executable Programs(ffmpeg, SQLite, ripgrep) From Scratch Without The Internet?",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t5zdg5/meta_superintelligence_lab_presents_programbench/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-07T03:51:21",
+    "saved": false
+  },
+  {
+    "id": 5364362717282305548,
     "title": "Is xAI a neocloud now?",
     "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -676169515482027833,
+    "id": 2839700612327122263,
     "title": "Microsoft’s AI data center push is colliding with its clean power goals",
     "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -2766621182986191992,
+    "id": 3172265570120525382,
     "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
     "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 6771340229012554168,
+    "id": 3895629818324461183,
     "title": "How Elon Musk left OpenAI, according to Greg Brockman",
     "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -6368584620430385839,
+    "id": -3149769273585004822,
     "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
     "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6096616399252032869,
+    "id": 7242933947944183904,
     "title": "Model automatically developed by the AIBuildAI Agent ranked among top 5.7% out of 3,219 human teams in the Kaggle TGS Salt Identification Challenge [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5i56v/model_automatically_developed_by_the_aibuildai/",
     "source": "Reddit ML",
@@ -63,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -8487026210915792704,
-    "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-    "link": "https://tilde.run/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-06T15:58:34",
-    "saved": false
-  },
-  {
-    "id": -609169130200907487,
+    "id": -4852831334275512534,
     "title": "Google updates AI search to include quotes from Reddit and other sources",
     "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 4605858234309860311,
+    "id": -732938924993828357,
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
     "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6084687718635708663,
+    "id": -6190751389862718891,
     "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
     "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 5074676349146746134,
+    "id": 1505320681620723040,
     "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
     "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
     "source": "TechCrunch",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6548899806771629640,
+    "id": 1174664177329141562,
     "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
     "source": "Hacker News",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6819500879545249812,
+    "id": 4353358974653027835,
     "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
     "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
     "source": "TechCrunch",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -6095290979623456292,
+    "id": -4709890549851087396,
     "title": "Stop letting LLMs edit your .bib [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
     "source": "Reddit ML",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4857034602650519302,
+    "id": -7845446324264269778,
     "title": "Competition - League of Robot Runners 2026: Multi-robot coordination under uncertainty [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4sjr7/competition_league_of_robot_runners_2026/",
     "source": "Reddit ML",
@@ -144,48 +171,12 @@
     "saved": false
   },
   {
-    "id": 7774466820952757539,
-    "title": "Radar Engineer to Autonomy/AI [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4ombd/radar_engineer_to_autonomyai_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-05T18:49:28",
-    "saved": false
-  },
-  {
-    "id": -2783969669673759329,
+    "id": 2100329414196437956,
     "title": "Production AI very different from the demos [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t4mzm3/production_ai_very_different_from_the_demos_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-05T17:52:35",
-    "saved": false
-  },
-  {
-    "id": -3704297145084486113,
-    "title": "Charting the AI Perception Gap: Across 71 scenarios, AI experts (N=119) and the public (N=1100) have differing views on the risks, benefits, and value of AI. More importantly, AI experts discount the influence of risks stronger than the public does when forming their value judgments [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4kvb2/charting_the_ai_perception_gap_across_71/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-05T16:40:52",
-    "saved": false
-  },
-  {
-    "id": 3001781080307531553,
-    "title": "Visual graph classification for blockchain security: Experiences fine-tuning Qwen2-VL on AMD MI300X [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4dcej/visual_graph_classification_for_blockchain/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-05T12:00:05",
-    "saved": false
-  },
-  {
-    "id": -7705237637287817365,
-    "title": "Is there a notable increase in demand for privacy-preserving AI/ML with the advent of LLMs? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t3u2jh/is_there_a_notable_increase_in_demand_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-04T20:42:17",
     "saved": false
   }
 ]

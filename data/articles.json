@@ -1,15 +1,168 @@
 [
   {
-    "id": -4148295927771590990,
-    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-    "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T12:20:04",
+    "id": -7756280239033734831,
+    "title": "Researchers discover advanced language processing in the unconscious human brain",
+    "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T23:06:44",
     "saved": false
   },
   {
-    "id": -601139184239788448,
+    "id": 6591461198073759029,
+    "title": "OpenAI launches new voice intelligence features in its API",
+    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T22:24:50",
+    "saved": false
+  },
+  {
+    "id": -4461707048488554655,
+    "title": "Hackers deface school login pages after claiming another Instructure hack",
+    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T22:14:49",
+    "saved": false
+  },
+  {
+    "id": 1318501129135302610,
+    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+    "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T21:49:24",
+    "saved": false
+  },
+  {
+    "id": 4546112862146852669,
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T21:02:11",
+    "saved": false
+  },
+  {
+    "id": -8819834969436406403,
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T20:20:20",
+    "saved": false
+  },
+  {
+    "id": -3503480809214606002,
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T19:57:59",
+    "saved": false
+  },
+  {
+    "id": -7404720374739802394,
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T19:38:36",
+    "saved": false
+  },
+  {
+    "id": -7994042126589931719,
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T19:21:21",
+    "saved": false
+  },
+  {
+    "id": 6266050666666384379,
+    "title": "AI slop is killing online communities",
+    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T18:46:25",
+    "saved": false
+  },
+  {
+    "id": -6916645283764605222,
+    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+    "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T18:36:29",
+    "saved": false
+  },
+  {
+    "id": -4609427056430988602,
+    "title": "I trained a NER model on 33,000 Indian Supreme Court judgments (1950–2024) CASE_CITATION hits 97.76% F1, +17 points over the only prior baseline [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t6iax2/i_trained_a_ner_model_on_33000_indian_supreme/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-07T18:01:36",
+    "saved": false
+  },
+  {
+    "id": 6037074087031080500,
+    "title": "Agents need control flow, not more prompts",
+    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T16:43:35",
+    "saved": false
+  },
+  {
+    "id": -7608542617060584489,
+    "title": "Using Jensen-Shannon Divergence to detect narrative regime shifts in daily news corpora [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t6fk77/using_jensenshannon_divergence_to_detect/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-07T16:26:45",
+    "saved": false
+  },
+  {
+    "id": 4739333413109649270,
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T15:56:33",
+    "saved": false
+  },
+  {
+    "id": 133510442818304988,
+    "title": "Google’s $9.99-per-month AI health coach launches May 19",
+    "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T15:35:38",
+    "saved": false
+  },
+  {
+    "id": 2124685323925935659,
+    "title": "Google unveils Whoop-like screenless Fitbit Air",
+    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T15:17:38",
+    "saved": false
+  },
+  {
+    "id": 6078520966304903344,
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "link": "https://deepmind.google/blog/alphaevolve-impact/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-07T15:02:20",
+    "saved": false
+  },
+  {
+    "id": 2627013523919462194,
     "title": "MICCAI 2026 Decisions [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t67xf4/miccai_2026_decisions_d/",
     "source": "Reddit ML",
@@ -18,25 +171,7 @@
     "saved": false
   },
   {
-    "id": 673352338367030795,
-    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-    "link": "https://ahk.cardor.dev",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T10:45:59",
-    "saved": false
-  },
-  {
-    "id": -9168512958146083583,
-    "title": "Five architects of the AI economy explain where the wheels are coming off",
-    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T05:25:10",
-    "saved": false
-  },
-  {
-    "id": -6639928586721241622,
+    "id": 5722684498418830082,
     "title": "META Superintelligence Lab Presents: ProgramBench: Can SOTA AI Recreate Real Executable Programs(ffmpeg, SQLite, ripgrep) From Scratch Without The Internet?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5zdg5/meta_superintelligence_lab_presents_programbench/",
     "source": "Reddit ML",
@@ -45,138 +180,12 @@
     "saved": false
   },
   {
-    "id": 5364362717282305548,
-    "title": "Is xAI a neocloud now?",
-    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T21:32:55",
-    "saved": false
-  },
-  {
-    "id": 2839700612327122263,
-    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-    "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T19:57:31",
-    "saved": false
-  },
-  {
-    "id": 3172265570120525382,
-    "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-    "link": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T19:10:09",
-    "saved": false
-  },
-  {
-    "id": 3895629818324461183,
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T18:23:54",
-    "saved": false
-  },
-  {
-    "id": -3149769273585004822,
-    "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-    "link": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T18:05:41",
-    "saved": false
-  },
-  {
-    "id": 7242933947944183904,
-    "title": "Model automatically developed by the AIBuildAI Agent ranked among top 5.7% out of 3,219 human teams in the Kaggle TGS Salt Identification Challenge [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t5i56v/model_automatically_developed_by_the_aibuildai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-06T16:35:41",
-    "saved": false
-  },
-  {
-    "id": -4852831334275512534,
-    "title": "Google updates AI search to include quotes from Reddit and other sources",
-    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T15:49:39",
-    "saved": false
-  },
-  {
-    "id": -732938924993828357,
-    "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T15:46:38",
-    "saved": false
-  },
-  {
-    "id": -6190751389862718891,
-    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T15:27:36",
-    "saved": false
-  },
-  {
-    "id": 1505320681620723040,
-    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-    "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T15:12:49",
-    "saved": false
-  },
-  {
-    "id": 1174664177329141562,
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-06T15:06:37",
-    "saved": false
-  },
-  {
-    "id": 4353358974653027835,
-    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-06T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -4709890549851087396,
+    "id": 8657145682375215683,
     "title": "Stop letting LLMs edit your .bib [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-06T11:54:57",
-    "saved": false
-  },
-  {
-    "id": -7845446324264269778,
-    "title": "Competition - League of Robot Runners 2026: Multi-robot coordination under uncertainty [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4sjr7/competition_league_of_robot_runners_2026/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-05T21:09:19",
-    "saved": false
-  },
-  {
-    "id": 2100329414196437956,
-    "title": "Production AI very different from the demos [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t4mzm3/production_ai_very_different_from_the_demos_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-05T17:52:35",
     "saved": false
   }
 ]

@@ -1,15 +1,42 @@
 [
   {
-    "id": -7756280239033734831,
-    "title": "Researchers discover advanced language processing in the unconscious human brain",
-    "link": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T23:06:44",
+    "id": 7536890469805057516,
+    "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+    "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-08T13:00:00",
     "saved": false
   },
   {
-    "id": 6591461198073759029,
+    "id": 7537775584641937648,
+    "title": "Airbnb says AI now writes 60% of its new code",
+    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-08T12:49:16",
+    "saved": false
+  },
+  {
+    "id": -6519022459343590138,
+    "title": "What should a PyTorch training end-of-run performance summary show? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t71y36/what_should_a_pytorch_training_endofrun/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-08T08:36:15",
+    "saved": false
+  },
+  {
+    "id": -9144827127614222139,
+    "title": "ClojureScript Gets Async/Await",
+    "link": "https://clojurescript.org/news/2026-05-07-release",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-08T07:04:24",
+    "saved": false
+  },
+  {
+    "id": 7344481331761967704,
     "title": "OpenAI launches new voice intelligence features in its API",
     "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "source": "TechCrunch",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": -4461707048488554655,
-    "title": "Hackers deface school login pages after claiming another Instructure hack",
-    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T22:14:49",
-    "saved": false
-  },
-  {
-    "id": 1318501129135302610,
+    "id": -5368089926631525251,
     "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
     "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 4546112862146852669,
+    "id": -823389152870027104,
     "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
     "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
     "source": "TechCrunch",
@@ -45,7 +63,16 @@
     "saved": false
   },
   {
-    "id": -8819834969436406403,
+    "id": 355195203643018820,
+    "title": "Hackers deface school login pages after claiming another Instructure hack",
+    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-07T20:59:09",
+    "saved": false
+  },
+  {
+    "id": 8850859352606228264,
     "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
     "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3503480809214606002,
+    "id": 4651626004507459559,
     "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
     "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
     "source": "TechCrunch",
@@ -63,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -7404720374739802394,
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "link": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T19:38:36",
-    "saved": false
-  },
-  {
-    "id": -7994042126589931719,
+    "id": -2967042647099267161,
     "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
     "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
     "source": "TechCrunch",
@@ -81,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 6266050666666384379,
-    "title": "AI slop is killing online communities",
-    "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T18:46:25",
-    "saved": false
-  },
-  {
-    "id": -6916645283764605222,
+    "id": 6293865899985508370,
     "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
     "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
     "source": "TechCrunch",
@@ -99,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -4609427056430988602,
-    "title": "I trained a NER model on 33,000 Indian Supreme Court judgments (1950–2024) CASE_CITATION hits 97.76% F1, +17 points over the only prior baseline [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t6iax2/i_trained_a_ner_model_on_33000_indian_supreme/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-07T18:01:36",
-    "saved": false
-  },
-  {
-    "id": 6037074087031080500,
+    "id": 1903334131124279970,
     "title": "Agents need control flow, not more prompts",
     "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "source": "Hacker News",
@@ -117,52 +117,7 @@
     "saved": false
   },
   {
-    "id": -7608542617060584489,
-    "title": "Using Jensen-Shannon Divergence to detect narrative regime shifts in daily news corpora [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t6fk77/using_jensenshannon_divergence_to_detect/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-07T16:26:45",
-    "saved": false
-  },
-  {
-    "id": 4739333413109649270,
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T15:56:33",
-    "saved": false
-  },
-  {
-    "id": 133510442818304988,
-    "title": "Google’s $9.99-per-month AI health coach launches May 19",
-    "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T15:35:38",
-    "saved": false
-  },
-  {
-    "id": 2124685323925935659,
-    "title": "Google unveils Whoop-like screenless Fitbit Air",
-    "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T15:17:38",
-    "saved": false
-  },
-  {
-    "id": 6078520966304903344,
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "link": "https://deepmind.google/blog/alphaevolve-impact/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T15:02:20",
-    "saved": false
-  },
-  {
-    "id": 2627013523919462194,
+    "id": -7081482785573135880,
     "title": "MICCAI 2026 Decisions [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t67xf4/miccai_2026_decisions_d/",
     "source": "Reddit ML",
@@ -171,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 5722684498418830082,
+    "id": -5019500136489419918,
     "title": "META Superintelligence Lab Presents: ProgramBench: Can SOTA AI Recreate Real Executable Programs(ffmpeg, SQLite, ripgrep) From Scratch Without The Internet?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5zdg5/meta_superintelligence_lab_presents_programbench/",
     "source": "Reddit ML",
@@ -180,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 8657145682375215683,
+    "id": -4327648539304949414,
     "title": "Stop letting LLMs edit your .bib [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
     "source": "Reddit ML",

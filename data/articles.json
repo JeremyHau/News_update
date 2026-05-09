@@ -1,6 +1,24 @@
 [
   {
-    "id": 8908084743092717246,
+    "id": 3532876146028178171,
+    "title": "LLMs Corrupt Your Documents When You Delegate",
+    "link": "https://arxiv.org/abs/2604.15597",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-09T08:44:34",
+    "saved": false
+  },
+  {
+    "id": -5788905923908631221,
+    "title": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-09T08:10:03",
+    "saved": false
+  },
+  {
+    "id": 8678566458100868673,
     "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
     "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
     "source": "TechCrunch",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 1337943710586986248,
+    "id": 5083799919515771197,
     "title": "NeurIPS reviewers, any word after the invite email? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t7mfqr/neurips_reviewers_any_word_after_the_invite_email/",
     "source": "Reddit ML",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -7316144146876793668,
+    "id": 6181344505084632632,
     "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
     "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
     "source": "TechCrunch",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8432788353356491876,
+    "id": 3673286740787688051,
     "title": "AI is breaking two vulnerability cultures",
     "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
     "source": "Hacker News",
@@ -36,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 979055967376084069,
-    "title": "Can LLMs model real-world systems in TLA+?",
-    "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-08T16:21:56",
-    "saved": false
-  },
-  {
-    "id": 2358971621944904843,
+    "id": -633193265794192327,
     "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
     "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4505412554258739091,
+    "id": -1302409049865617447,
     "title": "The biggest US power grid is under strain from AI — and no one is happy",
     "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5607862880729096491,
+    "id": -4464740995640502383,
     "title": "Airbnb says AI now writes 60% of its new code",
     "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8061313774283699876,
+    "id": -4852906365450852199,
     "title": "OpenAI launches new voice intelligence features in its API",
     "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "source": "TechCrunch",
@@ -81,8 +90,8 @@
     "saved": false
   },
   {
-    "id": -4011578724231012395,
-    "title": "OpenAI's WebRTC problem",
+    "id": -1338756260021199495,
+    "title": "OpenAI’s WebRTC problem",
     "link": "https://moq.dev/blog/webrtc-is-the-problem/",
     "source": "Hacker News",
     "category": "ai",
@@ -90,21 +99,12 @@
     "saved": false
   },
   {
-    "id": -2583410800793451354,
+    "id": 4990711235335416638,
     "title": "MICCAI 2026 Decisions [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t67xf4/miccai_2026_decisions_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-07T11:38:13",
-    "saved": false
-  },
-  {
-    "id": 464077814312918890,
-    "title": "META Superintelligence Lab Presents: ProgramBench: Can SOTA AI Recreate Real Executable Programs(ffmpeg, SQLite, ripgrep) From Scratch Without The Internet?",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t5zdg5/meta_superintelligence_lab_presents_programbench/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-07T03:51:21",
     "saved": false
   }
 ]

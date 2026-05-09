@@ -1,7 +1,61 @@
 [
   {
-    "id": 7536890469805057516,
-    "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+    "id": 8908084743092717246,
+    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-08T22:59:05",
+    "saved": false
+  },
+  {
+    "id": 1337943710586986248,
+    "title": "NeurIPS reviewers, any word after the invite email? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t7mfqr/neurips_reviewers_any_word_after_the_invite_email/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-08T22:13:49",
+    "saved": false
+  },
+  {
+    "id": -7316144146876793668,
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-08T18:33:21",
+    "saved": false
+  },
+  {
+    "id": 8432788353356491876,
+    "title": "AI is breaking two vulnerability cultures",
+    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-08T17:55:08",
+    "saved": false
+  },
+  {
+    "id": 979055967376084069,
+    "title": "Can LLMs model real-world systems in TLA+?",
+    "link": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-08T16:21:56",
+    "saved": false
+  },
+  {
+    "id": 2358971621944904843,
+    "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+    "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-08T14:30:00",
+    "saved": false
+  },
+  {
+    "id": -4505412554258739091,
+    "title": "The biggest US power grid is under strain from AI — and no one is happy",
     "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7537775584641937648,
+    "id": 5607862880729096491,
     "title": "Airbnb says AI now writes 60% of its new code",
     "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
     "source": "TechCrunch",
@@ -18,25 +72,7 @@
     "saved": false
   },
   {
-    "id": -6519022459343590138,
-    "title": "What should a PyTorch training end-of-run performance summary show? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t71y36/what_should_a_pytorch_training_endofrun/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-08T08:36:15",
-    "saved": false
-  },
-  {
-    "id": -9144827127614222139,
-    "title": "ClojureScript Gets Async/Await",
-    "link": "https://clojurescript.org/news/2026-05-07-release",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-08T07:04:24",
-    "saved": false
-  },
-  {
-    "id": 7344481331761967704,
+    "id": 8061313774283699876,
     "title": "OpenAI launches new voice intelligence features in its API",
     "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "source": "TechCrunch",
@@ -45,79 +81,16 @@
     "saved": false
   },
   {
-    "id": -5368089926631525251,
-    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-    "link": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T21:49:24",
-    "saved": false
-  },
-  {
-    "id": -823389152870027104,
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T21:02:11",
-    "saved": false
-  },
-  {
-    "id": 355195203643018820,
-    "title": "Hackers deface school login pages after claiming another Instructure hack",
-    "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T20:59:09",
-    "saved": false
-  },
-  {
-    "id": 8850859352606228264,
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T20:20:20",
-    "saved": false
-  },
-  {
-    "id": 4651626004507459559,
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T19:57:59",
-    "saved": false
-  },
-  {
-    "id": -2967042647099267161,
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T19:21:21",
-    "saved": false
-  },
-  {
-    "id": 6293865899985508370,
-    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
-    "link": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T18:36:29",
-    "saved": false
-  },
-  {
-    "id": 1903334131124279970,
-    "title": "Agents need control flow, not more prompts",
-    "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "id": -4011578724231012395,
+    "title": "OpenAI's WebRTC problem",
+    "link": "https://moq.dev/blog/webrtc-is-the-problem/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-07T16:43:35",
+    "date": "2026-05-07T17:11:59",
     "saved": false
   },
   {
-    "id": -7081482785573135880,
+    "id": -2583410800793451354,
     "title": "MICCAI 2026 Decisions [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t67xf4/miccai_2026_decisions_d/",
     "source": "Reddit ML",
@@ -126,21 +99,12 @@
     "saved": false
   },
   {
-    "id": -5019500136489419918,
+    "id": 464077814312918890,
     "title": "META Superintelligence Lab Presents: ProgramBench: Can SOTA AI Recreate Real Executable Programs(ffmpeg, SQLite, ripgrep) From Scratch Without The Internet?",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t5zdg5/meta_superintelligence_lab_presents_programbench/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-07T03:51:21",
-    "saved": false
-  },
-  {
-    "id": -4327648539304949414,
-    "title": "Stop letting LLMs edit your .bib [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t5anla/stop_letting_llms_edit_your_bib_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-06T11:54:57",
     "saved": false
   }
 ]

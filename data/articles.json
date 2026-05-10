@@ -1,7 +1,34 @@
 [
   {
-    "id": 3532876146028178171,
-    "title": "LLMs Corrupt Your Documents When You Delegate",
+    "id": 5286479253866906458,
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-09T21:45:00",
+    "saved": false
+  },
+  {
+    "id": 3199886079268308611,
+    "title": "LLM rankings are not a ladder: experimental results from a transitive benchmark graph [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1t8f61o/llm_rankings_are_not_a_ladder_experimental/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-09T19:16:19",
+    "saved": false
+  },
+  {
+    "id": -8263508604038687805,
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-09T14:43:30",
+    "saved": false
+  },
+  {
+    "id": 479445433861266253,
+    "title": "LLMs corrupt your documents when you delegate",
     "link": "https://arxiv.org/abs/2604.15597",
     "source": "Hacker News",
     "category": "ai",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -5788905923908631221,
+    "id": -1612565096939160616,
     "title": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8678566458100868673,
+    "id": -6328153065351583116,
     "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
     "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 5083799919515771197,
+    "id": 5509248980005027118,
     "title": "NeurIPS reviewers, any word after the invite email? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t7mfqr/neurips_reviewers_any_word_after_the_invite_email/",
     "source": "Reddit ML",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6181344505084632632,
+    "id": -6716850885240230690,
     "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
     "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
     "source": "TechCrunch",
@@ -45,66 +72,12 @@
     "saved": false
   },
   {
-    "id": 3673286740787688051,
-    "title": "AI is breaking two vulnerability cultures",
-    "link": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-08T17:55:08",
-    "saved": false
-  },
-  {
-    "id": -633193265794192327,
+    "id": 4236255035311117796,
     "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
     "link": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-05-08T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -1302409049865617447,
-    "title": "The biggest US power grid is under strain from AI — and no one is happy",
-    "link": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-08T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -4464740995640502383,
-    "title": "Airbnb says AI now writes 60% of its new code",
-    "link": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-08T12:49:16",
-    "saved": false
-  },
-  {
-    "id": -4852906365450852199,
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-07T22:24:50",
-    "saved": false
-  },
-  {
-    "id": -1338756260021199495,
-    "title": "OpenAI’s WebRTC problem",
-    "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-07T17:11:59",
-    "saved": false
-  },
-  {
-    "id": 4990711235335416638,
-    "title": "MICCAI 2026 Decisions [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t67xf4/miccai_2026_decisions_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-07T11:38:13",
     "saved": false
   }
 ]

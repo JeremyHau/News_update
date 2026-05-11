@@ -1,6 +1,33 @@
 [
   {
-    "id": 7706444098024343982,
+    "id": -4407979260988449818,
+    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-11T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 6922046717079186876,
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T07:26:54",
+    "saved": false
+  },
+  {
+    "id": 1436037108028890912,
+    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+    "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T02:43:34",
+    "saved": false
+  },
+  {
+    "id": -5364734082096299050,
     "title": "Why is human LLM annotation so expensive? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t9nc40/why_is_human_llm_annotation_so_expensive_d/",
     "source": "Reddit ML",
@@ -9,17 +36,8 @@
     "saved": false
   },
   {
-    "id": -5362918341092770459,
-    "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
-    "link": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T00:10:34",
-    "saved": false
-  },
-  {
-    "id": -6681125217911873025,
-    "title": "You Need AI That Reduces Maintenance Costs",
+    "id": 7935081821922867187,
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
     "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
     "source": "Hacker News",
     "category": "ai",
@@ -27,25 +45,7 @@
     "saved": false
   },
   {
-    "id": 6894113255250504576,
-    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-    "link": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-10T23:36:48",
-    "saved": false
-  },
-  {
-    "id": -8505228309131437639,
-    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-10T21:16:58",
-    "saved": false
-  },
-  {
-    "id": -6624073362646963708,
+    "id": -330342282297191657,
     "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
     "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7641189182857045870,
+    "id": -734854567817114673,
     "title": "Signals: finding the most informative agent traces without LLM judges [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/",
     "source": "Reddit ML",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1649649463713759439,
+    "id": 1077496446960812680,
     "title": "Local AI needs to be the norm",
     "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
     "source": "Hacker News",
@@ -72,7 +72,16 @@
     "saved": false
   },
   {
-    "id": -1172117592123618882,
+    "id": 3146754787522479848,
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-10T17:05:05",
+    "saved": false
+  },
+  {
+    "id": 1715415574889701470,
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5956336924883079127,
+    "id": -6717121267597040202,
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7502590534423088870,
+    "id": 5708399684237994945,
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -6276519490064992309,
+    "id": -9219535410430515237,
     "title": "LLM rankings are not a ladder: experimental results from a transitive benchmark graph [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t8f61o/llm_rankings_are_not_a_ladder_experimental/",
     "source": "Reddit ML",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1837243695574045511,
+    "id": -6312060501576112427,
     "title": "Nvidia has already committed $40B to equity AI deals this year",
     "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5032760463462503255,
+    "id": 319514954988607502,
     "title": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/",
     "source": "Reddit ML",
@@ -126,30 +135,12 @@
     "saved": false
   },
   {
-    "id": 4646686991250123603,
+    "id": -3981557625026053300,
     "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
     "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-05-08T22:59:05",
-    "saved": false
-  },
-  {
-    "id": -4977959682253141512,
-    "title": "NeurIPS reviewers, any word after the invite email? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t7mfqr/neurips_reviewers_any_word_after_the_invite_email/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-08T22:13:49",
-    "saved": false
-  },
-  {
-    "id": 2228840885019327344,
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-08T18:33:21",
     "saved": false
   }
 ]

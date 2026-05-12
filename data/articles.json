@@ -1,7 +1,97 @@
 [
   {
-    "id": -4407979260988449818,
-    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+    "id": 8979231921302954328,
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T00:09:01",
+    "saved": false
+  },
+  {
+    "id": 2254188758035687239,
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-11T23:04:10",
+    "saved": false
+  },
+  {
+    "id": -5338329067092179104,
+    "title": "Postmortem: TanStack npm supply-chain compromise",
+    "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T21:08:25",
+    "saved": false
+  },
+  {
+    "id": 4437034314210091960,
+    "title": "I let AI build a tool to help me figure out what was waking me up at night",
+    "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T21:04:10",
+    "saved": false
+  },
+  {
+    "id": 1892203321313697154,
+    "title": "A hackable compiler to generate efficient fused GPU kernels for AI models [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tag07l/a_hackable_compiler_to_generate_efficient_fused/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-11T20:48:19",
+    "saved": false
+  },
+  {
+    "id": -8014733387838233726,
+    "title": "If AI writes your code, why use Python?",
+    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T20:45:55",
+    "saved": false
+  },
+  {
+    "id": 9018987744809598525,
+    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+    "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T17:53:08",
+    "saved": false
+  },
+  {
+    "id": -1703334682831395799,
+    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+    "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-11T17:38:32",
+    "saved": false
+  },
+  {
+    "id": 2343633543778017112,
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-11T17:02:35",
+    "saved": false
+  },
+  {
+    "id": 4590570362978386166,
+    "title": "Google says criminal hackers used AI to find a major software flaw",
+    "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-11T13:20:14",
+    "saved": false
+  },
+  {
+    "id": 2772907750458572370,
+    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
     "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 6922046717079186876,
+    "id": 6845607138128286018,
     "title": "Gmail registration now requires scanning a QR code and sending a text message",
     "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
     "source": "Hacker News",
@@ -18,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 1436037108028890912,
-    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-    "link": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T02:43:34",
-    "saved": false
-  },
-  {
-    "id": -5364734082096299050,
+    "id": -7432817437733751267,
     "title": "Why is human LLM annotation so expensive? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t9nc40/why_is_human_llm_annotation_so_expensive_d/",
     "source": "Reddit ML",
@@ -36,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 7935081821922867187,
-    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-    "link": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-10T23:39:55",
-    "saved": false
-  },
-  {
-    "id": -330342282297191657,
+    "id": -1986295175938921799,
     "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
     "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
     "source": "TechCrunch",
@@ -54,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -734854567817114673,
+    "id": 4531968700476222993,
     "title": "Signals: finding the most informative agent traces without LLM judges [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/",
     "source": "Reddit ML",
@@ -63,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 1077496446960812680,
-    "title": "Local AI needs to be the norm",
-    "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-10T17:19:28",
-    "saved": false
-  },
-  {
-    "id": 3146754787522479848,
+    "id": -3204231143148039557,
     "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
     "link": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
     "source": "Hacker News",
@@ -81,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 1715415574889701470,
+    "id": -4605814521247925477,
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "source": "TechCrunch",
@@ -90,8 +153,8 @@
     "saved": false
   },
   {
-    "id": -6717121267597040202,
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "id": -3796860891236583241,
+    "title": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
     "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
     "source": "TechCrunch",
     "category": "tech",
@@ -99,34 +162,7 @@
     "saved": false
   },
   {
-    "id": 5708399684237994945,
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-09T21:45:00",
-    "saved": false
-  },
-  {
-    "id": -9219535410430515237,
-    "title": "LLM rankings are not a ladder: experimental results from a transitive benchmark graph [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t8f61o/llm_rankings_are_not_a_ladder_experimental/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-09T19:16:19",
-    "saved": false
-  },
-  {
-    "id": -6312060501576112427,
-    "title": "Nvidia has already committed $40B to equity AI deals this year",
-    "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-09T14:43:30",
-    "saved": false
-  },
-  {
-    "id": 319514954988607502,
+    "id": 2636834367940558782,
     "title": "DeepSeek V4 paper full version is out, FP4 QAT details and stability tricks [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1t7yrvr/deepseek_v4_paper_full_version_is_out_fp4_qat/",
     "source": "Reddit ML",
@@ -135,12 +171,12 @@
     "saved": false
   },
   {
-    "id": -3981557625026053300,
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-08T22:59:05",
+    "id": 2937555225657189489,
+    "title": "AMÁLIA and the future of European Portuguese LLMs",
+    "link": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-08T16:34:45",
     "saved": false
   }
 ]

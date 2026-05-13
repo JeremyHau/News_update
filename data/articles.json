@@ -1,6 +1,51 @@
 [
   {
-    "id": 3192432243677220634,
+    "id": -1278376456279672293,
+    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -236457324801613090,
+    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+    "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T13:27:09",
+    "saved": false
+  },
+  {
+    "id": -5970720676571731931,
+    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T12:11:33",
+    "saved": false
+  },
+  {
+    "id": -6583517711364396506,
+    "title": "Training a number-aware embedding model + Text JEPA doesn't work too well + Text auto-encoders have a strange frequency bias [R][P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tbxekp/training_a_numberaware_embedding_model_text_jepa/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-13T11:55:30",
+    "saved": false
+  },
+  {
+    "id": -4336077935322634664,
+    "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tbvsxo/learning_fast_and_slow_towards_llms_that_adapt/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-13T10:38:40",
+    "saved": false
+  },
+  {
+    "id": 1906652600316498952,
     "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
     "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 6682985078289460855,
+    "id": 8625561998481930360,
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
     "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "source": "TechCrunch",
@@ -18,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 2162022870813224432,
-    "title": "Reimagining the mouse pointer for the AI era",
-    "link": "https://deepmind.google/blog/ai-pointer/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-12T17:40:13",
-    "saved": false
-  },
-  {
-    "id": 6314739489065206507,
+    "id": 5138083168254866488,
     "title": "Anthropic warns investors against secondary platforms offering access to its shares",
     "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7673541749994131914,
+    "id": 4450794970601163546,
     "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
     "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
     "source": "TechCrunch",
@@ -45,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -4645628990992441937,
-    "title": "Show HN: Agentic interface for mainframes and COBOL",
-    "link": "https://www.hypercubic.ai/hopper",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-12T17:10:22",
-    "saved": false
-  },
-  {
-    "id": 8777956165733443256,
+    "id": 8642865523100759673,
     "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
     "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -3551563742799912881,
+    "id": 8329918150996497184,
     "title": "Google unveils Googlebook, a new line of AI-native laptops",
     "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4033247673836423850,
+    "id": -827490248810534655,
     "title": "Google brings agentic AI and vibe-coded widgets to Android",
     "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
     "source": "TechCrunch",
@@ -81,34 +108,7 @@
     "saved": false
   },
   {
-    "id": -6033749430440149502,
-    "title": "US bank discloses security lapse after sharing customer data with AI app",
-    "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T16:36:44",
-    "saved": false
-  },
-  {
-    "id": -4109551142204212894,
-    "title": "Threads tests a Meta AI integration that works similarly to Grok",
-    "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T16:34:36",
-    "saved": false
-  },
-  {
-    "id": 4019079194301355885,
-    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-    "link": "https://voker.ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-12T15:45:20",
-    "saved": false
-  },
-  {
-    "id": -2711263131577861036,
+    "id": -5984497524157157069,
     "title": "Why senior developers fail to communicate their expertise",
     "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
     "source": "Hacker News",
@@ -117,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -7177590465540114051,
-    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-    "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T15:07:37",
-    "saved": false
-  },
-  {
-    "id": -6531958194602377029,
+    "id": 8575785962202098284,
     "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
     "source": "Reddit ML",
@@ -135,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -444559505453533095,
+    "id": 5836905417356553892,
     "title": "Cache-testing software for LLM-provider-style tiered ephemeral caches? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tayaiw/cachetesting_software_for_llmproviderstyle_tiered/",
     "source": "Reddit ML",
@@ -144,21 +135,12 @@
     "saved": false
   },
   {
-    "id": -4785809285629776758,
-    "title": "A hackable compiler to generate efficient fused GPU kernels for AI models [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tag07l/a_hackable_compiler_to_generate_efficient_fused/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-11T20:48:19",
-    "saved": false
-  },
-  {
-    "id": -309203333018498150,
-    "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-    "link": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+    "id": 9183928329580464227,
+    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+    "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-11T20:38:40",
+    "date": "2026-05-11T01:05:59",
     "saved": false
   }
 ]

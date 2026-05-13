@@ -1,42 +1,141 @@
 [
   {
-    "id": 467046799949273917,
-    "title": "Dessn raises $6M for its production focused design tool",
-    "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "id": 3192432243677220634,
+    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-05-12T13:00:00",
+    "date": "2026-05-13T00:26:48",
     "saved": false
   },
   {
-    "id": 3347811988364940316,
-    "title": "AI is turning connected cars into pothole-finding machines",
-    "link": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
+    "id": 6682985078289460855,
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-05-12T13:00:00",
+    "date": "2026-05-12T18:05:15",
     "saved": false
   },
   {
-    "id": 7161057879982473187,
-    "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-    "link": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+    "id": 2162022870813224432,
+    "title": "Reimagining the mouse pointer for the AI era",
+    "link": "https://deepmind.google/blog/ai-pointer/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-12T12:00:46",
+    "date": "2026-05-12T17:40:13",
     "saved": false
   },
   {
-    "id": -2743780409181587253,
-    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "id": 6314739489065206507,
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-05-12T11:30:00",
+    "date": "2026-05-12T17:36:34",
     "saved": false
   },
   {
-    "id": -7357134892075778224,
+    "id": 7673541749994131914,
+    "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+    "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T17:33:29",
+    "saved": false
+  },
+  {
+    "id": -4645628990992441937,
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "link": "https://www.hypercubic.ai/hopper",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-12T17:10:22",
+    "saved": false
+  },
+  {
+    "id": 8777956165733443256,
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -3551563742799912881,
+    "title": "Google unveils Googlebook, a new line of AI-native laptops",
+    "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -4033247673836423850,
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -6033749430440149502,
+    "title": "US bank discloses security lapse after sharing customer data with AI app",
+    "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T16:36:44",
+    "saved": false
+  },
+  {
+    "id": -4109551142204212894,
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "link": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T16:34:36",
+    "saved": false
+  },
+  {
+    "id": 4019079194301355885,
+    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+    "link": "https://voker.ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-12T15:45:20",
+    "saved": false
+  },
+  {
+    "id": -2711263131577861036,
+    "title": "Why senior developers fail to communicate their expertise",
+    "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-12T15:08:40",
+    "saved": false
+  },
+  {
+    "id": -7177590465540114051,
+    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+    "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-12T15:07:37",
+    "saved": false
+  },
+  {
+    "id": -6531958194602377029,
+    "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-12T14:33:12",
+    "saved": false
+  },
+  {
+    "id": -444559505453533095,
     "title": "Cache-testing software for LLM-provider-style tiered ephemeral caches? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tayaiw/cachetesting_software_for_llmproviderstyle_tiered/",
     "source": "Reddit ML",
@@ -45,52 +144,7 @@
     "saved": false
   },
   {
-    "id": -5679159388823730468,
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T04:52:35",
-    "saved": false
-  },
-  {
-    "id": -3793792255248002084,
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T00:09:01",
-    "saved": false
-  },
-  {
-    "id": -4961567067273677436,
-    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-11T23:04:10",
-    "saved": false
-  },
-  {
-    "id": -1262659133828811985,
-    "title": "Postmortem: TanStack NPM supply-chain compromise",
-    "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T21:08:25",
-    "saved": false
-  },
-  {
-    "id": 5170562345955729998,
-    "title": "I let AI build a tool to help me figure out what was waking me up at night",
-    "link": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T21:04:10",
-    "saved": false
-  },
-  {
-    "id": -2302785259604952622,
+    "id": -4785809285629776758,
     "title": "A hackable compiler to generate efficient fused GPU kernels for AI models [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tag07l/a_hackable_compiler_to_generate_efficient_fused/",
     "source": "Reddit ML",
@@ -99,66 +153,12 @@
     "saved": false
   },
   {
-    "id": 107227704932340334,
-    "title": "If AI writes your code, why use Python?",
-    "link": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "id": -309203333018498150,
+    "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+    "link": "https://www.youtube.com/watch?v=1TbHYjGvS68",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-11T20:45:55",
-    "saved": false
-  },
-  {
-    "id": -8890702910685987632,
-    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "link": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T17:53:08",
-    "saved": false
-  },
-  {
-    "id": 7509245988735332891,
-    "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-    "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-11T17:38:32",
-    "saved": false
-  },
-  {
-    "id": -8078201151579747920,
-    "title": "Digg tries again, this time as an AI news aggregator",
-    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-11T17:02:35",
-    "saved": false
-  },
-  {
-    "id": -584721414902762081,
-    "title": "Google says criminal hackers used AI to find a major software flaw",
-    "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T13:20:14",
-    "saved": false
-  },
-  {
-    "id": 5758114913568704089,
-    "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
-    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-11T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 4753276608832183809,
-    "title": "Signals: finding the most informative agent traces without LLM judges [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1t9d3et/signals_finding_the_most_informative_agent_traces/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-10T17:26:03",
+    "date": "2026-05-11T20:38:40",
     "saved": false
   }
 ]

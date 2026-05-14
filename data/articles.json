@@ -1,6 +1,123 @@
 [
   {
-    "id": -1278376456279672293,
+    "id": -2879832937975614314,
+    "title": "The Other Half of AI Safety",
+    "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-14T00:27:20",
+    "saved": false
+  },
+  {
+    "id": 7204834560039526639,
+    "title": "Trained transformer-based chess models to play like humans (including thinking time) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcemdg/trained_transformerbased_chess_models_to_play/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-13T22:08:51",
+    "saved": false
+  },
+  {
+    "id": -8781347462283903545,
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T21:45:09",
+    "saved": false
+  },
+  {
+    "id": -1992256852720892567,
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T19:49:42",
+    "saved": false
+  },
+  {
+    "id": -5901336730109946587,
+    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T19:28:06",
+    "saved": false
+  },
+  {
+    "id": -8310712280352746622,
+    "title": "What kinds of models are people training with document data? [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tc92u9/what_kinds_of_models_are_people_training_with/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-13T18:52:46",
+    "saved": false
+  },
+  {
+    "id": 5112322574164751952,
+    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
+    "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T17:42:20",
+    "saved": false
+  },
+  {
+    "id": -2307687194229213127,
+    "title": "Rivian spinoff Mind Robotics raises another $400M",
+    "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T16:34:21",
+    "saved": false
+  },
+  {
+    "id": 8051721745985000302,
+    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+    "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T16:22:01",
+    "saved": false
+  },
+  {
+    "id": -1376651254411899054,
+    "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+    "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T15:39:37",
+    "saved": false
+  },
+  {
+    "id": -7917784286472262153,
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T14:59:32",
+    "saved": false
+  },
+  {
+    "id": 1912399588183785487,
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "link": "https://fredchan.org/blog/locality-domains-guide/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-13T14:45:18",
+    "saved": false
+  },
+  {
+    "id": 3325056137448287708,
+    "title": "Anduril raises $5B, doubles valuation to $61B",
+    "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T14:44:25",
+    "saved": false
+  },
+  {
+    "id": -4001071335302964850,
     "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
     "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
     "source": "TechCrunch",
@@ -9,7 +126,25 @@
     "saved": false
   },
   {
-    "id": -236457324801613090,
+    "id": 343522062553839076,
+    "title": "WhatsApp adds an incognito mode in Meta AI chats",
+    "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-13T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -3123915177228616879,
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-13T13:53:53",
+    "saved": false
+  },
+  {
+    "id": 8865457227325378334,
     "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
     "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
     "source": "TechCrunch",
@@ -18,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -5970720676571731931,
-    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T12:11:33",
-    "saved": false
-  },
-  {
-    "id": -6583517711364396506,
+    "id": -9093259809614141880,
     "title": "Training a number-aware embedding model + Text JEPA doesn't work too well + Text auto-encoders have a strange frequency bias [R][P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tbxekp/training_a_numberaware_embedding_model_text_jepa/",
     "source": "Reddit ML",
@@ -36,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -4336077935322634664,
+    "id": -360490506131528147,
     "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tbvsxo/learning_fast_and_slow_towards_llms_that_adapt/",
     "source": "Reddit ML",
@@ -45,102 +171,12 @@
     "saved": false
   },
   {
-    "id": 1906652600316498952,
-    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T00:26:48",
-    "saved": false
-  },
-  {
-    "id": 8625561998481930360,
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T18:05:15",
-    "saved": false
-  },
-  {
-    "id": 5138083168254866488,
-    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-    "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T17:36:34",
-    "saved": false
-  },
-  {
-    "id": 4450794970601163546,
-    "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
-    "link": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T17:33:29",
-    "saved": false
-  },
-  {
-    "id": 8642865523100759673,
-    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-    "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 8329918150996497184,
-    "title": "Google unveils Googlebook, a new line of AI-native laptops",
-    "link": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -827490248810534655,
-    "title": "Google brings agentic AI and vibe-coded widgets to Android",
-    "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-12T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -5984497524157157069,
-    "title": "Why senior developers fail to communicate their expertise",
-    "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-12T15:08:40",
-    "saved": false
-  },
-  {
-    "id": 8575785962202098284,
+    "id": 2266776115413722459,
     "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-12T14:33:12",
-    "saved": false
-  },
-  {
-    "id": 5836905417356553892,
-    "title": "Cache-testing software for LLM-provider-style tiered ephemeral caches? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tayaiw/cachetesting_software_for_llmproviderstyle_tiered/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-12T11:07:23",
-    "saved": false
-  },
-  {
-    "id": 9183928329580464227,
-    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-    "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-11T01:05:59",
     "saved": false
   }
 ]

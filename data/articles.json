@@ -1,15 +1,33 @@
 [
   {
-    "id": -2879832937975614314,
-    "title": "The Other Half of AI Safety",
-    "link": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
-    "source": "Hacker News",
+    "id": -8554714939393550428,
+    "title": "OpenAI's deployment company move says more about the AI gap than any benchmark[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcsnng/openais_deployment_company_move_says_more_about/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-05-14T00:27:20",
+    "date": "2026-05-14T09:11:15",
     "saved": false
   },
   {
-    "id": 7204834560039526639,
+    "id": 5939311459614380390,
+    "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+    "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T06:05:31",
+    "saved": false
+  },
+  {
+    "id": 3537013132655060661,
+    "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcmj6v/continual_harness_online_adaptation_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-14T03:45:43",
+    "saved": false
+  },
+  {
+    "id": 3694525324753147501,
     "title": "Trained transformer-based chess models to play like humans (including thinking time) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tcemdg/trained_transformerbased_chess_models_to_play/",
     "source": "Reddit ML",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8781347462283903545,
+    "id": -8483411023052213443,
     "title": "Notion just turned its workspace into a hub for AI agents",
     "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
     "source": "TechCrunch",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1992256852720892567,
+    "id": -3928351194848593085,
     "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
     "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5901336730109946587,
+    "id": 2557071577834074240,
     "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
     "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8310712280352746622,
+    "id": -3087184300709221119,
     "title": "What kinds of models are people training with document data? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tc92u9/what_kinds_of_models_are_people_training_with/",
     "source": "Reddit ML",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5112322574164751952,
+    "id": 4580504338411471268,
     "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
     "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2307687194229213127,
+    "id": -1129995352340910329,
     "title": "Rivian spinoff Mind Robotics raises another $400M",
     "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8051721745985000302,
+    "id": 4841007407666564967,
     "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
     "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1376651254411899054,
+    "id": 7784044638412145781,
     "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
     "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7917784286472262153,
+    "id": 2076864203806766374,
     "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
     "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1912399588183785487,
+    "id": -6120064220405903396,
     "title": "Setting up a free *.city.state.us locality domain (2025)",
     "link": "https://fredchan.org/blog/locality-domains-guide/",
     "source": "Hacker News",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3325056137448287708,
+    "id": 3832471636595892262,
     "title": "Anduril raises $5B, doubles valuation to $61B",
     "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4001071335302964850,
+    "id": -7920128984758474129,
     "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
     "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
     "source": "TechCrunch",
@@ -126,57 +144,12 @@
     "saved": false
   },
   {
-    "id": 343522062553839076,
-    "title": "WhatsApp adds an incognito mode in Meta AI chats",
-    "link": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -3123915177228616879,
-    "title": "The US is winning the AI race where it matters most: commercialization",
-    "link": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-13T13:53:53",
-    "saved": false
-  },
-  {
-    "id": 8865457227325378334,
-    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-    "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T13:27:09",
-    "saved": false
-  },
-  {
-    "id": -9093259809614141880,
-    "title": "Training a number-aware embedding model + Text JEPA doesn't work too well + Text auto-encoders have a strange frequency bias [R][P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tbxekp/training_a_numberaware_embedding_model_text_jepa/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-13T11:55:30",
-    "saved": false
-  },
-  {
-    "id": -360490506131528147,
+    "id": 48144455413783404,
     "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tbvsxo/learning_fast_and_slow_towards_llms_that_adapt/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-13T10:38:40",
-    "saved": false
-  },
-  {
-    "id": 2266776115413722459,
-    "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-12T14:33:12",
     "saved": false
   }
 ]

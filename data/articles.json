@@ -1,15 +1,114 @@
 [
   {
-    "id": -8554714939393550428,
-    "title": "OpenAI's deployment company move says more about the AI gap than any benchmark[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcsnng/openais_deployment_company_move_says_more_about/",
-    "source": "Reddit ML",
+    "id": -4736511224705117810,
+    "title": "Have a Coherent AI Policy",
+    "link": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-14T09:11:15",
+    "date": "2026-05-14T23:24:45",
     "saved": false
   },
   {
-    "id": 5939311459614380390,
+    "id": 3858969746116990527,
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "link": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-14T22:37:40",
+    "saved": false
+  },
+  {
+    "id": -4568051635440989119,
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T21:30:44",
+    "saved": false
+  },
+  {
+    "id": 6595230865877224115,
+    "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+    "link": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-14T21:00:37",
+    "saved": false
+  },
+  {
+    "id": -7132519029139742605,
+    "title": "OpenAI says Codex is coming to your phone",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T20:58:55",
+    "saved": false
+  },
+  {
+    "id": -5194062286197100680,
+    "title": "What happens when AI starts building itself?",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T19:57:20",
+    "saved": false
+  },
+  {
+    "id": 1418473415046189922,
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T19:12:03",
+    "saved": false
+  },
+  {
+    "id": 3393453163324107697,
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T16:30:02",
+    "saved": false
+  },
+  {
+    "id": -9044046265557416446,
+    "title": "OpenAI says hackers stole some data after latest code security issue",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T16:25:20",
+    "saved": false
+  },
+  {
+    "id": -755119069184621359,
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-14T15:47:31",
+    "saved": false
+  },
+  {
+    "id": -6846011436926250041,
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T14:01:14",
+    "saved": false
+  },
+  {
+    "id": -4230759775485656744,
+    "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+    "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-14T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -5730190421499484285,
     "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
     "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
     "source": "TechCrunch",
@@ -18,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 3537013132655060661,
+    "id": -2257972192657345238,
     "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tcmj6v/continual_harness_online_adaptation_for/",
     "source": "Reddit ML",
@@ -27,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3694525324753147501,
+    "id": 4526480559734904388,
     "title": "Trained transformer-based chess models to play like humans (including thinking time) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tcemdg/trained_transformerbased_chess_models_to_play/",
     "source": "Reddit ML",
@@ -36,120 +135,21 @@
     "saved": false
   },
   {
-    "id": -8483411023052213443,
-    "title": "Notion just turned its workspace into a hub for AI agents",
-    "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T21:45:09",
-    "saved": false
-  },
-  {
-    "id": -3928351194848593085,
-    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T19:49:42",
-    "saved": false
-  },
-  {
-    "id": 2557071577834074240,
-    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T19:28:06",
-    "saved": false
-  },
-  {
-    "id": -3087184300709221119,
-    "title": "What kinds of models are people training with document data? [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tc92u9/what_kinds_of_models_are_people_training_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-13T18:52:46",
-    "saved": false
-  },
-  {
-    "id": 4580504338411471268,
-    "title": "Geothermal startup Fervo Energy pops 33% in IPO debut fueled by AI data center demand",
-    "link": "https://techcrunch.com/2026/05/13/geothermal-startup-fervo-energy-pops-33-in-ipo-debut-fueled-by-ai-data-center-demand/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T17:42:20",
-    "saved": false
-  },
-  {
-    "id": -1129995352340910329,
-    "title": "Rivian spinoff Mind Robotics raises another $400M",
-    "link": "https://techcrunch.com/2026/05/13/rivian-spinoff-mind-robotics-raises-another-400m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T16:34:21",
-    "saved": false
-  },
-  {
-    "id": 4841007407666564967,
-    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-    "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T16:22:01",
-    "saved": false
-  },
-  {
-    "id": 7784044638412145781,
-    "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
-    "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T15:39:37",
-    "saved": false
-  },
-  {
-    "id": 2076864203806766374,
-    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-    "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T14:59:32",
-    "saved": false
-  },
-  {
-    "id": -6120064220405903396,
-    "title": "Setting up a free *.city.state.us locality domain (2025)",
-    "link": "https://fredchan.org/blog/locality-domains-guide/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-13T14:45:18",
-    "saved": false
-  },
-  {
-    "id": 3832471636595892262,
-    "title": "Anduril raises $5B, doubles valuation to $61B",
-    "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T14:44:25",
-    "saved": false
-  },
-  {
-    "id": -7920128984758474129,
-    "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-    "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-13T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 48144455413783404,
+    "id": 7348919124192409456,
     "title": "Learning, Fast and Slow: Towards LLMs That Adapt Continually [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tbvsxo/learning_fast_and_slow_towards_llms_that_adapt/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-13T10:38:40",
+    "saved": false
+  },
+  {
+    "id": -611711479977097170,
+    "title": "TabPFN-3 just released: a pre-trained tabular foundation model for up to 1M rows [R][N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tb3fh5/tabpfn3_just_released_a_pretrained_tabular/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-12T14:33:12",
     "saved": false
   }
 ]

@@ -1,7 +1,25 @@
 [
   {
-    "id": 2113081473349225923,
-    "title": "The main thing about P2P meth is that there's so much of it (2022)",
+    "id": -8444265220668006406,
+    "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
+    "link": "https://twitter.com/steipete/status/2055346265869721905",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-16T11:34:04",
+    "saved": false
+  },
+  {
+    "id": 761971056294599206,
+    "title": "Frontier AI has broken the open CTF format",
+    "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-16T07:01:55",
+    "saved": false
+  },
+  {
+    "id": 7310393792192086482,
+    "title": "The main thing about P2P meth is that there's so much of it (2021)",
     "link": "https://dynomight.net/p2p-meth/",
     "source": "Hacker News",
     "category": "ai",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 6780467222748220440,
+    "id": -6423178549110529529,
     "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
     "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 5094362770601940932,
+    "id": -4102506753796357804,
     "title": "I believe there are entire companies right now under AI psychosis",
     "link": "https://twitter.com/mitchellh/status/2055380239711457578",
     "source": "Hacker News",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8246406664047455364,
+    "id": -930616309770683690,
     "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
     "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1799569673242549154,
+    "id": -8387259435934930611,
     "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
     "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4924573747682704217,
+    "id": 650934691859243419,
     "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
     "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -6063796605547282337,
+    "id": 7823416375449989454,
     "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
     "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 431241861734375850,
+    "id": 3979895130289720335,
     "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
     "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "source": "TechCrunch",
@@ -72,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 9123284411120536574,
-    "title": "A 0-click exploit chain for the Pixel 10",
-    "link": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-15T13:39:54",
-    "saved": false
-  },
-  {
-    "id": -4810759094527171422,
+    "id": 3529816975872985144,
     "title": "Osaurus brings both local and cloud AI models to your Mac",
     "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 6540879558073568266,
+    "id": -4485964746524425272,
     "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
     "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
     "source": "TechCrunch",
@@ -99,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -5654478323268038203,
-    "title": "arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tdje2d/arxiv_implements_1year_ban_for_papers_containing/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-15T02:44:10",
-    "saved": false
-  },
-  {
-    "id": -2885427494015138886,
+    "id": -2041126780780211156,
     "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
     "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1537979887221833593,
+    "id": -4309388765672192004,
     "title": "OpenAI says Codex is coming to your phone",
     "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4858910500877108841,
+    "id": 5440145013117565261,
     "title": "What happens when AI starts building itself?",
     "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
     "source": "TechCrunch",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6173252460370070076,
+    "id": -5282577520317564542,
     "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
     "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
     "source": "TechCrunch",
@@ -144,21 +144,12 @@
     "saved": false
   },
   {
-    "id": -2571505107313955201,
-    "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcmj6v/continual_harness_online_adaptation_for/",
-    "source": "Reddit ML",
+    "id": 3180628432061913148,
+    "title": "Gaining control of every projector and camera on campus",
+    "link": "https://www.edna.land/blogs/posts/scanning/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-14T03:45:43",
-    "saved": false
-  },
-  {
-    "id": -851440619476422897,
-    "title": "Trained transformer-based chess models to play like humans (including thinking time) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcemdg/trained_transformerbased_chess_models_to_play/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-13T22:08:51",
+    "date": "2026-05-14T02:37:22",
     "saved": false
   }
 ]

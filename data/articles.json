@@ -1,6 +1,24 @@
 [
   {
-    "id": 7717268231186522239,
+    "id": 4439060238060138930,
+    "title": "I don't think AI will make your processes go faster",
+    "link": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-17T12:13:45",
+    "saved": false
+  },
+  {
+    "id": -8385414005552710237,
+    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "link": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-17T11:49:31",
+    "saved": false
+  },
+  {
+    "id": -5964348625645922040,
     "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
     "link": "https://crates.io/crates/zerostack/1.0.0",
     "source": "Hacker News",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 7666349644745185531,
+    "id": 1412154013041505567,
     "title": "The haves and have nots of the AI gold rush",
     "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -4766008695390338497,
+    "id": -4213532941769102133,
     "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "link": "https://openai.com/index/malta-chatgpt-plus-partnership/",
     "source": "Hacker News",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 5416574162195159685,
+    "id": 8592910970254164447,
     "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
     "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -776539946252748799,
+    "id": -7385810546128201177,
     "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
     "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -6391401584239467709,
+    "id": 5801118410114523358,
     "title": "The offline desk gadget that actually got me to sit up straight",
     "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7246824029078745729,
+    "id": -8189304707106406118,
     "title": "Made and Published a Paper Comparing Analysis of CNN and Vision Transformer Architectures for Brain Tumor Detection [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1texa4d/made_and_published_a_paper_comparing_analysis_of/",
     "source": "Reddit ML",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7164100591699955614,
+    "id": -8434655954814254835,
     "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
     "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3586551683575476713,
+    "id": 5967583872945665787,
     "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
     "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7639829312620581856,
+    "id": -4056606569195665233,
     "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
     "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7342172947584639459,
+    "id": 58387314308188936,
     "title": "Moving away from Tailwind, and learning to structure my CSS",
     "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
     "source": "Hacker News",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1594514321002468266,
+    "id": 3724583294867515708,
     "title": "Backlash against Arxiv's proposed 1 year ban is genuinely perplexing. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tens5n/backlash_against_arxivs_proposed_1_year_ban_is/",
     "source": "Reddit ML",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 5513159152430066620,
-    "title": "Frontier AI has broken the open CTF format",
-    "link": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-16T07:01:55",
-    "saved": false
-  },
-  {
-    "id": -6368511241669307888,
+    "id": -1740191592172906605,
     "title": "[R] Which LLMs are actually best for bleeding-edge Linux/ML debugging workflows in 2026? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tejwbl/r_which_llms_are_actually_best_for_bleedingedge/",
     "source": "Reddit ML",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -7715391602277850544,
+    "id": -450886377757698204,
     "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
     "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 7943691370237175562,
+    "id": 6732315049582383967,
     "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
     "link": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
     "source": "TechCrunch",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 662219184268985860,
+    "id": -2792217022735669931,
     "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
     "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
     "source": "TechCrunch",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -1645930503660732136,
+    "id": -2650467146618484478,
     "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
     "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
     "source": "TechCrunch",
@@ -162,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 6231400111336658069,
+    "id": 1744088236416016378,
     "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
     "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
     "source": "TechCrunch",
@@ -171,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -1499538801852749879,
+    "id": 2438470207223562507,
     "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
     "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "source": "TechCrunch",
@@ -180,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -7488722240384147895,
+    "id": 6457185822999090191,
     "title": "Osaurus brings both local and cloud AI models to your Mac",
     "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
     "source": "TechCrunch",
@@ -189,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -3273187819580816278,
+    "id": -4468039025868827655,
     "title": "Indian Uber rival Rapido raises $240M at $3B valuation",
     "link": "https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/",
     "source": "TechCrunch",
@@ -198,21 +207,21 @@
     "saved": false
   },
   {
-    "id": -104746184640504831,
+    "id": 5022846096773186840,
+    "title": "Prolog Basics Explained with Pokémon",
+    "link": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-15T11:02:14",
+    "saved": false
+  },
+  {
+    "id": 3274770368688122623,
     "title": "arXiv implements 1-year ban for papers containing incontrovertible evidence of unchecked LLM-generated errors, such as hallucinated references or results. [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tdje2d/arxiv_implements_1year_ban_for_papers_containing/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-15T02:44:10",
-    "saved": false
-  },
-  {
-    "id": -66483507525213258,
-    "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tcmj6v/continual_harness_online_adaptation_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-14T03:45:43",
     "saved": false
   }
 ]

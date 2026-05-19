@@ -1,6 +1,51 @@
 [
   {
-    "id": -1461261642814381677,
+    "id": 1940811550439917386,
+    "title": "Forget the feed: Status AI raises $17M to turn social media into interactive entertainment",
+    "link": "https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -3620658787108953832,
+    "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+    "link": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -6334570987022825276,
+    "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+    "link": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T10:00:00",
+    "saved": false
+  },
+  {
+    "id": 464651634501796548,
+    "title": "A Simple Solution to Improve Broken Peer Review System at AI Conferences [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1the441/a_simple_solution_to_improve_broken_peer_review/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-19T06:12:02",
+    "saved": false
+  },
+  {
+    "id": -2399412748761677717,
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "link": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-19T05:04:49",
+    "saved": false
+  },
+  {
+    "id": 8614069803718067598,
     "title": "Architecture advice: Real-time pipeline for YouTube Audio -> Whisper -> LLM -> SSE (Sub-10s latency) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1th713c/architecture_advice_realtime_pipeline_for_youtube/",
     "source": "Reddit ML",
@@ -9,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -4851168289883315241,
-    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-    "link": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-18T23:18:10",
-    "saved": false
-  },
-  {
-    "id": 4109802044543379287,
+    "id": -8990038248098757984,
     "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
     "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
     "source": "TechCrunch",
@@ -27,34 +63,16 @@
     "saved": false
   },
   {
-    "id": 8007798337548638991,
-    "title": "Agora-1: The Multi-Agent World Model",
-    "link": "https://odyssey.ml/introducing-agora-1",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-18T18:43:30",
-    "saved": false
-  },
-  {
-    "id": -7717871661340619385,
-    "title": "We let AIs run radio stations",
-    "link": "https://andonlabs.com/blog/andon-fm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-18T18:12:18",
-    "saved": false
-  },
-  {
-    "id": -7514453692343006277,
+    "id": -4366460158763215292,
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-18T17:38:22",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-18T17:34:43",
     "saved": false
   },
   {
-    "id": -1651657828651969300,
+    "id": -4452006919243519267,
     "title": "Anthropic acquires Stainless",
     "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
     "source": "Hacker News",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8986983651132999976,
+    "id": 7921976137112388860,
     "title": "AI/ML Ethicists [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tgqybv/aiml_ethicists_d/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2888057251738201683,
+    "id": 6178565263871538195,
     "title": "Kin Health raises $9M to build an AI notetaker for patients",
     "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
     "source": "TechCrunch",
@@ -81,25 +99,7 @@
     "saved": false
   },
   {
-    "id": 4017082574274629191,
-    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "link": "https://archestra.ai/blog/only-responsible-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-18T15:24:19",
-    "saved": false
-  },
-  {
-    "id": 6579908067811498022,
-    "title": "Will wait listed ones be mailed regardless? Eeml 26 [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tgop0r/will_wait_listed_ones_be_mailed_regardless_eeml/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-18T14:41:20",
-    "saved": false
-  },
-  {
-    "id": 1872034518277910055,
+    "id": -64958259570715112,
     "title": "Scaling LLMs horizontally: hidden-state coupling without weight modification [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tgm530/scaling_llms_horizontally_hiddenstate_coupling/",
     "source": "Reddit ML",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4868300903222861396,
+    "id": 6956358548158924039,
     "title": "South Korea’s LetinAR is building optics behind AI glasses",
     "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
     "source": "TechCrunch",
@@ -117,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -6537801747793318161,
-    "title": "could refusal layers be masking dialect-conditioned safety failures in MoE models [d]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tggu0j/could_refusal_layers_be_masking/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-18T08:58:39",
-    "saved": false
-  },
-  {
-    "id": 4119244499647419761,
+    "id": -5087691286739076905,
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
     "source": "TechCrunch",
@@ -135,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1643219798506845981,
+    "id": -3580757960723163681,
     "title": "Slop is making me feel disconnected from AI Research [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tfv0vh/slop_is_making_me_feel_disconnected_from_ai/",
     "source": "Reddit ML",
@@ -144,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5287341886682387960,
+    "id": 4725633563583036547,
     "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
     "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
     "source": "TechCrunch",
@@ -153,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 4934420931546473834,
+    "id": -2253296044290974841,
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
     "source": "TechCrunch",
@@ -162,66 +153,12 @@
     "saved": false
   },
   {
-    "id": -6266226661901684890,
-    "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tfpvod/recent_developments_in_llm_architectures_kv/",
-    "source": "Reddit ML",
+    "id": 587505573958645825,
+    "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+    "link": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-17T13:41:01",
-    "saved": false
-  },
-  {
-    "id": 6789186510891489985,
-    "title": "The haves and have-nots of the AI gold rush",
-    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-16T20:17:16",
-    "saved": false
-  },
-  {
-    "id": 3056665627561410730,
-    "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-    "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-16T19:26:14",
-    "saved": false
-  },
-  {
-    "id": -6128726837803573958,
-    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-16T18:54:28",
-    "saved": false
-  },
-  {
-    "id": -1799782330148649865,
-    "title": "The offline desk gadget that actually got me to sit up straight",
-    "link": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-16T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -4773551063727272898,
-    "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-16T15:33:33",
-    "saved": false
-  },
-  {
-    "id": -3096598687019788052,
-    "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-    "link": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-16T15:00:00",
+    "date": "2026-05-17T15:52:21",
     "saved": false
   }
 ]

@@ -1,33 +1,141 @@
 [
   {
-    "id": 1940811550439917386,
-    "title": "Forget the feed: Status AI raises $17M to turn social media into interactive entertainment",
-    "link": "https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-19T14:00:00",
+    "id": 5097514385754497893,
+    "title": "Railway Blocked by Google Cloud",
+    "link": "https://status.railway.com/?date=20260519",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-20T00:23:54",
     "saved": false
   },
   {
-    "id": -3620658787108953832,
-    "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-    "link": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-19T12:00:00",
+    "id": 1557818999093514894,
+    "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+    "link": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-19T22:30:31",
     "saved": false
   },
   {
-    "id": -6334570987022825276,
-    "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
-    "link": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+    "id": -4084712187565040389,
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-05-19T10:00:00",
+    "date": "2026-05-19T21:33:30",
     "saved": false
   },
   {
-    "id": 464651634501796548,
+    "id": 5923414489370384856,
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T21:25:31",
+    "saved": false
+  },
+  {
+    "id": -70697317906518533,
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T21:16:25",
+    "saved": false
+  },
+  {
+    "id": -7466157621556629767,
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "link": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T21:08:51",
+    "saved": false
+  },
+  {
+    "id": 5358773240878006808,
+    "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T20:11:00",
+    "saved": false
+  },
+  {
+    "id": -2096364866238472792,
+    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "link": "https://openai.com/index/advancing-content-provenance/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-19T19:34:30",
+    "saved": false
+  },
+  {
+    "id": 7096725588699269422,
+    "title": "Mistral AI acquires Emmi AI",
+    "link": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-19T19:14:12",
+    "saved": false
+  },
+  {
+    "id": 67129847543590170,
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T17:51:30",
+    "saved": false
+  },
+  {
+    "id": 2987070181844851336,
+    "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+    "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T17:45:00",
+    "saved": false
+  },
+  {
+    "id": -5458919400146832672,
+    "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+    "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T17:45:00",
+    "saved": false
+  },
+  {
+    "id": -3863244763448833358,
+    "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T17:45:00",
+    "saved": false
+  },
+  {
+    "id": 4011736527222181552,
+    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-19T17:45:00",
+    "saved": false
+  },
+  {
+    "id": -4174142100639900496,
+    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "link": "https://github.com/antoinezambelli/forge",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-19T12:23:07",
+    "saved": false
+  },
+  {
+    "id": 1432022862684908481,
     "title": "A Simple Solution to Improve Broken Peer Review System at AI Conferences [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1the441/a_simple_solution_to_improve_broken_peer_review/",
     "source": "Reddit ML",
@@ -36,52 +144,7 @@
     "saved": false
   },
   {
-    "id": -2399412748761677717,
-    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "link": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-19T05:04:49",
-    "saved": false
-  },
-  {
-    "id": 8614069803718067598,
-    "title": "Architecture advice: Real-time pipeline for YouTube Audio -> Whisper -> LLM -> SSE (Sub-10s latency) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1th713c/architecture_advice_realtime_pipeline_for_youtube/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-19T00:45:19",
-    "saved": false
-  },
-  {
-    "id": -8990038248098757984,
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-18T19:27:52",
-    "saved": false
-  },
-  {
-    "id": -4366460158763215292,
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-18T17:34:43",
-    "saved": false
-  },
-  {
-    "id": -4452006919243519267,
-    "title": "Anthropic acquires Stainless",
-    "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-18T17:01:21",
-    "saved": false
-  },
-  {
-    "id": 7921976137112388860,
+    "id": -4190597101426100130,
     "title": "AI/ML Ethicists [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tgqybv/aiml_ethicists_d/",
     "source": "Reddit ML",
@@ -90,75 +153,12 @@
     "saved": false
   },
   {
-    "id": 6178565263871538195,
-    "title": "Kin Health raises $9M to build an AI notetaker for patients",
-    "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-18T15:26:00",
-    "saved": false
-  },
-  {
-    "id": -64958259570715112,
-    "title": "Scaling LLMs horizontally: hidden-state coupling without weight modification [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tgm530/scaling_llms_horizontally_hiddenstate_coupling/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-18T13:08:37",
-    "saved": false
-  },
-  {
-    "id": 6956358548158924039,
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-18T11:00:00",
-    "saved": false
-  },
-  {
-    "id": -5087691286739076905,
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-17T19:46:34",
-    "saved": false
-  },
-  {
-    "id": -3580757960723163681,
-    "title": "Slop is making me feel disconnected from AI Research [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tfv0vh/slop_is_making_me_feel_disconnected_from_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-17T16:55:37",
-    "saved": false
-  },
-  {
-    "id": 4725633563583036547,
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-17T16:32:04",
-    "saved": false
-  },
-  {
-    "id": -2253296044290974841,
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-17T16:05:00",
-    "saved": false
-  },
-  {
-    "id": 587505573958645825,
-    "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-    "link": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+    "id": -8874145194696497600,
+    "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+    "link": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-17T15:52:21",
+    "date": "2026-05-17T15:22:10",
     "saved": false
   }
 ]

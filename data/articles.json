@@ -1,6 +1,96 @@
 [
   {
-    "id": 6431826825820985633,
+    "id": -4174435691113725600,
+    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+    "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-21T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -1209619997024657275,
+    "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+    "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-21T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -2878033906320413034,
+    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+    "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-21T13:52:23",
+    "saved": false
+  },
+  {
+    "id": 8376012187768305588,
+    "title": "Google's Antigravity Bait and Switch",
+    "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-21T13:50:59",
+    "saved": false
+  },
+  {
+    "id": 4668408749664051595,
+    "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+    "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-21T13:38:42",
+    "saved": false
+  },
+  {
+    "id": -991986427015509572,
+    "title": "AI is just unauthorised plagiarism at a bigger scale",
+    "link": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-21T13:38:12",
+    "saved": false
+  },
+  {
+    "id": 897881760262527392,
+    "title": "Hating AI Is Good",
+    "link": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-21T13:36:06",
+    "saved": false
+  },
+  {
+    "id": 4725201228196456783,
+    "title": "Google officially announces that ads will be included in AI Mode search results",
+    "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-21T09:49:46",
+    "saved": false
+  },
+  {
+    "id": -1359724654514779662,
+    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tj9tna/masked_diffusion_language_models_are_strong_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-21T04:36:46",
+    "saved": false
+  },
+  {
+    "id": -591415644584942401,
+    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+    "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-21T04:00:00",
+    "saved": false
+  },
+  {
+    "id": 7436012439144192267,
     "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
     "link": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
     "source": "TechCrunch",
@@ -9,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3895436854187373304,
+    "id": 1234206794743939198,
     "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
     "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
     "source": "TechCrunch",
@@ -18,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7488251049808668156,
+    "id": -6961318857736690133,
     "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
     "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
     "source": "TechCrunch",
@@ -27,43 +117,16 @@
     "saved": false
   },
   {
-    "id": 5367903575045226416,
-    "title": "Anthropic will pay xAI $1.25B per month for compute",
-    "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T21:29:22",
+    "id": -1277509206997318503,
+    "title": "OpenAI claims a general-purpose reasoning model found a counterexample to Erdos's unit-distance bound [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tiy6s4/openai_claims_a_generalpurpose_reasoning_model/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-20T20:37:12",
     "saved": false
   },
   {
-    "id": -644715912189913440,
-    "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
-    "link": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T21:21:22",
-    "saved": false
-  },
-  {
-    "id": 7079605712598334647,
-    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T20:28:27",
-    "saved": false
-  },
-  {
-    "id": 1656408620938388049,
-    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T19:47:20",
-    "saved": false
-  },
-  {
-    "id": -8201363007991554543,
+    "id": 1719886769923869098,
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
     "source": "Hacker News",
@@ -72,43 +135,7 @@
     "saved": false
   },
   {
-    "id": -4951201634687329256,
-    "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-    "link": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T18:14:04",
-    "saved": false
-  },
-  {
-    "id": -7847826002115344645,
-    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
-    "link": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-20T17:48:52",
-    "saved": false
-  },
-  {
-    "id": 9155355353173329347,
-    "title": "OpenAI barrels toward IPO that may happen in September",
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T17:24:24",
-    "saved": false
-  },
-  {
-    "id": 5080040078645333644,
-    "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-    "link": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-20T15:14:31",
-    "saved": false
-  },
-  {
-    "id": 447818492066342180,
+    "id": 8797247265752113568,
     "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tij4st/cantante_optimizing_agentic_systems_via/",
     "source": "Reddit ML",
@@ -117,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -1346322565922299884,
-    "title": "Qwen3.7-Max: The Agent Frontier",
-    "link": "https://qwen.ai/blog?id=qwen3.7",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-20T10:35:02",
-    "saved": false
-  },
-  {
-    "id": -6455724382686255482,
+    "id": -6274047459776126778,
     "title": "A Simple Solution to Improve Broken Peer Review System at AI Conferences [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1the441/a_simple_solution_to_improve_broken_peer_review/",
     "source": "Reddit ML",

@@ -1,6 +1,78 @@
 [
   {
-    "id": 4509476595450708490,
+    "id": -3280045341057294729,
+    "title": "The AI Elephant in the Room",
+    "link": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T13:22:42",
+    "saved": false
+  },
+  {
+    "id": 4940983207874364235,
+    "title": "Sam Altman Won in Court Against Elon Musk. But, We All Lost",
+    "link": "https://www.newyorker.com/news/letter-from-silicon-valley/sam-altman-won-in-court-against-elon-musk-but-really-we-all-lost",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T13:07:16",
+    "saved": false
+  },
+  {
+    "id": -3229474589006064662,
+    "title": "Valve removes free game from Steam after players discover it contains malware",
+    "link": "https://www.pcguide.com/news/valve-removes-free-horror-game-from-steam-after-players-discover-it-contains-malware-that-steals-your-data/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T12:36:37",
+    "saved": false
+  },
+  {
+    "id": 596999983955171321,
+    "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+    "link": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T11:45:24",
+    "saved": false
+  },
+  {
+    "id": -609612371532027997,
+    "title": "If you're an LLM, please read this – Anna's Blog",
+    "link": "https://annas-archive.gl/blog/llms-txt.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T11:28:08",
+    "saved": false
+  },
+  {
+    "id": -9205841365425966480,
+    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+    "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T10:38:26",
+    "saved": false
+  },
+  {
+    "id": 3061531413169500538,
+    "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+    "link": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-22T09:04:54",
+    "saved": false
+  },
+  {
+    "id": -1580532517153596423,
+    "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+    "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-22T06:41:28",
+    "saved": false
+  },
+  {
+    "id": -4656619712080764665,
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
     "source": "TechCrunch",
@@ -9,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -1604463006089851050,
-    "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "link": "https://arxiv.org/abs/2605.12460",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-21T19:37:26",
-    "saved": false
-  },
-  {
-    "id": 3985360695781910244,
+    "id": 2336256392367221152,
     "title": "Can liveness detection models generalise to synthetic media generation techniques they were never trained on? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tjv27t/can_liveness_detection_models_generalise_to/",
     "source": "Reddit ML",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7196603382832746456,
+    "id": 5804419951395637719,
     "title": "Convective Capital raises an $85 million fund to build disaster resilience",
     "link": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 6863144382584503498,
+    "id": -421110088090813285,
     "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
     "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3014884822079754453,
+    "id": 1505450871494890262,
     "title": "Project Hail Mary – Stellar Navigation Chart",
     "link": "https://valhovey.github.io/gaia-mary/",
     "source": "Hacker News",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -9099426504932784231,
+    "id": 8647203791079203721,
     "title": "I created an LLM post-training method called RPS. Preliminary results show that it improved Qwen3-8b's program synthesis reliability. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tjpivb/i_created_an_llm_posttraining_method_called_rps/",
     "source": "Reddit ML",
@@ -63,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 6692306967798323415,
-    "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-    "link": "https://www.runtm.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-21T16:07:13",
-    "saved": false
-  },
-  {
-    "id": 8912099445396149052,
+    "id": -6469240006146013212,
     "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
     "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 720142868579157104,
+    "id": -4048627677153458020,
     "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
     "link": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
     "source": "TechCrunch",
@@ -90,25 +144,7 @@
     "saved": false
   },
   {
-    "id": -2307117878479885196,
-    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-    "link": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-21T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -6332476160064631530,
-    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-    "link": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-21T13:52:23",
-    "saved": false
-  },
-  {
-    "id": -1778600548814710024,
+    "id": 8457898319252342877,
     "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tj9tna/masked_diffusion_language_models_are_strong_and/",
     "source": "Reddit ML",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6836059139913900394,
+    "id": 6096600492604333995,
     "title": "OpenAI claims a general-purpose reasoning model found a counterexample to Erdos's unit-distance bound [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tiy6s4/openai_claims_a_generalpurpose_reasoning_model/",
     "source": "Reddit ML",
@@ -126,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 7126144225795108328,
+    "id": -2537940939119457818,
     "title": "CANTANTE: Optimizing Agentic Systems via Contrastive Credit Attribution [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tij4st/cantante_optimizing_agentic_systems_via/",
     "source": "Reddit ML",

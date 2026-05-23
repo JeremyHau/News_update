@@ -1,24 +1,15 @@
 [
   {
-    "id": 4851265022863481011,
-    "title": "LQS v3.1 — an open methodology for rating AI training data (multi-oracle consensus + signed certificates) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tl25aw/lqs_v31_an_open_methodology_for_rating_ai/",
+    "id": 815754771458347296,
+    "title": "Is personalized AI memory actually a problem worth solving or am I just coping[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tl9y7h/is_personalized_ai_memory_actually_a_problem/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-05-23T01:21:49",
+    "date": "2026-05-23T07:47:21",
     "saved": false
   },
   {
-    "id": 636484637741154705,
-    "title": "Looking for arXiv endorsement + sharing a preprint on homeostatic cognitive architecture for AI companions [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tl0k3z/looking_for_arxiv_endorsement_sharing_a_preprint/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-23T00:11:30",
-    "saved": false
-  },
-  {
-    "id": 7525227259115380080,
+    "id": 960129152438441700,
     "title": "AI is being used to resurrect the voices of dead pilots",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "source": "TechCrunch",
@@ -27,7 +18,7 @@
     "saved": false
   },
   {
-    "id": -6006916839167897499,
+    "id": -2281286898422532897,
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "source": "TechCrunch",
@@ -36,34 +27,7 @@
     "saved": false
   },
   {
-    "id": -1125109972721223933,
-    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "link": "https://github.com/anomalyco/models.dev",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-22T20:26:07",
-    "saved": false
-  },
-  {
-    "id": 4104057975909946490,
-    "title": "Open source Kanban desktop app that runs parallel agents on every card",
-    "link": "https://www.kanbots.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-22T18:17:57",
-    "saved": false
-  },
-  {
-    "id": 3241119952318259834,
-    "title": "1940 Air Terminal Museum Begins Liquidation",
-    "link": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-22T17:05:32",
-    "saved": false
-  },
-  {
-    "id": 7945483602060565529,
+    "id": -437366519556897685,
     "title": "CISA tries to contain data leak",
     "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "source": "Hacker News",
@@ -72,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -3151738341798921053,
+    "id": -25127383137624446,
     "title": "Spotify’s AI bet: more of everything, less of what you want",
     "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
     "source": "TechCrunch",
@@ -81,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -4601133109392035272,
+    "id": 5612929702170007701,
     "title": "We tried Google’s AI glasses and they’re almost there",
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "source": "TechCrunch",
@@ -90,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 6094194480214252029,
-    "title": "I’m writing again",
-    "link": "https://www.cringely.com/2026/05/21/im-writing-again/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-22T14:36:27",
-    "saved": false
-  },
-  {
-    "id": -3079709772958348631,
+    "id": -6732266212537478066,
     "title": "SpaceX files to go public, and the math requires a little faith",
     "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
     "source": "TechCrunch",
@@ -108,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -7096229947655616479,
-    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-    "link": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-22T10:38:26",
-    "saved": false
-  },
-  {
-    "id": -8088848003575258460,
+    "id": 3255399983678136898,
     "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
     "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
     "source": "TechCrunch",
@@ -126,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2060156960195827530,
+    "id": -1230924165286514395,
     "title": "Can liveness detection models generalise to synthetic media generation techniques they were never trained on? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tjv27t/can_liveness_detection_models_generalise_to/",
     "source": "Reddit ML",
@@ -135,7 +81,16 @@
     "saved": false
   },
   {
-    "id": -3324507522672495227,
+    "id": -7331185609628879359,
+    "title": "I created an LLM post-training method called RPS. Preliminary results show that it improved Qwen3-8b's program synthesis reliability. [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tjpivb/i_created_an_llm_posttraining_method_called_rps/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-21T16:19:20",
+    "saved": false
+  },
+  {
+    "id": 6134791929097741544,
     "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tj9tna/masked_diffusion_language_models_are_strong_and/",
     "source": "Reddit ML",
@@ -144,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8104212629624318142,
+    "id": 6435705878110263195,
     "title": "OpenAI claims a general-purpose reasoning model found a counterexample to Erdos's unit-distance bound [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tiy6s4/openai_claims_a_generalpurpose_reasoning_model/",
     "source": "Reddit ML",

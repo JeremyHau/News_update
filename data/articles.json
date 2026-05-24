@@ -1,6 +1,69 @@
 [
   {
-    "id": 815754771458347296,
+    "id": -841095306715023251,
+    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
+    "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-23T20:03:13",
+    "saved": false
+  },
+  {
+    "id": 7986605045477520864,
+    "title": "I fine-tuned an LLM to be C-3PO to test which training data format works best for persona injection [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tlnvf0/i_finetuned_an_llm_to_be_c3po_to_test_which/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-23T18:15:35",
+    "saved": false
+  },
+  {
+    "id": 7989698886674565044,
+    "title": "AgentLantern: exposing the hidden graph of AI agent projects [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tlmw03/agentlantern_exposing_the_hidden_graph_of_ai/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-23T17:38:02",
+    "saved": false
+  },
+  {
+    "id": 6676266760262295116,
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-23T15:08:00",
+    "saved": false
+  },
+  {
+    "id": 8163195212829041791,
+    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+    "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-23T14:50:00",
+    "saved": false
+  },
+  {
+    "id": -6307128554766294995,
+    "title": "Hebbian architecture AI model [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tlgcyf/hebbian_architecture_ai_model_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-23T13:21:11",
+    "saved": false
+  },
+  {
+    "id": 5864326319975008661,
+    "title": "Alignment: Higher order prioritizing over constraints [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tlg2ot/alignment_higher_order_prioritizing_over/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-23T13:09:14",
+    "saved": false
+  },
+  {
+    "id": -5825098844972486535,
     "title": "Is personalized AI memory actually a problem worth solving or am I just coping[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tl9y7h/is_personalized_ai_memory_actually_a_problem/",
     "source": "Reddit ML",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 960129152438441700,
+    "id": -3357263646255875618,
     "title": "AI is being used to resurrect the voices of dead pilots",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "source": "TechCrunch",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2281286898422532897,
+    "id": -496348036356654754,
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "source": "TechCrunch",
@@ -27,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -437366519556897685,
-    "title": "CISA tries to contain data leak",
-    "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-22T16:54:31",
-    "saved": false
-  },
-  {
-    "id": -25127383137624446,
+    "id": 7557674820199640249,
     "title": "Spotify’s AI bet: more of everything, less of what you want",
     "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 5612929702170007701,
+    "id": -2399057827578907588,
     "title": "We tried Google’s AI glasses and they’re almost there",
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -6732266212537478066,
+    "id": 7702527974226884448,
     "title": "SpaceX files to go public, and the math requires a little faith",
     "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
     "source": "TechCrunch",
@@ -63,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 3255399983678136898,
-    "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
-    "link": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-22T06:41:28",
-    "saved": false
-  },
-  {
-    "id": -1230924165286514395,
+    "id": -8881093048965250292,
     "title": "Can liveness detection models generalise to synthetic media generation techniques they were never trained on? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tjv27t/can_liveness_detection_models_generalise_to/",
     "source": "Reddit ML",
@@ -81,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -7331185609628879359,
-    "title": "I created an LLM post-training method called RPS. Preliminary results show that it improved Qwen3-8b's program synthesis reliability. [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tjpivb/i_created_an_llm_posttraining_method_called_rps/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-21T16:19:20",
-    "saved": false
-  },
-  {
-    "id": 6134791929097741544,
-    "title": "Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tj9tna/masked_diffusion_language_models_are_strong_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-21T04:36:46",
-    "saved": false
-  },
-  {
-    "id": 6435705878110263195,
+    "id": -7838453641188457259,
     "title": "OpenAI claims a general-purpose reasoning model found a counterexample to Erdos's unit-distance bound [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tiy6s4/openai_claims_a_generalpurpose_reasoning_model/",
     "source": "Reddit ML",

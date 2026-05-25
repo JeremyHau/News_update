@@ -1,15 +1,60 @@
 [
   {
-    "id": -3000441155037164237,
-    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-    "link": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-    "source": "Hacker News",
+    "id": -5098289534648790987,
+    "title": "Sponsio: Deterministic Contract Layer for LLM Agents [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tmtv1g/sponsio_deterministic_contract_layer_for_llm/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-05-24T08:29:38",
+    "date": "2026-05-25T01:02:20",
     "saved": false
   },
   {
-    "id": 6002652238048819443,
+    "id": -4096734683923378799,
+    "title": "\"AI solved one of math's greatest challenges, but it cannot add two numbers reliably?!\" [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tmrd2z/ai_solved_one_of_maths_greatest_challenges_but_it/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-24T23:12:53",
+    "saved": false
+  },
+  {
+    "id": -3525342956332283751,
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-24T21:39:21",
+    "saved": false
+  },
+  {
+    "id": 3447607507369304423,
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "link": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-24T16:31:29",
+    "saved": false
+  },
+  {
+    "id": -1498993121959623912,
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-24T13:02:06",
+    "saved": false
+  },
+  {
+    "id": 4922507738060862919,
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "link": "https://arxiv.org/abs/2605.06445",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-24T12:55:53",
+    "saved": false
+  },
+  {
+    "id": -1776737921603933032,
     "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
     "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 8424831402179817503,
+    "id": 9190746851811061555,
     "title": "I fine-tuned an LLM to be C-3PO to test which training data format works best for persona injection [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tlnvf0/i_finetuned_an_llm_to_be_c3po_to_test_which/",
     "source": "Reddit ML",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7444671373384619958,
+    "id": -4134906639606081303,
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -1143109082191862487,
+    "id": -6228187880656537820,
     "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
     "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -826162294697658486,
+    "id": 6582530506533110524,
     "title": "Is personalized AI memory actually a problem worth solving or am I just coping[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tl9y7h/is_personalized_ai_memory_actually_a_problem/",
     "source": "Reddit ML",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7539248769591786536,
+    "id": -4829345436402573303,
     "title": "AI is being used to resurrect the voices of dead pilots",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2265823983372187625,
+    "id": -1307938352595592587,
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "source": "TechCrunch",
@@ -72,48 +117,12 @@
     "saved": false
   },
   {
-    "id": -6189112675418733691,
+    "id": 6912401496537282094,
     "title": "Spotify’s AI bet: more of everything, less of what you want",
     "link": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-05-22T16:18:10",
-    "saved": false
-  },
-  {
-    "id": -5560560091085458369,
-    "title": "We tried Google’s AI glasses and they’re almost there",
-    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-22T15:37:15",
-    "saved": false
-  },
-  {
-    "id": -4907412164997289722,
-    "title": "SpaceX files to go public, and the math requires a little faith",
-    "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-22T14:30:00",
-    "saved": false
-  },
-  {
-    "id": 7095090003273425166,
-    "title": "Can liveness detection models generalise to synthetic media generation techniques they were never trained on? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tjv27t/can_liveness_detection_models_generalise_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-21T19:24:45",
-    "saved": false
-  },
-  {
-    "id": -3859805010762078185,
-    "title": "OpenAI claims a general-purpose reasoning model found a counterexample to Erdos's unit-distance bound [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tiy6s4/openai_claims_a_generalpurpose_reasoning_model/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-20T20:37:12",
     "saved": false
   }
 ]

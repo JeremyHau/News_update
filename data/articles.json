@@ -1,6 +1,69 @@
 [
   {
-    "id": -5055862319904691825,
+    "id": -6607209080165599012,
+    "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+    "link": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-27T00:00:35",
+    "saved": false
+  },
+  {
+    "id": 9187028516659689784,
+    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+    "link": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-26T23:02:59",
+    "saved": false
+  },
+  {
+    "id": -5461647036559447953,
+    "title": "Trouble exploring in ai/ml,idk where to being with [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tomqcs/trouble_exploring_in_aimlidk_where_to_being_with_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-26T22:38:07",
+    "saved": false
+  },
+  {
+    "id": 5691687620309744557,
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-26T22:32:56",
+    "saved": false
+  },
+  {
+    "id": 2752232687050359830,
+    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+    "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-26T18:48:04",
+    "saved": false
+  },
+  {
+    "id": 818936655956731221,
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-26T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -4608749965922444773,
+    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+    "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-26T14:55:05",
+    "saved": false
+  },
+  {
+    "id": 8995272206684208661,
     "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
     "link": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
     "source": "Hacker News",
@@ -9,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 4304653402359811507,
-    "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
-    "link": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-26T12:08:33",
-    "saved": false
-  },
-  {
-    "id": -503100229686446276,
+    "id": -794112247301199008,
     "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
     "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
     "source": "TechCrunch",
@@ -27,25 +81,7 @@
     "saved": false
   },
   {
-    "id": -4800571335170886918,
-    "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
-    "link": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-26T11:46:10",
-    "saved": false
-  },
-  {
-    "id": -3054113206039689636,
-    "title": "GitHub Actions down again today",
-    "link": "https://www.githubstatus.com/?today",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-26T11:42:58",
-    "saved": false
-  },
-  {
-    "id": -2207156271283794741,
+    "id": 814199798745421578,
     "title": "[D] Where do you go for serious AI research discussion online? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/",
     "source": "Reddit ML",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -3828075286836234076,
-    "title": "Using AI to write better code more slowly",
-    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-25T23:16:59",
-    "saved": false
-  },
-  {
-    "id": -7412573816181132680,
+    "id": -3161797960035705215,
     "title": "Aiki my local Wikipedia Retrieval-Augmented Generation system [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/",
     "source": "Reddit ML",
@@ -72,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 6635746511398563267,
-    "title": "A successful Japanese trial of a ramjet engine designed for Mach‑5 aircraft",
-    "link": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-25T19:43:45",
-    "saved": false
-  },
-  {
-    "id": 323665390893248683,
+    "id": 335156580118897934,
     "title": "The famous METR AI time horizons graph contains numerous severe errors [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/",
     "source": "Reddit ML",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8772448813316010153,
+    "id": 6113796732196917706,
     "title": "Reconstructing the agent methodology: Decoupling decision-making and execution - open source [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tnfxsc/reconstructing_the_agent_methodology_decoupling/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8583476850726744723,
+    "id": -5799359506175722208,
     "title": "The pope’s AI encyclical isn’t really about AI",
     "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
     "source": "TechCrunch",
@@ -108,48 +126,12 @@
     "saved": false
   },
   {
-    "id": -1608128258734714592,
-    "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-    "link": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-25T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 4317846004807216930,
-    "title": "Everyone is navigating AI security in real time — even Google",
-    "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-24T21:39:21",
-    "saved": false
-  },
-  {
-    "id": 673418218703164735,
-    "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-    "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-23T20:03:13",
-    "saved": false
-  },
-  {
-    "id": -3258574784097792613,
-    "title": "Ferrari is using IBM’s AI to create F1 superfans",
-    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-23T15:08:00",
-    "saved": false
-  },
-  {
-    "id": -1040129662206598136,
-    "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
-    "link": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-23T14:50:00",
+    "id": -4615708065308385989,
+    "title": "Liverpool and Manchester Railway",
+    "link": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-24T15:56:26",
     "saved": false
   }
 ]

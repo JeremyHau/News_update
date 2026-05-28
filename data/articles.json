@@ -1,6 +1,105 @@
 [
   {
-    "id": -4916640015787632310,
+    "id": -7866476262307720963,
+    "title": "Rivian under investigation over rear suspension failures on R1 models",
+    "link": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T14:41:56",
+    "saved": false
+  },
+  {
+    "id": 5247869579557132198,
+    "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
+    "link": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T14:30:00",
+    "saved": false
+  },
+  {
+    "id": -5226196027190277517,
+    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
+    "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T14:28:47",
+    "saved": false
+  },
+  {
+    "id": 2497864406043048503,
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 824862206484102278,
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "link": "https://llmgame.scalex.dev",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-28T13:02:00",
+    "saved": false
+  },
+  {
+    "id": 3815137289207474501,
+    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+    "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -7248751615561145246,
+    "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+    "link": "https://lenz.io/research/llm-disagreement",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-28T12:20:19",
+    "saved": false
+  },
+  {
+    "id": 2115390853486938541,
+    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+    "link": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-28T10:56:55",
+    "saved": false
+  },
+  {
+    "id": -5903385016034595344,
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T07:00:00",
+    "saved": false
+  },
+  {
+    "id": -2081219035281843018,
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "link": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-28T06:40:31",
+    "saved": false
+  },
+  {
+    "id": -2116339349909455322,
+    "title": "Training GPT-like model on non-language series [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tprt80/training_gptlike_model_on_nonlanguage_series_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-28T03:31:08",
+    "saved": false
+  },
+  {
+    "id": -4528720106922856510,
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
     "source": "TechCrunch",
@@ -9,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3390502503526144736,
+    "id": 4863258517522001473,
     "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
     "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
     "source": "TechCrunch",
@@ -18,7 +117,16 @@
     "saved": false
   },
   {
-    "id": 7859620766063739678,
+    "id": 6679182123255343261,
+    "title": "UK GDPR Small Business Q&A — 5,000 synthetic pairs with article-level citations [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tpinnw/uk_gdpr_small_business_qa_5000_synthetic_pairs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-27T21:06:15",
+    "saved": false
+  },
+  {
+    "id": 2795989887869834696,
     "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
     "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
     "source": "TechCrunch",
@@ -27,7 +135,16 @@
     "saved": false
   },
   {
-    "id": 2274674335959093507,
+    "id": -2962096017231375759,
+    "title": "I used the N.E.A.T algorithm to teach AI how to control a worm in my game in making! It uses evolution to improve. [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tpgyra/i_used_the_neat_algorithm_to_teach_ai_how_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-27T20:04:55",
+    "saved": false
+  },
+  {
+    "id": 3430282310633505439,
     "title": "YouTube to automatically label AI-generated videos",
     "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
     "source": "Hacker News",
@@ -36,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -1889370677447981944,
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
-    "link": "https://sverre.me/blog/rust-on-kindle/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-27T19:51:47",
-    "saved": false
-  },
-  {
-    "id": -110035764978758395,
+    "id": -2480629660759479004,
     "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
     "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
     "source": "TechCrunch",
@@ -54,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 3097819081114400194,
+    "id": 3701334040724429234,
     "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
     "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
     "source": "TechCrunch",
@@ -63,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 8010127822267217541,
+    "id": -2935626213090641630,
     "title": "[R] What 1000+ Harness Experiments Taught Me About Self-Improving Agents [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tpbp7m/r_what_1000_harness_experiments_taught_me_about/",
     "source": "Reddit ML",
@@ -72,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -3062413927269073755,
+    "id": -6050174914251784451,
     "title": "I think Anthropic and OpenAI have found product-market fit",
     "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
     "source": "Hacker News",
@@ -81,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 7528166593191726301,
+    "id": 5929427713372275586,
     "title": "AI-generated CUDA kernels silently break training and inference [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/",
     "source": "Reddit ML",
@@ -90,43 +198,7 @@
     "saved": false
   },
   {
-    "id": -7081231720896727396,
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-27T16:28:41",
-    "saved": false
-  },
-  {
-    "id": -7127802105904338877,
-    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 5614531165399374135,
-    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-    "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T15:20:16",
-    "saved": false
-  },
-  {
-    "id": 5399776152727163763,
-    "title": "China is increasingly keeping its best AI talent to itself",
-    "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T13:48:41",
-    "saved": false
-  },
-  {
-    "id": 6087393447043819319,
+    "id": 4564337999897069938,
     "title": "Cross-species RSA: same learning rules (BP, PC, STDP, FA) tested against both human fMRI and macaque electrophysiology [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tp36qb/crossspecies_rsa_same_learning_rules_bp_pc_stdp/",
     "source": "Reddit ML",
@@ -135,48 +207,12 @@
     "saved": false
   },
   {
-    "id": 1592595520634912929,
+    "id": 833982979734811237,
     "title": "Profiling PyTorch training without accidentally stalling the GPU [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-27T11:24:46",
-    "saved": false
-  },
-  {
-    "id": -8326634899680987544,
-    "title": "A Tiny Open-Source Self-Driving AI That Runs on a Phone [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1towqqf/a_tiny_opensource_selfdriving_ai_that_runs_on_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-27T06:04:14",
-    "saved": false
-  },
-  {
-    "id": 4070984731592778960,
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-    "link": "https://arps18.github.io/posts/claude-code-mastery/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-27T05:13:39",
-    "saved": false
-  },
-  {
-    "id": 4412304957279201367,
-    "title": "[D] Where do you go for serious AI research discussion online? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-26T10:12:59",
-    "saved": false
-  },
-  {
-    "id": 6376660218500953150,
-    "title": "The famous METR AI time horizons graph contains numerous severe errors [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-25T18:30:21",
     "saved": false
   }
 ]

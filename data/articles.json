@@ -1,6 +1,123 @@
 [
   {
-    "id": -5450027653797447260,
+    "id": -4916640015787632310,
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-28T00:17:41",
+    "saved": false
+  },
+  {
+    "id": 3390502503526144736,
+    "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+    "link": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-27T21:11:15",
+    "saved": false
+  },
+  {
+    "id": 7859620766063739678,
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-27T20:10:00",
+    "saved": false
+  },
+  {
+    "id": 2274674335959093507,
+    "title": "YouTube to automatically label AI-generated videos",
+    "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-27T20:00:51",
+    "saved": false
+  },
+  {
+    "id": -1889370677447981944,
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "link": "https://sverre.me/blog/rust-on-kindle/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-27T19:51:47",
+    "saved": false
+  },
+  {
+    "id": -110035764978758395,
+    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-27T18:00:00",
+    "saved": false
+  },
+  {
+    "id": 3097819081114400194,
+    "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+    "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-27T17:54:28",
+    "saved": false
+  },
+  {
+    "id": 8010127822267217541,
+    "title": "[R] What 1000+ Harness Experiments Taught Me About Self-Improving Agents [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tpbp7m/r_what_1000_harness_experiments_taught_me_about/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-27T17:02:55",
+    "saved": false
+  },
+  {
+    "id": -3062413927269073755,
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "link": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-27T16:39:13",
+    "saved": false
+  },
+  {
+    "id": 7528166593191726301,
+    "title": "AI-generated CUDA kernels silently break training and inference [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-27T16:35:33",
+    "saved": false
+  },
+  {
+    "id": -7081231720896727396,
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-27T16:28:41",
+    "saved": false
+  },
+  {
+    "id": -7127802105904338877,
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-27T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 5614531165399374135,
+    "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
+    "link": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-27T15:20:16",
+    "saved": false
+  },
+  {
+    "id": 5399776152727163763,
     "title": "China is increasingly keeping its best AI talent to itself",
     "link": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
     "source": "TechCrunch",
@@ -9,34 +126,7 @@
     "saved": false
   },
   {
-    "id": 1166676403795285135,
-    "title": "YouTube will now automatically label AI videos",
-    "link": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -3788747324026021396,
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "link": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T12:30:00",
-    "saved": false
-  },
-  {
-    "id": -2351226865072275477,
-    "title": "Robinhood now lets your AI agents trade stocks",
-    "link": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T12:30:00",
-    "saved": false
-  },
-  {
-    "id": 5179517486247499077,
+    "id": 6087393447043819319,
     "title": "Cross-species RSA: same learning rules (BP, PC, STDP, FA) tested against both human fMRI and macaque electrophysiology [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tp36qb/crossspecies_rsa_same_learning_rules_bp_pc_stdp/",
     "source": "Reddit ML",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 8693359443624112314,
+    "id": 1592595520634912929,
     "title": "Profiling PyTorch training without accidentally stalling the GPU [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/",
     "source": "Reddit ML",
@@ -54,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 603594689155825862,
-    "title": "I'm Tired of Talking to AI",
-    "link": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-27T10:43:25",
-    "saved": false
-  },
-  {
-    "id": -3357405274702086447,
-    "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
-    "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-27T08:00:00",
-    "saved": false
-  },
-  {
-    "id": -6091283630083421213,
+    "id": -8326634899680987544,
     "title": "A Tiny Open-Source Self-Driving AI That Runs on a Phone [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1towqqf/a_tiny_opensource_selfdriving_ai_that_runs_on_a/",
     "source": "Reddit ML",
@@ -81,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 2507290844892256452,
+    "id": 4070984731592778960,
     "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
     "link": "https://arps18.github.io/posts/claude-code-mastery/",
     "source": "Hacker News",
@@ -90,43 +162,7 @@
     "saved": false
   },
   {
-    "id": 6410215049890119708,
-    "title": "Trouble exploring in ai/ml,idk where to being with [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tomqcs/trouble_exploring_in_aimlidk_where_to_being_with_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-26T22:38:07",
-    "saved": false
-  },
-  {
-    "id": 531184179425790626,
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-26T22:32:56",
-    "saved": false
-  },
-  {
-    "id": -1426850258218595689,
-    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-    "link": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-26T18:48:04",
-    "saved": false
-  },
-  {
-    "id": -7973559468299295078,
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-26T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 8343275327030881963,
+    "id": 4412304957279201367,
     "title": "[D] Where do you go for serious AI research discussion online? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1to2l4c/d_where_do_you_go_for_serious_ai_research/",
     "source": "Reddit ML",
@@ -135,16 +171,7 @@
     "saved": false
   },
   {
-    "id": -4190992553565590470,
-    "title": "Aiki my local Wikipedia Retrieval-Augmented Generation system [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tnn89v/aiki_my_local_wikipedia_retrievalaugmented/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-25T21:56:57",
-    "saved": false
-  },
-  {
-    "id": -2264995184110669139,
+    "id": 6376660218500953150,
     "title": "The famous METR AI time horizons graph contains numerous severe errors [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tnhnh5/the_famous_metr_ai_time_horizons_graph_contains/",
     "source": "Reddit ML",

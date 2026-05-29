@@ -1,7 +1,79 @@
 [
   {
-    "id": -149041596855927946,
-    "title": "Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "id": 5074686807907072736,
+    "title": "Please Use AI",
+    "link": "https://shawnsmucker.substack.com/p/please-use-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-29T13:50:25",
+    "saved": false
+  },
+  {
+    "id": 623471484768776708,
+    "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+    "link": "https://github.com/scanaislop/aislop",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-29T13:37:38",
+    "saved": false
+  },
+  {
+    "id": -6833664852637318300,
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-29T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 4380967801827468898,
+    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
+    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-29T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -1038976395325573491,
+    "title": "Is This Sustainable?",
+    "link": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-29T10:14:43",
+    "saved": false
+  },
+  {
+    "id": -8067041671372732227,
+    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "link": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-29T09:47:23",
+    "saved": false
+  },
+  {
+    "id": -3814207741268129092,
+    "title": "Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-29T08:54:29",
+    "saved": false
+  },
+  {
+    "id": -7150995414000463102,
+    "title": "Making LLMs tell you how confident they really are through probe-targeted fine tuning.[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-29T05:15:10",
+    "saved": false
+  },
+  {
+    "id": 6535943818776684445,
+    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
     "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4239964474321448128,
+    "id": -832409028080504921,
     "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
     "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
     "source": "TechCrunch",
@@ -18,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 6343814523273857210,
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
-    "link": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-28T23:42:47",
-    "saved": false
-  },
-  {
-    "id": 6219918729530141724,
+    "id": -5592168311052361679,
     "title": "Social Simulation with LLMs - Fidelity in Applications (CFP @ COLM'26) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tqhdoe/social_simulation_with_llms_fidelity_in/",
     "source": "Reddit ML",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6601083653088206424,
+    "id": -4422394393217710988,
     "title": "Asana acquires no-code agent-builder StackAI",
     "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
     "source": "TechCrunch",
@@ -45,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 5459132140128079301,
-    "title": "Various LLM Smells",
-    "link": "https://shvbsle.in/various-llm-smells/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-28T19:02:18",
-    "saved": false
-  },
-  {
-    "id": 8246487456635861621,
+    "id": -1469044432485778055,
     "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
     "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7484705927974492767,
+    "id": 5387337898764644702,
     "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
     "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2693408792949340169,
+    "id": -3184350626112073963,
     "title": "Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tqaoio/your_agents_are_aging_too_agent_lifespan/",
     "source": "Reddit ML",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4680997423069218743,
+    "id": -1773046762661759824,
     "title": "Why Paris may be the most important AI city outside Silicon Valley",
     "link": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
     "source": "TechCrunch",
@@ -90,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 1879359149776753035,
-    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
-    "link": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-28T17:15:00",
-    "saved": false
-  },
-  {
-    "id": -625786768575394087,
+    "id": 6985717184770858306,
     "title": "Wall-OSS-0.5: 4B VLA with open training code and zero-shot real-robot evaluation[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tq8v8m/walloss05_4b_vla_with_open_training_code_and/",
     "source": "Reddit ML",
@@ -108,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 8829433225592698251,
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "link": "https://llmgame.scalex.dev",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-28T13:02:00",
-    "saved": false
-  },
-  {
-    "id": 8859773187281454103,
+    "id": -8185328239321900406,
     "title": "Training GPT-like model on non-language series [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tprt80/training_gptlike_model_on_nonlanguage_series_r/",
     "source": "Reddit ML",
@@ -126,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -987455122040621184,
-    "title": "UK GDPR Small Business Q&A — 5,000 synthetic pairs with article-level citations [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tpinnw/uk_gdpr_small_business_qa_5000_synthetic_pairs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-27T21:06:15",
-    "saved": false
-  },
-  {
-    "id": 3201396626221990778,
+    "id": 6626979023325681039,
     "title": "I used the N.E.A.T algorithm to teach AI how to control a worm in my game in making! It uses evolution to improve. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tpgyra/i_used_the_neat_algorithm_to_teach_ai_how_to/",
     "source": "Reddit ML",
@@ -144,16 +171,7 @@
     "saved": false
   },
   {
-    "id": -2553999560507625190,
-    "title": "[R] What 1000+ Harness Experiments Taught Me About Self-Improving Agents [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tpbp7m/r_what_1000_harness_experiments_taught_me_about/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-27T17:02:55",
-    "saved": false
-  },
-  {
-    "id": 1729303004324453786,
+    "id": -2012598193799125425,
     "title": "AI-generated CUDA kernels silently break training and inference [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tpaw6x/aigenerated_cuda_kernels_silently_break_training/",
     "source": "Reddit ML",
@@ -162,12 +180,30 @@
     "saved": false
   },
   {
-    "id": -3541400231859741975,
+    "id": 6859751478836705900,
     "title": "Profiling PyTorch training without accidentally stalling the GPU [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tp2nnw/profiling_pytorch_training_without_accidentally/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-27T11:24:46",
+    "saved": false
+  },
+  {
+    "id": -5364658638194704645,
+    "title": "Even (very) noisy LLM evaluators are useful for improving AI agents",
+    "link": "https://www.tensorzero.com/blog/even-very-noisy-llm-evaluators-are-useful-for-improving-ai-agents/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-27T07:49:56",
+    "saved": false
+  },
+  {
+    "id": 7272368092424891004,
+    "title": "Orchestrating AI code review at scale",
+    "link": "https://blog.cloudflare.com/ai-code-review/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-26T07:06:28",
     "saved": false
   }
 ]

@@ -1,15 +1,60 @@
 [
   {
-    "id": -3111277625230422456,
-    "title": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-    "link": "https://helios.southlondonscientific.com/",
+    "id": 939972576364529720,
+    "title": "Domain expertise has always been the real moat",
+    "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-30T11:08:37",
+    "date": "2026-05-30T20:40:57",
     "saved": false
   },
   {
-    "id": -1885683847232413459,
+    "id": -5642345672781913951,
+    "title": "OpenRouter raises $113M Series B",
+    "link": "https://openrouter.ai/announcements/series-b",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-30T17:27:28",
+    "saved": false
+  },
+  {
+    "id": -1399340236141262328,
+    "title": "Meta is reportedly developing an AI pendant",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-30T15:59:58",
+    "saved": false
+  },
+  {
+    "id": 7655318312476435293,
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-30T15:30:00",
+    "saved": false
+  },
+  {
+    "id": 2126310204462345970,
+    "title": "Workshop submission for main conference paper under review [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ts2m9n/workshop_submission_for_main_conference_paper/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-30T15:14:36",
+    "saved": false
+  },
+  {
+    "id": -4193376034278735945,
+    "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+    "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-30T14:49:27",
+    "saved": false
+  },
+  {
+    "id": -6249870427361793622,
     "title": "What I learned building a debugger for PyTorch training loops and how it changed how I think about failure diagnosis [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1trui0b/what_i_learned_building_a_debugger_for_pytorch/",
     "source": "Reddit ML",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1884457404995057137,
+    "id": 7737573322516187035,
     "title": "Coders are refusing to work without AI — and that could come back to bite them",
     "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
     "source": "TechCrunch",
@@ -27,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 8042844993307757204,
-    "title": "Shift will clean homes for free to train future robots",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-29T19:16:32",
-    "saved": false
-  },
-  {
-    "id": -3117495780068415484,
+    "id": -4101918898897967603,
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4622220626963378256,
+    "id": 1791963905067746781,
     "title": "What happens when companies become too AI-pilled?",
     "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 1283890297634474590,
+    "id": -1746779897934026188,
     "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
     "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4203071009825699696,
+    "id": -4952697780054797821,
     "title": "How Much of a Shortcut Are Connections in Top AI Lab Hiring for PhD grads? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tr80ll/how_much_of_a_shortcut_are_connections_in_top_ai/",
     "source": "Reddit ML",
@@ -72,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 4055858851294853445,
-    "title": "Notes from the Mistral AI Now Summit",
-    "link": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-29T16:22:01",
-    "saved": false
-  },
-  {
-    "id": -9095996837200197009,
+    "id": -5783649309780007738,
     "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
     "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6694788593501769279,
+    "id": 4721775909774122732,
     "title": "What's the theoretical basis for using llm consensus as a probability estimator for real world events [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tr3xpa/whats_the_theoretical_basis_for_using_llm/",
     "source": "Reddit ML",
@@ -99,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -8012661993776525019,
-    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-    "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -4873986651491193853,
-    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
-    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -6236666145131082222,
+    "id": 5137548383589253993,
     "title": "Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/",
     "source": "Reddit ML",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3117600990444024046,
+    "id": 5977506006775309217,
     "title": "Making LLMs tell you how confident they really are through probe-targeted fine tuning.[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/",
     "source": "Reddit ML",
@@ -135,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 3007168106155790962,
-    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-    "link": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T00:44:37",
-    "saved": false
-  },
-  {
-    "id": 1490585956939746863,
-    "title": "Waymo dominates autonomous vehicle registrations as Tesla trails behind",
-    "link": "https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T00:14:35",
-    "saved": false
-  },
-  {
-    "id": 1753210360693389767,
+    "id": 7447126039240116828,
     "title": "Social Simulation with LLMs - Fidelity in Applications (CFP @ COLM'26) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tqhdoe/social_simulation_with_llms_fidelity_in/",
     "source": "Reddit ML",
@@ -162,21 +153,12 @@
     "saved": false
   },
   {
-    "id": 3255741895942551001,
-    "title": "Asana acquires no-code agent-builder StackAI",
-    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-28T20:06:07",
-    "saved": false
-  },
-  {
-    "id": 5706804938353221191,
-    "title": "Wall-OSS-0.5: 4B VLA with open training code and zero-shot real-robot evaluation[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tq8v8m/walloss05_4b_vla_with_open_training_code_and/",
-    "source": "Reddit ML",
+    "id": 2521753476722886177,
+    "title": "Racket v9.2 is now available",
+    "link": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-28T16:37:41",
+    "date": "2026-05-28T09:42:40",
     "saved": false
   }
 ]

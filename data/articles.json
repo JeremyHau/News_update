@@ -1,24 +1,96 @@
 [
   {
-    "id": 7222386113783247876,
-    "title": "Built an AI Accelerator and opensourced it. [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tsuogs/built_an_ai_accelerator_and_opensourced_it_p/",
+    "id": 476619205414981962,
+    "title": "UAI Results are out [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tt9xbt/uai_results_are_out_r/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-05-31T12:58:16",
+    "date": "2026-05-31T22:45:36",
     "saved": false
   },
   {
-    "id": -5927707492886424418,
-    "title": "Domain expertise has always been the real moat",
-    "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "id": 3509013260014858036,
+    "title": "Arabic ASR model struggling to converge during training [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tt7jt2/arabic_asr_model_struggling_to_converge_during/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-05-31T21:08:58",
+    "saved": false
+  },
+  {
+    "id": -5193444617107610440,
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-31T21:05:14",
+    "saved": false
+  },
+  {
+    "id": -4993909295919227507,
+    "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
+    "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-31T18:28:17",
+    "saved": false
+  },
+  {
+    "id": -8623328098823209962,
+    "title": "The Speed of Prototyping in the Age of AI",
+    "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-05-30T20:40:57",
+    "date": "2026-05-31T16:37:34",
     "saved": false
   },
   {
-    "id": 3707964545250743400,
+    "id": 162146671744809596,
+    "title": "Creatine raises brain energy levels and slows cognitive decline: study",
+    "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-31T16:19:34",
+    "saved": false
+  },
+  {
+    "id": -7381270768297359237,
+    "title": "Making sense of the debate over AI psychosis",
+    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-31T15:30:00",
+    "saved": false
+  },
+  {
+    "id": -4862459954039600037,
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+    "link": "https://prismml.com/news/bonsai-image-4b",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-31T15:04:52",
+    "saved": false
+  },
+  {
+    "id": 4247537374277423109,
+    "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
+    "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-05-31T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 6289328212127654039,
+    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "link": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-31T12:41:19",
+    "saved": false
+  },
+  {
+    "id": -6997380182209553837,
     "title": "Meta is reportedly developing an AI pendant",
     "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
     "source": "TechCrunch",
@@ -27,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6318370393213690088,
+    "id": 30982788633474874,
     "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
     "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "source": "TechCrunch",
@@ -36,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8216009790523828658,
+    "id": 5324619301417017602,
     "title": "Workshop submission for main conference paper under review [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ts2m9n/workshop_submission_for_main_conference_paper/",
     "source": "Reddit ML",
@@ -45,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2390751037097979331,
+    "id": 3754437744703087730,
     "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
     "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
     "source": "TechCrunch",
@@ -54,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5260816657826544780,
+    "id": -5955097386967765321,
     "title": "What I learned building a debugger for PyTorch training loops and how it changed how I think about failure diagnosis [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1trui0b/what_i_learned_building_a_debugger_for_pytorch/",
     "source": "Reddit ML",
@@ -63,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7246223403937377275,
+    "id": 2839086046623743926,
     "title": "Coders are refusing to work without AI — and that could come back to bite them",
     "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
     "source": "TechCrunch",
@@ -72,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2932314498991950015,
+    "id": 7569347149815077041,
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -81,25 +153,16 @@
     "saved": false
   },
   {
-    "id": -7026372242894897649,
-    "title": "What happens when companies become too AI-pilled?",
-    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T17:57:05",
+    "id": 1464125840772623736,
+    "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+    "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-05-29T17:50:11",
     "saved": false
   },
   {
-    "id": 5879796625005422718,
-    "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T17:27:13",
-    "saved": false
-  },
-  {
-    "id": 2889082309708608000,
+    "id": -8309684445658341538,
     "title": "How Much of a Shortcut Are Connections in Top AI Lab Hiring for PhD grads? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tr80ll/how_much_of_a_shortcut_are_connections_in_top_ai/",
     "source": "Reddit ML",
@@ -108,25 +171,7 @@
     "saved": false
   },
   {
-    "id": -1357978176093774023,
-    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T16:13:47",
-    "saved": false
-  },
-  {
-    "id": -8907434513238398921,
-    "title": "Building a monokernel for LLM inference on AMD MI300X - up to 3,300 output tokens/s per request [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tqvuz9/building_a_monokernel_for_llm_inference_on_amd/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-29T08:54:29",
-    "saved": false
-  },
-  {
-    "id": 1114945201879204865,
+    "id": -3722378218688550513,
     "title": "Making LLMs tell you how confident they really are through probe-targeted fine tuning.[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/",
     "source": "Reddit ML",

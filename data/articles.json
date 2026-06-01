@@ -1,6 +1,96 @@
 [
   {
-    "id": 476619205414981962,
+    "id": 2843603403125823633,
+    "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+    "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T16:42:22",
+    "saved": false
+  },
+  {
+    "id": 814557424858031374,
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-01T16:41:49",
+    "saved": false
+  },
+  {
+    "id": 7352418076424881481,
+    "title": "ICML Financial Aid [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxu9d/icml_financial_aid_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-01T16:39:56",
+    "saved": false
+  },
+  {
+    "id": 5301862906255879614,
+    "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-01T16:33:59",
+    "saved": false
+  },
+  {
+    "id": 5100639674235371876,
+    "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxcm5/finetuning_a_reasoning_llm_with_supervised_or/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-01T16:23:24",
+    "saved": false
+  },
+  {
+    "id": 5550479322205161790,
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 4927438199626538847,
+    "title": "How much of MLE-Bench's gains are the algorithm vs. better models + more search? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-01T14:34:16",
+    "saved": false
+  },
+  {
+    "id": 481163717367541658,
+    "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+    "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-01T14:16:41",
+    "saved": false
+  },
+  {
+    "id": 2489382120859513142,
+    "title": "5060 Ti 16GB or Cloud: Which makes more sense for DL, RL, and LLM studies/research? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ttte5x/5060_ti_16gb_or_cloud_which_makes_more_sense_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-01T14:09:51",
+    "saved": false
+  },
+  {
+    "id": -5567319912489861613,
+    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
+    "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T10:00:00",
+    "saved": false
+  },
+  {
+    "id": -6685239028214695073,
     "title": "UAI Results are out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt9xbt/uai_results_are_out_r/",
     "source": "Reddit ML",
@@ -9,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3509013260014858036,
+    "id": 7371625699306932383,
     "title": "Arabic ASR model struggling to converge during training [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt7jt2/arabic_asr_model_struggling_to_converge_during/",
     "source": "Reddit ML",
@@ -18,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5193444617107610440,
+    "id": -7178553468645758108,
     "title": "Erin Brockovich takes aim at data center secrecy",
     "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "source": "TechCrunch",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -4993909295919227507,
+    "id": -8558451246372335420,
     "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
     "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
     "source": "TechCrunch",
@@ -36,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -8623328098823209962,
-    "title": "The Speed of Prototyping in the Age of AI",
-    "link": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-31T16:37:34",
-    "saved": false
-  },
-  {
-    "id": 162146671744809596,
-    "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-    "link": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-31T16:19:34",
-    "saved": false
-  },
-  {
-    "id": -7381270768297359237,
+    "id": -147317264111790434,
     "title": "Making sense of the debate over AI psychosis",
     "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
     "source": "TechCrunch",
@@ -63,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -4862459954039600037,
-    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-    "link": "https://prismml.com/news/bonsai-image-4b",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-31T15:04:52",
-    "saved": false
-  },
-  {
-    "id": 4247537374277423109,
+    "id": -1536201771401354151,
     "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
     "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
     "source": "TechCrunch",
@@ -81,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 6289328212127654039,
-    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-    "link": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-31T12:41:19",
-    "saved": false
-  },
-  {
-    "id": -6997380182209553837,
+    "id": -1625381078690327366,
     "title": "Meta is reportedly developing an AI pendant",
     "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
     "source": "TechCrunch",
@@ -99,84 +153,12 @@
     "saved": false
   },
   {
-    "id": 30982788633474874,
+    "id": -8383375343752969976,
     "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
     "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-05-30T15:30:00",
-    "saved": false
-  },
-  {
-    "id": 5324619301417017602,
-    "title": "Workshop submission for main conference paper under review [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ts2m9n/workshop_submission_for_main_conference_paper/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-30T15:14:36",
-    "saved": false
-  },
-  {
-    "id": 3754437744703087730,
-    "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-    "link": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-30T14:49:27",
-    "saved": false
-  },
-  {
-    "id": -5955097386967765321,
-    "title": "What I learned building a debugger for PyTorch training loops and how it changed how I think about failure diagnosis [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1trui0b/what_i_learned_building_a_debugger_for_pytorch/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-30T08:48:55",
-    "saved": false
-  },
-  {
-    "id": 2839086046623743926,
-    "title": "Coders are refusing to work without AI — and that could come back to bite them",
-    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T22:14:22",
-    "saved": false
-  },
-  {
-    "id": 7569347149815077041,
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-29T18:49:19",
-    "saved": false
-  },
-  {
-    "id": 1464125840772623736,
-    "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-    "link": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-05-29T17:50:11",
-    "saved": false
-  },
-  {
-    "id": -8309684445658341538,
-    "title": "How Much of a Shortcut Are Connections in Top AI Lab Hiring for PhD grads? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tr80ll/how_much_of_a_shortcut_are_connections_in_top_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-29T16:52:19",
-    "saved": false
-  },
-  {
-    "id": -3722378218688550513,
-    "title": "Making LLMs tell you how confident they really are through probe-targeted fine tuning.[R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tqrtkn/making_llms_tell_you_how_confident_they_really/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-29T05:15:10",
     "saved": false
   }
 ]

@@ -1,33 +1,78 @@
 [
   {
-    "id": -7432481086937053449,
-    "title": "MeshFlow: production-safe multi-agent orchestration — SHA-256 audit chain, HIPAA/SOX/GDPR built in, 70-85% token cost reduction [Open Source][D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tucb6m/meshflow_productionsafe_multiagent_orchestration/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-02T01:26:09",
-    "saved": false
-  },
-  {
-    "id": 2431262753044429862,
-    "title": "MeshFlow: An open-source orchestrator for governed, cost-optimized multi-agent workflows [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tuc1ao/meshflow_an_opensource_orchestrator_for_governed/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-02T01:13:45",
-    "saved": false
-  },
-  {
-    "id": -1945760280866064634,
-    "title": "How the hell is Groq raising more money?",
-    "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+    "id": 4739783710978197831,
+    "title": "Americans don't know how to fight AI. So they're fighting data centers",
+    "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-02T01:05:29",
+    "date": "2026-06-02T15:32:06",
     "saved": false
   },
   {
-    "id": -6471416151740651009,
+    "id": 1858486191915694670,
+    "title": "How Europe’s AI strategy diverges from Silicon Valley’s",
+    "link": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T15:05:00",
+    "saved": false
+  },
+  {
+    "id": -784879304944937636,
+    "title": "Blue Origin plans to launch New Glenn again this year after explosion",
+    "link": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T13:25:59",
+    "saved": false
+  },
+  {
+    "id": -7623627258015628160,
+    "title": "Backpropagation destroys V1 brain alignment in one epoch, tracking RSA alignment to fMRI across training for BP, FA, predictive coding, and STDP [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tupu9z/backpropagation_destroys_v1_brain_alignment_in/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-02T12:43:47",
+    "saved": false
+  },
+  {
+    "id": -7210932437519827402,
+    "title": "ZeroDrift raises $10M to protect AI models from themselves",
+    "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T12:32:59",
+    "saved": false
+  },
+  {
+    "id": -5865711620668158682,
+    "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+    "link": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T12:01:04",
+    "saved": false
+  },
+  {
+    "id": 3972598270794965932,
+    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+    "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 3674496867928791854,
+    "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+    "link": "https://blog.adafruit.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T10:00:56",
+    "saved": false
+  },
+  {
+    "id": 4715001375305711109,
     "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
     "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
     "source": "Hacker News",
@@ -36,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 1852749006641300937,
-    "title": "Chipotlai Max",
-    "link": "https://github.com/cyberpapiii/chipotlai-max",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-01T23:06:35",
-    "saved": false
-  },
-  {
-    "id": 3351285588522403570,
-    "title": "Full duplex vs half duplex - the spectrum of AI voice models [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tu8rqv/full_duplex_vs_half_duplex_the_spectrum_of_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-01T22:56:15",
-    "saved": false
-  },
-  {
-    "id": -506292872683324277,
+    "id": -5664885567382177644,
     "title": "Alphabet plans to raise $80B to pay for AI buildout",
     "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
     "source": "TechCrunch",
@@ -63,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 3551226918152020313,
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-01T21:50:02",
-    "saved": false
-  },
-  {
-    "id": -3788351936648336600,
+    "id": -1586756924665556652,
     "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
     "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
     "source": "TechCrunch",
@@ -81,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 887358636831205850,
-    "title": "Feedback on my EU AI Act Risk Tier Assessor [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tu4rnt/feedback_on_my_eu_ai_act_risk_tier_assessor_p/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-01T20:29:43",
-    "saved": false
-  },
-  {
-    "id": -3574960294804233752,
+    "id": -5066374102225771513,
     "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
     "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5576564410928675742,
+    "id": -9040293151748840290,
     "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
     "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
     "source": "TechCrunch",
@@ -108,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 8527514639333957675,
-    "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
-    "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T16:42:22",
-    "saved": false
-  },
-  {
-    "id": 8801239710237775200,
-    "title": "AI Agent Guidelines for CS336 at Stanford",
-    "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-01T16:41:49",
-    "saved": false
-  },
-  {
-    "id": 7076649905008464608,
+    "id": 324006307292414116,
     "title": "ICML Financial Aid [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxu9d/icml_financial_aid_d/",
     "source": "Reddit ML",
@@ -135,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2349846555615035773,
+    "id": -6801777589400262903,
     "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxcm5/finetuning_a_reasoning_llm_with_supervised_or/",
     "source": "Reddit ML",
@@ -144,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 182230155558712012,
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 6767306781807655671,
-    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T14:49:10",
-    "saved": false
-  },
-  {
-    "id": 8480962619438479175,
+    "id": -5572360176792137670,
     "title": "How much of MLE-Bench's gains are the algorithm vs. better models + more search? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/",
     "source": "Reddit ML",
@@ -171,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2968437001036911979,
+    "id": -1865217324045157752,
     "title": "5060 Ti 16GB or Cloud: Which makes more sense for DL, RL, and LLM studies/research? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttte5x/5060_ti_16gb_or_cloud_which_makes_more_sense_for/",
     "source": "Reddit ML",
@@ -180,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -4224251699802017554,
-    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
-    "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T10:00:00",
-    "saved": false
-  },
-  {
-    "id": 752188745481974742,
+    "id": -4715907016339082627,
     "title": "UAI Results are out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt9xbt/uai_results_are_out_r/",
     "source": "Reddit ML",
@@ -198,21 +162,12 @@
     "saved": false
   },
   {
-    "id": 4549218680368781270,
+    "id": -3358751573427939611,
     "title": "Arabic ASR model struggling to converge during training [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt7jt2/arabic_asr_model_struggling_to_converge_during/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-31T21:08:58",
-    "saved": false
-  },
-  {
-    "id": 6433102287920192148,
-    "title": "Erin Brockovich takes aim at data center secrecy",
-    "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-31T21:05:14",
     "saved": false
   }
 ]

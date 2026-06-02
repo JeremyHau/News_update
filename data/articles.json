@@ -1,6 +1,114 @@
 [
   {
-    "id": 2843603403125823633,
+    "id": -7432481086937053449,
+    "title": "MeshFlow: production-safe multi-agent orchestration — SHA-256 audit chain, HIPAA/SOX/GDPR built in, 70-85% token cost reduction [Open Source][D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tucb6m/meshflow_productionsafe_multiagent_orchestration/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-02T01:26:09",
+    "saved": false
+  },
+  {
+    "id": 2431262753044429862,
+    "title": "MeshFlow: An open-source orchestrator for governed, cost-optimized multi-agent workflows [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tuc1ao/meshflow_an_opensource_orchestrator_for_governed/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-02T01:13:45",
+    "saved": false
+  },
+  {
+    "id": -1945760280866064634,
+    "title": "How the hell is Groq raising more money?",
+    "link": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T01:05:29",
+    "saved": false
+  },
+  {
+    "id": -6471416151740651009,
+    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-01T23:45:46",
+    "saved": false
+  },
+  {
+    "id": 1852749006641300937,
+    "title": "Chipotlai Max",
+    "link": "https://github.com/cyberpapiii/chipotlai-max",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-01T23:06:35",
+    "saved": false
+  },
+  {
+    "id": 3351285588522403570,
+    "title": "Full duplex vs half duplex - the spectrum of AI voice models [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tu8rqv/full_duplex_vs_half_duplex_the_spectrum_of_ai/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-01T22:56:15",
+    "saved": false
+  },
+  {
+    "id": -506292872683324277,
+    "title": "Alphabet plans to raise $80B to pay for AI buildout",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T22:55:09",
+    "saved": false
+  },
+  {
+    "id": 3551226918152020313,
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-01T21:50:02",
+    "saved": false
+  },
+  {
+    "id": -3788351936648336600,
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T21:35:00",
+    "saved": false
+  },
+  {
+    "id": 887358636831205850,
+    "title": "Feedback on my EU AI Act Risk Tier Assessor [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tu4rnt/feedback_on_my_eu_ai_act_risk_tier_assessor_p/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-01T20:29:43",
+    "saved": false
+  },
+  {
+    "id": -3574960294804233752,
+    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T20:03:40",
+    "saved": false
+  },
+  {
+    "id": -5576564410928675742,
+    "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
+    "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T18:34:32",
+    "saved": false
+  },
+  {
+    "id": 8527514639333957675,
     "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
     "link": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
     "source": "TechCrunch",
@@ -9,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 814557424858031374,
+    "id": 8801239710237775200,
     "title": "AI Agent Guidelines for CS336 at Stanford",
     "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
     "source": "Hacker News",
@@ -18,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7352418076424881481,
+    "id": 7076649905008464608,
     "title": "ICML Financial Aid [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxu9d/icml_financial_aid_d/",
     "source": "Reddit ML",
@@ -27,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 5301862906255879614,
-    "title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms",
-    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-01T16:33:59",
-    "saved": false
-  },
-  {
-    "id": 5100639674235371876,
+    "id": -2349846555615035773,
     "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxcm5/finetuning_a_reasoning_llm_with_supervised_or/",
     "source": "Reddit ML",
@@ -45,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5550479322205161790,
+    "id": 182230155558712012,
     "title": "This AI weather startup is out-forecasting government agencies",
     "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
     "source": "TechCrunch",
@@ -54,7 +153,16 @@
     "saved": false
   },
   {
-    "id": 4927438199626538847,
+    "id": 6767306781807655671,
+    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-01T14:49:10",
+    "saved": false
+  },
+  {
+    "id": 8480962619438479175,
     "title": "How much of MLE-Bench's gains are the algorithm vs. better models + more search? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/",
     "source": "Reddit ML",
@@ -63,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 481163717367541658,
-    "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
-    "link": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-01T14:16:41",
-    "saved": false
-  },
-  {
-    "id": 2489382120859513142,
+    "id": -2968437001036911979,
     "title": "5060 Ti 16GB or Cloud: Which makes more sense for DL, RL, and LLM studies/research? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttte5x/5060_ti_16gb_or_cloud_which_makes_more_sense_for/",
     "source": "Reddit ML",
@@ -81,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -5567319912489861613,
+    "id": -4224251699802017554,
     "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M",
     "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
     "source": "TechCrunch",
@@ -90,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -6685239028214695073,
+    "id": 752188745481974742,
     "title": "UAI Results are out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt9xbt/uai_results_are_out_r/",
     "source": "Reddit ML",
@@ -99,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 7371625699306932383,
+    "id": 4549218680368781270,
     "title": "Arabic ASR model struggling to converge during training [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt7jt2/arabic_asr_model_struggling_to_converge_during/",
     "source": "Reddit ML",
@@ -108,57 +207,12 @@
     "saved": false
   },
   {
-    "id": -7178553468645758108,
+    "id": 6433102287920192148,
     "title": "Erin Brockovich takes aim at data center secrecy",
     "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-05-31T21:05:14",
-    "saved": false
-  },
-  {
-    "id": -8558451246372335420,
-    "title": "‘This is fine’ artist KC Green reaches agreement with AI startup Artisan",
-    "link": "https://techcrunch.com/2026/05/31/this-is-fine-artist-kc-green-reaches-agreement-with-ai-startup-artisan/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-31T18:28:17",
-    "saved": false
-  },
-  {
-    "id": -147317264111790434,
-    "title": "Making sense of the debate over AI psychosis",
-    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-31T15:30:00",
-    "saved": false
-  },
-  {
-    "id": -1536201771401354151,
-    "title": "Black founders raise highest amount of quarterly funding since 2022, but there’s a catch",
-    "link": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-31T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -1625381078690327366,
-    "title": "Meta is reportedly developing an AI pendant",
-    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-30T15:59:58",
-    "saved": false
-  },
-  {
-    "id": -8383375343752969976,
-    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-05-30T15:30:00",
     "saved": false
   }
 ]

@@ -1,33 +1,168 @@
 [
   {
-    "id": 4739783710978197831,
-    "title": "Americans don't know how to fight AI. So they're fighting data centers",
-    "link": "https://www.vox.com/future-perfect/490350/data-center-moratoria-ai-backlash",
+    "id": 6834322978329567911,
+    "title": "More than 6 out of 10 people turn to AI for psychological support",
+    "link": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-02T15:32:06",
+    "date": "2026-06-02T23:55:04",
     "saved": false
   },
   {
-    "id": 1858486191915694670,
-    "title": "How Europe’s AI strategy diverges from Silicon Valley’s",
-    "link": "https://techcrunch.com/2026/06/02/how-europes-ai-strategy-diverges-from-silicon-valleys/",
+    "id": -181988552014361109,
+    "title": "AI outperforms law professors in Stanford Law study",
+    "link": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T23:43:12",
+    "saved": false
+  },
+  {
+    "id": 8709794659600243196,
+    "title": "LLMs are not the black box you were promised",
+    "link": "https://www.jay.ai/blog/llms-are-not-a-black-box",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T23:27:30",
+    "saved": false
+  },
+  {
+    "id": -2061746503341481472,
+    "title": "Open Repair Data Standard – Open Repair Alliance",
+    "link": "https://openrepair.org/open-data/open-standard/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T19:37:10",
+    "saved": false
+  },
+  {
+    "id": -8652479698763411932,
+    "title": "Gmail thinks I'm stupid, so I left",
+    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T19:27:40",
+    "saved": false
+  },
+  {
+    "id": -5256493097085538188,
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T19:11:48",
+    "saved": false
+  },
+  {
+    "id": 7097762475515985614,
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T19:02:21",
+    "saved": false
+  },
+  {
+    "id": -6291932754237121227,
+    "title": "MAI-Code-1-Flash",
+    "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T18:47:07",
+    "saved": false
+  },
+  {
+    "id": 2497651820345074166,
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T18:16:53",
+    "saved": false
+  },
+  {
+    "id": -7563019829415959284,
+    "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+    "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T18:00:00",
+    "saved": false
+  },
+  {
+    "id": 9124393223943205018,
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T18:00:00",
+    "saved": false
+  },
+  {
+    "id": 7961006216728107416,
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T18:00:00",
+    "saved": false
+  },
+  {
+    "id": -3570260441039152556,
+    "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech",
+    "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T17:01:17",
+    "saved": false
+  },
+  {
+    "id": 4158855225419402457,
+    "title": "Trump signs downsized AI order after weeks of reversals",
+    "link": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-02T16:40:16",
+    "saved": false
+  },
+  {
+    "id": -5140472867294337714,
+    "title": "Trump signs narrower executive order on AI oversight after industry objections",
+    "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T16:23:08",
+    "saved": false
+  },
+  {
+    "id": -183156204378631307,
+    "title": "OpenAI launches new Codex tools for white-collar work",
+    "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -5845304572110892147,
+    "title": "Board, the new game startup from Mirror founder Brynn Putnam, raises $20M, has already sold thousands",
+    "link": "https://techcrunch.com/2026/06/02/board-the-new-game-startup-from-mirror-founder-brynn-putnam-raises-20m-has-already-sold-thousands/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-02T15:56:08",
+    "saved": false
+  },
+  {
+    "id": 6564277969094308155,
+    "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+    "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-06-02T15:05:00",
     "saved": false
   },
   {
-    "id": -784879304944937636,
-    "title": "Blue Origin plans to launch New Glenn again this year after explosion",
-    "link": "https://techcrunch.com/2026/06/02/blue-origin-plans-to-launch-new-glenn-again-this-year-after-explosion/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-02T13:25:59",
-    "saved": false
-  },
-  {
-    "id": -7623627258015628160,
+    "id": 3882862320129155921,
     "title": "Backpropagation destroys V1 brain alignment in one epoch, tracking RSA alignment to fMRI across training for BP, FA, predictive coding, and STDP [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tupu9z/backpropagation_destroys_v1_brain_alignment_in/",
     "source": "Reddit ML",
@@ -36,88 +171,7 @@
     "saved": false
   },
   {
-    "id": -7210932437519827402,
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-02T12:32:59",
-    "saved": false
-  },
-  {
-    "id": -5865711620668158682,
-    "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
-    "link": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-02T12:01:04",
-    "saved": false
-  },
-  {
-    "id": 3972598270794965932,
-    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-    "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-02T12:00:00",
-    "saved": false
-  },
-  {
-    "id": 3674496867928791854,
-    "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-    "link": "https://blog.adafruit.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-02T10:00:56",
-    "saved": false
-  },
-  {
-    "id": 4715001375305711109,
-    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-    "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-01T23:45:46",
-    "saved": false
-  },
-  {
-    "id": -5664885567382177644,
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T22:55:09",
-    "saved": false
-  },
-  {
-    "id": -1586756924665556652,
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T21:35:00",
-    "saved": false
-  },
-  {
-    "id": -5066374102225771513,
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T20:03:40",
-    "saved": false
-  },
-  {
-    "id": -9040293151748840290,
-    "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access",
-    "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-01T18:34:32",
-    "saved": false
-  },
-  {
-    "id": 324006307292414116,
+    "id": 3332037959467445944,
     "title": "ICML Financial Aid [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxu9d/icml_financial_aid_d/",
     "source": "Reddit ML",
@@ -126,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -6801777589400262903,
+    "id": -301707822233372647,
     "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxcm5/finetuning_a_reasoning_llm_with_supervised_or/",
     "source": "Reddit ML",
@@ -135,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -5572360176792137670,
+    "id": 3447302415501151067,
     "title": "How much of MLE-Bench's gains are the algorithm vs. better models + more search? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttu47l/how_much_of_mlebenchs_gains_are_the_algorithm_vs/",
     "source": "Reddit ML",
@@ -144,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -1865217324045157752,
+    "id": 2361769264800587497,
     "title": "5060 Ti 16GB or Cloud: Which makes more sense for DL, RL, and LLM studies/research? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ttte5x/5060_ti_16gb_or_cloud_which_makes_more_sense_for/",
     "source": "Reddit ML",
@@ -153,21 +207,12 @@
     "saved": false
   },
   {
-    "id": -4715907016339082627,
+    "id": -4131192579170007071,
     "title": "UAI Results are out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tt9xbt/uai_results_are_out_r/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-05-31T22:45:36",
-    "saved": false
-  },
-  {
-    "id": -3358751573427939611,
-    "title": "Arabic ASR model struggling to converge during training [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tt7jt2/arabic_asr_model_struggling_to_converge_during/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-05-31T21:08:58",
     "saved": false
   }
 ]

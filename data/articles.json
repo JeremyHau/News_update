@@ -1,6 +1,60 @@
 [
   {
-    "id": -7632078196341284159,
+    "id": -2363381892689397619,
+    "title": "Advise to gaining ML experience [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1two7s2/advise_to_gaining_ml_experience_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-04T13:47:53",
+    "saved": false
+  },
+  {
+    "id": -6158597730904787952,
+    "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+    "link": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-04T12:00:29",
+    "saved": false
+  },
+  {
+    "id": -8322916953109517210,
+    "title": "ICML financial aid [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1twkrbi/icml_financial_aid_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-04T11:24:03",
+    "saved": false
+  },
+  {
+    "id": -6634597245808657538,
+    "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-04T11:07:27",
+    "saved": false
+  },
+  {
+    "id": 1741074551016436689,
+    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+    "link": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-04T08:45:36",
+    "saved": false
+  },
+  {
+    "id": -8757773381026890841,
+    "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
+    "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T03:52:15",
+    "saved": false
+  },
+  {
+    "id": -4629440984646583912,
     "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
     "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
     "source": "Hacker News",
@@ -9,16 +63,16 @@
     "saved": false
   },
   {
-    "id": -1188028327229016070,
-    "title": "The ways we contain Claude across products",
-    "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "id": -8014104115301691141,
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-04T00:27:52",
+    "date": "2026-06-04T00:18:02",
     "saved": false
   },
   {
-    "id": 8668836609323260651,
+    "id": -5442399209481440026,
     "title": "NeurIPS Reciprocal Reviewers be careful in reviewing with LLMs [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tw0hf2/neurips_reciprocal_reviewers_be_careful_in/",
     "source": "Reddit ML",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7768690609103214143,
+    "id": 6904757906027939682,
     "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
     "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6988469487136000026,
+    "id": 987572088462635673,
     "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
     "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
     "source": "TechCrunch",
@@ -45,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -530524337390068561,
-    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-    "link": "https://news.ycombinator.com/item?id=48387095",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-03T17:39:53",
-    "saved": false
-  },
-  {
-    "id": -517302981721111396,
+    "id": -2885493426946702485,
     "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
     "source": "Reddit ML",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2370947694294614326,
+    "id": -9112352487965250670,
     "title": "Analysis of AlphaZero training data [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvw6sc/analysis_of_alphazero_training_data_d/",
     "source": "Reddit ML",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8438572370634061580,
+    "id": -925307556577031178,
     "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
     "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7469101119970783701,
+    "id": 3748851020253997983,
     "title": "Amazon will show AI product images when you search for some reason",
     "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -8365146435450888922,
+    "id": -6923674925159367075,
     "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
     "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
     "source": "TechCrunch",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2574339789978348000,
+    "id": 4937865059247438945,
     "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
     "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 7238325320197382075,
+    "id": -7340310874380034046,
     "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
     "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
     "source": "TechCrunch",
@@ -117,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 3083718820934623374,
+    "id": -4055636559280808929,
     "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
     "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
     "source": "TechCrunch",
@@ -126,39 +171,12 @@
     "saved": false
   },
   {
-    "id": -2408950235814585066,
-    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-    "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T13:40:00",
-    "saved": false
-  },
-  {
-    "id": 2331410197569059759,
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "id": 8663133074881985,
+    "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+    "link": "https://github.com/remysucre/prela",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-03T12:25:14",
-    "saved": false
-  },
-  {
-    "id": 1942634344209510608,
-    "title": "Backpropagation destroys V1 brain alignment in one epoch, tracking RSA alignment to fMRI across training for BP, FA, predictive coding, and STDP [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tupu9z/backpropagation_destroys_v1_brain_alignment_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-02T12:43:47",
-    "saved": false
-  },
-  {
-    "id": -6578475147298722637,
-    "title": "Finetuning a Reasoning LLM with Supervised or Reinforcement Learning? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ttxcm5/finetuning_a_reasoning_llm_with_supervised_or/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-01T16:23:24",
+    "date": "2026-06-01T13:26:01",
     "saved": false
   }
 ]

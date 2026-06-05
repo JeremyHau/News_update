@@ -1,33 +1,51 @@
 [
   {
-    "id": 7058023806711946906,
-    "title": "Scrap the LLMs. Scoring 4.76% on the brand new ARC-3 using pure code, a 2012 AMD CPU, and zero AI tokens.[P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tx6g3i/scrap_the_llms_scoring_476_on_the_brand_new_arc3/",
+    "id": -1581065955298704656,
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-05T13:03:10",
+    "saved": false
+  },
+  {
+    "id": 1170817675180498686,
+    "title": "An autonomous research agent was the #1 contributor in OpenAI's Hiring Competition Parameter Golf (by merged records)[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1txka8q/an_autonomous_research_agent_was_the_1/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-06-05T01:11:17",
+    "date": "2026-06-05T12:59:36",
     "saved": false
   },
   {
-    "id": -8287433310810303336,
-    "title": "Open Code Review – An AI-powered code review CLI tool",
-    "link": "https://github.com/alibaba/open-code-review",
+    "id": -18694314284853444,
+    "title": "Are We Underestimating Small Edge AI Models?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1txgeu0/are_we_underestimating_small_edge_ai_modelsd/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-05T09:55:39",
+    "saved": false
+  },
+  {
+    "id": -5882681694743432756,
+    "title": "Is it allowed to use OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library? [d]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-05T05:52:32",
+    "saved": false
+  },
+  {
+    "id": -2855141196529786752,
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "link": "https://passo.uno/fine-tuning-docs-llm/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-05T00:04:29",
+    "date": "2026-06-05T05:46:06",
     "saved": false
   },
   {
-    "id": 6693248145892637344,
-    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-    "link": "https://arxiv.org/abs/2604.24881",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T23:01:40",
-    "saved": false
-  },
-  {
-    "id": -359115845276652457,
+    "id": 8139060402080862923,
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
     "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 6508284258082303020,
+    "id": 7305410610669104373,
     "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
     "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 407339250564014531,
+    "id": 1048541224706831417,
     "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
     "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1632210285589459297,
+    "id": 3565143011094497146,
     "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
     "link": "https://github.com/anthropics/defending-code-reference-harness",
     "source": "Hacker News",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8960110213378190037,
+    "id": -9041910012927075696,
     "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
     "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 2041861801966958939,
+    "id": 49209666834970314,
     "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
     "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 885584944672349591,
+    "id": -6776652777421300002,
     "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
     "source": "Reddit ML",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6058332227016222373,
+    "id": -4347650337667314305,
     "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8925408914244151164,
+    "id": 744090977461888775,
     "title": "Meta rolls out a new AI creator assistant on Facebook",
     "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
     "source": "TechCrunch",
@@ -108,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -897456740587216183,
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-    "link": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T16:20:17",
-    "saved": false
-  },
-  {
-    "id": 4530962180836359407,
-    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-    "link": "https://github.com/huawei-csl/KVarN",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T15:18:00",
-    "saved": false
-  },
-  {
-    "id": 7627284354815791822,
+    "id": 7478539083910613536,
     "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
     "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
     "source": "TechCrunch",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -7467241762224568953,
+    "id": 7212788735261998366,
     "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/",
     "source": "Reddit ML",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6491067673303693332,
+    "id": -7009520295722360044,
     "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
     "source": "Reddit ML",
@@ -153,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4058325626140810124,
+    "id": 5791387113963677063,
     "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
     "source": "Reddit ML",
@@ -162,21 +162,12 @@
     "saved": false
   },
   {
-    "id": 7769030238021886360,
+    "id": 2155063339843688056,
     "title": "Analysis of AlphaZero training data [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvw6sc/analysis_of_alphazero_training_data_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-03T17:22:17",
-    "saved": false
-  },
-  {
-    "id": 607265146477452459,
-    "title": "Samurai City",
-    "link": "https://worksinprogress.co/issue/samurai-city/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-02T04:32:19",
     "saved": false
   }
 ]

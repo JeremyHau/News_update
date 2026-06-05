@@ -1,33 +1,150 @@
 [
   {
-    "id": -2363381892689397619,
-    "title": "Advise to gaining ML experience [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1two7s2/advise_to_gaining_ml_experience_d/",
+    "id": 7058023806711946906,
+    "title": "Scrap the LLMs. Scoring 4.76% on the brand new ARC-3 using pure code, a 2012 AMD CPU, and zero AI tokens.[P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tx6g3i/scrap_the_llms_scoring_476_on_the_brand_new_arc3/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-06-04T13:47:53",
+    "date": "2026-06-05T01:11:17",
     "saved": false
   },
   {
-    "id": -6158597730904787952,
-    "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-    "link": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+    "id": -8287433310810303336,
+    "title": "Open Code Review – An AI-powered code review CLI tool",
+    "link": "https://github.com/alibaba/open-code-review",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-04T12:00:29",
+    "date": "2026-06-05T00:04:29",
     "saved": false
   },
   {
-    "id": -8322916953109517210,
-    "title": "ICML financial aid [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1twkrbi/icml_financial_aid_d/",
+    "id": 6693248145892637344,
+    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "link": "https://arxiv.org/abs/2604.24881",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-04T23:01:40",
+    "saved": false
+  },
+  {
+    "id": -359115845276652457,
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T22:43:26",
+    "saved": false
+  },
+  {
+    "id": 6508284258082303020,
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T22:29:50",
+    "saved": false
+  },
+  {
+    "id": 407339250564014531,
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T21:30:00",
+    "saved": false
+  },
+  {
+    "id": 1632210285589459297,
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "link": "https://github.com/anthropics/defending-code-reference-harness",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-04T20:11:20",
+    "saved": false
+  },
+  {
+    "id": 8960110213378190037,
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T19:20:58",
+    "saved": false
+  },
+  {
+    "id": 2041861801966958939,
+    "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+    "link": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T18:54:08",
+    "saved": false
+  },
+  {
+    "id": 885584944672349591,
+    "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-06-04T11:24:03",
+    "date": "2026-06-04T17:02:53",
     "saved": false
   },
   {
-    "id": -6634597245808657538,
+    "id": 6058332227016222373,
+    "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-04T16:51:29",
+    "saved": false
+  },
+  {
+    "id": 8925408914244151164,
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T16:32:48",
+    "saved": false
+  },
+  {
+    "id": -897456740587216183,
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "link": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-04T16:20:17",
+    "saved": false
+  },
+  {
+    "id": 4530962180836359407,
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "link": "https://github.com/huawei-csl/KVarN",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-04T15:18:00",
+    "saved": false
+  },
+  {
+    "id": 7627284354815791822,
+    "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+    "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-04T15:08:34",
+    "saved": false
+  },
+  {
+    "id": -7467241762224568953,
+    "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-04T14:53:48",
+    "saved": false
+  },
+  {
+    "id": -6491067673303693332,
     "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
     "source": "Reddit ML",
@@ -36,70 +153,7 @@
     "saved": false
   },
   {
-    "id": 1741074551016436689,
-    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-    "link": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T08:45:36",
-    "saved": false
-  },
-  {
-    "id": -8757773381026890841,
-    "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise",
-    "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-04T03:52:15",
-    "saved": false
-  },
-  {
-    "id": -4629440984646583912,
-    "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-    "link": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T00:56:32",
-    "saved": false
-  },
-  {
-    "id": -8014104115301691141,
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T00:18:02",
-    "saved": false
-  },
-  {
-    "id": -5442399209481440026,
-    "title": "NeurIPS Reciprocal Reviewers be careful in reviewing with LLMs [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tw0hf2/neurips_reciprocal_reviewers_be_careful_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-03T19:47:05",
-    "saved": false
-  },
-  {
-    "id": 6904757906027939682,
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T19:38:32",
-    "saved": false
-  },
-  {
-    "id": 987572088462635673,
-    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T19:07:42",
-    "saved": false
-  },
-  {
-    "id": -2885493426946702485,
+    "id": -4058325626140810124,
     "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
     "source": "Reddit ML",
@@ -108,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -9112352487965250670,
+    "id": 7769030238021886360,
     "title": "Analysis of AlphaZero training data [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvw6sc/analysis_of_alphazero_training_data_d/",
     "source": "Reddit ML",
@@ -117,66 +171,12 @@
     "saved": false
   },
   {
-    "id": -925307556577031178,
-    "title": "Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
-    "link": "https://techcrunch.com/2026/06/03/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T16:12:06",
-    "saved": false
-  },
-  {
-    "id": 3748851020253997983,
-    "title": "Amazon will show AI product images when you search for some reason",
-    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T15:50:26",
-    "saved": false
-  },
-  {
-    "id": -6923674925159367075,
-    "title": "Still facing copyright lawsuits, AI music generator Suno raises another $400M",
-    "link": "https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T15:31:42",
-    "saved": false
-  },
-  {
-    "id": 4937865059247438945,
-    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -7340310874380034046,
-    "title": "GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
-    "link": "https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T14:59:30",
-    "saved": false
-  },
-  {
-    "id": -4055636559280808929,
-    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-03T14:58:33",
-    "saved": false
-  },
-  {
-    "id": 8663133074881985,
-    "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
-    "link": "https://github.com/remysucre/prela",
+    "id": 607265146477452459,
+    "title": "Samurai City",
+    "link": "https://worksinprogress.co/issue/samurai-city/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-01T13:26:01",
+    "date": "2026-06-02T04:32:19",
     "saved": false
   }
 ]

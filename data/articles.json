@@ -1,6 +1,33 @@
 [
   {
-    "id": 3868419914781824929,
+    "id": -6054957726913829683,
+    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-06T12:00:56",
+    "saved": false
+  },
+  {
+    "id": -5096806935976552452,
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-06T09:17:49",
+    "saved": false
+  },
+  {
+    "id": 5781179878528692488,
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-06T04:38:36",
+    "saved": false
+  },
+  {
+    "id": 7969262579123643144,
     "title": "The intracies of modern camera lens repair (2024)",
     "link": "https://salvagedcircuitry.com/sigma-45mm.html",
     "source": "Hacker News",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 7889040697799981809,
+    "id": 4518813990387437531,
     "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 4018070946283567890,
+    "id": -972086792158734142,
     "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
     "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
     "source": "Hacker News",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2999856801469074759,
+    "id": 756071202812789914,
     "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
     "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6018946210229839202,
+    "id": -782510426955477205,
     "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
     "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7579109337839733933,
+    "id": -5434437012713581827,
     "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
     "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2999017124371534848,
+    "id": -4156353994710786668,
     "title": "Is it allowed to use OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library? [d]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/",
     "source": "Reddit ML",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1361436276133090318,
+    "id": 3293621118241304110,
     "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
     "link": "https://news.ycombinator.com/item?id=48406174",
     "source": "Hacker News",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7002329407037682552,
+    "id": 7772124522390213692,
     "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
     "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1803941212541312370,
+    "id": -6536936878629455200,
     "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
     "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4993900314223607910,
+    "id": -8053432494360526045,
     "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
     "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -3924915479387356905,
+    "id": -8086473008981255231,
     "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5741055467624747259,
+    "id": -5179080819282213040,
     "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/",
     "source": "Reddit ML",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6602776788694490439,
+    "id": -7318676041245995299,
     "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/",
     "source": "Reddit ML",
@@ -126,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -3077684932692141241,
-    "title": "My Agent Skill for Test-Driven Development",
-    "link": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T14:10:40",
-    "saved": false
-  },
-  {
-    "id": 8046272097276155203,
+    "id": 9096851168261034807,
     "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
     "source": "Reddit ML",
@@ -144,7 +162,16 @@
     "saved": false
   },
   {
-    "id": 3967204294800187561,
+    "id": 7115507415182727366,
+    "title": "How LLMs work",
+    "link": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-03T20:15:13",
+    "saved": false
+  },
+  {
+    "id": -7640644328146314060,
     "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
     "source": "Reddit ML",
@@ -153,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -5131055938607718996,
+    "id": -7734740875789727855,
     "title": "Analysis of AlphaZero training data [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvw6sc/analysis_of_alphazero_training_data_d/",
     "source": "Reddit ML",

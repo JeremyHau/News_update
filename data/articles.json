@@ -1,42 +1,96 @@
 [
   {
-    "id": -6054957726913829683,
-    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "id": 182594774428199444,
+    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+    "link": "https://arxiv.org/abs/2601.14470",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-06T12:00:56",
+    "date": "2026-06-07T01:37:11",
     "saved": false
   },
   {
-    "id": -5096806935976552452,
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
-    "link": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "id": -3831432805148986673,
+    "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+    "link": "https://domaintasker.com/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-06T09:17:49",
+    "date": "2026-06-07T00:50:13",
     "saved": false
   },
   {
-    "id": 5781179878528692488,
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "id": -6029839429452564287,
+    "title": "Public Domain Image Archive",
+    "link": "https://pdimagearchive.org/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-06T04:38:36",
+    "date": "2026-06-07T00:22:51",
     "saved": false
   },
   {
-    "id": 7969262579123643144,
-    "title": "The intracies of modern camera lens repair (2024)",
-    "link": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-06T00:33:26",
+    "id": 3792038815105091351,
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-06T20:32:24",
     "saved": false
   },
   {
-    "id": 4518813990387437531,
+    "id": -2612617089444477802,
+    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+    "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-06T20:24:29",
+    "saved": false
+  },
+  {
+    "id": 3988371368733798942,
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-06T18:35:27",
+    "saved": false
+  },
+  {
+    "id": 7036309329942672790,
+    "title": "Training-free graph SSL matches GCN with 5× fewer labels — live demo [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-06T18:27:18",
+    "saved": false
+  },
+  {
+    "id": 7971615553598176516,
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-06T17:42:15",
+    "saved": false
+  },
+  {
+    "id": -370613658564921982,
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-06T16:17:21",
+    "saved": false
+  },
+  {
+    "id": 5792552245904969772,
+    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-05T20:06:36",
+    "saved": false
+  },
+  {
+    "id": 313220434671318665,
     "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
     "source": "Reddit ML",
@@ -45,16 +99,16 @@
     "saved": false
   },
   {
-    "id": -972086792158734142,
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "link": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "id": 7435256256859631958,
+    "title": "Harness engineering: Leveraging Codex in an agent-first world",
+    "link": "https://openai.com/index/harness-engineering/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-05T15:00:31",
+    "date": "2026-06-05T18:20:06",
     "saved": false
   },
   {
-    "id": 756071202812789914,
+    "id": -8778515471096958332,
     "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
     "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -782510426955477205,
+    "id": -2135511097643015429,
     "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
     "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5434437012713581827,
+    "id": 7608131596795956703,
     "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
     "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4156353994710786668,
+    "id": -5972589351903875176,
     "title": "Is it allowed to use OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library? [d]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/",
     "source": "Reddit ML",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 3293621118241304110,
+    "id": -5427706755278360712,
     "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
     "link": "https://news.ycombinator.com/item?id=48406174",
     "source": "Hacker News",
@@ -99,34 +153,7 @@
     "saved": false
   },
   {
-    "id": 7772124522390213692,
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-04T22:43:26",
-    "saved": false
-  },
-  {
-    "id": -6536936878629455200,
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-04T22:29:50",
-    "saved": false
-  },
-  {
-    "id": -8053432494360526045,
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-04T21:30:00",
-    "saved": false
-  },
-  {
-    "id": -8086473008981255231,
+    "id": 2634059209181405304,
     "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
     "source": "Reddit ML",
@@ -135,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -5179080819282213040,
-    "title": "We built a source-available LLM reliability library (free for research / personal / internal eval) that can cut inference cost by half at matched quality, and you adopt it by changing one import [P] [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1twtdob/we_built_a_sourceavailable_llm_reliability/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-04T16:51:29",
-    "saved": false
-  },
-  {
-    "id": -7318676041245995299,
-    "title": "Faithful uncertainty in LLM agents: calibration vs utility tradeoff in practice[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1twq0h3/faithful_uncertainty_in_llm_agents_calibration_vs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-04T14:53:48",
-    "saved": false
-  },
-  {
-    "id": 9096851168261034807,
+    "id": 4554013403706465422,
     "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
     "source": "Reddit ML",
@@ -162,30 +171,12 @@
     "saved": false
   },
   {
-    "id": 7115507415182727366,
-    "title": "How LLMs work",
-    "link": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-03T20:15:13",
-    "saved": false
-  },
-  {
-    "id": -7640644328146314060,
+    "id": 4160695700077532359,
     "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-03T17:28:03",
-    "saved": false
-  },
-  {
-    "id": -7734740875789727855,
-    "title": "Analysis of AlphaZero training data [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tvw6sc/analysis_of_alphazero_training_data_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-03T17:22:17",
     "saved": false
   }
 ]

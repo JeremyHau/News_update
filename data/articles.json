@@ -1,6 +1,15 @@
 [
   {
-    "id": 182594774428199444,
+    "id": -3244385039594766457,
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-07T12:49:29",
+    "saved": false
+  },
+  {
+    "id": 7924842890711812164,
     "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
     "link": "https://arxiv.org/abs/2601.14470",
     "source": "Hacker News",
@@ -9,16 +18,7 @@
     "saved": false
   },
   {
-    "id": -3831432805148986673,
-    "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
-    "link": "https://domaintasker.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-07T00:50:13",
-    "saved": false
-  },
-  {
-    "id": -6029839429452564287,
+    "id": 4582448544661220449,
     "title": "Public Domain Image Archive",
     "link": "https://pdimagearchive.org/",
     "source": "Hacker News",
@@ -27,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 3792038815105091351,
+    "id": -1348419083769310464,
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "source": "TechCrunch",
@@ -36,25 +36,7 @@
     "saved": false
   },
   {
-    "id": -2612617089444477802,
-    "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
-    "link": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-06T20:24:29",
-    "saved": false
-  },
-  {
-    "id": 3988371368733798942,
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-06T18:35:27",
-    "saved": false
-  },
-  {
-    "id": 7036309329942672790,
+    "id": -8534243317893264294,
     "title": "Training-free graph SSL matches GCN with 5× fewer labels — live demo [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/",
     "source": "Reddit ML",
@@ -63,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 7971615553598176516,
+    "id": 7809341625141535533,
     "title": "Sriram Krishnan is leaving his role as White House AI advisor",
     "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "source": "TechCrunch",
@@ -72,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -370613658564921982,
+    "id": -4609079771855370727,
     "title": "The Trump administration might take an equity stake in OpenAI",
     "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "source": "TechCrunch",
@@ -81,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 5792552245904969772,
-    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "link": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-05T20:06:36",
-    "saved": false
-  },
-  {
-    "id": 313220434671318665,
+    "id": -1511643323575259459,
     "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
     "source": "Reddit ML",
@@ -99,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7435256256859631958,
+    "id": -1527144201682329204,
     "title": "Harness engineering: Leveraging Codex in an agent-first world",
     "link": "https://openai.com/index/harness-engineering/",
     "source": "Hacker News",
@@ -108,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8778515471096958332,
+    "id": -8277076562206622402,
     "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
     "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
     "source": "TechCrunch",
@@ -117,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2135511097643015429,
+    "id": -7327444624842577041,
     "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
     "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
     "source": "TechCrunch",
@@ -126,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7608131596795956703,
+    "id": 1597259863380536858,
     "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
     "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
     "source": "TechCrunch",
@@ -135,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5972589351903875176,
+    "id": -2698936861816715624,
     "title": "Is it allowed to use OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library? [d]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/",
     "source": "Reddit ML",
@@ -144,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -5427706755278360712,
-    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "link": "https://news.ycombinator.com/item?id=48406174",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-04T23:42:20",
-    "saved": false
-  },
-  {
-    "id": 2634059209181405304,
+    "id": 3958649167691687055,
     "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
     "source": "Reddit ML",
@@ -162,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4554013403706465422,
+    "id": -3275418964215727720,
     "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
     "source": "Reddit ML",
@@ -171,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4160695700077532359,
+    "id": -1895190358903821768,
     "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
     "source": "Reddit ML",

@@ -1,6 +1,33 @@
 [
   {
-    "id": -3244385039594766457,
+    "id": -7847725474744889323,
+    "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+    "link": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T02:05:40",
+    "saved": false
+  },
+  {
+    "id": 5665079231539033010,
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T00:28:37",
+    "saved": false
+  },
+  {
+    "id": 8770901549412210055,
+    "title": "OpenAI is still working on that ‘super app’",
+    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-07T16:23:22",
+    "saved": false
+  },
+  {
+    "id": 3877848660364275254,
     "title": "LLMs are eroding my software engineering career and I don't know what to do",
     "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
     "source": "Hacker News",
@@ -9,25 +36,16 @@
     "saved": false
   },
   {
-    "id": 7924842890711812164,
-    "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
-    "link": "https://arxiv.org/abs/2601.14470",
+    "id": -1451920232324660686,
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "link": "https://github.com/devenjarvis/lathe",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-07T01:37:11",
+    "date": "2026-06-07T11:16:46",
     "saved": false
   },
   {
-    "id": 4582448544661220449,
-    "title": "Public Domain Image Archive",
-    "link": "https://pdimagearchive.org/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-07T00:22:51",
-    "saved": false
-  },
-  {
-    "id": -1348419083769310464,
+    "id": -4925341336426274377,
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "source": "TechCrunch",
@@ -36,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -8534243317893264294,
-    "title": "Training-free graph SSL matches GCN with 5× fewer labels — live demo [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tyovlr/trainingfree_graph_ssl_matches_gcn_with_5_fewer/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-06T18:27:18",
-    "saved": false
-  },
-  {
-    "id": 7809341625141535533,
+    "id": -2983412518631547338,
     "title": "Sriram Krishnan is leaving his role as White House AI advisor",
     "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4609079771855370727,
+    "id": -8900425792660699638,
     "title": "The Trump administration might take an equity stake in OpenAI",
     "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1511643323575259459,
+    "id": -3838948705032855605,
     "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
     "source": "Reddit ML",
@@ -72,43 +81,7 @@
     "saved": false
   },
   {
-    "id": -1527144201682329204,
-    "title": "Harness engineering: Leveraging Codex in an agent-first world",
-    "link": "https://openai.com/index/harness-engineering/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-05T18:20:06",
-    "saved": false
-  },
-  {
-    "id": -8277076562206622402,
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-05T14:49:12",
-    "saved": false
-  },
-  {
-    "id": -7327444624842577041,
-    "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
-    "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-05T14:32:57",
-    "saved": false
-  },
-  {
-    "id": 1597259863380536858,
-    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-05T13:03:10",
-    "saved": false
-  },
-  {
-    "id": -2698936861816715624,
+    "id": 7945695327803448776,
     "title": "Is it allowed to use OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library? [d]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/",
     "source": "Reddit ML",
@@ -117,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3958649167691687055,
+    "id": -2847358386523681873,
     "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
     "source": "Reddit ML",
@@ -126,21 +99,12 @@
     "saved": false
   },
   {
-    "id": -3275418964215727720,
+    "id": 7733194545243892143,
     "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-04T11:07:27",
-    "saved": false
-  },
-  {
-    "id": -1895190358903821768,
-    "title": "NeurIPS used uncalibrated AI detector for desk rejections [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tvwctd/neurips_used_uncalibrated_ai_detector_for_desk/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-03T17:28:03",
     "saved": false
   }
 ]

@@ -1,15 +1,24 @@
 [
   {
-    "id": -7847725474744889323,
-    "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
-    "link": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
+    "id": 3312927909438605744,
+    "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+    "link": "https://safedep.io/config-files-that-run-code/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-08T02:05:40",
+    "date": "2026-06-08T09:35:19",
     "saved": false
   },
   {
-    "id": 5665079231539033010,
+    "id": -3071425253400151329,
+    "title": "M5 air 24gb or M5 pro 16gb for swe + ml ? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1tzvpcl/m5_air_24gb_or_m5_pro_16gb_for_swe_ml_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-08T02:49:43",
+    "saved": false
+  },
+  {
+    "id": -371182866261499248,
     "title": "The Smallest Brain You Can Build: A Perceptron in Python",
     "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
     "source": "Hacker News",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 8770901549412210055,
+    "id": -8732048417876652815,
     "title": "OpenAI is still working on that ‘super app’",
     "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
     "source": "TechCrunch",
@@ -27,25 +36,7 @@
     "saved": false
   },
   {
-    "id": 3877848660364275254,
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-07T12:49:29",
-    "saved": false
-  },
-  {
-    "id": -1451920232324660686,
-    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
-    "link": "https://github.com/devenjarvis/lathe",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-07T11:16:46",
-    "saved": false
-  },
-  {
-    "id": -4925341336426274377,
+    "id": 728577683657711764,
     "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -2983412518631547338,
+    "id": 8512531187565041571,
     "title": "Sriram Krishnan is leaving his role as White House AI advisor",
     "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
     "source": "TechCrunch",
@@ -63,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -8900425792660699638,
+    "id": 8818949830359610050,
     "title": "The Trump administration might take an equity stake in OpenAI",
     "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
     "source": "TechCrunch",
@@ -72,39 +63,12 @@
     "saved": false
   },
   {
-    "id": -3838948705032855605,
+    "id": 722337034924978943,
     "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-05T20:05:17",
-    "saved": false
-  },
-  {
-    "id": 7945695327803448776,
-    "title": "Is it allowed to use OpenAI API outputs to create a silver code dataset or benchmark for a specific Python library? [d]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1txc6qd/is_it_allowed_to_use_openai_api_outputs_to_create/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-05T05:52:32",
-    "saved": false
-  },
-  {
-    "id": -2847358386523681873,
-    "title": "How do ML researchers actually use AI tools to improve their writing? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1twtpmb/how_do_ml_researchers_actually_use_ai_tools_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-04T17:02:53",
-    "saved": false
-  },
-  {
-    "id": 7733194545243892143,
-    "title": "How Do You Handle Ablation Studies When the Original Model Is Already Trained?[R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1twkfec/how_do_you_handle_ablation_studies_when_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-04T11:07:27",
     "saved": false
   }
 ]

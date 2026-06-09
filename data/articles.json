@@ -1,15 +1,150 @@
 [
   {
-    "id": 3312927909438605744,
-    "title": "Config Files That Run Code: Supply Chain Security Blindspot",
-    "link": "https://safedep.io/config-files-that-run-code/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-08T09:35:19",
+    "id": 2168705718174303268,
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T22:41:45",
     "saved": false
   },
   {
-    "id": -3071425253400151329,
+    "id": 7566489105371780695,
+    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T22:39:57",
+    "saved": false
+  },
+  {
+    "id": -3708073937303693006,
+    "title": "OpenAI files confidentially for IPO, following Anthropic",
+    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T21:29:57",
+    "saved": false
+  },
+  {
+    "id": -2721837735406165013,
+    "title": "Apple bets cheaper AI will woo small developers",
+    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T20:53:55",
+    "saved": false
+  },
+  {
+    "id": 4412441930228453605,
+    "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+    "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T20:03:44",
+    "saved": false
+  },
+  {
+    "id": -8225875553860671972,
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T19:41:32",
+    "saved": false
+  },
+  {
+    "id": -3733271769381038771,
+    "title": "Apple reveals new AI architecture built around Google Gemini models",
+    "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T19:14:47",
+    "saved": false
+  },
+  {
+    "id": -8776124695271495390,
+    "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
+    "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T18:57:49",
+    "saved": false
+  },
+  {
+    "id": 7328477120944764170,
+    "title": "Apple Core AI Framework",
+    "link": "https://developer.apple.com/documentation/coreai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T18:47:38",
+    "saved": false
+  },
+  {
+    "id": -8367676170772309533,
+    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T18:45:12",
+    "saved": false
+  },
+  {
+    "id": -5893584877981035268,
+    "title": "Apple’s Photos app is getting new AI editing features",
+    "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T18:36:04",
+    "saved": false
+  },
+  {
+    "id": 3756381868130672210,
+    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
+    "link": "https://news.ycombinator.com/item?id=48449187",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T18:22:39",
+    "saved": false
+  },
+  {
+    "id": -97049176071987223,
+    "title": "Siri AI",
+    "link": "https://www.apple.com/apple-intelligence/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T18:17:53",
+    "saved": false
+  },
+  {
+    "id": -2998673149889006144,
+    "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+    "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-08T17:56:21",
+    "saved": false
+  },
+  {
+    "id": 2416120906706517208,
+    "title": "AI is slowing down",
+    "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T15:46:37",
+    "saved": false
+  },
+  {
+    "id": 977505896978337672,
+    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "link": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T15:13:43",
+    "saved": false
+  },
+  {
+    "id": -2569265225838293563,
     "title": "M5 air 24gb or M5 pro 16gb for swe + ml ? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1tzvpcl/m5_air_24gb_or_m5_pro_16gb_for_swe_ml_d/",
     "source": "Reddit ML",
@@ -18,52 +153,16 @@
     "saved": false
   },
   {
-    "id": -371182866261499248,
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
-    "link": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "id": 5472859180672389102,
+    "title": "Hermes Agent – Open-Source AI Agent with Persistent Memory",
+    "link": "https://hermes-agent.org/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-08T00:28:37",
+    "date": "2026-06-05T22:09:38",
     "saved": false
   },
   {
-    "id": -8732048417876652815,
-    "title": "OpenAI is still working on that ‘super app’",
-    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-07T16:23:22",
-    "saved": false
-  },
-  {
-    "id": 728577683657711764,
-    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-    "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-06T20:32:24",
-    "saved": false
-  },
-  {
-    "id": 8512531187565041571,
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-06T17:42:15",
-    "saved": false
-  },
-  {
-    "id": 8818949830359610050,
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-06T16:17:21",
-    "saved": false
-  },
-  {
-    "id": 722337034924978943,
+    "id": 6005426700363924102,
     "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
     "source": "Reddit ML",

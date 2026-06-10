@@ -1,6 +1,105 @@
 [
   {
-    "id": 1821852274340678020,
+    "id": -5925338422677115299,
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T01:44:13",
+    "saved": false
+  },
+  {
+    "id": -8636842101330367357,
+    "title": "macOS Container Machines",
+    "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T00:29:01",
+    "saved": false
+  },
+  {
+    "id": 6515602974977555061,
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T00:26:10",
+    "saved": false
+  },
+  {
+    "id": -7516442511955274192,
+    "title": "Phinite — multi-agent OS with first-class agent identity, composable skills, behavioral evaluation [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u1jqmf/phinite_multiagent_os_with_firstclass_agent/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-09T22:17:47",
+    "saved": false
+  },
+  {
+    "id": -935381926846412283,
+    "title": "GM joins race to build batteries for AI data centers and the grid",
+    "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-09T21:00:00",
+    "saved": false
+  },
+  {
+    "id": 8528740153847219553,
+    "title": "Hey, Siri, here’s what I actually want from AI",
+    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-09T20:50:17",
+    "saved": false
+  },
+  {
+    "id": -1892822680609391305,
+    "title": "Grit: Rewriting Git in Rust with agents",
+    "link": "https://blog.gitbutler.com/true-grit",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-09T19:58:21",
+    "saved": false
+  },
+  {
+    "id": -6343117282873816630,
+    "title": "AI Epistemic Risks: Emerging Mechanisms & Evidence [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u1ew6q/ai_epistemic_risks_emerging_mechanisms_evidence_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-09T19:18:47",
+    "saved": false
+  },
+  {
+    "id": -7288340558821198161,
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-09T18:56:09",
+    "saved": false
+  },
+  {
+    "id": 3294812102673164398,
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-09T18:45:59",
+    "saved": false
+  },
+  {
+    "id": -2725018557666653713,
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-09T18:04:24",
+    "saved": false
+  },
+  {
+    "id": 6680231198017718293,
     "title": "Sandstone raises $30M to bring AI to in-house legal teams",
     "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
     "source": "TechCrunch",
@@ -9,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3656094897814699181,
+    "id": -974425054236873219,
     "title": "How an e-scooter founder raised $5 million to build space data centers",
     "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
     "source": "TechCrunch",
@@ -18,147 +117,12 @@
     "saved": false
   },
   {
-    "id": 7440400014160115894,
-    "title": "Cleaning up after AI rockstar developers",
-    "link": "https://www.codingwithjesse.com/blog/rockstar-developers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-09T09:10:10",
-    "saved": false
-  },
-  {
-    "id": 9003474818724789890,
+    "id": -7345778150404932168,
     "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
     "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-06-09T09:00:00",
-    "saved": false
-  },
-  {
-    "id": -8984051947294615784,
-    "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-09T07:33:16",
-    "saved": false
-  },
-  {
-    "id": 7220935263340009937,
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T01:56:48",
-    "saved": false
-  },
-  {
-    "id": 1466423691451528664,
-    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-    "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T22:41:45",
-    "saved": false
-  },
-  {
-    "id": 801877148834933010,
-    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
-    "link": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T22:39:57",
-    "saved": false
-  },
-  {
-    "id": 1102576217554330640,
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T21:29:57",
-    "saved": false
-  },
-  {
-    "id": 5963044993868614224,
-    "title": "Apple bets cheaper AI will woo small developers",
-    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T20:53:55",
-    "saved": false
-  },
-  {
-    "id": 8458136351381581997,
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T19:41:32",
-    "saved": false
-  },
-  {
-    "id": 1453426446036097710,
-    "title": "Apple reveals new AI architecture built around Google Gemini models",
-    "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-08T19:14:47",
-    "saved": false
-  },
-  {
-    "id": 597922456411184731,
-    "title": "Pentagon says Alibaba, Baidu, BYD, and Unitree support China’s military",
-    "link": "https://techcrunch.com/2026/06/08/pentagon-says-alibaba-baidu-byd-and-unitree-support-chinas-military/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T18:57:49",
-    "saved": false
-  },
-  {
-    "id": -8856661929527090368,
-    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T18:45:12",
-    "saved": false
-  },
-  {
-    "id": 1229863765233445345,
-    "title": "Apple’s Photos app is getting new AI editing features",
-    "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-08T18:36:04",
-    "saved": false
-  },
-  {
-    "id": 6397243685765086770,
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-    "link": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-08T15:13:43",
-    "saved": false
-  },
-  {
-    "id": 5521456143353088190,
-    "title": "M5 air 24gb or M5 pro 16gb for swe + ml ? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1tzvpcl/m5_air_24gb_or_m5_pro_16gb_for_swe_ml_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-08T02:49:43",
-    "saved": false
-  },
-  {
-    "id": 1473865552902638416,
-    "title": "TinyTPU: SystemVerilog systolic array compiled to WASM, running live in browser - RTL golden-verified against numpy [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1txvvo4/tinytpu_systemverilog_systolic_array_compiled_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-05T20:05:17",
     "saved": false
   }
 ]

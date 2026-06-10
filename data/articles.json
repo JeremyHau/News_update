@@ -1,6 +1,105 @@
 [
   {
-    "id": -5925338422677115299,
+    "id": -3110937918435676971,
+    "title": "[R] AI Agent Security: The Complete Guide to Threats, Defenses, and the Future of Autonomous AI Safety [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u242n9/r_ai_agent_security_the_complete_guide_to_threats/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-10T14:38:46",
+    "saved": false
+  },
+  {
+    "id": -4246859445739287058,
+    "title": "Warner Music acquires AI attribution startup Sureel AI",
+    "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T14:31:30",
+    "saved": false
+  },
+  {
+    "id": 7215369839913671887,
+    "title": "Britain Became as Poor as Mississippi",
+    "link": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T14:23:12",
+    "saved": false
+  },
+  {
+    "id": -4437648406876464234,
+    "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-10T14:14:39",
+    "saved": false
+  },
+  {
+    "id": 9064278056910102285,
+    "title": "A €0.01 bank transfer could compromise a banking AI agent",
+    "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T13:39:11",
+    "saved": false
+  },
+  {
+    "id": 5364828822635892879,
+    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+    "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T13:33:09",
+    "saved": false
+  },
+  {
+    "id": 7494071017241118241,
+    "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+    "link": "https://jivx.com/eki",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T12:11:28",
+    "saved": false
+  },
+  {
+    "id": -1261529507439918285,
+    "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
+    "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -5031879301637870073,
+    "title": "Meta signs first AI data center deal in India with Reliance",
+    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T07:05:26",
+    "saved": false
+  },
+  {
+    "id": -6618635699353051581,
+    "title": "I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u1rf09/i_built_paper_deck_a_better_way_to_discover_aiml/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-10T04:02:25",
+    "saved": false
+  },
+  {
+    "id": 2670682646096974745,
+    "title": "Rich Sutton on AI creativity and discovery",
+    "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T02:25:24",
+    "saved": false
+  },
+  {
+    "id": 2407443447653407402,
     "title": "German ruling declares Google liable for false answers in AI Overviews",
     "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
     "source": "Hacker News",
@@ -9,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8636842101330367357,
+    "id": -7924600775207604317,
     "title": "macOS Container Machines",
     "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
     "source": "Hacker News",
@@ -18,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6515602974977555061,
+    "id": -3383555546843186977,
     "title": "Google just fired a warning shot in the AI subscription price wars",
     "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
     "source": "TechCrunch",
@@ -27,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -7516442511955274192,
-    "title": "Phinite — multi-agent OS with first-class agent identity, composable skills, behavioral evaluation [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u1jqmf/phinite_multiagent_os_with_firstclass_agent/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-09T22:17:47",
-    "saved": false
-  },
-  {
-    "id": -935381926846412283,
+    "id": -8296450641195563645,
     "title": "GM joins race to build batteries for AI data centers and the grid",
     "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
     "source": "TechCrunch",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 8528740153847219553,
+    "id": -1571885856369210651,
     "title": "Hey, Siri, here’s what I actually want from AI",
     "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
     "source": "TechCrunch",
@@ -54,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -1892822680609391305,
-    "title": "Grit: Rewriting Git in Rust with agents",
-    "link": "https://blog.gitbutler.com/true-grit",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-09T19:58:21",
-    "saved": false
-  },
-  {
-    "id": -6343117282873816630,
+    "id": -3218015687084987687,
     "title": "AI Epistemic Risks: Emerging Mechanisms & Evidence [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1ew6q/ai_epistemic_risks_emerging_mechanisms_evidence_r/",
     "source": "Reddit ML",
@@ -72,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7288340558821198161,
+    "id": -8197064960159265621,
     "title": "Can tech companies learn to love cheaper AI models?",
     "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
     "source": "TechCrunch",
@@ -81,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 3294812102673164398,
-    "title": "CEOs who think AI replaces their employees are just bad CEOs",
-    "link": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-09T18:45:59",
-    "saved": false
-  },
-  {
-    "id": -2725018557666653713,
+    "id": -5809683863277025981,
     "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
     "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
     "source": "TechCrunch",
@@ -99,30 +171,12 @@
     "saved": false
   },
   {
-    "id": 6680231198017718293,
-    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T13:47:25",
-    "saved": false
-  },
-  {
-    "id": -974425054236873219,
-    "title": "How an e-scooter founder raised $5 million to build space data centers",
-    "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -7345778150404932168,
-    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station",
-    "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T09:00:00",
+    "id": -6635136740891354085,
+    "title": "Buy a train, bridge or tracks from the Swiss Railway",
+    "link": "https://sbbresale.ch/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T09:05:29",
     "saved": false
   }
 ]

@@ -1,6 +1,96 @@
 [
   {
-    "id": -3475164264313909227,
+    "id": 3189003075963952591,
+    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
+    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T14:23:43",
+    "saved": false
+  },
+  {
+    "id": 1096471364602018010,
+    "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
+    "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T14:00:12",
+    "saved": false
+  },
+  {
+    "id": -4271666576967761258,
+    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+    "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-11T13:26:59",
+    "saved": false
+  },
+  {
+    "id": -5349419145819289623,
+    "title": "Is Symbolic Regression still a thing, given LLMs' performance? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2yqnu/is_symbolic_regression_still_a_thing_given_llms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-11T13:13:32",
+    "saved": false
+  },
+  {
+    "id": -2355840458667315626,
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
+    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T11:48:55",
+    "saved": false
+  },
+  {
+    "id": -7289700471556657203,
+    "title": "[P] Extreme Imbalance Data from 100K dataset only have 56 failure [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2ut7s/p_extreme_imbalance_data_from_100k_dataset_only/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-11T10:04:19",
+    "saved": false
+  },
+  {
+    "id": -8254005586953155812,
+    "title": "Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2u9bb/adaptive_tokenisation_via_temporal_redundancy/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-11T09:32:34",
+    "saved": false
+  },
+  {
+    "id": 7466514662072386094,
+    "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2tk0i/anthropic_walks_back_policy_on_silent_nerfing_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-11T08:51:10",
+    "saved": false
+  },
+  {
+    "id": 7454151469219047336,
+    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-11T06:42:06",
+    "saved": false
+  },
+  {
+    "id": 546591212638138671,
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T04:02:19",
+    "saved": false
+  },
+  {
+    "id": -1271185214082515102,
     "title": "AI agent runs amok in Fedora and elsewhere",
     "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
     "source": "Hacker News",
@@ -9,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 5095350295734336967,
+    "id": -6878621086175338539,
     "title": "Looking for papers/resources on AI responses to psychological distress prompts [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2j4uv/looking_for_papersresources_on_ai_responses_to/",
     "source": "Reddit ML",
@@ -18,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 901299449993203897,
+    "id": 6292278965902848447,
     "title": "Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/",
     "source": "Reddit ML",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 5785053524601514922,
+    "id": -7420497477485105316,
     "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
     "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "source": "TechCrunch",
@@ -36,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6564164376888188870,
+    "id": 5754856722638113175,
     "title": "Why Andrew Yang is building instead of waiting for Washington",
     "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
     "source": "TechCrunch",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6975241759980584377,
+    "id": -8404707613044079463,
     "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
     "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
     "source": "TechCrunch",
@@ -54,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -1497705734530546280,
+    "id": -4057811039439141548,
     "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
     "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
     "source": "TechCrunch",
@@ -63,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7096544940123595900,
+    "id": 3026170207911100579,
     "title": "Routing LLMs by task verifiability: a small experiment (n=120, 3 models) inspired by Karpathy's framework [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2c04u/routing_llms_by_task_verifiability_a_small/",
     "source": "Reddit ML",
@@ -72,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -3280472386565920160,
+    "id": -1435452831169721012,
     "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
     "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
     "source": "TechCrunch",
@@ -81,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -3631088898179871265,
+    "id": 3066359879231061596,
     "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
     "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
     "source": "Hacker News",
@@ -90,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 5459254900723991028,
+    "id": -3600871561322764477,
     "title": "How memory tools can make AI models worse",
     "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
     "source": "TechCrunch",
@@ -99,34 +189,7 @@
     "saved": false
   },
   {
-    "id": 9028538797761302543,
-    "title": "Why enterprise AI will be a major focus at VivaTech 2026",
-    "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T15:16:00",
-    "saved": false
-  },
-  {
-    "id": -4324206791925444418,
-    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 276359139272603552,
-    "title": "Warner Music acquires AI attribution startup Sureel AI",
-    "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T14:31:30",
-    "saved": false
-  },
-  {
-    "id": 4051164963999262634,
+    "id": 513292281228746889,
     "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
     "source": "Reddit ML",
@@ -135,16 +198,7 @@
     "saved": false
   },
   {
-    "id": -2850610841788888100,
-    "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-    "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T13:33:09",
-    "saved": false
-  },
-  {
-    "id": 1849034148146413414,
+    "id": -5067287297311938093,
     "title": "I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1rf09/i_built_paper_deck_a_better_way_to_discover_aiml/",
     "source": "Reddit ML",
@@ -153,7 +207,7 @@
     "saved": false
   },
   {
-    "id": -8434040906941397397,
+    "id": -3762792772504982313,
     "title": "AI Epistemic Risks: Emerging Mechanisms & Evidence [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1ew6q/ai_epistemic_risks_emerging_mechanisms_evidence_r/",
     "source": "Reddit ML",
@@ -162,21 +216,12 @@
     "saved": false
   },
   {
-    "id": 5207590540272863635,
-    "title": "L'Affaire Siloxane",
-    "link": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "id": 6305427292344525804,
+    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+    "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-09T05:21:39",
-    "saved": false
-  },
-  {
-    "id": 8447023467864995415,
-    "title": "Klondike Solitaire game for curses in 5k of C",
-    "link": "https://nanochess.org/klondike_in_c.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-08T19:08:12",
+    "date": "2026-06-09T14:29:34",
     "saved": false
   }
 ]

@@ -1,15 +1,123 @@
 [
   {
-    "id": -3110937918435676971,
-    "title": "[R] AI Agent Security: The Complete Guide to Threats, Defenses, and the Future of Autonomous AI Safety [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u242n9/r_ai_agent_security_the_complete_guide_to_threats/",
-    "source": "Reddit ML",
+    "id": -3475164264313909227,
+    "title": "AI agent runs amok in Fedora and elsewhere",
+    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-10T14:38:46",
+    "date": "2026-06-11T00:10:08",
     "saved": false
   },
   {
-    "id": -4246859445739287058,
+    "id": 5095350295734336967,
+    "title": "Looking for papers/resources on AI responses to psychological distress prompts [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2j4uv/looking_for_papersresources_on_ai_responses_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-10T23:57:38",
+    "saved": false
+  },
+  {
+    "id": 901299449993203897,
+    "title": "Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-10T22:49:52",
+    "saved": false
+  },
+  {
+    "id": 5785053524601514922,
+    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T22:31:19",
+    "saved": false
+  },
+  {
+    "id": -6564164376888188870,
+    "title": "Why Andrew Yang is building instead of waiting for Washington",
+    "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T22:24:12",
+    "saved": false
+  },
+  {
+    "id": 6975241759980584377,
+    "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+    "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T21:33:32",
+    "saved": false
+  },
+  {
+    "id": -1497705734530546280,
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T20:19:31",
+    "saved": false
+  },
+  {
+    "id": -7096544940123595900,
+    "title": "Routing LLMs by task verifiability: a small experiment (n=120, 3 models) inspired by Karpathy's framework [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u2c04u/routing_llms_by_task_verifiability_a_small/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-10T19:18:55",
+    "saved": false
+  },
+  {
+    "id": -3280472386565920160,
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T17:07:35",
+    "saved": false
+  },
+  {
+    "id": -3631088898179871265,
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-10T16:42:00",
+    "saved": false
+  },
+  {
+    "id": 5459254900723991028,
+    "title": "How memory tools can make AI models worse",
+    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T16:11:08",
+    "saved": false
+  },
+  {
+    "id": 9028538797761302543,
+    "title": "Why enterprise AI will be a major focus at VivaTech 2026",
+    "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T15:16:00",
+    "saved": false
+  },
+  {
+    "id": -4324206791925444418,
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-10T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 276359139272603552,
     "title": "Warner Music acquires AI attribution startup Sureel AI",
     "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
     "source": "TechCrunch",
@@ -18,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 7215369839913671887,
-    "title": "Britain Became as Poor as Mississippi",
-    "link": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T14:23:12",
-    "saved": false
-  },
-  {
-    "id": -4437648406876464234,
+    "id": 4051164963999262634,
     "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
     "source": "Reddit ML",
@@ -36,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 9064278056910102285,
-    "title": "A €0.01 bank transfer could compromise a banking AI agent",
-    "link": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T13:39:11",
-    "saved": false
-  },
-  {
-    "id": 5364828822635892879,
+    "id": -2850610841788888100,
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
     "link": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
     "source": "TechCrunch",
@@ -54,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 7494071017241118241,
-    "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
-    "link": "https://jivx.com/eki",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T12:11:28",
-    "saved": false
-  },
-  {
-    "id": -1261529507439918285,
-    "title": "Why two SpaceX alumni are betting on solar and batteries to power the AI craze",
-    "link": "https://techcrunch.com/2026/06/10/why-two-spacex-alumni-are-betting-on-solar-and-batteries-to-power-the-ai-craze/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -5031879301637870073,
-    "title": "Meta signs first AI data center deal in India with Reliance",
-    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T07:05:26",
-    "saved": false
-  },
-  {
-    "id": -6618635699353051581,
+    "id": 1849034148146413414,
     "title": "I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1rf09/i_built_paper_deck_a_better_way_to_discover_aiml/",
     "source": "Reddit ML",
@@ -90,61 +153,7 @@
     "saved": false
   },
   {
-    "id": 2670682646096974745,
-    "title": "Rich Sutton on AI creativity and discovery",
-    "link": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T02:25:24",
-    "saved": false
-  },
-  {
-    "id": 2407443447653407402,
-    "title": "German ruling declares Google liable for false answers in AI Overviews",
-    "link": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T01:44:13",
-    "saved": false
-  },
-  {
-    "id": -7924600775207604317,
-    "title": "macOS Container Machines",
-    "link": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T00:29:01",
-    "saved": false
-  },
-  {
-    "id": -3383555546843186977,
-    "title": "Google just fired a warning shot in the AI subscription price wars",
-    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T00:26:10",
-    "saved": false
-  },
-  {
-    "id": -8296450641195563645,
-    "title": "GM joins race to build batteries for AI data centers and the grid",
-    "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T21:00:00",
-    "saved": false
-  },
-  {
-    "id": -1571885856369210651,
-    "title": "Hey, Siri, here’s what I actually want from AI",
-    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T20:50:17",
-    "saved": false
-  },
-  {
-    "id": -3218015687084987687,
+    "id": -8434040906941397397,
     "title": "AI Epistemic Risks: Emerging Mechanisms & Evidence [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1ew6q/ai_epistemic_risks_emerging_mechanisms_evidence_r/",
     "source": "Reddit ML",
@@ -153,30 +162,21 @@
     "saved": false
   },
   {
-    "id": -8197064960159265621,
-    "title": "Can tech companies learn to love cheaper AI models?",
-    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T18:56:09",
-    "saved": false
-  },
-  {
-    "id": -5809683863277025981,
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-    "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-09T18:04:24",
-    "saved": false
-  },
-  {
-    "id": -6635136740891354085,
-    "title": "Buy a train, bridge or tracks from the Swiss Railway",
-    "link": "https://sbbresale.ch/",
+    "id": 5207590540272863635,
+    "title": "L'Affaire Siloxane",
+    "link": "https://mceglowski.substack.com/p/laffaire-siloxane",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-08T09:05:29",
+    "date": "2026-06-09T05:21:39",
+    "saved": false
+  },
+  {
+    "id": 8447023467864995415,
+    "title": "Klondike Solitaire game for curses in 5k of C",
+    "link": "https://nanochess.org/klondike_in_c.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-08T19:08:12",
     "saved": false
   }
 ]

@@ -1,6 +1,69 @@
 [
   {
-    "id": -4526314759941757200,
+    "id": -4396238172943185292,
+    "title": "Ryanair dark UX patterns summer 2026 refresher",
+    "link": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-12T11:11:42",
+    "saved": false
+  },
+  {
+    "id": 3719111684845637477,
+    "title": "The Future of Email",
+    "link": "https://www.fastmail.com/blog/the-future-of-email/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-12T10:38:31",
+    "saved": false
+  },
+  {
+    "id": 6418994322668700418,
+    "title": "Building an Open Source Edge Semantic Cache for LLMs in Rust/WASM – Sanity check on the architecture? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u3quwk/building_an_open_source_edge_semantic_cache_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-12T09:53:27",
+    "saved": false
+  },
+  {
+    "id": 7309956407421623296,
+    "title": "MICCAI 2026 Results [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u3nims/miccai_2026_results_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-12T06:35:14",
+    "saved": false
+  },
+  {
+    "id": -4252543439423979675,
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "link": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-12T04:42:53",
+    "saved": false
+  },
+  {
+    "id": 4255966941853385462,
+    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-12T04:30:00",
+    "saved": false
+  },
+  {
+    "id": 3267593945019690042,
+    "title": "Equal AI raises $30M to screen calls so Indians don’t have to",
+    "link": "https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-12T04:30:00",
+    "saved": false
+  },
+  {
+    "id": 4413963971211782665,
     "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
     "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
     "source": "TechCrunch",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -9134903794629929277,
+    "id": 2702860177439071669,
     "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
     "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
     "source": "TechCrunch",
@@ -18,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 8894767183218915409,
-    "title": "A jacket that harvests drinking water from the air",
-    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-11T22:59:22",
-    "saved": false
-  },
-  {
-    "id": 8985871155602563348,
+    "id": 7730951305003355399,
     "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
     "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -4466704050635096814,
+    "id": -3972150616411113085,
     "title": "Coinbase’s new tool can help agents trade and pay for premium research",
     "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -9069550371135156287,
+    "id": -8517642521669584168,
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
     "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -180032086785428899,
+    "id": -2688914125878684146,
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2265243843596598829,
+    "id": -4776954206029672784,
     "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
     "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6785153034160372678,
+    "id": -8385635242630175578,
     "title": "Is Symbolic Regression still a thing, given LLMs' performance? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2yqnu/is_symbolic_regression_still_a_thing_given_llms/",
     "source": "Reddit ML",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -594170004551149737,
+    "id": -4236579248592109350,
     "title": "Anthropic apologizes for invisible Claude Fable guardrails",
     "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
     "source": "Hacker News",
@@ -90,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -6785118006963632143,
-    "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-11T11:48:55",
-    "saved": false
-  },
-  {
-    "id": 4113940523711791255,
+    "id": -8168770676391893623,
     "title": "[P] Extreme Imbalance Data from 100K dataset only have 56 failure [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2ut7s/p_extreme_imbalance_data_from_100k_dataset_only/",
     "source": "Reddit ML",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6454710728179449204,
+    "id": -2586985728351369509,
     "title": "Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2u9bb/adaptive_tokenisation_via_temporal_redundancy/",
     "source": "Reddit ML",
@@ -117,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -7059496230352340309,
+    "id": -2966525940569201586,
     "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2tk0i/anthropic_walks_back_policy_on_silent_nerfing_for/",
     "source": "Reddit ML",
@@ -126,25 +171,7 @@
     "saved": false
   },
   {
-    "id": -4839913985335518708,
-    "title": "Making a vintage LLM from scratch",
-    "link": "https://crlf.link/log/entries/260525-1/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-11T08:38:00",
-    "saved": false
-  },
-  {
-    "id": -3307753271779982332,
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-11T04:02:19",
-    "saved": false
-  },
-  {
-    "id": -2214315016536581630,
+    "id": 4020282854944184481,
     "title": "Looking for papers/resources on AI responses to psychological distress prompts [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2j4uv/looking_for_papersresources_on_ai_responses_to/",
     "source": "Reddit ML",
@@ -153,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 6559193158838021283,
+    "id": 1409732421213057365,
     "title": "Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/",
     "source": "Reddit ML",
@@ -162,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 9219648754455274859,
+    "id": 8049279398500122928,
     "title": "Routing LLMs by task verifiability: a small experiment (n=120, 3 models) inspired by Karpathy's framework [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2c04u/routing_llms_by_task_verifiability_a_small/",
     "source": "Reddit ML",
@@ -171,39 +198,12 @@
     "saved": false
   },
   {
-    "id": 4365708150513467058,
+    "id": -629556413203630766,
     "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-10T14:14:39",
-    "saved": false
-  },
-  {
-    "id": -6296342569126921789,
-    "title": "I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u1rf09/i_built_paper_deck_a_better_way_to_discover_aiml/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-10T04:02:25",
-    "saved": false
-  },
-  {
-    "id": 3094368077968609527,
-    "title": "AI Epistemic Risks: Emerging Mechanisms & Evidence [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u1ew6q/ai_epistemic_risks_emerging_mechanisms_evidence_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-09T19:18:47",
-    "saved": false
-  },
-  {
-    "id": -1912659788438364857,
-    "title": "Ear Training Practice",
-    "link": "https://tonedear.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-08T16:38:07",
     "saved": false
   }
 ]

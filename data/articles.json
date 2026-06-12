@@ -1,6 +1,60 @@
 [
   {
-    "id": 3189003075963952591,
+    "id": -4526314759941757200,
+    "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
+    "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-12T01:48:07",
+    "saved": false
+  },
+  {
+    "id": -9134903794629929277,
+    "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
+    "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-12T01:04:38",
+    "saved": false
+  },
+  {
+    "id": 8894767183218915409,
+    "title": "A jacket that harvests drinking water from the air",
+    "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-11T22:59:22",
+    "saved": false
+  },
+  {
+    "id": 8985871155602563348,
+    "title": "Meta’s Edits app is getting an AI assistant and a desktop version",
+    "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T17:30:00",
+    "saved": false
+  },
+  {
+    "id": -4466704050635096814,
+    "title": "Coinbase’s new tool can help agents trade and pay for premium research",
+    "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -9069550371135156287,
+    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-11T16:36:20",
+    "saved": false
+  },
+  {
+    "id": -180032086785428899,
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1096471364602018010,
+    "id": 2265243843596598829,
     "title": "Endurance Energy raises $54M to harness a massive untapped energy source",
     "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
     "source": "TechCrunch",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -4271666576967761258,
-    "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
-    "link": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-11T13:26:59",
-    "saved": false
-  },
-  {
-    "id": -5349419145819289623,
+    "id": -6785153034160372678,
     "title": "Is Symbolic Regression still a thing, given LLMs' performance? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2yqnu/is_symbolic_regression_still_a_thing_given_llms/",
     "source": "Reddit ML",
@@ -36,7 +81,16 @@
     "saved": false
   },
   {
-    "id": -2355840458667315626,
+    "id": -594170004551149737,
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-11T12:05:02",
+    "saved": false
+  },
+  {
+    "id": -6785118006963632143,
     "title": "Anthropic taps TCS to scale its enterprise AI deployments",
     "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7289700471556657203,
+    "id": 4113940523711791255,
     "title": "[P] Extreme Imbalance Data from 100K dataset only have 56 failure [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2ut7s/p_extreme_imbalance_data_from_100k_dataset_only/",
     "source": "Reddit ML",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8254005586953155812,
+    "id": 6454710728179449204,
     "title": "Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2u9bb/adaptive_tokenisation_via_temporal_redundancy/",
     "source": "Reddit ML",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 7466514662072386094,
+    "id": -7059496230352340309,
     "title": "Anthropic walks back policy on silent nerfing for AI/ML, will notify users [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2tk0i/anthropic_walks_back_policy_on_silent_nerfing_for/",
     "source": "Reddit ML",
@@ -72,16 +126,16 @@
     "saved": false
   },
   {
-    "id": 7454151469219047336,
-    "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-    "link": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+    "id": -4839913985335518708,
+    "title": "Making a vintage LLM from scratch",
+    "link": "https://crlf.link/log/entries/260525-1/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-11T06:42:06",
+    "date": "2026-06-11T08:38:00",
     "saved": false
   },
   {
-    "id": 546591212638138671,
+    "id": -3307753271779982332,
     "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
     "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
     "source": "TechCrunch",
@@ -90,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -1271185214082515102,
-    "title": "AI agent runs amok in Fedora and elsewhere",
-    "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-11T00:10:08",
-    "saved": false
-  },
-  {
-    "id": -6878621086175338539,
+    "id": -2214315016536581630,
     "title": "Looking for papers/resources on AI responses to psychological distress prompts [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2j4uv/looking_for_papersresources_on_ai_responses_to/",
     "source": "Reddit ML",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6292278965902848447,
+    "id": 6559193158838021283,
     "title": "Pyrecall open source tool for detecting catastrophic forgetting during LLM fine-tuning[P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2hjye/pyrecall_open_source_tool_for_detecting/",
     "source": "Reddit ML",
@@ -117,43 +162,7 @@
     "saved": false
   },
   {
-    "id": -7420497477485105316,
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T22:31:19",
-    "saved": false
-  },
-  {
-    "id": 5754856722638113175,
-    "title": "Why Andrew Yang is building instead of waiting for Washington",
-    "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T22:24:12",
-    "saved": false
-  },
-  {
-    "id": -8404707613044079463,
-    "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
-    "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T21:33:32",
-    "saved": false
-  },
-  {
-    "id": -4057811039439141548,
-    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T20:19:31",
-    "saved": false
-  },
-  {
-    "id": 3026170207911100579,
+    "id": 9219648754455274859,
     "title": "Routing LLMs by task verifiability: a small experiment (n=120, 3 models) inspired by Karpathy's framework [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u2c04u/routing_llms_by_task_verifiability_a_small/",
     "source": "Reddit ML",
@@ -162,34 +171,7 @@
     "saved": false
   },
   {
-    "id": -1435452831169721012,
-    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T17:07:35",
-    "saved": false
-  },
-  {
-    "id": 3066359879231061596,
-    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-10T16:42:00",
-    "saved": false
-  },
-  {
-    "id": -3600871561322764477,
-    "title": "How memory tools can make AI models worse",
-    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-10T16:11:08",
-    "saved": false
-  },
-  {
-    "id": 513292281228746889,
+    "id": 4365708150513467058,
     "title": "Anthropic's new model Fable will silently handicap work on LLMs [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u23f8p/anthropics_new_model_fable_will_silently_handicap/",
     "source": "Reddit ML",
@@ -198,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -5067287297311938093,
+    "id": -6296342569126921789,
     "title": "I Built Paper Deck: A Better Way to Discover AI/ML Papers [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1rf09/i_built_paper_deck_a_better_way_to_discover_aiml/",
     "source": "Reddit ML",
@@ -207,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -3762792772504982313,
+    "id": 3094368077968609527,
     "title": "AI Epistemic Risks: Emerging Mechanisms & Evidence [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u1ew6q/ai_epistemic_risks_emerging_mechanisms_evidence_r/",
     "source": "Reddit ML",
@@ -216,12 +198,12 @@
     "saved": false
   },
   {
-    "id": 6305427292344525804,
-    "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-    "link": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+    "id": -1912659788438364857,
+    "title": "Ear Training Practice",
+    "link": "https://tonedear.com/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-09T14:29:34",
+    "date": "2026-06-08T16:38:07",
     "saved": false
   }
 ]

@@ -1,6 +1,78 @@
 [
   {
-    "id": -3109199848826283596,
+    "id": 1006222136874448701,
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-15T23:51:44",
+    "saved": false
+  },
+  {
+    "id": -306351952496499957,
+    "title": "How the brains learn [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u6x8al/how_the_brains_learn_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-15T23:39:02",
+    "saved": false
+  },
+  {
+    "id": -63308566808509069,
+    "title": "Why I email complete strangers",
+    "link": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-15T21:57:10",
+    "saved": false
+  },
+  {
+    "id": 7021494033784930315,
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-15T21:50:21",
+    "saved": false
+  },
+  {
+    "id": -8152050614859780901,
+    "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-15T18:37:51",
+    "saved": false
+  },
+  {
+    "id": -6994834245887503577,
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-15T18:30:58",
+    "saved": false
+  },
+  {
+    "id": -3703334163147640916,
+    "title": "AI language models have favorite names, and we mapped them [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-15T17:07:34",
+    "saved": false
+  },
+  {
+    "id": -3043406593418915637,
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "link": "https://tinywind.io",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-15T16:15:53",
+    "saved": false
+  },
+  {
+    "id": 8764476602610421316,
     "title": "Could AI training be decentralized like Bitcoin mining? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6kzby/could_ai_training_be_decentralized_like_bitcoin/",
     "source": "Reddit ML",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2365392577933265410,
+    "id": -1402716821340938681,
     "title": "My Homelab AI Dev Platform",
     "link": "https://rsgm.dev/post/ai-dev-platform/",
     "source": "Hacker News",
@@ -18,7 +90,16 @@
     "saved": false
   },
   {
-    "id": -2761864812111261673,
+    "id": 1623952327691686179,
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "link": "https://news.ycombinator.com/item?id=48542100",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-15T14:46:53",
+    "saved": false
+  },
+  {
+    "id": 673125918208119658,
     "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised",
     "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
     "source": "TechCrunch",
@@ -27,8 +108,8 @@
     "saved": false
   },
   {
-    "id": -4136278216101407008,
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "id": 932791236892580293,
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
     "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "source": "TechCrunch",
     "category": "tech",
@@ -36,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4134689220165328597,
+    "id": -3831379516790861760,
     "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
     "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
     "source": "TechCrunch",
@@ -45,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2474686965989800470,
+    "id": 3255336538715405154,
     "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
     "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
     "source": "TechCrunch",
@@ -54,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4355130452245683175,
+    "id": -8723677358644747500,
     "title": "Recent CS graduate looking for GPU compute collaborators for LLM/VLM research [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6f5a3/recent_cs_graduate_looking_for_gpu_compute/",
     "source": "Reddit ML",
@@ -63,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 7160181169114194386,
-    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-    "link": "https://github.com/themartiano/luz",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-15T09:34:10",
-    "saved": false
-  },
-  {
-    "id": 7699348331055788328,
+    "id": 2935954109027244665,
     "title": "The AI layoff wave is becoming a powder keg",
     "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "source": "TechCrunch",
@@ -81,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -2254801812298310582,
+    "id": -3824414683826731652,
     "title": "PhD study: UX Designers & AI/ML Practitioners to test a \"Trust in LLM-based Chatbots\" Design Method (~25 min, anonymous) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u69kr1/phd_study_ux_designers_aiml_practitioners_to_test/",
     "source": "Reddit ML",
@@ -90,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 5112529349963410738,
+    "id": 7791441885849059836,
     "title": "Why do frontier AI labs send so many people to conferences? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u67koz/why_do_frontier_ai_labs_send_so_many_people_to/",
     "source": "Reddit ML",
@@ -99,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -6273170941209281783,
+    "id": -446286221318504885,
     "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
     "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
     "source": "TechCrunch",
@@ -108,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 2533383653002327705,
+    "id": -3396844945889708247,
     "title": "I built an open-source Knowledge Graph pipeline with hybrid retrieval to improve LLM multi-hop reasoning [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u5yyyl/i_built_an_opensource_knowledge_graph_pipeline/",
     "source": "Reddit ML",
@@ -117,66 +189,12 @@
     "saved": false
   },
   {
-    "id": -7607836925900277997,
+    "id": -947411160979891102,
     "title": "As AI companies race to go public, who else is along for the ride?",
     "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-06-14T16:38:09",
-    "saved": false
-  },
-  {
-    "id": -5889963301323941221,
-    "title": "As Anthropic suspends access to new models, India debates its AI future",
-    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-14T03:00:00",
-    "saved": false
-  },
-  {
-    "id": 8322710284692053397,
-    "title": "The Verifier Tax: Horizon-Dependent Safety–Success Tradeoffs in Tool-Using LLM Agents [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u58mkq/the_verifier_tax_horizondependent_safetysuccess/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-14T02:09:43",
-    "saved": false
-  },
-  {
-    "id": 6959849296287880024,
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-13T20:42:31",
-    "saved": false
-  },
-  {
-    "id": -1835308375842692173,
-    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-13T19:11:41",
-    "saved": false
-  },
-  {
-    "id": -2352567500864459327,
-    "title": "OpenAI faces investigation from state attorneys general",
-    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-13T16:47:18",
-    "saved": false
-  },
-  {
-    "id": 1082317442787272493,
-    "title": "MICCAI 2026 Results [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u3nims/miccai_2026_results_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-12T06:35:14",
     "saved": false
   }
 ]

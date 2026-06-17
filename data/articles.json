@@ -1,15 +1,51 @@
 [
   {
-    "id": -7376363507996133223,
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-    "link": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+    "id": 150667615614027795,
+    "title": "AI demands more engineering discipline. Not less",
+    "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-16T23:15:44",
+    "date": "2026-06-17T14:20:44",
     "saved": false
   },
   {
-    "id": 1711787219808915139,
+    "id": 4741118069973982457,
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T14:15:22",
+    "saved": false
+  },
+  {
+    "id": -8131166360767167977,
+    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T12:38:09",
+    "saved": false
+  },
+  {
+    "id": 405201891841871765,
+    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+    "link": "https://wpvip.com/future-of-the-web-2026/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-17T12:11:27",
+    "saved": false
+  },
+  {
+    "id": -6422295889767827388,
+    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 7197947230201496217,
     "title": "Humiliating IIS servers for fun and jail time",
     "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
     "source": "Hacker News",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -6097672093456477620,
+    "id": 3635464958870455333,
     "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
     "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
     "source": "TechCrunch",
@@ -27,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -7211090225909134924,
-    "title": "Has AI already killed self-help nonfiction books?",
-    "link": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-16T17:11:05",
-    "saved": false
-  },
-  {
-    "id": -17504243401679210,
+    "id": 8154076102999001437,
     "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
     "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3444463168995371483,
+    "id": -3937981266529175953,
     "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
     "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2024850825478535990,
+    "id": 1011693283018376694,
     "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
     "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
     "source": "TechCrunch",
@@ -63,34 +90,7 @@
     "saved": false
   },
   {
-    "id": -2006558802177771880,
-    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 6546664328030030489,
-    "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-    "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T14:50:09",
-    "saved": false
-  },
-  {
-    "id": 7357923137695695049,
-    "title": "Probably raises $9M to build a more reliable kind of AI",
-    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T13:15:09",
-    "saved": false
-  },
-  {
-    "id": 7507392195092430394,
+    "id": 770716615456586679,
     "title": "Source code for LLMs. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u79uwi/source_code_for_llms_d/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 1964905485064855013,
+    "id": 8710050602819515176,
     "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
     "source": "Reddit ML",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 734467533531154714,
+    "id": -1450336309661706458,
     "title": "AI language models have favorite names, and we mapped them [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
     "source": "Reddit ML",
@@ -117,30 +117,21 @@
     "saved": false
   },
   {
-    "id": 3153338916570086612,
-    "title": "Could AI training be decentralized like Bitcoin mining? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u6kzby/could_ai_training_be_decentralized_like_bitcoin/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-15T16:09:27",
-    "saved": false
-  },
-  {
-    "id": 1801429177632868417,
-    "title": "PhD study: UX Designers & AI/ML Practitioners to test a \"Trust in LLM-based Chatbots\" Design Method (~25 min, anonymous) [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u69kr1/phd_study_ux_designers_aiml_practitioners_to_test/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-15T07:24:48",
-    "saved": false
-  },
-  {
-    "id": -6180765829985666701,
+    "id": -4761679194360964455,
     "title": "Why do frontier AI labs send so many people to conferences? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u67koz/why_do_frontier_ai_labs_send_so_many_people_to/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-15T05:33:35",
+    "saved": false
+  },
+  {
+    "id": 183894127479308214,
+    "title": "Abandoned and Little-Known Airfields",
+    "link": "https://airfields-freeman.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-14T19:25:21",
     "saved": false
   }
 ]

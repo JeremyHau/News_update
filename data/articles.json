@@ -1,15 +1,114 @@
 [
   {
-    "id": 150667615614027795,
-    "title": "AI demands more engineering discipline. Not less",
-    "link": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-17T14:20:44",
+    "id": 4054771738844625348,
+    "title": "How to turn off AI in your Google Docs",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T01:23:51",
     "saved": false
   },
   {
-    "id": 4741118069973982457,
+    "id": -4287011681848593225,
+    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+    "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T23:28:21",
+    "saved": false
+  },
+  {
+    "id": -1588144443925847140,
+    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+    "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-17T21:31:35",
+    "saved": false
+  },
+  {
+    "id": 3277619327332315958,
+    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
+    "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T21:30:50",
+    "saved": false
+  },
+  {
+    "id": 9039904721114870031,
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T20:17:38",
+    "saved": false
+  },
+  {
+    "id": -1670660478450306598,
+    "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-17T19:26:11",
+    "saved": false
+  },
+  {
+    "id": -2895142596485731037,
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T19:01:19",
+    "saved": false
+  },
+  {
+    "id": 7023349765214648052,
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T18:30:56",
+    "saved": false
+  },
+  {
+    "id": -576700566490971149,
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T17:00:01",
+    "saved": false
+  },
+  {
+    "id": 4703984050493652366,
+    "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
+    "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T16:54:48",
+    "saved": false
+  },
+  {
+    "id": 5646799455583284542,
+    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+    "link": "https://github.com/Adam-CAD/CADAM",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-17T16:14:04",
+    "saved": false
+  },
+  {
+    "id": 3109805390335305562,
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-17T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 7673691585630271147,
     "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
     "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
     "source": "TechCrunch",
@@ -18,88 +117,7 @@
     "saved": false
   },
   {
-    "id": -8131166360767167977,
-    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T12:38:09",
-    "saved": false
-  },
-  {
-    "id": 405201891841871765,
-    "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-    "link": "https://wpvip.com/future-of-the-web-2026/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-17T12:11:27",
-    "saved": false
-  },
-  {
-    "id": -6422295889767827388,
-    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-    "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T11:00:00",
-    "saved": false
-  },
-  {
-    "id": 7197947230201496217,
-    "title": "Humiliating IIS servers for fun and jail time",
-    "link": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-16T22:53:34",
-    "saved": false
-  },
-  {
-    "id": 3635464958870455333,
-    "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-    "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T22:09:32",
-    "saved": false
-  },
-  {
-    "id": 8154076102999001437,
-    "title": "Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap",
-    "link": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -3937981266529175953,
-    "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T16:49:44",
-    "saved": false
-  },
-  {
-    "id": 1011693283018376694,
-    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-16T15:05:03",
-    "saved": false
-  },
-  {
-    "id": 770716615456586679,
-    "title": "Source code for LLMs. [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u79uwi/source_code_for_llms_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-16T10:36:56",
-    "saved": false
-  },
-  {
-    "id": 8710050602819515176,
+    "id": -657363419738228272,
     "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
     "source": "Reddit ML",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -1450336309661706458,
+    "id": -7370840564118154441,
     "title": "AI language models have favorite names, and we mapped them [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
     "source": "Reddit ML",
@@ -117,21 +135,12 @@
     "saved": false
   },
   {
-    "id": -4761679194360964455,
+    "id": -6895557624718278411,
     "title": "Why do frontier AI labs send so many people to conferences? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u67koz/why_do_frontier_ai_labs_send_so_many_people_to/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-15T05:33:35",
-    "saved": false
-  },
-  {
-    "id": 183894127479308214,
-    "title": "Abandoned and Little-Known Airfields",
-    "link": "https://airfields-freeman.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-14T19:25:21",
     "saved": false
   }
 ]

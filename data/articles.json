@@ -1,6 +1,60 @@
 [
   {
-    "id": 4054771738844625348,
+    "id": 3589716109504102584,
+    "title": "Git platform built for agentic era",
+    "link": "https://gitlawb.com/node",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-18T13:19:57",
+    "saved": false
+  },
+  {
+    "id": -6521887825361588030,
+    "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
+    "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -6494319906963600847,
+    "title": "HELP WITH RESEARCH: Observation - Semantically Dense Context Produces Strong Late-Layer Divergence Without Jailbreak Prompts [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u95hyx/help_with_research_observation_semantically_dense/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-18T12:55:30",
+    "saved": false
+  },
+  {
+    "id": -1821971948565367673,
+    "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+    "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-18T12:10:53",
+    "saved": false
+  },
+  {
+    "id": 7877945317174929481,
+    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+    "link": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-18T11:20:18",
+    "saved": false
+  },
+  {
+    "id": -2845959134597074052,
+    "title": "Any idea if AAAI will be harsh on computer vision paper as last year? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u919n3/any_idea_if_aaai_will_be_harsh_on_computer_vision/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-18T09:09:33",
+    "saved": false
+  },
+  {
+    "id": 3522370540205111571,
     "title": "How to turn off AI in your Google Docs",
     "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4287011681848593225,
+    "id": 4211829456274781038,
     "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
     "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
     "source": "TechCrunch",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -1588144443925847140,
-    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-    "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-17T21:31:35",
-    "saved": false
-  },
-  {
-    "id": 3277619327332315958,
+    "id": -5180465576905752559,
     "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
     "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 9039904721114870031,
+    "id": 4542176866826339435,
     "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
     "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1670660478450306598,
+    "id": 1660559467585269933,
     "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
     "source": "Reddit ML",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2895142596485731037,
+    "id": 6704398099363948653,
     "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
     "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7023349765214648052,
+    "id": -7901663015114493234,
     "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
     "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -576700566490971149,
+    "id": -9095444319940286538,
     "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
     "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4703984050493652366,
+    "id": -1562274654901736077,
     "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
     "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
     "source": "TechCrunch",
@@ -90,34 +135,7 @@
     "saved": false
   },
   {
-    "id": 5646799455583284542,
-    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-    "link": "https://github.com/Adam-CAD/CADAM",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-17T16:14:04",
-    "saved": false
-  },
-  {
-    "id": 3109805390335305562,
-    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-    "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 7673691585630271147,
-    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T14:15:22",
-    "saved": false
-  },
-  {
-    "id": -657363419738228272,
+    "id": -7522162954807994648,
     "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
     "source": "Reddit ML",
@@ -126,21 +144,12 @@
     "saved": false
   },
   {
-    "id": -7370840564118154441,
+    "id": 5326630952961747315,
     "title": "AI language models have favorite names, and we mapped them [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-15T17:07:34",
-    "saved": false
-  },
-  {
-    "id": -6895557624718278411,
-    "title": "Why do frontier AI labs send so many people to conferences? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u67koz/why_do_frontier_ai_labs_send_so_many_people_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-15T05:33:35",
     "saved": false
   }
 ]

@@ -1,15 +1,123 @@
 [
   {
-    "id": 3589716109504102584,
-    "title": "Git platform built for agentic era",
-    "link": "https://gitlawb.com/node",
+    "id": -4797958310472137098,
+    "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+    "link": "https://www.flexport.com/company/careers/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-18T13:19:57",
+    "date": "2026-06-19T01:01:13",
     "saved": false
   },
   {
-    "id": -6521887825361588030,
+    "id": -163580982632714458,
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-19T00:51:11",
+    "saved": false
+  },
+  {
+    "id": 1202065014591638516,
+    "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-18T21:36:14",
+    "saved": false
+  },
+  {
+    "id": -4893196078056344836,
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T21:20:13",
+    "saved": false
+  },
+  {
+    "id": -3393425275826399306,
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T20:30:00",
+    "saved": false
+  },
+  {
+    "id": -4819265791426436591,
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T19:59:22",
+    "saved": false
+  },
+  {
+    "id": -6483438420369091266,
+    "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+    "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T18:51:46",
+    "saved": false
+  },
+  {
+    "id": 1611542120387526564,
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T18:22:13",
+    "saved": false
+  },
+  {
+    "id": 3526698462077705647,
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T17:49:23",
+    "saved": false
+  },
+  {
+    "id": 6604751702028524565,
+    "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T16:55:04",
+    "saved": false
+  },
+  {
+    "id": -7037543674985513894,
+    "title": "MapTap, a daily geography game, is my new Wordle",
+    "link": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T15:47:39",
+    "saved": false
+  },
+  {
+    "id": 5592134209901356229,
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-18T15:20:37",
+    "saved": false
+  },
+  {
+    "id": -466106077732857641,
+    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "link": "https://tester.army",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-18T14:49:44",
+    "saved": false
+  },
+  {
+    "id": 5502578544314927680,
     "title": "Adobe adds its AI assistant to Premiere, Illustrator and InDesign",
     "link": "https://techcrunch.com/2026/06/18/adobe-adds-its-ai-assistant-to-premiere-illustrator-and-indesign/",
     "source": "TechCrunch",
@@ -18,79 +126,16 @@
     "saved": false
   },
   {
-    "id": -6494319906963600847,
-    "title": "HELP WITH RESEARCH: Observation - Semantically Dense Context Produces Strong Late-Layer Divergence Without Jailbreak Prompts [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u95hyx/help_with_research_observation_semantically_dense/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-18T12:55:30",
-    "saved": false
-  },
-  {
-    "id": -1821971948565367673,
-    "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
-    "link": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "id": 1412727878182151571,
+    "title": "Noam Shazeer Joins OpenAI",
+    "link": "https://twitter.com/NoamShazeer/status/2067400851438932297",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-18T12:10:53",
+    "date": "2026-06-18T00:26:06",
     "saved": false
   },
   {
-    "id": 7877945317174929481,
-    "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-    "link": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-18T11:20:18",
-    "saved": false
-  },
-  {
-    "id": -2845959134597074052,
-    "title": "Any idea if AAAI will be harsh on computer vision paper as last year? [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u919n3/any_idea_if_aaai_will_be_harsh_on_computer_vision/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-18T09:09:33",
-    "saved": false
-  },
-  {
-    "id": 3522370540205111571,
-    "title": "How to turn off AI in your Google Docs",
-    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T01:23:51",
-    "saved": false
-  },
-  {
-    "id": 4211829456274781038,
-    "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-    "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T23:28:21",
-    "saved": false
-  },
-  {
-    "id": -5180465576905752559,
-    "title": "Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI",
-    "link": "https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T21:30:50",
-    "saved": false
-  },
-  {
-    "id": 4542176866826339435,
-    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T20:17:38",
-    "saved": false
-  },
-  {
-    "id": 1660559467585269933,
+    "id": -3940197063630467649,
     "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
     "source": "Reddit ML",
@@ -99,52 +144,16 @@
     "saved": false
   },
   {
-    "id": 6704398099363948653,
-    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T19:01:19",
-    "saved": false
-  },
-  {
-    "id": -7901663015114493234,
-    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T18:30:56",
-    "saved": false
-  },
-  {
-    "id": -9095444319940286538,
-    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T17:00:01",
-    "saved": false
-  },
-  {
-    "id": -1562274654901736077,
-    "title": "Two Stanford grads raise $11M to build a noninvasive wearable for hormone tracking",
-    "link": "https://techcrunch.com/2026/06/17/two-stanford-grads-raise-11m-to-build-a-noninvasive-wearable-for-hormone-tracking/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-17T16:54:48",
-    "saved": false
-  },
-  {
-    "id": -7522162954807994648,
-    "title": "Open weights are not enough: we need open training frameworks for research and better algorithms [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u6p7k3/open_weights_are_not_enough_we_need_open_training/",
-    "source": "Reddit ML",
+    "id": -1420491827484861462,
+    "title": "How Japan's railways stayed one while splitting apart",
+    "link": "https://arun.is/blog/jr-logo/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-15T18:37:51",
+    "date": "2026-06-17T14:03:58",
     "saved": false
   },
   {
-    "id": 5326630952961747315,
+    "id": 3147158916541333023,
     "title": "AI language models have favorite names, and we mapped them [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u6mn3q/ai_language_models_have_favorite_names_and_we/",
     "source": "Reddit ML",

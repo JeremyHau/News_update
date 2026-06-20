@@ -1,7 +1,61 @@
 [
   {
-    "id": 4823207636010283175,
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "id": -576029381553583034,
+    "title": "I solved my mystery fatigue with AI",
+    "link": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-20T00:47:54",
+    "saved": false
+  },
+  {
+    "id": 1004563522146805595,
+    "title": "Aikido Code Audit",
+    "link": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-19T23:54:54",
+    "saved": false
+  },
+  {
+    "id": -525051859636163915,
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-19T16:50:58",
+    "saved": false
+  },
+  {
+    "id": -7045184584036763804,
+    "title": "Hyundai buys Boston Dynamics",
+    "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-19T16:28:20",
+    "saved": false
+  },
+  {
+    "id": -7784085628073786672,
+    "title": "Norway imposes near ban on AI in elementary school",
+    "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-19T16:03:15",
+    "saved": false
+  },
+  {
+    "id": -1983824020372066895,
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-19T15:23:28",
+    "saved": false
+  },
+  {
+    "id": 1810807622622768113,
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
     "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 8440294782362093847,
+    "id": -1510127843077418863,
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "source": "Hacker News",
@@ -18,8 +72,8 @@
     "saved": false
   },
   {
-    "id": 8291845048196921309,
-    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "id": -5644996530261381703,
+    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "source": "TechCrunch",
     "category": "tech",
@@ -27,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 4658117532019811666,
-    "title": "The AirPods Effect",
-    "link": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-18T23:08:35",
-    "saved": false
-  },
-  {
-    "id": -7626047791458117812,
+    "id": -2389740483982986252,
     "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/",
     "source": "Reddit ML",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -758867284681115443,
+    "id": 3505449641895329150,
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2443602915226954331,
+    "id": -5741324249628385139,
     "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
     "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1394737179755480359,
+    "id": 1221964232796859569,
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
     "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7684548678280754788,
+    "id": -6324997669865935320,
     "title": "Almost half of US singles feel negatively about AI in dating, Match says",
     "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -848566397097025581,
+    "id": 3602011284225996211,
     "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6740364021274659415,
+    "id": -6669297241616953556,
     "title": "AI data centers just got a government-mandated fast lane to the grid",
     "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
     "source": "TechCrunch",
@@ -99,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 7063750131984236155,
-    "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T16:55:04",
-    "saved": false
-  },
-  {
-    "id": 6397947461137403701,
-    "title": "MapTap, a daily geography game, is my new Wordle",
-    "link": "https://techcrunch.com/2026/06/18/maptap-a-daily-geography-game-is-my-new-wordle/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T15:47:39",
-    "saved": false
-  },
-  {
-    "id": -4933649319531597667,
-    "title": "General Intuition in talks to raise $300M at around $2B valuation",
-    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T15:20:37",
-    "saved": false
-  },
-  {
-    "id": -6786470534128305660,
+    "id": 6858757493860111291,
     "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
     "source": "Reddit ML",
@@ -135,12 +153,12 @@
     "saved": false
   },
   {
-    "id": -5207903451495759812,
-    "title": "How Japan's railways stayed one while splitting apart",
-    "link": "https://arun.is/blog/jr-logo/",
+    "id": 3204653819782884565,
+    "title": "Digital Printing of Arabic: explaining the problem",
+    "link": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-17T14:03:58",
+    "date": "2026-06-16T22:23:04",
     "saved": false
   }
 ]

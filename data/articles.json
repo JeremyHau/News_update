@@ -1,24 +1,33 @@
 [
   {
-    "id": -576029381553583034,
-    "title": "I solved my mystery fatigue with AI",
-    "link": "https://metalearn.substack.com/p/i-solved-my-mystery-fatigue-with-ai",
-    "source": "Hacker News",
+    "id": -540619888535043343,
+    "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-06-20T00:47:54",
+    "date": "2026-06-20T12:27:22",
     "saved": false
   },
   {
-    "id": 1004563522146805595,
-    "title": "Aikido Code Audit",
-    "link": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+    "id": 11382753753342579,
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "link": "https://bootimus.com",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-19T23:54:54",
+    "date": "2026-06-20T10:55:18",
     "saved": false
   },
   {
-    "id": -525051859636163915,
+    "id": -2265767583265513717,
+    "title": "LLMs Are Complicated Now",
+    "link": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-20T01:25:14",
+    "saved": false
+  },
+  {
+    "id": -2765350861741773132,
     "title": "Every fusion startup that has raised over $100M",
     "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -7045184584036763804,
+    "id": 2546056069306315093,
     "title": "Hyundai buys Boston Dynamics",
     "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
     "source": "Hacker News",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -7784085628073786672,
+    "id": -3919549770414973752,
     "title": "Norway imposes near ban on AI in elementary school",
     "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
     "source": "Hacker News",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1983824020372066895,
+    "id": -5483105216134361023,
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1810807622622768113,
+    "id": 3899578089583016173,
     "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
     "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1510127843077418863,
+    "id": 3550904575513294253,
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "link": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "source": "Hacker News",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -5644996530261381703,
+    "id": -4366847635202946341,
     "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2389740483982986252,
+    "id": 5838944292033853156,
     "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/",
     "source": "Reddit ML",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3505449641895329150,
+    "id": 3670823292546746985,
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5741324249628385139,
+    "id": 6887763728575234461,
     "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
     "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1221964232796859569,
+    "id": -6013357986989765909,
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
     "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6324997669865935320,
+    "id": -8870545162745305450,
     "title": "Almost half of US singles feel negatively about AI in dating, Match says",
     "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3602011284225996211,
+    "id": 8034533160554329272,
     "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
     "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6669297241616953556,
+    "id": -8876639434483022927,
     "title": "AI data centers just got a government-mandated fast lane to the grid",
     "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
     "source": "TechCrunch",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6858757493860111291,
+    "id": 3405351746954459131,
     "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
     "source": "Reddit ML",
@@ -153,12 +162,21 @@
     "saved": false
   },
   {
-    "id": 3204653819782884565,
-    "title": "Digital Printing of Arabic: explaining the problem",
-    "link": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+    "id": -5733332778461887530,
+    "title": "Data Compression Explained (2012)",
+    "link": "https://mattmahoney.net/dc/dce.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-16T22:23:04",
+    "date": "2026-06-16T21:51:57",
+    "saved": false
+  },
+  {
+    "id": 8457324628679042000,
+    "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+    "link": "https://ironicsans.ghost.io/the-color-strike/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-16T18:24:39",
     "saved": false
   }
 ]

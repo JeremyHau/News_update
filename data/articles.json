@@ -1,15 +1,24 @@
 [
   {
-    "id": -571698606424137477,
-    "title": "When I reject AI code even if it works",
-    "link": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "id": -4024541302254316513,
+    "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+    "link": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-21T00:58:13",
+    "date": "2026-06-21T12:44:13",
     "saved": false
   },
   {
-    "id": 4542210927820460712,
+    "id": 30328068382817166,
+    "title": "The case against geometric algebra (2024)",
+    "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-21T11:06:55",
+    "saved": false
+  },
+  {
+    "id": -8969172294591699547,
     "title": "Slow breathing modulates brain function and risk behavior",
     "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
     "source": "Hacker News",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -4174160767161737396,
+    "id": 6958909727852952525,
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8321028135874711304,
+    "id": -8287915078104017553,
     "title": "In the Weights is your new AI-centric vanity search",
     "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 7194989021064746268,
+    "id": 535206843164464206,
     "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
     "source": "Reddit ML",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -774400084735529400,
+    "id": -7026795517398680264,
     "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/",
     "source": "Reddit ML",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 830395277758320148,
+    "id": 4008821054321394164,
     "title": "Loupe – A iOS app that raises awareness about what native apps can see",
     "link": "https://github.com/mysk-research/loupe",
     "source": "Hacker News",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4725014663011651381,
+    "id": -128760935919259710,
     "title": "Every fusion startup that has raised over $100M",
     "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1094384410477011732,
+    "id": -9174762935748933626,
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4251487655543231202,
+    "id": -2374370734122529521,
     "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
     "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 9081133423713745909,
+    "id": -5773002945909691102,
     "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
     "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 4356100901351797148,
+    "id": 6786670004113401289,
     "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/",
     "source": "Reddit ML",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5254635794644796800,
+    "id": -4203899591918781,
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7438002299769502263,
+    "id": -7641181830480988816,
     "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
     "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
     "source": "TechCrunch",
@@ -126,30 +135,12 @@
     "saved": false
   },
   {
-    "id": 2190311567221688178,
+    "id": -2598184898068370624,
     "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
     "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-06-18T19:59:22",
-    "saved": false
-  },
-  {
-    "id": 998848106893782006,
-    "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-17T19:26:11",
-    "saved": false
-  },
-  {
-    "id": 8260853689546023663,
-    "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-    "link": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-16T12:31:02",
     "saved": false
   }
 ]

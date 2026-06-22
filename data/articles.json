@@ -1,24 +1,33 @@
 [
   {
-    "id": -7388345444805497253,
-    "title": "Petition against Meta's employee training data collection for ML models",
-    "link": "https://mcipetition.com/",
+    "id": 376815615064103518,
+    "title": "I built Ponytrail, a local audit trail for AI coding-agent edits",
+    "link": "https://github.com/0xroylee/ponytrail",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-21T23:34:07",
+    "date": "2026-06-22T14:54:59",
     "saved": false
   },
   {
-    "id": -1737462210080672682,
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "id": -6292376047395740395,
+    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "link": "https://hustvl.github.io/Moebius/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-21T22:55:23",
+    "date": "2026-06-22T13:53:02",
     "saved": false
   },
   {
-    "id": 8269237903606196528,
+    "id": -2457571339366287863,
+    "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
+    "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-22T13:37:25",
+    "saved": false
+  },
+  {
+    "id": 9107393634758010445,
     "title": "Apertus – Open Foundation Model for Sovereign AI",
     "link": "https://apertvs.ai/",
     "source": "Hacker News",
@@ -27,16 +36,7 @@
     "saved": false
   },
   {
-    "id": -5138533255764687943,
-    "title": "JSON-LD explained for personal websites",
-    "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-21T18:51:47",
-    "saved": false
-  },
-  {
-    "id": 3412792648220153351,
+    "id": 8555548425700459929,
     "title": "Data-centric debugging for teams training neural nets [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ubwcat/datacentric_debugging_for_teams_training_neural/",
     "source": "Reddit ML",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 763403341016097056,
+    "id": 7247500688726992980,
     "title": "Best current methods for finetuning whisper on domain specific vocabulary? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/",
     "source": "Reddit ML",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -3721895355621734543,
+    "id": -4364241591737020922,
     "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
     "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -2463246500050118093,
+    "id": 9211472841288143751,
     "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
     "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2422622866212278155,
+    "id": 1487714566017176241,
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2074999621271186005,
+    "id": 7736943284994555658,
     "title": "In the Weights is your new AI-centric vanity search",
     "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6677429780228876254,
+    "id": -2141244904173981250,
     "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 9178088700904290170,
+    "id": -2879190883750595008,
     "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/",
     "source": "Reddit ML",
@@ -108,30 +108,12 @@
     "saved": false
   },
   {
-    "id": 9104557443317727354,
-    "title": "Every fusion startup that has raised over $100M",
-    "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-19T16:50:58",
-    "saved": false
-  },
-  {
-    "id": -1552009722057253178,
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-19T15:23:28",
-    "saved": false
-  },
-  {
-    "id": 4442307414035846566,
-    "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
-    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-19T13:00:00",
+    "id": -7741326155682221827,
+    "title": "Munich 1991: The Roots of the Current AI Boom",
+    "link": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-19T15:54:23",
     "saved": false
   }
 ]

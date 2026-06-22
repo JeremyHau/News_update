@@ -1,33 +1,78 @@
 [
   {
-    "id": -4024541302254316513,
-    "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-    "link": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+    "id": -7388345444805497253,
+    "title": "Petition against Meta's employee training data collection for ML models",
+    "link": "https://mcipetition.com/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-21T12:44:13",
+    "date": "2026-06-21T23:34:07",
     "saved": false
   },
   {
-    "id": 30328068382817166,
-    "title": "The case against geometric algebra (2024)",
-    "link": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "id": -1737462210080672682,
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+    "link": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-21T11:06:55",
+    "date": "2026-06-21T22:55:23",
     "saved": false
   },
   {
-    "id": -8969172294591699547,
-    "title": "Slow breathing modulates brain function and risk behavior",
-    "link": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "id": 8269237903606196528,
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "link": "https://apertvs.ai/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-20T22:22:52",
+    "date": "2026-06-21T21:29:43",
     "saved": false
   },
   {
-    "id": 6958909727852952525,
+    "id": -5138533255764687943,
+    "title": "JSON-LD explained for personal websites",
+    "link": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-21T18:51:47",
+    "saved": false
+  },
+  {
+    "id": 3412792648220153351,
+    "title": "Data-centric debugging for teams training neural nets [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ubwcat/datacentric_debugging_for_teams_training_neural/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-21T17:47:02",
+    "saved": false
+  },
+  {
+    "id": 763403341016097056,
+    "title": "Best current methods for finetuning whisper on domain specific vocabulary? [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-21T17:18:22",
+    "saved": false
+  },
+  {
+    "id": -3721895355621734543,
+    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+    "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-21T16:35:00",
+    "saved": false
+  },
+  {
+    "id": -2463246500050118093,
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-21T14:40:28",
+    "saved": false
+  },
+  {
+    "id": 2422622866212278155,
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8287915078104017553,
+    "id": 2074999621271186005,
     "title": "In the Weights is your new AI-centric vanity search",
     "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 535206843164464206,
+    "id": 6677429780228876254,
     "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
     "source": "Reddit ML",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7026795517398680264,
+    "id": 9178088700904290170,
     "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/",
     "source": "Reddit ML",
@@ -63,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 4008821054321394164,
-    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-    "link": "https://github.com/mysk-research/loupe",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-20T12:08:23",
-    "saved": false
-  },
-  {
-    "id": -128760935919259710,
+    "id": 9104557443317727354,
     "title": "Every fusion startup that has raised over $100M",
     "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -9174762935748933626,
+    "id": -1552009722057253178,
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
     "source": "TechCrunch",
@@ -90,57 +126,12 @@
     "saved": false
   },
   {
-    "id": -2374370734122529521,
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+    "id": 4442307414035846566,
+    "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
     "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-06-19T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -5773002945909691102,
-    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-19T00:51:11",
-    "saved": false
-  },
-  {
-    "id": 6786670004113401289,
-    "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-18T21:36:14",
-    "saved": false
-  },
-  {
-    "id": -4203899591918781,
-    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T21:20:13",
-    "saved": false
-  },
-  {
-    "id": -7641181830480988816,
-    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T20:30:00",
-    "saved": false
-  },
-  {
-    "id": -2598184898068370624,
-    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-18T19:59:22",
     "saved": false
   }
 ]

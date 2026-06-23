@@ -1,7 +1,43 @@
 [
   {
-    "id": 3152782006631890988,
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "id": 3103233027117090296,
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-23T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -8510635718421401979,
+    "title": "What's your biggest pain point when choosing between cloud GPU providers for LLM inference?[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-23T12:24:29",
+    "saved": false
+  },
+  {
+    "id": -6249559295920706005,
+    "title": "Apple is going to raise device prices, but when?",
+    "link": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-23T10:54:56",
+    "saved": false
+  },
+  {
+    "id": -6279128706696587165,
+    "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+    "link": "https://github.com/shumaiOne/shumai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-23T10:02:54",
+    "saved": false
+  },
+  {
+    "id": 1170434768784558232,
+    "title": "The running list: Major tech layoffs in 2026 where employers cited AI",
     "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,8 +45,8 @@
     "saved": false
   },
   {
-    "id": -3723022243062887074,
-    "title": "In Praise of Memcached",
+    "id": 4881545355760434081,
+    "title": "In praise of memcached",
     "link": "https://jchri.st/blog/in-praise-of-memcached/",
     "source": "Hacker News",
     "category": "ai",
@@ -18,8 +54,8 @@
     "saved": false
   },
   {
-    "id": -3391639879138356265,
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "id": 8179179329425536264,
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
     "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "source": "TechCrunch",
     "category": "tech",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 182480033005189655,
+    "id": 4095509643228693172,
     "title": "The AI world is getting ‘loopy’",
     "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 500305965054699093,
+    "id": -4194833820926096296,
     "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
     "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1193933768175551709,
+    "id": -8711651942622295584,
     "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
     "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
     "source": "TechCrunch",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -6381594932456738665,
-    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-    "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-22T19:06:48",
-    "saved": false
-  },
-  {
-    "id": -6008952850378601185,
+    "id": -7656597729318812376,
     "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
     "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8815518521369363362,
+    "id": -4846115035912298724,
     "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
     "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7663437005392818506,
+    "id": -5146406796101201049,
     "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
     "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
     "source": "TechCrunch",
@@ -90,34 +117,7 @@
     "saved": false
   },
   {
-    "id": 1464111602018993658,
-    "title": "Show HN: Oak – Git alternative designed for agents",
-    "link": "https://oak.space/oak/oak",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-22T15:37:48",
-    "saved": false
-  },
-  {
-    "id": -302102958783001889,
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-    "link": "https://hustvl.github.io/Moebius/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-22T13:53:02",
-    "saved": false
-  },
-  {
-    "id": -2062085216589537388,
-    "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-    "link": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-22T13:37:25",
-    "saved": false
-  },
-  {
-    "id": -1448945792477648055,
+    "id": -3941828987962471370,
     "title": "Data-centric debugging for teams training neural nets [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ubwcat/datacentric_debugging_for_teams_training_neural/",
     "source": "Reddit ML",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2115567949539594379,
+    "id": -8200089679678981213,
     "title": "Best current methods for finetuning whisper on domain specific vocabulary? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/",
     "source": "Reddit ML",
@@ -135,21 +135,12 @@
     "saved": false
   },
   {
-    "id": 3983846639465298238,
+    "id": 3983812736401770280,
     "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-20T15:36:27",
-    "saved": false
-  },
-  {
-    "id": 2611778876558485387,
-    "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-20T12:27:22",
     "saved": false
   }
 ]

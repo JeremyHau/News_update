@@ -1,6 +1,60 @@
 [
   {
-    "id": 3103233027117090296,
+    "id": -8836991720572460821,
+    "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+    "link": "https://github.com/y-times-y/y",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-24T00:15:31",
+    "saved": false
+  },
+  {
+    "id": 6821007814070328693,
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-23T23:30:00",
+    "saved": false
+  },
+  {
+    "id": 3236153324418712875,
+    "title": "Superhuman acquires AI detection startup GPTZero",
+    "link": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-23T21:48:23",
+    "saved": false
+  },
+  {
+    "id": -5599777792847512988,
+    "title": "After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund",
+    "link": "https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-23T19:49:55",
+    "saved": false
+  },
+  {
+    "id": -828020441228241013,
+    "title": "Miccai grants results [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1udneyh/miccai_grants_results_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-23T17:21:06",
+    "saved": false
+  },
+  {
+    "id": 4755212434846904814,
+    "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+    "link": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-23T15:09:38",
+    "saved": false
+  },
+  {
+    "id": 9190778966072293047,
     "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
     "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8510635718421401979,
+    "id": 808129912153389435,
     "title": "What's your biggest pain point when choosing between cloud GPU providers for LLM inference?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
     "source": "Reddit ML",
@@ -18,26 +72,8 @@
     "saved": false
   },
   {
-    "id": -6249559295920706005,
-    "title": "Apple is going to raise device prices, but when?",
-    "link": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-23T10:54:56",
-    "saved": false
-  },
-  {
-    "id": -6279128706696587165,
-    "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-    "link": "https://github.com/shumaiOne/shumai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-23T10:02:54",
-    "saved": false
-  },
-  {
-    "id": 1170434768784558232,
-    "title": "The running list: Major tech layoffs in 2026 where employers cited AI",
+    "id": -7959970095638898076,
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
     "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch",
     "category": "tech",
@@ -45,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 4881545355760434081,
-    "title": "In praise of memcached",
-    "link": "https://jchri.st/blog/in-praise-of-memcached/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-23T01:15:05",
-    "saved": false
-  },
-  {
-    "id": 8179179329425536264,
+    "id": -1151994609212444741,
     "title": "OpenAI launches new initiative to help find and patch open source bugs",
     "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4095509643228693172,
+    "id": 795448382522317450,
     "title": "The AI world is getting ‘loopy’",
     "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4194833820926096296,
+    "id": -3849993989824452005,
     "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
     "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
     "source": "TechCrunch",
@@ -81,43 +108,7 @@
     "saved": false
   },
   {
-    "id": -8711651942622295584,
-    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-22T20:08:15",
-    "saved": false
-  },
-  {
-    "id": -7656597729318812376,
-    "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak",
-    "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-22T18:50:24",
-    "saved": false
-  },
-  {
-    "id": -4846115035912298724,
-    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-22T18:49:44",
-    "saved": false
-  },
-  {
-    "id": -5146406796101201049,
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-22T16:51:29",
-    "saved": false
-  },
-  {
-    "id": -3941828987962471370,
+    "id": 994993052227026828,
     "title": "Data-centric debugging for teams training neural nets [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ubwcat/datacentric_debugging_for_teams_training_neural/",
     "source": "Reddit ML",
@@ -126,21 +117,12 @@
     "saved": false
   },
   {
-    "id": -8200089679678981213,
+    "id": 4971283730039060919,
     "title": "Best current methods for finetuning whisper on domain specific vocabulary? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-21T17:18:22",
-    "saved": false
-  },
-  {
-    "id": 3983812736401770280,
-    "title": "Hi Reddit, I posted my Build Your Own LLM workshop to Youtube teaching ML, LLM and math intuition [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uazlnd/hi_reddit_i_posted_my_build_your_own_llm_workshop/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-20T15:36:27",
     "saved": false
   }
 ]

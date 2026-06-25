@@ -1,6 +1,33 @@
 [
   {
-    "id": 2800216832094333438,
+    "id": -6528435788369507172,
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T12:00:38",
+    "saved": false
+  },
+  {
+    "id": 4557302474944980164,
+    "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
+    "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T10:00:00",
+    "saved": false
+  },
+  {
+    "id": 4070073341412567865,
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "link": "https://utaw.tech/news/wikipedia-recognition",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-25T07:02:37",
+    "saved": false
+  },
+  {
+    "id": 17505729732292429,
     "title": "Elon suffers another day short of trillionaire status",
     "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -4337182270687209253,
+    "id": 5406455532042617612,
     "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
     "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -7030442703417047979,
+    "id": -3948874145552943669,
     "title": "AI researchers continue to leave Google for its rivals",
     "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1933836427623022920,
+    "id": 938789311670406624,
     "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
     "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 4778957358963754821,
+    "id": 2442310168919990814,
     "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
     "source": "Hacker News",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5361274831003875092,
+    "id": 1116515490206735599,
     "title": "MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/",
     "source": "Reddit ML",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1286834690535015191,
+    "id": 2114376558674402100,
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "source": "Hacker News",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7517808934355777471,
+    "id": -3525002074085519827,
     "title": "Facebook rolls out an AI companion app for creators",
     "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5828447157957422868,
+    "id": -6913096899971463490,
     "title": "I made a superhuman Generals.io agent with self-play RL [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2492023388784809982,
+    "id": 6213255422574012614,
     "title": "Figma adds code layers, support for animations, more AI features in new update",
     "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
     "source": "TechCrunch",
@@ -90,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 1142847148358555332,
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
-    "link": "https://rubyllm.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-24T14:41:41",
-    "saved": false
-  },
-  {
-    "id": -1944646378050364428,
-    "title": "PR spam today looks like email spam in the early 2000s",
-    "link": "https://www.greptile.com/blog/prs-on-openclaw",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-24T14:32:12",
-    "saved": false
-  },
-  {
-    "id": -8859171589021804016,
+    "id": 6583737515103932052,
     "title": "I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
     "source": "Reddit ML",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1632997572997071748,
+    "id": -2222044329920863817,
     "title": "Could it be that there aren’t really any medical LLM APIs available right now? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ue87js/could_it_be_that_there_arent_really_any_medical/",
     "source": "Reddit ML",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -132229184969117010,
+    "id": -7912284175880332654,
     "title": "Miccai grants results [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1udneyh/miccai_grants_results_d/",
     "source": "Reddit ML",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5117947885926399880,
+    "id": -2782314861334426868,
     "title": "What's your biggest pain point when choosing between cloud GPU providers for LLM inference?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 3541206851712084226,
+    "id": -7859424124404181107,
     "title": "GLM-5.2 is a step change for open agents",
     "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
     "source": "Hacker News",

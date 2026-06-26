@@ -1,6 +1,150 @@
 [
   {
-    "id": -6528435788369507172,
+    "id": -9097150284999160748,
+    "title": "AI children's books, body horror edition",
+    "link": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-26T01:15:14",
+    "saved": false
+  },
+  {
+    "id": 6265323213946848353,
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T23:34:39",
+    "saved": false
+  },
+  {
+    "id": 7391005517864939795,
+    "title": "Documented: Weight-Level Political Conditioning in Large Language Models - A Case Study in AI Bias on the Gaza Genocide Question Conditioning in Large Language Models [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ufq413/documented_weightlevel_political_conditioning_in/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-25T23:30:20",
+    "saved": false
+  },
+  {
+    "id": 5908161511791647989,
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T20:19:25",
+    "saved": false
+  },
+  {
+    "id": -7548785687183754268,
+    "title": "Kuma: compiling PyTorch models into self-contained WebGPU executables [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-25T20:17:17",
+    "saved": false
+  },
+  {
+    "id": 3937395092489583504,
+    "title": "Notion Mail shuts down amid agent takeover",
+    "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T19:14:46",
+    "saved": false
+  },
+  {
+    "id": -8312851899209338633,
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-25T17:38:44",
+    "saved": false
+  },
+  {
+    "id": -5847248849729966467,
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T17:38:27",
+    "saved": false
+  },
+  {
+    "id": -3342441776194690008,
+    "title": "Would having a dedicated programming language specifically for LLMs be a viable solution? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ufgw7z/would_having_a_dedicated_programming_language/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-25T17:38:11",
+    "saved": false
+  },
+  {
+    "id": -5218862417082804502,
+    "title": "[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-25T17:31:49",
+    "saved": false
+  },
+  {
+    "id": -5131677916355141451,
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T16:55:00",
+    "saved": false
+  },
+  {
+    "id": 5689741474343390482,
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T16:48:11",
+    "saved": false
+  },
+  {
+    "id": -4425682833358955678,
+    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+    "link": "https://github.com/inkeep/open-knowledge",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-25T16:04:46",
+    "saved": false
+  },
+  {
+    "id": 4111645868322241811,
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T14:55:38",
+    "saved": false
+  },
+  {
+    "id": -6355552124749776024,
+    "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+    "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-25T14:52:35",
+    "saved": false
+  },
+  {
+    "id": -4427445221787770607,
+    "title": "CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uf8thw/calhippo_mapping_neurons_and_glial_cells_in_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-25T12:37:44",
+    "saved": false
+  },
+  {
+    "id": 1618367761818826807,
     "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
     "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
     "source": "TechCrunch",
@@ -9,70 +153,7 @@
     "saved": false
   },
   {
-    "id": 4557302474944980164,
-    "title": "Cellebrite said it cut off Russia, but Russia used its tools anyway",
-    "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-25T10:00:00",
-    "saved": false
-  },
-  {
-    "id": 4070073341412567865,
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-    "link": "https://utaw.tech/news/wikipedia-recognition",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-25T07:02:37",
-    "saved": false
-  },
-  {
-    "id": 17505729732292429,
-    "title": "Elon suffers another day short of trillionaire status",
-    "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-24T23:09:39",
-    "saved": false
-  },
-  {
-    "id": 5406455532042617612,
-    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-    "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-24T21:56:41",
-    "saved": false
-  },
-  {
-    "id": -3948874145552943669,
-    "title": "AI researchers continue to leave Google for its rivals",
-    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-24T21:42:07",
-    "saved": false
-  },
-  {
-    "id": 938789311670406624,
-    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-24T20:09:45",
-    "saved": false
-  },
-  {
-    "id": 2442310168919990814,
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "link": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-24T19:48:01",
-    "saved": false
-  },
-  {
-    "id": 1116515490206735599,
+    "id": -8405436619400953564,
     "title": "MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/",
     "source": "Reddit ML",
@@ -81,25 +162,7 @@
     "saved": false
   },
   {
-    "id": 2114376558674402100,
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-24T17:47:00",
-    "saved": false
-  },
-  {
-    "id": -3525002074085519827,
-    "title": "Facebook rolls out an AI companion app for creators",
-    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-24T17:16:24",
-    "saved": false
-  },
-  {
-    "id": -6913096899971463490,
+    "id": -6034587664153961623,
     "title": "I made a superhuman Generals.io agent with self-play RL [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
     "source": "Reddit ML",
@@ -108,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 6213255422574012614,
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-24T16:15:00",
-    "saved": false
-  },
-  {
-    "id": 6583737515103932052,
+    "id": 7263078734414590227,
     "title": "I compiled LLM inference pricing across 7 providers — the caching numbers are surprising(spreadsheet included) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ueavxn/i_compiled_llm_inference_pricing_across_7/",
     "source": "Reddit ML",
@@ -126,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -2222044329920863817,
+    "id": 6185966298618252759,
     "title": "Could it be that there aren’t really any medical LLM APIs available right now? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ue87js/could_it_be_that_there_arent_really_any_medical/",
     "source": "Reddit ML",
@@ -135,30 +189,12 @@
     "saved": false
   },
   {
-    "id": -7912284175880332654,
-    "title": "Miccai grants results [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1udneyh/miccai_grants_results_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-23T17:21:06",
-    "saved": false
-  },
-  {
-    "id": -2782314861334426868,
+    "id": 8107445804741888794,
     "title": "What's your biggest pain point when choosing between cloud GPU providers for LLM inference?[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1udfovh/whats_your_biggest_pain_point_when_choosing/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-23T12:24:29",
-    "saved": false
-  },
-  {
-    "id": -7859424124404181107,
-    "title": "GLM-5.2 is a step change for open agents",
-    "link": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-23T03:23:28",
     "saved": false
   }
 ]

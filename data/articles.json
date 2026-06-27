@@ -1,6 +1,33 @@
 [
   {
-    "id": 3503603150552066744,
+    "id": -3232607795801048150,
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-27T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 226819044861686174,
+    "title": "I silently break training codes or configs so I made pybench [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ugv7u3/i_silently_break_training_codes_or_configs_so_i/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-27T06:33:01",
+    "saved": false
+  },
+  {
+    "id": -3508396083206365329,
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-26T22:48:28",
+    "saved": false
+  },
+  {
+    "id": -4646575976965217319,
     "title": "AI in mathematics is forcing big questions",
     "link": "https://spectrum.ieee.org/ai-in-mathematics",
     "source": "Hacker News",
@@ -9,16 +36,7 @@
     "saved": false
   },
   {
-    "id": -6944559030480521075,
-    "title": "The gap between open weights LLMs and closed source LLMs",
-    "link": "https://blog.doubleword.ai/frontier-os-llm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-26T21:14:47",
-    "saved": false
-  },
-  {
-    "id": 8076377243524275721,
+    "id": -6496882754641398015,
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "source": "TechCrunch",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -6405397062856324157,
+    "id": 6365247447276755997,
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1544146510349494514,
+    "id": 3213513459849910476,
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6679305274240693644,
+    "id": 5849893252914926077,
     "title": "It’s not about Anthropic vs. OpenAI anymore",
     "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
     "source": "TechCrunch",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 8635524432676384723,
+    "id": 8003387221797831080,
     "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
     "source": "Reddit ML",
@@ -63,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 8833575158946699930,
-    "title": "Ultrasound imaging of the brain",
-    "link": "https://alephneuro.com/blog/ultrasound-brain",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-26T11:51:11",
-    "saved": false
-  },
-  {
-    "id": 6489409754610670173,
+    "id": -3555771748651948261,
     "title": "How're you deploying LLMs in production now-a-days? What's the best and most affordable way? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ufyuph/howre_you_deploying_llms_in_production_nowadays/",
     "source": "Reddit ML",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6593534977641208871,
+    "id": 3431410009197156308,
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
     "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2494081747743195065,
+    "id": 3174664088605122232,
     "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
     "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5455883813492142367,
+    "id": -4200672309511591665,
     "title": "Kuma: compiling PyTorch models into self-contained WebGPU executables [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/",
     "source": "Reddit ML",
@@ -108,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 5466505193330662638,
-    "title": "Notion Mail shuts down amid agent takeover",
-    "link": "https://techcrunch.com/2026/06/25/notion-mail-shuts-down-amid-agent-takeover/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-25T19:14:46",
-    "saved": false
-  },
-  {
-    "id": 1465642342734607792,
-    "title": "Would having a dedicated programming language specifically for LLMs be a viable solution? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ufgw7z/would_having_a_dedicated_programming_language/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-25T17:38:11",
-    "saved": false
-  },
-  {
-    "id": -2092712482844093346,
+    "id": -9151130993007722820,
     "title": "[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/",
     "source": "Reddit ML",
@@ -135,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6285690415278740281,
+    "id": 6341494464282363232,
     "title": "CALHippo - Mapping neurons and glial cells in the human brain hippocampus in 3D using SOTA segmentation and density estimation models [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uf8thw/calhippo_mapping_neurons_and_glial_cells_in_the/",
     "source": "Reddit ML",
@@ -144,21 +135,12 @@
     "saved": false
   },
   {
-    "id": 6945152873527954028,
-    "title": "MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/",
-    "source": "Reddit ML",
+    "id": 6708707804842809655,
+    "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+    "link": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-24T19:07:26",
-    "saved": false
-  },
-  {
-    "id": 4337488561785223688,
-    "title": "I made a superhuman Generals.io agent with self-play RL [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-24T16:18:38",
+    "date": "2026-06-23T14:28:20",
     "saved": false
   }
 ]

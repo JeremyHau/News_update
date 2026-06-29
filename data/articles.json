@@ -1,24 +1,87 @@
 [
   {
-    "id": 320333798373302415,
-    "title": "The origins of the school system aimed to produce independent, critical thinkers",
-    "link": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
+    "id": -4755488958074661857,
+    "title": "AI boom risks global financial crash, warn central bankers",
+    "link": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-28T12:55:36",
+    "date": "2026-06-29T01:25:04",
     "saved": false
   },
   {
-    "id": 5435659744532209525,
-    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "link": "https://github.com/openai/codex/issues/2847",
+    "id": 2063513153156577438,
+    "title": "Sophon PFG-1: a monolithic-3D AI ASIC with 330 GB of on-die DRAM and no HBM",
+    "link": "https://www.phantafield.com/whitepaper",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-06-28T12:27:33",
+    "date": "2026-06-29T01:23:38",
     "saved": false
   },
   {
-    "id": 5603492601204117931,
+    "id": 3771803764447663323,
+    "title": "Better Images of AI",
+    "link": "https://betterimagesofai.org/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-28T23:50:58",
+    "saved": false
+  },
+  {
+    "id": -5534833812825378539,
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-28T19:05:39",
+    "saved": false
+  },
+  {
+    "id": -2411091283491318982,
+    "title": "Librepods: AirPods liberated",
+    "link": "https://github.com/librepods-org/librepods",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-28T18:48:53",
+    "saved": false
+  },
+  {
+    "id": -571008794495023977,
+    "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+    "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-28T17:03:16",
+    "saved": false
+  },
+  {
+    "id": -1880363988176569914,
+    "title": "Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-28T16:48:42",
+    "saved": false
+  },
+  {
+    "id": -6183586237490593981,
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "link": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-28T16:41:12",
+    "saved": false
+  },
+  {
+    "id": 7150602897046547676,
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "link": "https://www.openculture.com/2020/10/daisugi.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-28T16:28:50",
+    "saved": false
+  },
+  {
+    "id": 5041238851142375075,
     "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
     "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
     "source": "TechCrunch",
@@ -27,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -3614311265471076037,
-    "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-    "link": "https://github.com/itsthelore/wayfinder-router",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-28T04:31:18",
-    "saved": false
-  },
-  {
-    "id": -1620092650079422492,
+    "id": 5247221675744201911,
     "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8202528164531422225,
+    "id": -3430867979736790363,
     "title": "Do we still need to study algorithms now that AI writes most of our code? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uhdydj/do_we_still_need_to_study_algorithms_now_that_ai/",
     "source": "Reddit ML",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7412201007900063796,
+    "id": 134832882403742533,
     "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
     "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4188530293821720899,
+    "id": -2362906085562625902,
     "title": "Built an LLM training framework that actually runs on older GPUs without crashing [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/",
     "source": "Reddit ML",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7663446356811647387,
+    "id": 1214937168124963602,
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
     "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6442025002965544935,
+    "id": 7449422492176780005,
     "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
     "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
     "source": "TechCrunch",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6851011219947687440,
+    "id": -8702988623030239224,
     "title": "I silently break training codes or configs so I made pybench [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ugv7u3/i_silently_break_training_codes_or_configs_so_i/",
     "source": "Reddit ML",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 8876195639373921239,
+    "id": 3627999009791974804,
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "source": "TechCrunch",
@@ -108,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -2512484940924366196,
+    "id": 7426910668215912349,
     "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
     "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
     "source": "TechCrunch",
@@ -117,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -8726323817129095074,
+    "id": 7075366003945813619,
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
     "source": "TechCrunch",
@@ -126,25 +180,7 @@
     "saved": false
   },
   {
-    "id": -8090663549885815569,
-    "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
-    "link": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-26T17:32:35",
-    "saved": false
-  },
-  {
-    "id": -6862256631671772766,
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-26T16:24:47",
-    "saved": false
-  },
-  {
-    "id": 1542771560868599173,
+    "id": 995624919345242177,
     "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
     "source": "Reddit ML",
@@ -153,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 6309710362072619836,
+    "id": 7682521687366635923,
     "title": "How're you deploying LLMs in production now-a-days? What's the best and most affordable way? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ufyuph/howre_you_deploying_llms_in_production_nowadays/",
     "source": "Reddit ML",
@@ -162,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -2089641957758077972,
+    "id": -7371481007605534259,
     "title": "[R] Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/",
     "source": "Reddit ML",

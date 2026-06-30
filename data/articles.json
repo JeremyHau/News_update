@@ -1,6 +1,78 @@
 [
   {
-    "id": 446615091200771548,
+    "id": 507553106208667095,
+    "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+    "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-29T20:55:50",
+    "saved": false
+  },
+  {
+    "id": 1820351119287349359,
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-29T20:12:59",
+    "saved": false
+  },
+  {
+    "id": 6397460500623078843,
+    "title": "Rejected MICCAI paper: workshop -> journal/conference or directly journal/conference [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uj35gh/rejected_miccai_paper_workshop_journalconference/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-29T19:58:44",
+    "saved": false
+  },
+  {
+    "id": 2449338208717089469,
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-29T19:49:28",
+    "saved": false
+  },
+  {
+    "id": 4228797834403792364,
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-29T17:39:17",
+    "saved": false
+  },
+  {
+    "id": 8523241623220432203,
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+    "link": "https://github.com/deepreinforce-ai/Ornith-1",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-29T17:16:17",
+    "saved": false
+  },
+  {
+    "id": 6881022156211635152,
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-29T17:03:50",
+    "saved": false
+  },
+  {
+    "id": 462953864184563807,
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-29T16:29:04",
+    "saved": false
+  },
+  {
+    "id": 8562711333923549700,
     "title": "I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/",
     "source": "Reddit ML",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8716173217055738456,
+    "id": 2384732931977628608,
     "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
     "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
     "source": "TechCrunch",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3911109488182555231,
+    "id": 6749424718333390618,
     "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
     "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
     "source": "TechCrunch",
@@ -27,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 641902703890656743,
-    "title": "Tidal AI Policy",
-    "link": "https://tidal.com/ai-policy",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-29T13:09:03",
-    "saved": false
-  },
-  {
-    "id": 7676212342514280453,
+    "id": 8362966147706319245,
     "title": "Omen AI’s plan to optimize data centers is all wet",
     "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5313652944050038318,
+    "id": -7646398997680703690,
     "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
     "source": "Reddit ML",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1383346664091188678,
+    "id": -6717056219565142831,
     "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
     "source": "Reddit ML",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4544638900619630292,
+    "id": 1256892414992195935,
     "title": "I made a quiz that tells you which LLM you align with most, based on personality and values research across 15 models [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uin5ad/i_made_a_quiz_that_tells_you_which_llm_you_align/",
     "source": "Reddit ML",
@@ -72,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 985505325651908496,
-    "title": "RAGless: Q-Q retrieval with score aggregation for closed-domain FAQ [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uilov7/ragless_qq_retrieval_with_score_aggregation_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-29T07:33:17",
-    "saved": false
-  },
-  {
-    "id": -7859993489495243018,
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-    "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-29T01:44:40",
-    "saved": false
-  },
-  {
-    "id": 301053768057359415,
+    "id": -532967214331488108,
     "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
     "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "source": "TechCrunch",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -4154398268047131782,
+    "id": -7112801719339625135,
     "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
     "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -9065793219627703176,
+    "id": -1012302007958076541,
     "title": "Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/",
     "source": "Reddit ML",
@@ -117,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -4344192382645575878,
-    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-    "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-28T05:00:00",
-    "saved": false
-  },
-  {
-    "id": -6541803314623941099,
+    "id": 7886104456957484495,
     "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/",
     "source": "Reddit ML",
@@ -135,25 +171,7 @@
     "saved": false
   },
   {
-    "id": -1053682277314150552,
-    "title": "Do we still need to study algorithms now that AI writes most of our code? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uhdydj/do_we_still_need_to_study_algorithms_now_that_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-27T21:05:53",
-    "saved": false
-  },
-  {
-    "id": -7858315937969270779,
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-27T16:45:09",
-    "saved": false
-  },
-  {
-    "id": -4624048195086739219,
+    "id": -6726736598879809828,
     "title": "Built an LLM training framework that actually runs on older GPUs without crashing [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/",
     "source": "Reddit ML",
@@ -162,34 +180,7 @@
     "saved": false
   },
   {
-    "id": 6115347495414355734,
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-27T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -281657523597735924,
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-27T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -5197427993435064,
-    "title": "I silently break training codes or configs so I made pybench [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ugv7u3/i_silently_break_training_codes_or_configs_so_i/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-27T06:33:01",
-    "saved": false
-  },
-  {
-    "id": 2156010971068696377,
+    "id": -1255966582924518766,
     "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
     "source": "Reddit ML",

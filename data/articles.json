@@ -1,6 +1,42 @@
 [
   {
-    "id": 507553106208667095,
+    "id": 8586263965485209604,
+    "title": "I built an open-source memory governance layer for AI assistants - looking for technical feedback [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ujp17k/i_built_an_opensource_memory_governance_layer_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-06-30T13:19:08",
+    "saved": false
+  },
+  {
+    "id": -4740968308733707642,
+    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-30T09:00:00",
+    "saved": false
+  },
+  {
+    "id": 6752032734515577550,
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-30T04:01:00",
+    "saved": false
+  },
+  {
+    "id": -4984899988552104778,
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-06-30T02:28:41",
+    "saved": false
+  },
+  {
+    "id": 8172424744458827199,
     "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
     "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1820351119287349359,
+    "id": -5746970155350580191,
     "title": "Gemini’s personalized AI image generation is now free for US users",
     "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 6397460500623078843,
+    "id": -1134861686408589189,
     "title": "Rejected MICCAI paper: workshop -> journal/conference or directly journal/conference [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uj35gh/rejected_miccai_paper_workshop_journalconference/",
     "source": "Reddit ML",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 2449338208717089469,
+    "id": -1324551029390022846,
     "title": ".self: A new top-level domain designed to support self-hosting",
     "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
     "source": "Hacker News",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4228797834403792364,
+    "id": -2200353057219091157,
     "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
     "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
     "source": "TechCrunch",
@@ -45,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 8523241623220432203,
-    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "link": "https://github.com/deepreinforce-ai/Ornith-1",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-06-29T17:16:17",
-    "saved": false
-  },
-  {
-    "id": 6881022156211635152,
+    "id": 2571434541545260914,
     "title": "Cursor now has a mobile app for guiding your coding agent on the go",
     "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 462953864184563807,
+    "id": 2839016156766848284,
     "title": "TIDAL cracks down on AI music by cutting off monetization",
     "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8562711333923549700,
+    "id": 655023219889161410,
     "title": "I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2384732931977628608,
+    "id": 6491362641772382452,
     "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
     "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6749424718333390618,
+    "id": 6202890331751556677,
     "title": "Pocket raises $11M in bet on rising demand for AI note-taking devices",
     "link": "https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8362966147706319245,
+    "id": 5896608102369192138,
     "title": "Omen AI’s plan to optimize data centers is all wet",
     "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
     "source": "TechCrunch",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -7646398997680703690,
+    "id": -3646006167797130258,
     "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
     "source": "Reddit ML",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6717056219565142831,
+    "id": 1760305155735441323,
     "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 1256892414992195935,
+    "id": 6615407946279568286,
     "title": "I made a quiz that tells you which LLM you align with most, based on personality and values research across 15 models [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uin5ad/i_made_a_quiz_that_tells_you_which_llm_you_align/",
     "source": "Reddit ML",
@@ -135,57 +162,12 @@
     "saved": false
   },
   {
-    "id": -532967214331488108,
-    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-28T19:05:39",
-    "saved": false
-  },
-  {
-    "id": -7112801719339625135,
-    "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-    "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-28T17:03:16",
-    "saved": false
-  },
-  {
-    "id": -1012302007958076541,
+    "id": 7451597351752177515,
     "title": "Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-06-28T16:48:42",
-    "saved": false
-  },
-  {
-    "id": 7886104456957484495,
-    "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-28T03:05:48",
-    "saved": false
-  },
-  {
-    "id": -6726736598879809828,
-    "title": "Built an LLM training framework that actually runs on older GPUs without crashing [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-27T16:44:14",
-    "saved": false
-  },
-  {
-    "id": -1255966582924518766,
-    "title": "A debugger for RL reward functions that detects reward hacking during training [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-26T15:34:28",
     "saved": false
   }
 ]

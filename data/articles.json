@@ -1,6 +1,96 @@
 [
   {
-    "id": -6134083791274461693,
+    "id": 591162441196296373,
+    "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+    "link": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-01T23:58:48",
+    "saved": false
+  },
+  {
+    "id": 4252029579018193107,
+    "title": "WhatsApp usernames are already raising impersonation red flags",
+    "link": "https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T22:02:24",
+    "saved": false
+  },
+  {
+    "id": 917472743391455030,
+    "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+    "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T19:18:07",
+    "saved": false
+  },
+  {
+    "id": -552140479153849100,
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T18:54:18",
+    "saved": false
+  },
+  {
+    "id": 8615709908946983511,
+    "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
+    "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T18:29:14",
+    "saved": false
+  },
+  {
+    "id": -3922053333389552864,
+    "title": "Lime begins life as a public company after years of uncertainty",
+    "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T18:24:00",
+    "saved": false
+  },
+  {
+    "id": -4910396307432847238,
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T17:48:37",
+    "saved": false
+  },
+  {
+    "id": 653307019120665126,
+    "title": "Autonomous vehicle hype is back, and Humble Robotics is bringing it to freight",
+    "link": "https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T16:48:58",
+    "saved": false
+  },
+  {
+    "id": 2819120663652997285,
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T14:25:23",
+    "saved": false
+  },
+  {
+    "id": -6164491570476826456,
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-01T14:20:19",
+    "saved": false
+  },
+  {
+    "id": -3531992935738134066,
     "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
     "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
     "source": "TechCrunch",
@@ -9,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 5622798740933577861,
-    "title": "Nintendo has raised its employees base salary by 10%",
-    "link": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-01T11:35:20",
-    "saved": false
-  },
-  {
-    "id": -6245432383737325338,
+    "id": 4531066787082942847,
     "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/",
     "source": "Reddit ML",
@@ -27,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 3259519032778432320,
-    "title": "Godot will no longer accept AI-authored code contributions",
-    "link": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-01T07:43:22",
-    "saved": false
-  },
-  {
-    "id": 8399272684606164558,
+    "id": -3712965510447310992,
     "title": "REAP: Automatic Curation of Coding Agent Benchmarks from Interactive Production Usage [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uk713d/reap_automatic_curation_of_coding_agent/",
     "source": "Reddit ML",
@@ -45,79 +117,7 @@
     "saved": false
   },
   {
-    "id": -6690219972369770109,
-    "title": "OpenClaw is finally available on Android and iOS",
-    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-30T21:53:28",
-    "saved": false
-  },
-  {
-    "id": -3005406096693730776,
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-30T20:33:48",
-    "saved": false
-  },
-  {
-    "id": -4992046499090841092,
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-30T18:13:02",
-    "saved": false
-  },
-  {
-    "id": -6415415191008491062,
-    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-30T18:00:00",
-    "saved": false
-  },
-  {
-    "id": -8766185397452483685,
-    "title": "Acti puts AI agents directly into your smartphone keyboard",
-    "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-30T17:52:46",
-    "saved": false
-  },
-  {
-    "id": 4213180809512319969,
-    "title": "Are all LLM research papers nowadays 100+ pages beasts?[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ujv03i/are_all_llm_research_papers_nowadays_100_pages/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-30T17:04:35",
-    "saved": false
-  },
-  {
-    "id": -3539008230727112593,
-    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-06-30T15:08:42",
-    "saved": false
-  },
-  {
-    "id": 159117216787826384,
-    "title": "I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-06-29T15:16:53",
-    "saved": false
-  },
-  {
-    "id": 4751241447533192700,
+    "id": -7349408831949528332,
     "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
     "source": "Reddit ML",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7317410045009250561,
+    "id": -6186938430238510246,
     "title": "Google's Agentic Peer-Reviewer Handled ~10K Papers at ICML/STOC — Formal Research Paper Now Out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/",
     "source": "Reddit ML",

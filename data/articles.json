@@ -1,15 +1,24 @@
 [
   {
-    "id": -6446619594658617677,
-    "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-    "link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+    "id": 4475292409219895709,
+    "title": "Please Stop the AI Confidence Theater",
+    "link": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-03T00:01:26",
+    "date": "2026-07-03T12:51:17",
     "saved": false
   },
   {
-    "id": 4876039523265443828,
+    "id": 3234239195053162007,
+    "title": "What does \"Safe AI\" look like? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-03T09:07:26",
+    "saved": false
+  },
+  {
+    "id": 2741888258765710864,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 2573629250053106111,
+    "id": -1579647522174185102,
     "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
     "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -3482250943067280122,
+    "id": 4430455868787830953,
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8423845077477461947,
+    "id": 3069485657806016,
     "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
     "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 6752271886588729383,
+    "id": 5549440305258349007,
     "title": "Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/",
     "source": "Reddit ML",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 4217386571357833079,
+    "id": 5341959855362070265,
     "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
     "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4496151595471187799,
+    "id": 3833384919397802074,
     "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
     "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -893714515103597262,
+    "id": 3090183921728266433,
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3737640414482465864,
+    "id": -4227049908687162355,
     "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
     "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 201313866338314340,
+    "id": 5574679893516694122,
     "title": "US government says it got hacked — again",
     "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1542716451918501613,
+    "id": 4758877148246889936,
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 270369658746070940,
+    "id": 4251406039940239347,
     "title": "Rivian raises EV sales forecast as Q2 production ramps up",
     "link": "https://techcrunch.com/2026/07/02/rivian-thinks-it-will-sell-more-evs-than-expected-this-year/",
     "source": "TechCrunch",
@@ -117,16 +126,16 @@
     "saved": false
   },
   {
-    "id": 108584937046956124,
-    "title": "SentryCode: Real-time Auditor + Honeytokens for AI Coding Agents [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ul7ap2/sentrycode_realtime_auditor_honeytokens_for_ai/",
+    "id": 6938981123073978971,
+    "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-07-02T03:48:58",
+    "date": "2026-07-01T09:34:16",
     "saved": false
   },
   {
-    "id": -5633940570534805258,
+    "id": 1248398327905138066,
     "title": "Reality has a surprising amount of detail (2017)",
     "link": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
     "source": "Hacker News",

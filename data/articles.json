@@ -1,6 +1,24 @@
 [
   {
-    "id": 3849852736965209024,
+    "id": -344900296555944596,
+    "title": "The bottleneck might be the air in the room",
+    "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-04T06:32:28",
+    "saved": false
+  },
+  {
+    "id": 5595818692459900055,
+    "title": "Agentic coding notes from Galapagos Island",
+    "link": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-04T04:37:15",
+    "saved": false
+  },
+  {
+    "id": 2201406330199000800,
     "title": "MSI Center – How to gain SYSTEM privileges in seconds",
     "link": "https://mrbruh.com/msicenter/",
     "source": "Hacker News",
@@ -9,16 +27,7 @@
     "saved": false
   },
   {
-    "id": -5474824939831260853,
-    "title": "The circuit that lets your brain think and see",
-    "link": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-03T22:56:17",
-    "saved": false
-  },
-  {
-    "id": -4479603588509456202,
+    "id": -407051541410891178,
     "title": "The only AI glossary you’ll need this year",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 3293017034949211514,
+    "id": 1291158616269347242,
     "title": "Tom Yeh's AI by hand? is it worth it? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1umqf58/tom_yehs_ai_by_hand_is_it_worth_it_d/",
     "source": "Reddit ML",
@@ -36,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 8576964135989466441,
-    "title": "Espionage Against the European Parliament",
-    "link": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-03T20:38:26",
-    "saved": false
-  },
-  {
-    "id": 8535960044286827621,
+    "id": -1254399990438632998,
     "title": "Jamesob's guide to running SOTA LLMs locally",
     "link": "https://github.com/jamesob/local-llm",
     "source": "Hacker News",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 4385901492209910365,
+    "id": -4966266023336666032,
     "title": "What does \"Safe AI\" look like? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
     "source": "Reddit ML",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -503075336358307759,
+    "id": 7125198702849074005,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4605005266337853954,
+    "id": -152604262291938963,
     "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
     "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2820730577304081697,
+    "id": -1543268636998408030,
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -484403339488621224,
+    "id": 9020584858520606097,
     "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
     "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7687019687486004353,
+    "id": -569360422698577788,
     "title": "Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/",
     "source": "Reddit ML",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5814997193448723171,
+    "id": -5672205577835062575,
     "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
     "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8582683122670964328,
+    "id": -6370623509938155033,
     "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
     "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1180872309157048816,
+    "id": -6498981808970406820,
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "source": "TechCrunch",
@@ -135,12 +135,39 @@
     "saved": false
   },
   {
-    "id": -1192548011378810930,
+    "id": -4815692108499620465,
     "title": "Popular TV-tracking app TV Time is shutting down as company focuses on AI",
     "link": "https://techcrunch.com/2026/07/02/popular-tv-tracking-app-tv-time-is-shutting-down-as-company-focuses-on-ai/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-07-02T15:14:03",
+    "saved": false
+  },
+  {
+    "id": -368441035505332635,
+    "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+    "link": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-01T13:22:19",
+    "saved": false
+  },
+  {
+    "id": -426468154665099100,
+    "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+    "link": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-01T12:48:56",
+    "saved": false
+  },
+  {
+    "id": 2619738738496791050,
+    "title": "Ship traces journey Spanish Armada sailors made in 1588",
+    "link": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-06-30T21:45:22",
     "saved": false
   }
 ]

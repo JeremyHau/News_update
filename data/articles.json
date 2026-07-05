@@ -1,24 +1,15 @@
 [
   {
-    "id": -5867758282078569197,
-    "title": "Scientists reverse brain aging, with a nasal spray",
-    "link": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+    "id": -6150409679442484607,
+    "title": "The Log is the Agent",
+    "link": "https://arxiv.org/abs/2605.21997",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-04T23:41:10",
+    "date": "2026-07-05T02:57:38",
     "saved": false
   },
   {
-    "id": -7543743423657416347,
-    "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-    "link": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-04T21:35:30",
-    "saved": false
-  },
-  {
-    "id": 8849646424355072969,
+    "id": -8583851603032038236,
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "source": "TechCrunch",
@@ -27,16 +18,7 @@
     "saved": false
   },
   {
-    "id": -8353855935581740460,
-    "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ungvxu/well_benchmark_an_open_weights_llm_on_any_gpu_you/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-04T18:51:07",
-    "saved": false
-  },
-  {
-    "id": 847975395602229021,
+    "id": 2186071484342556320,
     "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
     "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
     "source": "TechCrunch",
@@ -45,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -5402065544455599377,
+    "id": 7734238934320765266,
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "source": "TechCrunch",
@@ -54,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 4304997065868039156,
+    "id": -7260450428348505666,
     "title": "The only AI glossary you’ll need this year",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -63,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1610223584007594095,
+    "id": 7317056985297102848,
     "title": "What does \"Safe AI\" look like? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
     "source": "Reddit ML",
@@ -72,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -8685992274011349203,
+    "id": -2684198025511299700,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "source": "TechCrunch",
@@ -81,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 5674552165336876443,
+    "id": -3899968987836295468,
     "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
     "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
     "source": "TechCrunch",
@@ -90,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4907709211957814849,
+    "id": 4623307704179793299,
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "source": "TechCrunch",
@@ -99,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1480943447693614153,
+    "id": 466333110636978736,
     "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
     "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
     "source": "TechCrunch",
@@ -108,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -4271081713195542837,
+    "id": 2902953570113289846,
     "title": "Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/",
     "source": "Reddit ML",
@@ -117,21 +99,12 @@
     "saved": false
   },
   {
-    "id": 7868049228702362538,
+    "id": 1340438126085399960,
     "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
     "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-07-02T18:39:14",
-    "saved": false
-  },
-  {
-    "id": -3775878889282710766,
-    "title": "Boeing-owned Wisk Aero accused of firing manager who raised safety concerns",
-    "link": "https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-02T17:30:04",
     "saved": false
   }
 ]

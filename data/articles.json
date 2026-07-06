@@ -1,15 +1,42 @@
 [
   {
-    "id": -6150409679442484607,
-    "title": "The Log is the Agent",
-    "link": "https://arxiv.org/abs/2605.21997",
+    "id": -441501425116009501,
+    "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+    "link": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-05T02:57:38",
+    "date": "2026-07-06T00:04:48",
     "saved": false
   },
   {
-    "id": -8583851603032038236,
+    "id": 5742567752454863351,
+    "title": "Does Code Cleanliness Affect Coding Agents?",
+    "link": "https://arxiv.org/abs/2605.20049",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-05T23:03:55",
+    "saved": false
+  },
+  {
+    "id": 2198018215200190705,
+    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+    "link": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-05T19:22:51",
+    "saved": false
+  },
+  {
+    "id": -3712424578398128882,
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "link": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-05T18:47:43",
+    "saved": false
+  },
+  {
+    "id": 2055604078990631885,
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 2186071484342556320,
+    "id": -2897673434070783999,
     "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
     "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7734238934320765266,
+    "id": -6281992742220469975,
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -7260450428348505666,
+    "id": 1716696135515939688,
     "title": "The only AI glossary you’ll need this year",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7317056985297102848,
+    "id": -4142880211807775521,
     "title": "What does \"Safe AI\" look like? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
     "source": "Reddit ML",
@@ -54,7 +81,16 @@
     "saved": false
   },
   {
-    "id": -2684198025511299700,
+    "id": -8917663902545064367,
+    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+    "link": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-03T03:13:53",
+    "saved": false
+  },
+  {
+    "id": -1664481948677921102,
     "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
     "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3899968987836295468,
+    "id": 7157484858121785811,
     "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
     "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/",
     "source": "TechCrunch",
@@ -72,39 +108,12 @@
     "saved": false
   },
   {
-    "id": 4623307704179793299,
-    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-02T20:11:59",
-    "saved": false
-  },
-  {
-    "id": 466333110636978736,
-    "title": "A warning sign about AI’s real cost, courtesy of Google and Amazon",
-    "link": "https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-02T19:14:46",
-    "saved": false
-  },
-  {
-    "id": 2902953570113289846,
+    "id": 5623991254925404678,
     "title": "Improving machine-translated novels via style transfer — looking for advice on the faithfulness/fluency tradeoff [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ulrdw9/improving_machinetranslated_novels_via_style/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-02T19:04:50",
-    "saved": false
-  },
-  {
-    "id": 1340438126085399960,
-    "title": "Travel app Hopper to pay $35M in FTC settlement over ‘unfairly’ charging hidden fees",
-    "link": "https://techcrunch.com/2026/07/02/travel-app-hopper-to-pay-35m-in-ftc-settlement-over-unfairly-charging-hidden-fees/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-02T18:39:14",
     "saved": false
   }
 ]

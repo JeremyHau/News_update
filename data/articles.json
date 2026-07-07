@@ -1,6 +1,132 @@
 [
   {
-    "id": -5599749630817252102,
+    "id": 2103676935221036775,
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-06T23:59:54",
+    "saved": false
+  },
+  {
+    "id": -1012904766433428319,
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-06T23:56:14",
+    "saved": false
+  },
+  {
+    "id": -3410385453561502750,
+    "title": "NSA and IETF: Fairness",
+    "link": "https://blog.cr.yp.to/20260706-fairness.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-06T23:33:54",
+    "saved": false
+  },
+  {
+    "id": 9155759619957758312,
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-06T23:21:03",
+    "saved": false
+  },
+  {
+    "id": -7829781560606024667,
+    "title": "GLM 5.2 and the coming AI margin collapse",
+    "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-06T20:14:55",
+    "saved": false
+  },
+  {
+    "id": -4622585040753697025,
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-06T19:49:10",
+    "saved": false
+  },
+  {
+    "id": 6962014328471208624,
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-06T18:35:00",
+    "saved": false
+  },
+  {
+    "id": -6880202025978867104,
+    "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-06T17:37:58",
+    "saved": false
+  },
+  {
+    "id": 2040965277511286300,
+    "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-06T17:10:57",
+    "saved": false
+  },
+  {
+    "id": -7800304081913217825,
+    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-06T17:04:58",
+    "saved": false
+  },
+  {
+    "id": -770251725662407184,
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "link": "https://github.com/iOfficeAI/OfficeCLI",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-06T16:47:44",
+    "saved": false
+  },
+  {
+    "id": -5795745677682336604,
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-06T15:22:08",
+    "saved": false
+  },
+  {
+    "id": 1757610247797996889,
+    "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-06T15:17:36",
+    "saved": false
+  },
+  {
+    "id": -1096851850992830236,
+    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+    "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-06T15:01:18",
+    "saved": false
+  },
+  {
+    "id": -2295787448713003047,
     "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
     "source": "Reddit ML",
@@ -9,84 +135,12 @@
     "saved": false
   },
   {
-    "id": -8355243692072785106,
-    "title": "Real time map of France's rail network",
-    "link": "https://carto.tchoo.net/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T13:20:56",
-    "saved": false
-  },
-  {
-    "id": -4415164869741393994,
-    "title": "Show HN: Scan your AI agents for dangerous capabilities",
-    "link": "https://github.com/makerchecker/MakerChecker",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T13:17:27",
-    "saved": false
-  },
-  {
-    "id": 1101606810314442225,
+    "id": 7486985026856937021,
     "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
     "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-07-06T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -7133209715540200941,
-    "title": "C programmers commit fresh crimes against readability",
-    "link": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T11:44:39",
-    "saved": false
-  },
-  {
-    "id": -4999924737460647206,
-    "title": "Real-time map of Great Britain's rail network",
-    "link": "https://www.map.signalbox.io",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T09:38:36",
-    "saved": false
-  },
-  {
-    "id": 6222332371251070367,
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-04T20:55:25",
-    "saved": false
-  },
-  {
-    "id": 915727535457945059,
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-04T18:00:05",
-    "saved": false
-  },
-  {
-    "id": -6543361202544190518,
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-04T15:51:32",
-    "saved": false
-  },
-  {
-    "id": 8152887586208752551,
-    "title": "The only AI glossary you’ll need this year",
-    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-03T21:20:00",
     "saved": false
   }
 ]

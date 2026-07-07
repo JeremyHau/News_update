@@ -1,6 +1,42 @@
 [
   {
-    "id": 2103676935221036775,
+    "id": -6271577701340730220,
+    "title": "This startup pits dealerships against each other to bid on your used car",
+    "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-07T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 3392301154545229107,
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-07T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 8698245450694888265,
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-07T09:00:00",
+    "saved": false
+  },
+  {
+    "id": 3597618136433664646,
+    "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-07T07:59:10",
+    "saved": false
+  },
+  {
+    "id": 8410336329435437246,
     "title": "Small AI Models Gain Traction In places with unreliable networks",
     "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
     "source": "Hacker News",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1012904766433428319,
+    "id": 4587342697012024994,
     "title": "The ‘first’ AI-run ransomware attack still needed a human",
     "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "source": "TechCrunch",
@@ -18,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -3410385453561502750,
-    "title": "NSA and IETF: Fairness",
-    "link": "https://blog.cr.yp.to/20260706-fairness.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T23:33:54",
-    "saved": false
-  },
-  {
-    "id": 9155759619957758312,
+    "id": -5922781051422686439,
     "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
     "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -7829781560606024667,
+    "id": 8684536594757847539,
     "title": "GLM 5.2 and the coming AI margin collapse",
     "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
     "source": "Hacker News",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4622585040753697025,
+    "id": -8178820057394625504,
     "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
     "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6962014328471208624,
+    "id": 3864084483803945297,
     "title": "Every major tech layoff in 2026 that has name-checked AI",
     "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6880202025978867104,
+    "id": 2367845167083181551,
     "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
     "source": "Reddit ML",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2040965277511286300,
+    "id": 3529973352483735245,
     "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7800304081913217825,
+    "id": -4123200599988650441,
     "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
     "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "source": "TechCrunch",
@@ -90,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -770251725662407184,
-    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "link": "https://github.com/iOfficeAI/OfficeCLI",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T16:47:44",
-    "saved": false
-  },
-  {
-    "id": -5795745677682336604,
+    "id": 7934952141802979788,
     "title": "Reddit is using LLMs to solve a problem LLMs largely created",
     "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1757610247797996889,
+    "id": -9035123717126575657,
     "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
     "source": "Reddit ML",
@@ -117,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -1096851850992830236,
-    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-    "link": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-06T15:01:18",
-    "saved": false
-  },
-  {
-    "id": -2295787448713003047,
+    "id": -8538989865514277393,
     "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
     "source": "Reddit ML",
@@ -135,12 +144,21 @@
     "saved": false
   },
   {
-    "id": 7486985026856937021,
+    "id": 7951918245935343554,
     "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
     "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-07-06T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -8159964336723446568,
+    "title": "C++ Details of Asymmetric Fences",
+    "link": "https://nekrozqliphort.github.io/posts/membarrier/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-03T17:25:15",
     "saved": false
   }
 ]

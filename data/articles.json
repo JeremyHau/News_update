@@ -1,15 +1,51 @@
 [
   {
-    "id": -2191588585381400821,
-    "title": "Honey, We Bought an AI Story",
-    "link": "https://www.bona-books.com/news/we-bought-an-ai-story",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-08T00:01:18",
+    "id": -4517728952953336801,
+    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T12:00:00",
     "saved": false
   },
   {
-    "id": 8381749877144906428,
+    "id": 7433894428244791188,
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T08:00:00",
+    "saved": false
+  },
+  {
+    "id": 3946484003239008998,
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T07:16:00",
+    "saved": false
+  },
+  {
+    "id": -639535219069380049,
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-08T05:25:35",
+    "saved": false
+  },
+  {
+    "id": -6379620506374733511,
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "link": "https://kb.cert.org/vuls/id/213560",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-08T00:08:51",
+    "saved": false
+  },
+  {
+    "id": -488510187089533099,
     "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
     "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
     "source": "TechCrunch",
@@ -18,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -1754202472981291624,
-    "title": "We charge $10k a week to delete AI-generated code",
-    "link": "https://odra.dev/slopfix/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-07T20:35:42",
-    "saved": false
-  },
-  {
-    "id": -9178994218951718993,
+    "id": -4985552166824047438,
     "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
     "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4488279720987271012,
+    "id": -2167652183517649908,
     "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
     "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3379368578990919789,
+    "id": 8718336285346916844,
     "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
     "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7362875265009873886,
+    "id": 4702375949067106855,
     "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
     "source": "Reddit ML",
@@ -63,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -6980801473871012445,
-    "title": "Show HN: Davit, a Apple Containers UI",
-    "link": "https://davit.app",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-07T18:44:29",
-    "saved": false
-  },
-  {
-    "id": -6522664246376911512,
+    "id": -3236142929586061920,
     "title": "TorchJD: Training with multiple losses in PyTorch [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
     "source": "Reddit ML",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7814683115695435938,
+    "id": 1854254033304343034,
     "title": "VC firm Chemistry is raising $500M for its second fund",
     "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7806438265549842889,
+    "id": -6291439425110324686,
     "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -3690721697983203257,
+    "id": -1449152860268724527,
     "title": "AI law startup Norm raises $120M, hits unicorn valuation",
     "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4859011357742268426,
+    "id": -3372618953206073560,
     "title": "Chat Control 1.0 and 2.0 Explained",
     "link": "https://fightchatcontrol.eu/chat-control-overview",
     "source": "Hacker News",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7599936823913799211,
+    "id": 6401363135446536654,
     "title": "This startup pits dealerships against each other to bid on your used car",
     "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 139537770045425844,
+    "id": 4570354388464462597,
     "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
     "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
     "source": "TechCrunch",
@@ -135,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 6625392013263363547,
-    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-07T09:00:00",
-    "saved": false
-  },
-  {
-    "id": -2542003209274470855,
+    "id": -863983761719645816,
     "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
     "source": "Reddit ML",
@@ -153,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -5012425662407697823,
-    "title": "The ‘first’ AI-run ransomware attack still needed a human",
-    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-06T23:56:14",
-    "saved": false
-  },
-  {
-    "id": -8897291504584792514,
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-06T23:21:03",
-    "saved": false
-  },
-  {
-    "id": 5043761437184266683,
+    "id": 8979952309046827298,
     "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
     "source": "Reddit ML",
@@ -180,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 4281549982393082773,
+    "id": -2836313229524588839,
     "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
     "source": "Reddit ML",
@@ -189,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -6208048970163842916,
+    "id": 3912947976106320034,
     "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
     "source": "Reddit ML",
@@ -198,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 5570504408063249916,
+    "id": 3857576247545127735,
     "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
     "source": "Reddit ML",
@@ -207,12 +198,12 @@
     "saved": false
   },
   {
-    "id": -2927001499347957006,
-    "title": "IEEE Rolls Out Large Language Models Training Course",
-    "link": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "id": 5444589078522666466,
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-01T05:41:22",
+    "date": "2026-07-03T21:46:07",
     "saved": false
   }
 ]

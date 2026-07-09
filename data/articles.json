@@ -1,15 +1,69 @@
 [
   {
-    "id": -1237112360848180667,
-    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-    "link": "https://mira-wm.com/",
-    "source": "Hacker News",
+    "id": -394989684400478004,
+    "title": "Do you feel like people use LLMs without really understanding how they work? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1urre4l/do_you_feel_like_people_use_llms_without_really/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-07-09T00:27:57",
+    "date": "2026-07-09T14:10:01",
     "saved": false
   },
   {
-    "id": -2703304305186440968,
+    "id": -6213709913259252921,
+    "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+    "link": "https://github.com/ronak-create/FableCut",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-09T13:23:10",
+    "saved": false
+  },
+  {
+    "id": 3397700207798110816,
+    "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
+    "link": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-09T13:19:02",
+    "saved": false
+  },
+  {
+    "id": -5527616450326931635,
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 1597072993926695036,
+    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -5783956962486974108,
+    "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+    "link": "https://arcaide.foo",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-09T12:59:44",
+    "saved": false
+  },
+  {
+    "id": -8011937208646785200,
+    "title": "How Version Control Will Evolve for the Agent Boom",
+    "link": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-09T12:20:41",
+    "saved": false
+  },
+  {
+    "id": -4788382645893242494,
     "title": "John Deere owners will get the right to repair equipment under FTC settlement",
     "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
     "source": "Hacker News",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3009604461180882952,
+    "id": 1313768072949002924,
     "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
     "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 5571433639295194786,
+    "id": -948786906362203387,
     "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
     "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -5112750403259062896,
+    "id": 6627351961127866315,
     "title": "Autonomous drone delivery startup Manna plots major US expansion",
     "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8807445031256680470,
+    "id": -5881274960014180326,
     "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
     "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7228378520247619349,
+    "id": 6651609510265037600,
     "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
     "source": "Reddit ML",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6396590820009283687,
+    "id": 3133184294802353078,
     "title": "Google Photos adds a new AI ‘Video Remix’ tool",
     "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 9189915579241493941,
+    "id": -2394836719650119658,
     "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
     "source": "Reddit ML",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4207400670453629241,
+    "id": -8071286180837300716,
     "title": "Why this CEO thinks video games make better training data than the internet",
     "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
     "source": "TechCrunch",
@@ -90,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -3233219776632059791,
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "link": "https://microsoft.github.io/flint-chart/#/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-08T17:46:12",
-    "saved": false
-  },
-  {
-    "id": -7686110730408730108,
+    "id": -5598943174255363657,
     "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
     "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7589432521945975560,
+    "id": -8755480366721681601,
     "title": "OpenAI releases new voice models for more natural live conversations",
     "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
     "source": "TechCrunch",
@@ -117,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -2442923423737102939,
+    "id": 8600603079901890758,
     "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
     "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
     "source": "TechCrunch",
@@ -126,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -4660334302497785021,
+    "id": 6025249404519125226,
     "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
     "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
     "source": "TechCrunch",
@@ -135,25 +180,7 @@
     "saved": false
   },
   {
-    "id": 2087631711444952406,
-    "title": "These AI startups are growing  revenue at faster and faster rates",
-    "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T15:41:06",
-    "saved": false
-  },
-  {
-    "id": 2001389268746605699,
-    "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
-    "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -818708557303584229,
+    "id": 8044137065768816133,
     "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
     "source": "Reddit ML",
@@ -162,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 3747597049890412492,
+    "id": -302267385611267305,
     "title": "TorchJD: Training with multiple losses in PyTorch [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
     "source": "Reddit ML",
@@ -171,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 6074404997830331723,
+    "id": 6313098495152520080,
     "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
     "source": "Reddit ML",
@@ -180,21 +207,12 @@
     "saved": false
   },
   {
-    "id": 2858265027087398883,
+    "id": 2477973764837532483,
     "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-07T07:59:10",
-    "saved": false
-  },
-  {
-    "id": -6629823229764014281,
-    "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-06T17:37:58",
     "saved": false
   }
 ]

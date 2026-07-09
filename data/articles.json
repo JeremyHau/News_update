@@ -1,87 +1,159 @@
 [
   {
-    "id": -4517728952953336801,
-    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T12:00:00",
-    "saved": false
-  },
-  {
-    "id": 7433894428244791188,
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T08:00:00",
-    "saved": false
-  },
-  {
-    "id": 3946484003239008998,
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T07:16:00",
-    "saved": false
-  },
-  {
-    "id": -639535219069380049,
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "id": -1237112360848180667,
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "link": "https://mira-wm.com/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-08T05:25:35",
+    "date": "2026-07-09T00:27:57",
     "saved": false
   },
   {
-    "id": -6379620506374733511,
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "link": "https://kb.cert.org/vuls/id/213560",
+    "id": -2703304305186440968,
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-08T00:08:51",
+    "date": "2026-07-08T23:37:43",
     "saved": false
   },
   {
-    "id": -488510187089533099,
-    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "id": -3009604461180882952,
+    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
+    "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-07T22:18:10",
+    "date": "2026-07-08T21:49:33",
     "saved": false
   },
   {
-    "id": -4985552166824047438,
-    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "id": 5571433639295194786,
+    "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+    "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-07T20:04:32",
+    "date": "2026-07-08T20:29:50",
     "saved": false
   },
   {
-    "id": -2167652183517649908,
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "id": -5112750403259062896,
+    "title": "Autonomous drone delivery startup Manna plots major US expansion",
+    "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-07T19:58:20",
+    "date": "2026-07-08T20:06:54",
     "saved": false
   },
   {
-    "id": 8718336285346916844,
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "id": -8807445031256680470,
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-07T19:28:38",
+    "date": "2026-07-08T19:30:16",
     "saved": false
   },
   {
-    "id": 4702375949067106855,
+    "id": -7228378520247619349,
+    "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-08T18:36:04",
+    "saved": false
+  },
+  {
+    "id": -6396590820009283687,
+    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T18:30:08",
+    "saved": false
+  },
+  {
+    "id": 9189915579241493941,
+    "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-08T17:58:32",
+    "saved": false
+  },
+  {
+    "id": 4207400670453629241,
+    "title": "Why this CEO thinks video games make better training data than the internet",
+    "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T17:47:55",
+    "saved": false
+  },
+  {
+    "id": -3233219776632059791,
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "link": "https://microsoft.github.io/flint-chart/#/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-08T17:46:12",
+    "saved": false
+  },
+  {
+    "id": -7686110730408730108,
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T17:11:18",
+    "saved": false
+  },
+  {
+    "id": -7589432521945975560,
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -2442923423737102939,
+    "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
+    "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T16:29:35",
+    "saved": false
+  },
+  {
+    "id": -4660334302497785021,
+    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+    "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T16:22:38",
+    "saved": false
+  },
+  {
+    "id": 2087631711444952406,
+    "title": "These AI startups are growing  revenue at faster and faster rates",
+    "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T15:41:06",
+    "saved": false
+  },
+  {
+    "id": 2001389268746605699,
+    "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more",
+    "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-08T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -818708557303584229,
     "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
     "source": "Reddit ML",
@@ -90,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -3236142929586061920,
+    "id": 3747597049890412492,
     "title": "TorchJD: Training with multiple losses in PyTorch [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
     "source": "Reddit ML",
@@ -99,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 1854254033304343034,
-    "title": "VC firm Chemistry is raising $500M for its second fund",
-    "link": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-07T15:02:02",
-    "saved": false
-  },
-  {
-    "id": -6291439425110324686,
+    "id": 6074404997830331723,
     "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
     "source": "Reddit ML",
@@ -117,43 +180,7 @@
     "saved": false
   },
   {
-    "id": -1449152860268724527,
-    "title": "AI law startup Norm raises $120M, hits unicorn valuation",
-    "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-07T14:35:42",
-    "saved": false
-  },
-  {
-    "id": -3372618953206073560,
-    "title": "Chat Control 1.0 and 2.0 Explained",
-    "link": "https://fightchatcontrol.eu/chat-control-overview",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-07T14:23:15",
-    "saved": false
-  },
-  {
-    "id": 6401363135446536654,
-    "title": "This startup pits dealerships against each other to bid on your used car",
-    "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-07T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 4570354388464462597,
-    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-07T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -863983761719645816,
+    "id": 2858265027087398883,
     "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
     "source": "Reddit ML",
@@ -162,48 +189,12 @@
     "saved": false
   },
   {
-    "id": 8979952309046827298,
+    "id": -6629823229764014281,
     "title": "LingBot-Vision: masked boundary modeling for self-supervised pretraining (0.296 NYUv2 linear-probe RMSE at 1.1B vs 0.309 for DINOv3-7B, trails on ImageNet); weights in 4 sizes[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1up4cjh/lingbotvision_masked_boundary_modeling_for/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-06T17:37:58",
-    "saved": false
-  },
-  {
-    "id": -2836313229524588839,
-    "title": "Edge AI ASL Recognition on Raspberry Pi 5 – Looking for Feedback on My System Design [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1up3kby/edge_ai_asl_recognition_on_raspberry_pi_5_looking/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-06T17:10:57",
-    "saved": false
-  },
-  {
-    "id": 3912947976106320034,
-    "title": "CPU TTS benchmark with UTMOS MOS scoring: Kokoro, Supertonic, Inflect-Nano, and Kyutai's new Pocket TTS [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1up0azr/cpu_tts_benchmark_with_utmos_mos_scoring_kokoro/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-06T15:17:36",
-    "saved": false
-  },
-  {
-    "id": 3857576247545127735,
-    "title": "TRACE: open-source hierarchical memory for LLM agents, 82.5% on MemoryAgentBench’s EventQA using gpt-oss-20B [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-06T14:35:56",
-    "saved": false
-  },
-  {
-    "id": 5444589078522666466,
-    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-    "link": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-03T21:46:07",
     "saved": false
   }
 ]

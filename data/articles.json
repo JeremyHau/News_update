@@ -1,114 +1,141 @@
 [
   {
-    "id": -394989684400478004,
-    "title": "Do you feel like people use LLMs without really understanding how they work? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1urre4l/do_you_feel_like_people_use_llms_without_really/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-09T14:10:01",
+    "id": 8995050031576682813,
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-10T00:16:54",
     "saved": false
   },
   {
-    "id": -6213709913259252921,
-    "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-    "link": "https://github.com/ronak-create/FableCut",
+    "id": -1267862282987693726,
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T23:38:00",
+    "saved": false
+  },
+  {
+    "id": 976249937435540148,
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T22:24:24",
+    "saved": false
+  },
+  {
+    "id": -9043523242466487701,
+    "title": "An AI agent startup just let its agent run its $100M fundraise",
+    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T22:08:58",
+    "saved": false
+  },
+  {
+    "id": -6179537985793234841,
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T22:03:54",
+    "saved": false
+  },
+  {
+    "id": 2664292805366019991,
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T21:57:42",
+    "saved": false
+  },
+  {
+    "id": 7977789575363873021,
+    "title": "Can AI answer the $3 trillion question?",
+    "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T21:47:50",
+    "saved": false
+  },
+  {
+    "id": -8080811489431634710,
+    "title": "Building a real-time AI tutor for 5-year-olds",
+    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-09T13:23:10",
+    "date": "2026-07-09T20:51:06",
     "saved": false
   },
   {
-    "id": 3397700207798110816,
-    "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
-    "link": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-09T13:19:02",
-    "saved": false
-  },
-  {
-    "id": -5527616450326931635,
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "id": 5491108866811405852,
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-09T13:00:00",
+    "date": "2026-07-09T19:40:45",
     "saved": false
   },
   {
-    "id": 1597072993926695036,
-    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "id": -4148326071701528999,
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-09T13:00:00",
+    "date": "2026-07-09T19:05:58",
     "saved": false
   },
   {
-    "id": -5783956962486974108,
-    "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
-    "link": "https://arcaide.foo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-09T12:59:44",
-    "saved": false
-  },
-  {
-    "id": -8011937208646785200,
-    "title": "How Version Control Will Evolve for the Agent Boom",
-    "link": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-09T12:20:41",
-    "saved": false
-  },
-  {
-    "id": -4788382645893242494,
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-08T23:37:43",
-    "saved": false
-  },
-  {
-    "id": 1313768072949002924,
-    "title": "Feds demand autonomous vehicle companies stop interfering with first responders",
-    "link": "https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/",
+    "id": -6469930208189976881,
+    "title": "Google will now disclose which ads are made with AI",
+    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-08T21:49:33",
+    "date": "2026-07-09T18:40:51",
     "saved": false
   },
   {
-    "id": -948786906362203387,
-    "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
-    "link": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+    "id": -2454197186321223875,
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-08T20:29:50",
+    "date": "2026-07-09T18:34:35",
     "saved": false
   },
   {
-    "id": 6627351961127866315,
-    "title": "Autonomous drone delivery startup Manna plots major US expansion",
-    "link": "https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/",
+    "id": 16261485768522247,
+    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-08T20:06:54",
+    "date": "2026-07-09T18:22:39",
     "saved": false
   },
   {
-    "id": -5881274960014180326,
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "id": -6240777243213706029,
+    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+    "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-08T19:30:16",
+    "date": "2026-07-09T17:56:47",
     "saved": false
   },
   {
-    "id": 6651609510265037600,
+    "id": -7634444636862013462,
+    "title": "Meta’s new AI chips will begin production in September",
+    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-09T17:17:37",
+    "saved": false
+  },
+  {
+    "id": -8583562529885166028,
     "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
     "source": "Reddit ML",
@@ -117,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 3133184294802353078,
-    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T18:30:08",
-    "saved": false
-  },
-  {
-    "id": -2394836719650119658,
+    "id": 702076170180994122,
     "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
     "source": "Reddit ML",
@@ -135,52 +153,7 @@
     "saved": false
   },
   {
-    "id": -8071286180837300716,
-    "title": "Why this CEO thinks video games make better training data than the internet",
-    "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T17:47:55",
-    "saved": false
-  },
-  {
-    "id": -5598943174255363657,
-    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T17:11:18",
-    "saved": false
-  },
-  {
-    "id": -8755480366721681601,
-    "title": "OpenAI releases new voice models for more natural live conversations",
-    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 8600603079901890758,
-    "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups",
-    "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T16:29:35",
-    "saved": false
-  },
-  {
-    "id": 6025249404519125226,
-    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
-    "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-08T16:22:38",
-    "saved": false
-  },
-  {
-    "id": 8044137065768816133,
+    "id": 4607965588060906257,
     "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
     "source": "Reddit ML",
@@ -189,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -302267385611267305,
+    "id": 1755409069335096317,
     "title": "TorchJD: Training with multiple losses in PyTorch [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
     "source": "Reddit ML",
@@ -198,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 6313098495152520080,
+    "id": 5207337348440438304,
     "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
     "source": "Reddit ML",
@@ -207,12 +180,30 @@
     "saved": false
   },
   {
-    "id": 2477973764837532483,
+    "id": 457214731542865247,
     "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-07T07:59:10",
+    "saved": false
+  },
+  {
+    "id": 4143897707508440111,
+    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+    "link": "https://nahla.dev/blog/waitfree_queue/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-06T19:46:30",
+    "saved": false
+  },
+  {
+    "id": 7166764356856698853,
+    "title": "Train sim created by just one person is being called the best ever made",
+    "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-05T08:40:27",
     "saved": false
   }
 ]

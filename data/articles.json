@@ -1,6 +1,42 @@
 [
   {
-    "id": 8995050031576682813,
+    "id": -7055239560682466083,
+    "title": "How should I approach training this specific ML model for my startup project [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-10T13:33:11",
+    "saved": false
+  },
+  {
+    "id": -6903124219065323759,
+    "title": "Write code like a human will maintain it",
+    "link": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-10T13:33:00",
+    "saved": false
+  },
+  {
+    "id": -8738866639508927494,
+    "title": "How do you use Vim in the era of AI?",
+    "link": "https://news.ycombinator.com/item?id=48859439",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-10T13:11:30",
+    "saved": false
+  },
+  {
+    "id": -8022793147303035205,
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "link": "https://nevo-project.epfl.ch/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-10T07:39:11",
+    "saved": false
+  },
+  {
+    "id": -7161673239428532814,
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "source": "TechCrunch",
@@ -9,8 +45,8 @@
     "saved": false
   },
   {
-    "id": -1267862282987693726,
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "id": 5838785301663686742,
+    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
     "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
     "source": "TechCrunch",
     "category": "tech",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 976249937435540148,
+    "id": -8720077910577686600,
     "title": "OpenAI launches its new family of models with GPT-5.6",
     "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -9043523242466487701,
+    "id": 1039836110768198378,
     "title": "An AI agent startup just let its agent run its $100M fundraise",
     "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -6179537985793234841,
+    "id": 6316051387187859915,
     "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
     "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2664292805366019991,
+    "id": -8140353483106674281,
     "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
     "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7977789575363873021,
+    "id": -6049143332887759436,
     "title": "Can AI answer the $3 trillion question?",
     "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
     "source": "TechCrunch",
@@ -63,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -8080811489431634710,
-    "title": "Building a real-time AI tutor for 5-year-olds",
-    "link": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-09T20:51:06",
-    "saved": false
-  },
-  {
-    "id": 5491108866811405852,
+    "id": 7088158555919573617,
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4148326071701528999,
+    "id": 7887549276797013071,
     "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
     "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6469930208189976881,
+    "id": 4736599823175536873,
     "title": "Google will now disclose which ads are made with AI",
     "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2454197186321223875,
+    "id": 9698343232418021,
     "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
     "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
     "source": "TechCrunch",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 16261485768522247,
+    "id": -227216229792453457,
     "title": "How did the government decide OpenAI’s frontier model was safe to release?",
     "link": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6240777243213706029,
+    "id": 4953317884873589272,
     "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
     "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
     "source": "TechCrunch",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7634444636862013462,
+    "id": 3523410472128100305,
     "title": "Meta’s new AI chips will begin production in September",
     "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
     "source": "TechCrunch",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -8583562529885166028,
+    "id": 2110774025997113453,
     "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
     "source": "Reddit ML",
@@ -144,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 702076170180994122,
+    "id": 4674409401482735574,
     "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
     "source": "Reddit ML",
@@ -153,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 4607965588060906257,
-    "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-07T19:08:12",
-    "saved": false
-  },
-  {
-    "id": 1755409069335096317,
+    "id": -6851841393303704381,
     "title": "TorchJD: Training with multiple losses in PyTorch [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
     "source": "Reddit ML",
@@ -171,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 5207337348440438304,
+    "id": -2056033840512093940,
     "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
     "source": "Reddit ML",
@@ -180,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 457214731542865247,
+    "id": -2149587327627400717,
     "title": "MIRA: Multiplayer Interactive World Models trained on Rocket League [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/",
     "source": "Reddit ML",
@@ -189,16 +207,16 @@
     "saved": false
   },
   {
-    "id": 4143897707508440111,
-    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-    "link": "https://nahla.dev/blog/waitfree_queue/",
+    "id": -1936947957126064436,
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "link": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-06T19:46:30",
+    "date": "2026-07-06T14:59:21",
     "saved": false
   },
   {
-    "id": 7166764356856698853,
+    "id": 8959259790172440860,
     "title": "Train sim created by just one person is being called the best ever made",
     "link": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
     "source": "Hacker News",

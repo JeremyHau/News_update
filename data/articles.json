@@ -1,6 +1,24 @@
 [
   {
-    "id": -4134635146307899532,
+    "id": 8728267191591213362,
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "link": "https://www.iroh.computer/blog/mesh-llm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-11T22:38:57",
+    "saved": false
+  },
+  {
+    "id": 6075491251801645353,
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-11T14:13:00",
+    "saved": false
+  },
+  {
+    "id": -2007066667515242705,
     "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
     "source": "Reddit ML",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 5639690785128515420,
+    "id": -3907480476081024751,
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8033105134816121062,
+    "id": 4960145680479352793,
     "title": "Apple sues OpenAI over alleged trade secret theft",
     "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "source": "TechCrunch",
@@ -27,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 9148313062349986513,
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-10T20:47:09",
-    "saved": false
-  },
-  {
-    "id": -3489412651565184284,
+    "id": -457220397645959515,
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
     "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 6152024427902897521,
+    "id": -1650486734874617230,
     "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
     "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8677493596856710971,
+    "id": 4306216982485053914,
     "title": "Hugging Face’s CEO on why companies are done renting their AI",
     "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5617241776090667301,
+    "id": 6581141085546110392,
     "title": "How should I approach training this specific ML model for my startup project [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
     "source": "Reddit ML",
@@ -72,48 +81,12 @@
     "saved": false
   },
   {
-    "id": -4403508268062800254,
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-10T00:16:54",
-    "saved": false
-  },
-  {
-    "id": -657759645911466702,
-    "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-09T23:38:00",
-    "saved": false
-  },
-  {
-    "id": 5100577474502122193,
-    "title": "AI 2040: Plan A",
-    "link": "https://ai-2040.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-09T16:21:44",
-    "saved": false
-  },
-  {
-    "id": 7648734152488661241,
+    "id": 5501458371562674357,
     "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-08T17:58:32",
-    "saved": false
-  },
-  {
-    "id": -2105510582623961028,
-    "title": "TorchJD: Training with multiple losses in PyTorch [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-07T16:20:47",
     "saved": false
   }
 ]

@@ -1,6 +1,24 @@
 [
   {
-    "id": -8903205984717567327,
+    "id": -2516925795316893097,
+    "title": "I Learned to Read Again",
+    "link": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-12T18:22:15",
+    "saved": false
+  },
+  {
+    "id": -4526346157477748872,
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "link": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-12T17:13:07",
+    "saved": false
+  },
+  {
+    "id": -5852768432830627739,
     "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
     "source": "Reddit ML",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -2942287210859267696,
+    "id": 3721407210740019545,
     "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
     "source": "Reddit ML",
@@ -18,8 +36,8 @@
     "saved": false
   },
   {
-    "id": 3426484989848903652,
-    "title": "Old and new apps, via modern coding agents by Terry Tao",
+    "id": -1850489703210966411,
+    "title": "Old and new apps, via modern coding agents",
     "link": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
     "source": "Hacker News",
     "category": "ai",
@@ -27,25 +45,7 @@
     "saved": false
   },
   {
-    "id": 6837151564966835428,
-    "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-    "link": "https://github.com/cosmtrek/mindwalk",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-12T05:51:32",
-    "saved": false
-  },
-  {
-    "id": 7073356532720479468,
-    "title": "Mesh LLM: distributed AI computing on iroh",
-    "link": "https://www.iroh.computer/blog/mesh-llm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-11T22:38:57",
-    "saved": false
-  },
-  {
-    "id": 5231599380014265202,
+    "id": -5741054214542930593,
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5550517836819924349,
+    "id": -1225741981760945349,
     "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
     "source": "Reddit ML",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 328544977171222290,
+    "id": 2836423074108935272,
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5046253344886664292,
+    "id": 5300914409862335492,
     "title": "Apple sues OpenAI over alleged trade secret theft",
     "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7822469676855836921,
+    "id": -2479960317474465046,
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
     "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -5364244891794031471,
+    "id": 1988446835219963405,
     "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
     "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
     "source": "TechCrunch",
@@ -99,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 5633668673154973492,
-    "title": "Hugging Face’s CEO on why companies are done renting their AI",
-    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-10T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 5346591684841351641,
+    "id": 3776704393342167139,
     "title": "How should I approach training this specific ML model for my startup project [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
     "source": "Reddit ML",
@@ -117,21 +108,12 @@
     "saved": false
   },
   {
-    "id": -8511775212933723762,
+    "id": 4553721480599157472,
     "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-08T17:58:32",
-    "saved": false
-  },
-  {
-    "id": -547905646352626,
-    "title": "An agent in 100 lines of Lisp",
-    "link": "https://thebeach.dev/posts/lisp-agent/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-07T21:21:09",
     "saved": false
   }
 ]

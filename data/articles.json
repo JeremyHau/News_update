@@ -1,24 +1,132 @@
 [
   {
-    "id": -1181352149426073835,
-    "title": "Grok uploaded my user directory to xAI's servers",
-    "link": "https://twitter.com/a_green_being/status/2076598897779020159",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-13T13:39:59",
+    "id": 648043347050097312,
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T00:00:00",
     "saved": false
   },
   {
-    "id": 4423344639565020818,
-    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-    "link": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-13T08:04:30",
+    "id": -4468248059691851896,
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T23:31:18",
     "saved": false
   },
   {
-    "id": 1758202121476347774,
+    "id": 5993967093545490757,
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T20:59:00",
+    "saved": false
+  },
+  {
+    "id": 775010381162466024,
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
+    "link": "https://neow.in/cWsyMTV3",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-13T20:01:43",
+    "saved": false
+  },
+  {
+    "id": -3146493512881942744,
+    "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+    "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T20:00:17",
+    "saved": false
+  },
+  {
+    "id": 1110767313795622458,
+    "title": "Telegram's t.me domain has been suspended",
+    "link": "https://www.whois.com/whois/t.me",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-13T19:52:25",
+    "saved": false
+  },
+  {
+    "id": -4710612479400713070,
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T18:22:10",
+    "saved": false
+  },
+  {
+    "id": 4736106581604066964,
+    "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-13T17:50:49",
+    "saved": false
+  },
+  {
+    "id": 3435165821257839899,
+    "title": "Fast track through a CS PhD using LLM's for paper writing [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uvhr7a/fast_track_through_a_cs_phd_using_llms_for_paper/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-13T17:15:17",
+    "saved": false
+  },
+  {
+    "id": 3610157166451003316,
+    "title": "Should AI help you get away with killing your spouse?",
+    "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T16:31:23",
+    "saved": false
+  },
+  {
+    "id": 557015085463619790,
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-13T16:06:08",
+    "saved": false
+  },
+  {
+    "id": 8693151809496235348,
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "link": "https://github.com/jbwinters/jacquard-lang",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-13T15:56:02",
+    "saved": false
+  },
+  {
+    "id": -195088540845884978,
+    "title": "SpaceX cleared to fly Starship again after booster failure in May",
+    "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T14:19:44",
+    "saved": false
+  },
+  {
+    "id": -5697005568987132865,
+    "title": "Waze adds new AI-powered features and customization updates",
+    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-13T14:18:16",
+    "saved": false
+  },
+  {
+    "id": 8941632417587654526,
     "title": "Look for a team to join ML/AI competition [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uv0crm/look_for_a_team_to_join_mlai_competition_d/",
     "source": "Reddit ML",
@@ -27,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3362450508372647522,
+    "id": -1161708313146411623,
     "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
     "source": "Reddit ML",
@@ -36,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 3820858219704377783,
+    "id": 2563004167744199354,
     "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
     "source": "Reddit ML",
@@ -45,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -7331055041213125039,
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-11T14:13:00",
-    "saved": false
-  },
-  {
-    "id": -6422313563707339908,
+    "id": 748420935195443842,
     "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
     "source": "Reddit ML",
@@ -63,48 +162,12 @@
     "saved": false
   },
   {
-    "id": -931054859996568038,
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-10T23:55:07",
-    "saved": false
-  },
-  {
-    "id": -4420537572854266412,
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-10T21:00:29",
-    "saved": false
-  },
-  {
-    "id": 1756794244205084779,
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-10T17:17:12",
-    "saved": false
-  },
-  {
-    "id": -5410780022316445384,
-    "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-    "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-10T15:00:09",
-    "saved": false
-  },
-  {
-    "id": 106970873607033988,
-    "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-    "link": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+    "id": 2021851477773243853,
+    "title": "The Difference Between Watercolor and Gouache Paints",
+    "link": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-09T10:45:36",
+    "date": "2026-07-10T17:36:28",
     "saved": false
   }
 ]

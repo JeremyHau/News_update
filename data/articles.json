@@ -1,6 +1,78 @@
 [
   {
-    "id": 648043347050097312,
+    "id": 8202143576800138205,
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
+    "link": "https://github.com/Danau5tin/ai-trains-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T12:41:25",
+    "saved": false
+  },
+  {
+    "id": 5481509551209971437,
+    "title": "Coding agents think ahead of time",
+    "link": "https://arxiv.org/abs/2607.05188",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T12:28:09",
+    "saved": false
+  },
+  {
+    "id": 4607210148595631350,
+    "title": "Codex starts encrypting sub-agent prompts",
+    "link": "https://github.com/openai/codex/issues/28058",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T11:21:32",
+    "saved": false
+  },
+  {
+    "id": -3422505638150191030,
+    "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-14T10:13:24",
+    "saved": false
+  },
+  {
+    "id": -2486530327154303694,
+    "title": "Cloud-vLLM Benchmark Differences [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-14T08:17:25",
+    "saved": false
+  },
+  {
+    "id": 5186067599962518110,
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T06:43:28",
+    "saved": false
+  },
+  {
+    "id": -8599328156437449734,
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T04:31:48",
+    "saved": false
+  },
+  {
+    "id": -897995056213149052,
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T02:46:42",
+    "saved": false
+  },
+  {
+    "id": -6193120542899307980,
     "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
     "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
     "source": "TechCrunch",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4468248059691851896,
+    "id": 6742443164037132896,
     "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
     "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
     "source": "TechCrunch",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5993967093545490757,
+    "id": -8973539906493969905,
     "title": "Satya Nadella has issued a shocking warning to companies using AI",
     "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
     "source": "TechCrunch",
@@ -27,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 775010381162466024,
-    "title": "Samsung Health app threatens data deletion if users opt out AI training",
-    "link": "https://neow.in/cWsyMTV3",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-13T20:01:43",
-    "saved": false
-  },
-  {
-    "id": -3146493512881942744,
+    "id": -7588414311215652589,
     "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
     "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
     "source": "TechCrunch",
@@ -45,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 1110767313795622458,
-    "title": "Telegram's t.me domain has been suspended",
-    "link": "https://www.whois.com/whois/t.me",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-13T19:52:25",
-    "saved": false
-  },
-  {
-    "id": -4710612479400713070,
+    "id": -271294073346342782,
     "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
     "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4736106581604066964,
+    "id": -1717385104540731039,
     "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
     "source": "Reddit ML",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3435165821257839899,
+    "id": 483941298073027125,
     "title": "Fast track through a CS PhD using LLM's for paper writing [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uvhr7a/fast_track_through_a_cs_phd_using_llms_for_paper/",
     "source": "Reddit ML",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3610157166451003316,
+    "id": -5852047930496761332,
     "title": "Should AI help you get away with killing your spouse?",
     "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
     "source": "TechCrunch",
@@ -90,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 557015085463619790,
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-13T16:06:08",
-    "saved": false
-  },
-  {
-    "id": 8693151809496235348,
-    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "link": "https://github.com/jbwinters/jacquard-lang",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-13T15:56:02",
-    "saved": false
-  },
-  {
-    "id": -195088540845884978,
+    "id": -7027552293364060647,
     "title": "SpaceX cleared to fly Starship again after booster failure in May",
     "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
     "source": "TechCrunch",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -5697005568987132865,
+    "id": -6746347542791157830,
     "title": "Waze adds new AI-powered features and customization updates",
     "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
     "source": "TechCrunch",
@@ -126,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 8941632417587654526,
-    "title": "Look for a team to join ML/AI competition [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uv0crm/look_for_a_team_to_join_mlai_competition_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-13T03:39:04",
-    "saved": false
-  },
-  {
-    "id": -1161708313146411623,
+    "id": -6935314071329495154,
     "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
     "source": "Reddit ML",
@@ -144,30 +171,12 @@
     "saved": false
   },
   {
-    "id": 2563004167744199354,
-    "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-12T11:38:41",
-    "saved": false
-  },
-  {
-    "id": 748420935195443842,
-    "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-11T07:36:36",
-    "saved": false
-  },
-  {
-    "id": 2021851477773243853,
-    "title": "The Difference Between Watercolor and Gouache Paints",
-    "link": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
+    "id": 3698608915507241210,
+    "title": "Dmars – A modern Core Wars toolchain",
+    "link": "https://dmars.drpz.xyz/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-10T17:36:28",
+    "date": "2026-07-09T15:16:43",
     "saved": false
   }
 ]

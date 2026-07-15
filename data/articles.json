@@ -1,33 +1,168 @@
 [
   {
-    "id": 8202143576800138205,
-    "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-    "link": "https://github.com/Danau5tin/ai-trains-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-14T12:41:25",
+    "id": -3057917474344399186,
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-15T00:27:04",
     "saved": false
   },
   {
-    "id": 5481509551209971437,
-    "title": "Coding agents think ahead of time",
-    "link": "https://arxiv.org/abs/2607.05188",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-14T12:28:09",
+    "id": 8556952415090543855,
+    "title": "Lorde says AI glasses are ‘not sexy’",
+    "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T23:10:02",
     "saved": false
   },
   {
-    "id": 4607210148595631350,
-    "title": "Codex starts encrypting sub-agent prompts",
-    "link": "https://github.com/openai/codex/issues/28058",
+    "id": -1969686822221177750,
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "link": "https://www.benjamin-bai.com/projects/lemario",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-14T11:21:32",
+    "date": "2026-07-14T22:30:47",
     "saved": false
   },
   {
-    "id": -3422505638150191030,
+    "id": -3356525782700675772,
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T22:22:24",
+    "saved": false
+  },
+  {
+    "id": 7488996290092977806,
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T22:07:42",
+    "saved": false
+  },
+  {
+    "id": 5341753060675324320,
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "link": "https://www.bis.org/publ/bisbull120.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T21:58:36",
+    "saved": false
+  },
+  {
+    "id": 7293452672889086475,
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T21:50:11",
+    "saved": false
+  },
+  {
+    "id": 1802813715463409419,
+    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+    "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T19:42:27",
+    "saved": false
+  },
+  {
+    "id": 759736808489939214,
+    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+    "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T19:39:39",
+    "saved": false
+  },
+  {
+    "id": -53170587190894727,
+    "title": "Google faces another AI training lawsuit from major publishers",
+    "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T18:33:31",
+    "saved": false
+  },
+  {
+    "id": 785416939037503416,
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "link": "https://prismml.com/news/bonsai-27b",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T17:50:48",
+    "saved": false
+  },
+  {
+    "id": -4787316927202117034,
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T17:45:55",
+    "saved": false
+  },
+  {
+    "id": 2170347457718564971,
+    "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+    "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T16:45:23",
+    "saved": false
+  },
+  {
+    "id": 143695369947331269,
+    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T16:22:15",
+    "saved": false
+  },
+  {
+    "id": 4809431844753162351,
+    "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-14T15:37:52",
+    "saved": false
+  },
+  {
+    "id": -3040538062078431521,
+    "title": "The real AI race may no longer be at the frontier",
+    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T14:24:53",
+    "saved": false
+  },
+  {
+    "id": 7755129863116370180,
+    "title": "Telegram’s shortlink domain is back online after day-long suspension",
+    "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-14T14:10:13",
+    "saved": false
+  },
+  {
+    "id": -2277494070265360399,
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "link": "https://gwern.net/guardian-angel",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-14T12:50:29",
+    "saved": false
+  },
+  {
+    "id": 4649322566231638483,
     "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
     "source": "Reddit ML",
@@ -36,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -2486530327154303694,
+    "id": 3015375802857825535,
     "title": "Cloud-vLLM Benchmark Differences [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/",
     "source": "Reddit ML",
@@ -45,79 +180,7 @@
     "saved": false
   },
   {
-    "id": 5186067599962518110,
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "link": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-14T06:43:28",
-    "saved": false
-  },
-  {
-    "id": -8599328156437449734,
-    "title": "Australian energy retailers must provide three hours of free daytime electricity",
-    "link": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-14T04:31:48",
-    "saved": false
-  },
-  {
-    "id": -897995056213149052,
-    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-14T02:46:42",
-    "saved": false
-  },
-  {
-    "id": -6193120542899307980,
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-14T00:00:00",
-    "saved": false
-  },
-  {
-    "id": 6742443164037132896,
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T23:31:18",
-    "saved": false
-  },
-  {
-    "id": -8973539906493969905,
-    "title": "Satya Nadella has issued a shocking warning to companies using AI",
-    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T20:59:00",
-    "saved": false
-  },
-  {
-    "id": -7588414311215652589,
-    "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-    "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T20:00:17",
-    "saved": false
-  },
-  {
-    "id": -271294073346342782,
-    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-    "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T18:22:10",
-    "saved": false
-  },
-  {
-    "id": -1717385104540731039,
+    "id": 4525831998205825173,
     "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
     "source": "Reddit ML",
@@ -126,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 483941298073027125,
+    "id": -7595901674265138881,
     "title": "Fast track through a CS PhD using LLM's for paper writing [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uvhr7a/fast_track_through_a_cs_phd_using_llms_for_paper/",
     "source": "Reddit ML",
@@ -135,34 +198,7 @@
     "saved": false
   },
   {
-    "id": -5852047930496761332,
-    "title": "Should AI help you get away with killing your spouse?",
-    "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T16:31:23",
-    "saved": false
-  },
-  {
-    "id": -7027552293364060647,
-    "title": "SpaceX cleared to fly Starship again after booster failure in May",
-    "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T14:19:44",
-    "saved": false
-  },
-  {
-    "id": -6746347542791157830,
-    "title": "Waze adds new AI-powered features and customization updates",
-    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-13T14:18:16",
-    "saved": false
-  },
-  {
-    "id": -6935314071329495154,
+    "id": -3111322151750433430,
     "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
     "source": "Reddit ML",
@@ -171,12 +207,21 @@
     "saved": false
   },
   {
-    "id": 3698608915507241210,
-    "title": "Dmars – A modern Core Wars toolchain",
-    "link": "https://dmars.drpz.xyz/",
+    "id": 8070517199888931833,
+    "title": "The largest available Minecraft world, totalling 15 TB",
+    "link": "https://2b2t.place/1million",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-09T15:16:43",
+    "date": "2026-07-11T14:32:19",
+    "saved": false
+  },
+  {
+    "id": 5504440568082502235,
+    "title": "The zero-cost fallacy: open-source software in the agentic era",
+    "link": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-10T20:45:43",
     "saved": false
   }
 ]

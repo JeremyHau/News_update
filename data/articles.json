@@ -1,6 +1,60 @@
 [
   {
-    "id": -1417356446276008061,
+    "id": 113704498458886492,
+    "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+    "link": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-16T12:02:11",
+    "saved": false
+  },
+  {
+    "id": -5139514974875356363,
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "link": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-16T11:59:01",
+    "saved": false
+  },
+  {
+    "id": 1643013175214931688,
+    "title": "Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you",
+    "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-16T11:30:00",
+    "saved": false
+  },
+  {
+    "id": 2086895025761516581,
+    "title": "Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot",
+    "link": "https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-16T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 2643159304066516944,
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "link": "https://joinedanthropic.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-16T08:03:35",
+    "saved": false
+  },
+  {
+    "id": -6609055725585258312,
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-16T04:00:00",
+    "saved": false
+  },
+  {
+    "id": -6983860203500453622,
     "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
     "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -4606084596386979461,
+    "id": -3761084498728810253,
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "source": "TechCrunch",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 6355378730228575227,
-    "title": "LLM Networking with MikroTik",
-    "link": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-15T22:23:27",
-    "saved": false
-  },
-  {
-    "id": 3967964886276703124,
+    "id": 1656893417486873378,
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "link": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "source": "Hacker News",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2273350061417705962,
+    "id": 2429219018827968978,
     "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
     "link": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
     "source": "TechCrunch",
@@ -45,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 6108654881635752024,
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "link": "https://brainless.swerdlow.dev",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-15T19:42:53",
-    "saved": false
-  },
-  {
-    "id": -963388820946661976,
+    "id": -8493349010274419420,
     "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
     "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 1212635540972013394,
+    "id": 1639849049588840367,
     "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
     "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 4035010544824331053,
+    "id": 5680851288335943974,
     "title": "Google’s biggest clean power project is 40 miles north of xAI’s unpermitted gas power plant",
     "link": "https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1130805865326941433,
+    "id": -6106747090551296985,
     "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
     "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7859890204005371715,
+    "id": -3949904978348406041,
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
     "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5895901892256224182,
+    "id": 1060730896698706746,
     "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
     "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "source": "TechCrunch",
@@ -108,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 2543823207665664595,
-    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-    "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-15T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -8592238275241495206,
+    "id": -7193834915097156388,
     "title": "AI/ML Research - What Does it Really Take? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 2743948111468763962,
+    "id": 8652540045711438835,
     "title": "If your model finds edge against closing lines, does that edge transfer to earlier bets? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ux1n0v/if_your_model_finds_edge_against_closing_lines/",
     "source": "Reddit ML",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4790324895049504726,
+    "id": -2226816530315313827,
     "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
     "source": "Reddit ML",
@@ -144,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 7707999062637385401,
+    "id": 4682232589938269992,
     "title": "LLM hallucination paper(using math) accepted to ICML workshop[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uw4j6a/llm_hallucination_paperusing_math_accepted_to/",
     "source": "Reddit ML",
@@ -153,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 7703224784753191504,
-    "title": "Cloud-vLLM Benchmark Differences [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uw2j9e/cloudvllm_benchmark_differences_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-14T08:17:25",
-    "saved": false
-  },
-  {
-    "id": -7446601589850681332,
+    "id": 7532621764560820379,
     "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
     "source": "Reddit ML",

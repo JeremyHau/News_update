@@ -1,6 +1,42 @@
 [
   {
-    "id": -1502717950300906134,
+    "id": 8808392755188648157,
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T12:02:39",
+    "saved": false
+  },
+  {
+    "id": 150492698198382401,
+    "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+    "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T11:30:00",
+    "saved": false
+  },
+  {
+    "id": 7477542487828428124,
+    "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-17T08:18:09",
+    "saved": false
+  },
+  {
+    "id": -2522103682329376550,
+    "title": "EEG shows brain can simultaneous encode two speech streams",
+    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T05:51:10",
+    "saved": false
+  },
+  {
+    "id": -4975155137194854889,
     "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
     "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 138820913803029808,
+    "id": 1983425960305995720,
     "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
     "source": "Reddit ML",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 529500143462362667,
+    "id": 6467604617998956863,
     "title": "whats the best and complete way to keep up with ai/ml news? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
     "source": "Reddit ML",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8379210521594785655,
+    "id": -7859857742249158697,
     "title": "LM Studio Bionic: the AI agent for open models",
     "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
     "source": "Hacker News",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3662612579416246781,
+    "id": -1137565676310997602,
     "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
     "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7735160638184880932,
+    "id": 3836871354082826511,
     "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
     "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
     "source": "Hacker News",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3292792219394064407,
+    "id": 6051507829170532252,
     "title": "Google Vids now lets you star in your own AI videos",
     "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 9192168720926437475,
+    "id": 9053081676876991726,
     "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
     "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3911674572408631827,
+    "id": -2274454450240141124,
     "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
     "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
     "source": "TechCrunch",
@@ -81,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -6787020319330095349,
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-    "link": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-16T16:41:37",
-    "saved": false
-  },
-  {
-    "id": 2837925917214056089,
+    "id": -3285688710570771656,
     "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
     "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4783939331379124982,
+    "id": 2896992336513872080,
     "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -621185794882496284,
+    "id": 4466110525703990473,
     "title": "Google’s AI Mode now lets you link and interact with select apps",
     "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8176791279197204098,
+    "id": -8904579378938029039,
     "title": "Why is OpenAI selling a ChatGPT basketball?",
     "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
     "source": "TechCrunch",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 5234542471158890825,
+    "id": -5656432965132470643,
     "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
     "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
     "source": "TechCrunch",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 7068311283442802860,
+    "id": -3455694535230491020,
     "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
     "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
     "source": "TechCrunch",
@@ -144,16 +171,7 @@
     "saved": false
   },
   {
-    "id": -6207659660857205796,
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T14:40:00",
-    "saved": false
-  },
-  {
-    "id": -2302100320829573632,
+    "id": 3473427675039195125,
     "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
     "source": "Reddit ML",
@@ -162,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 6326722429384922226,
+    "id": -2958774171311470024,
     "title": "AI/ML Research - What Does it Really Take? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
     "source": "Reddit ML",

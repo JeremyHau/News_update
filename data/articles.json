@@ -1,24 +1,114 @@
 [
   {
-    "id": 8808392755188648157,
-    "title": "Apple targets dozens of OpenAI employees with legal letters",
-    "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-17T12:02:39",
+    "id": 3422375517052019937,
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T22:55:09",
     "saved": false
   },
   {
-    "id": 150492698198382401,
-    "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-    "link": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+    "id": -558877284750954237,
+    "title": "Texas wins court order to suspend domain name for violating age-verification law",
+    "link": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-17T11:30:00",
+    "date": "2026-07-17T22:35:55",
     "saved": false
   },
   {
-    "id": 7477542487828428124,
+    "id": 6273582652489137218,
+    "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+    "link": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T22:26:30",
+    "saved": false
+  },
+  {
+    "id": -1931075398708071696,
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T22:12:56",
+    "saved": false
+  },
+  {
+    "id": -7792816487036600776,
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "link": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T21:22:53",
+    "saved": false
+  },
+  {
+    "id": 8288962133081136234,
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "link": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T20:12:59",
+    "saved": false
+  },
+  {
+    "id": 8729967902578472085,
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T20:09:27",
+    "saved": false
+  },
+  {
+    "id": 1849171389433793324,
+    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+    "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T19:22:00",
+    "saved": false
+  },
+  {
+    "id": 6521012399186447844,
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T17:45:46",
+    "saved": false
+  },
+  {
+    "id": 3444667989136785092,
+    "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+    "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T16:18:09",
+    "saved": false
+  },
+  {
+    "id": -4661048976640897444,
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-17T15:21:17",
+    "saved": false
+  },
+  {
+    "id": -8460679895463031434,
+    "title": "The state of open source AI",
+    "link": "https://stateofopensource.ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-17T14:31:10",
+    "saved": false
+  },
+  {
+    "id": 5676436374735541227,
     "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
     "source": "Reddit ML",
@@ -27,25 +117,7 @@
     "saved": false
   },
   {
-    "id": -2522103682329376550,
-    "title": "EEG shows brain can simultaneous encode two speech streams",
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-17T05:51:10",
-    "saved": false
-  },
-  {
-    "id": -4975155137194854889,
-    "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-    "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T21:22:31",
-    "saved": false
-  },
-  {
-    "id": 1983425960305995720,
+    "id": 3011879311776297661,
     "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
     "source": "Reddit ML",
@@ -54,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6467604617998956863,
+    "id": -2176991704501241344,
     "title": "whats the best and complete way to keep up with ai/ml news? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
     "source": "Reddit ML",
@@ -63,70 +135,7 @@
     "saved": false
   },
   {
-    "id": -7859857742249158697,
-    "title": "LM Studio Bionic: the AI agent for open models",
-    "link": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-16T20:18:15",
-    "saved": false
-  },
-  {
-    "id": -1137565676310997602,
-    "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-    "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T20:07:14",
-    "saved": false
-  },
-  {
-    "id": 3836871354082826511,
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "link": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-16T20:03:23",
-    "saved": false
-  },
-  {
-    "id": 6051507829170532252,
-    "title": "Google Vids now lets you star in your own AI videos",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T18:32:54",
-    "saved": false
-  },
-  {
-    "id": 9053081676876991726,
-    "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T18:22:06",
-    "saved": false
-  },
-  {
-    "id": -2274454450240141124,
-    "title": "Newsletter platform Beehiiv now lets subscribers chat with each other, adds AI",
-    "link": "https://techcrunch.com/2026/07/16/newsletter-platform-beehiiv-now-lets-subscribers-chat-with-each-other-adds-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -3285688710570771656,
-    "title": "AI-powered travel agency Fora hits unicorn status, raises $60M",
-    "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T16:08:40",
-    "saved": false
-  },
-  {
-    "id": 2896992336513872080,
+    "id": -5800101932090679576,
     "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
     "source": "Reddit ML",
@@ -135,57 +144,12 @@
     "saved": false
   },
   {
-    "id": 4466110525703990473,
-    "title": "Google’s AI Mode now lets you link and interact with select apps",
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -8904579378938029039,
-    "title": "Why is OpenAI selling a ChatGPT basketball?",
-    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T15:31:09",
-    "saved": false
-  },
-  {
-    "id": -5656432965132470643,
-    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-    "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T15:02:00",
-    "saved": false
-  },
-  {
-    "id": -3455694535230491020,
-    "title": "Sheryl Sandberg leads $10 million investment in AI-powered vehicle inspection service",
-    "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-16T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 3473427675039195125,
+    "id": 3695735623162578533,
     "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-16T13:31:07",
-    "saved": false
-  },
-  {
-    "id": -2958774171311470024,
-    "title": "AI/ML Research - What Does it Really Take? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-15T13:38:27",
     "saved": false
   }
 ]

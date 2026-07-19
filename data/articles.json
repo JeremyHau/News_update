@@ -1,15 +1,42 @@
 [
   {
-    "id": 3472702817589237517,
-    "title": "What AI did to stackoverflow in a graph",
-    "link": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "id": 7909760619994785616,
+    "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+    "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-18T11:12:46",
+    "date": "2026-07-18T22:13:39",
     "saved": false
   },
   {
-    "id": -7933109745980797708,
+    "id": 6666374586968536767,
+    "title": "Federal employees can download TikTok on their work phones again",
+    "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-18T15:54:24",
+    "saved": false
+  },
+  {
+    "id": -1618671532561966062,
+    "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-18T15:10:52",
+    "saved": false
+  },
+  {
+    "id": 7719518912230426951,
+    "title": "AAAI 27 AI Alignment track [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-18T14:44:38",
+    "saved": false
+  },
+  {
+    "id": 3950957594707740375,
     "title": "Neil Rimer thinks the AI money is coming back out",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "source": "TechCrunch",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -2111843879305289608,
+    "id": -3998079307239049875,
     "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
     "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 5821660332542981495,
+    "id": -7283712276079382184,
     "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
     "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 2815637895736314088,
+    "id": -8399350244685853032,
     "title": "AI-driven memory crunch jolts India’s smartphone market",
     "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 868231911675855254,
+    "id": 4996272361380210511,
     "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
     "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 4553601447460309422,
+    "id": -3088568325981974954,
     "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
     "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1078200220408425705,
+    "id": 896516856866489165,
     "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
     "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4144621191023322752,
+    "id": -3403171008032884132,
     "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
     "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3857362017254860484,
+    "id": -4026971322874707024,
     "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
     "source": "Reddit ML",
@@ -90,25 +117,7 @@
     "saved": false
   },
   {
-    "id": -8268423911770149540,
-    "title": "In-toto: A framework to secure the integrity of software supply chains",
-    "link": "https://in-toto.io/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-17T02:00:38",
-    "saved": false
-  },
-  {
-    "id": -8556656623326948803,
-    "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-16T21:02:45",
-    "saved": false
-  },
-  {
-    "id": 7740014014447224409,
+    "id": -7708665923389449648,
     "title": "whats the best and complete way to keep up with ai/ml news? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
     "source": "Reddit ML",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 814541316888869597,
+    "id": 7477961625230800441,
     "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
     "source": "Reddit ML",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3987374877356716546,
+    "id": -5557338729612044374,
     "title": "ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uy2zb3/externd_expandedrank_ternary_decomposition/",
     "source": "Reddit ML",

@@ -1,6 +1,51 @@
 [
   {
-    "id": 1575599231643277215,
+    "id": 7379041959885484025,
+    "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+    "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-19T21:45:00",
+    "saved": false
+  },
+  {
+    "id": -4380488289463001044,
+    "title": "AI advice made people less accurate but more confident – sudy",
+    "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-19T21:18:10",
+    "saved": false
+  },
+  {
+    "id": -3985081065169874561,
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-19T19:24:45",
+    "saved": false
+  },
+  {
+    "id": -8094495366892166188,
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-19T14:52:08",
+    "saved": false
+  },
+  {
+    "id": -8063025847006234125,
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-19T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 1426108449815672894,
     "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
     "source": "Reddit ML",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 8133011398328841296,
+    "id": -2933532855540620917,
     "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
     "source": "Reddit ML",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 4017219823818175182,
+    "id": -4196908353294846554,
     "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
     "link": "https://github.com/openai/codex/pull/33972/files",
     "source": "Hacker News",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1184146088261922428,
+    "id": 4652580204128252669,
     "title": "Federal employees can download TikTok on their work phones again",
     "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8517990495990803668,
+    "id": 2917311415661710779,
     "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
     "source": "Reddit ML",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8733127657929376776,
+    "id": 6813922525783551763,
     "title": "AAAI 27 AI Alignment track [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
     "source": "Reddit ML",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -464402316991579637,
+    "id": -8068785459445427397,
     "title": "Neil Rimer thinks the AI money is coming back out",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -351158362737797029,
+    "id": -6307561801030518584,
     "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
     "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7297241202656503586,
+    "id": -6938198677001880910,
     "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
     "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -295309857027507762,
+    "id": 4136915417338802177,
     "title": "AI-driven memory crunch jolts India’s smartphone market",
     "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -8490556945938102021,
+    "id": 6817589119222609529,
     "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
     "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
     "source": "TechCrunch",
@@ -99,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 6660485826473728719,
-    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T17:45:46",
-    "saved": false
-  },
-  {
-    "id": -8648286014263315964,
-    "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-    "link": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T16:18:09",
-    "saved": false
-  },
-  {
-    "id": -8650598606489364461,
-    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T15:21:17",
-    "saved": false
-  },
-  {
-    "id": -1700143500053206652,
+    "id": -5709460221441404272,
     "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 3309698889792526100,
+    "id": -4027082204846740360,
     "title": "whats the best and complete way to keep up with ai/ml news? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
     "source": "Reddit ML",
@@ -144,12 +162,12 @@
     "saved": false
   },
   {
-    "id": 8029198678784719297,
-    "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
-    "link": "https://github.com/loopgain-ai/loopgain",
+    "id": -6482738604195415928,
+    "title": "Talk: The Art of Braiding Algorithms",
+    "link": "https://pgadey.ca/notes/talk-relatorium-2026/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-15T12:07:48",
+    "date": "2026-07-15T13:31:44",
     "saved": false
   }
 ]

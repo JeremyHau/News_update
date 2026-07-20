@@ -1,6 +1,24 @@
 [
   {
-    "id": 7379041959885484025,
+    "id": 1964026845935391820,
+    "title": "Airport Simulator",
+    "link": "https://airport.apunen.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T10:30:40",
+    "saved": false
+  },
+  {
+    "id": -5201486465412636070,
+    "title": "Airbus Takes Flight from AWS",
+    "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T10:12:22",
+    "saved": false
+  },
+  {
+    "id": 8700171495302558362,
     "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
     "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
     "source": "TechCrunch",
@@ -9,16 +27,7 @@
     "saved": false
   },
   {
-    "id": -4380488289463001044,
-    "title": "AI advice made people less accurate but more confident – sudy",
-    "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-19T21:18:10",
-    "saved": false
-  },
-  {
-    "id": -3985081065169874561,
+    "id": 2840219693298650647,
     "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
     "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "source": "TechCrunch",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -8094495366892166188,
+    "id": -4816279011661344700,
     "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
     "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -8063025847006234125,
+    "id": -1493430270653838049,
     "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
     "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "source": "TechCrunch",
@@ -45,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 1426108449815672894,
-    "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-19T12:44:45",
-    "saved": false
-  },
-  {
-    "id": -2933532855540620917,
+    "id": 6261017011892583030,
     "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
     "source": "Reddit ML",
@@ -63,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -4196908353294846554,
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "link": "https://github.com/openai/codex/pull/33972/files",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-19T07:54:39",
-    "saved": false
-  },
-  {
-    "id": 4652580204128252669,
+    "id": 1189779584729527320,
     "title": "Federal employees can download TikTok on their work phones again",
     "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
     "source": "TechCrunch",
@@ -81,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2917311415661710779,
+    "id": 2089282558732318572,
     "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
     "source": "Reddit ML",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6813922525783551763,
+    "id": 5862545039916040049,
     "title": "AAAI 27 AI Alignment track [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
     "source": "Reddit ML",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -8068785459445427397,
+    "id": -8616886179961871949,
     "title": "Neil Rimer thinks the AI money is coming back out",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "source": "TechCrunch",
@@ -108,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6307561801030518584,
+    "id": 1761574559480702220,
     "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
     "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
     "source": "TechCrunch",
@@ -117,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -6938198677001880910,
+    "id": -3206897372274802728,
     "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
     "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "source": "TechCrunch",
@@ -126,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4136915417338802177,
+    "id": 1974746023876623668,
     "title": "AI-driven memory crunch jolts India’s smartphone market",
     "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
     "source": "TechCrunch",
@@ -135,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 6817589119222609529,
-    "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-    "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T19:22:00",
-    "saved": false
-  },
-  {
-    "id": -5709460221441404272,
+    "id": -5516815480671216667,
     "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
     "source": "Reddit ML",
@@ -153,21 +135,21 @@
     "saved": false
   },
   {
-    "id": -4027082204846740360,
-    "title": "whats the best and complete way to keep up with ai/ml news? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
-    "source": "Reddit ML",
+    "id": 5640441413806812769,
+    "title": "1-Bit LLM in the Browser",
+    "link": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-16T20:28:38",
+    "date": "2026-07-16T16:50:32",
     "saved": false
   },
   {
-    "id": -6482738604195415928,
-    "title": "Talk: The Art of Braiding Algorithms",
-    "link": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "id": -3512883537323181088,
+    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "link": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-15T13:31:44",
+    "date": "2026-07-15T08:35:46",
     "saved": false
   }
 ]

@@ -1,6 +1,141 @@
 [
   {
-    "id": 1964026845935391820,
+    "id": 891862682869076472,
+    "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+    "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T23:39:35",
+    "saved": false
+  },
+  {
+    "id": -921471093698045826,
+    "title": "Trump’s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T22:21:04",
+    "saved": false
+  },
+  {
+    "id": 4975695384983265896,
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T21:21:15",
+    "saved": false
+  },
+  {
+    "id": -8939218495964405237,
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T20:50:40",
+    "saved": false
+  },
+  {
+    "id": -7222238092453971433,
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T19:33:25",
+    "saved": false
+  },
+  {
+    "id": -3410569810874422994,
+    "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
+    "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T19:11:25",
+    "saved": false
+  },
+  {
+    "id": 4043088933398283912,
+    "title": "Agent swarms and the new model economics",
+    "link": "https://cursor.com/blog/agent-swarm-model-economics",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T18:06:13",
+    "saved": false
+  },
+  {
+    "id": -8593608789273524718,
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T16:36:36",
+    "saved": false
+  },
+  {
+    "id": 7099503326946353427,
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "link": "https://news.ycombinator.com/item?id=48981136",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T16:32:10",
+    "saved": false
+  },
+  {
+    "id": 4558245690965676776,
+    "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-20T16:26:55",
+    "saved": false
+  },
+  {
+    "id": 4161891872428786057,
+    "title": "Adobe camera app’s new feature will critique your photos using AI",
+    "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T15:45:00",
+    "saved": false
+  },
+  {
+    "id": -2856524397660092168,
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T15:23:06",
+    "saved": false
+  },
+  {
+    "id": -5649919265708589689,
+    "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+    "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-20T15:15:00",
+    "saved": false
+  },
+  {
+    "id": -6793838009618108186,
+    "title": "China’s open-weights AI strategy is winning",
+    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T14:21:47",
+    "saved": false
+  },
+  {
+    "id": -6339055919441057716,
+    "title": "Who's afraid of Chinese models?",
+    "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-20T11:05:58",
+    "saved": false
+  },
+  {
+    "id": -4057805454176140970,
     "title": "Airport Simulator",
     "link": "https://airport.apunen.com/",
     "source": "Hacker News",
@@ -9,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -5201486465412636070,
-    "title": "Airbus Takes Flight from AWS",
-    "link": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-20T10:12:22",
-    "saved": false
-  },
-  {
-    "id": 8700171495302558362,
+    "id": -1885134659657208341,
     "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
     "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
     "source": "TechCrunch",
@@ -27,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 2840219693298650647,
+    "id": 1814196735364647655,
     "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
     "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "source": "TechCrunch",
@@ -36,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -4816279011661344700,
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-19T14:52:08",
-    "saved": false
-  },
-  {
-    "id": -1493430270653838049,
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-19T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 6261017011892583030,
+    "id": 409886831257111451,
     "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
     "source": "Reddit ML",
@@ -63,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 1189779584729527320,
-    "title": "Federal employees can download TikTok on their work phones again",
-    "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-18T15:54:24",
-    "saved": false
-  },
-  {
-    "id": 2089282558732318572,
+    "id": -4051958478416924277,
     "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
     "source": "Reddit ML",
@@ -81,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 5862545039916040049,
+    "id": 6700316123320473146,
     "title": "AAAI 27 AI Alignment track [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
     "source": "Reddit ML",
@@ -90,66 +189,12 @@
     "saved": false
   },
   {
-    "id": -8616886179961871949,
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-18T04:47:25",
-    "saved": false
-  },
-  {
-    "id": 1761574559480702220,
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T22:55:09",
-    "saved": false
-  },
-  {
-    "id": -3206897372274802728,
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T22:12:56",
-    "saved": false
-  },
-  {
-    "id": 1974746023876623668,
-    "title": "AI-driven memory crunch jolts India’s smartphone market",
-    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-17T20:09:27",
-    "saved": false
-  },
-  {
-    "id": -5516815480671216667,
-    "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-17T08:18:09",
-    "saved": false
-  },
-  {
-    "id": 5640441413806812769,
-    "title": "1-Bit LLM in the Browser",
-    "link": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+    "id": -7322691504943268674,
+    "title": "My two year old taught me constraint solving",
+    "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-16T16:50:32",
-    "saved": false
-  },
-  {
-    "id": -3512883537323181088,
-    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-    "link": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-15T08:35:46",
+    "date": "2026-07-10T19:32:07",
     "saved": false
   }
 ]

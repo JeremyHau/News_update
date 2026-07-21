@@ -1,6 +1,42 @@
 [
   {
-    "id": 891862682869076472,
+    "id": 604978352137696216,
+    "title": "Number of Submissions @ AAAI [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-21T10:22:58",
+    "saved": false
+  },
+  {
+    "id": -1957833945804989675,
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-21T08:44:23",
+    "saved": false
+  },
+  {
+    "id": -4241798393272122584,
+    "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-21T07:19:51",
+    "saved": false
+  },
+  {
+    "id": 7334474051721397221,
+    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+    "link": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-21T03:52:05",
+    "saved": false
+  },
+  {
+    "id": -7765311869462057737,
     "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
     "link": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -921471093698045826,
+    "id": -5973154710219999510,
     "title": "Trump’s latest AI czar has already resigned",
     "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 4975695384983265896,
+    "id": 2626082052849545610,
     "title": "Google is working on a new AI chip designed to make Gemini more efficient",
     "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8939218495964405237,
+    "id": -7018430001210013111,
     "title": "AI’s most important protocol is getting a little bit easier to use",
     "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7222238092453971433,
+    "id": 8304608575189222829,
     "title": "OpenAI is scared of open-weight models. Should the US be?",
     "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3410569810874422994,
+    "id": 6193415297840162433,
     "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
     "link": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4043088933398283912,
+    "id": -5472879912087132298,
     "title": "Agent swarms and the new model economics",
     "link": "https://cursor.com/blog/agent-swarm-model-economics",
     "source": "Hacker News",
@@ -63,25 +99,7 @@
     "saved": false
   },
   {
-    "id": -8593608789273524718,
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-    "link": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-20T16:36:36",
-    "saved": false
-  },
-  {
-    "id": 7099503326946353427,
-    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-    "link": "https://news.ycombinator.com/item?id=48981136",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-20T16:32:10",
-    "saved": false
-  },
-  {
-    "id": 4558245690965676776,
+    "id": 160396446269695876,
     "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
     "source": "Reddit ML",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 4161891872428786057,
+    "id": -7390852952987288448,
     "title": "Adobe camera app’s new feature will critique your photos using AI",
     "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2856524397660092168,
+    "id": 2754706795278466826,
     "title": "YouTube clarifies policies around AI slop and upsetting videos",
     "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5649919265708589689,
+    "id": -4169101311033241465,
     "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
     "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
     "source": "TechCrunch",
@@ -117,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -6793838009618108186,
-    "title": "China’s open-weights AI strategy is winning",
-    "link": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-20T14:21:47",
-    "saved": false
-  },
-  {
-    "id": -6339055919441057716,
+    "id": 132053734158734925,
     "title": "Who's afraid of Chinese models?",
     "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "source": "Hacker News",
@@ -135,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -4057805454176140970,
-    "title": "Airport Simulator",
-    "link": "https://airport.apunen.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-20T10:30:40",
-    "saved": false
-  },
-  {
-    "id": -1885134659657208341,
+    "id": -8021013400544021691,
     "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
     "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
     "source": "TechCrunch",
@@ -153,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 1814196735364647655,
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-19T19:24:45",
-    "saved": false
-  },
-  {
-    "id": 409886831257111451,
+    "id": -7495248638481639926,
     "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
     "source": "Reddit ML",
@@ -171,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -4051958478416924277,
+    "id": -4838171540103762435,
     "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
     "source": "Reddit ML",
@@ -180,21 +171,12 @@
     "saved": false
   },
   {
-    "id": 6700316123320473146,
+    "id": -6030184925770037987,
     "title": "AAAI 27 AI Alignment track [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-18T14:44:38",
-    "saved": false
-  },
-  {
-    "id": -7322691504943268674,
-    "title": "My two year old taught me constraint solving",
-    "link": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-10T19:32:07",
     "saved": false
   }
 ]

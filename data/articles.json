@@ -1,6 +1,60 @@
 [
   {
-    "id": -961097247629578967,
+    "id": 6179575653427111328,
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -5568181379574307862,
+    "title": "So Reddit has decided that plain HTML is unsafe",
+    "link": "https://www.cole-k.com/2026/07/21/reddit/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-22T12:32:48",
+    "saved": false
+  },
+  {
+    "id": -1867321347017618596,
+    "title": "OverpAId – Fire your CEO. Hire the future",
+    "link": "https://overpaid.lol",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-22T10:49:04",
+    "saved": false
+  },
+  {
+    "id": -7333980038966769124,
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T10:00:00",
+    "saved": false
+  },
+  {
+    "id": 8489593546868430017,
+    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T08:00:00",
+    "saved": false
+  },
+  {
+    "id": -4734572556170913240,
+    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T03:20:57",
+    "saved": false
+  },
+  {
+    "id": 2836988847133898902,
     "title": "Meta is testing an AI bedtime story app for people with no imagination",
     "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
     "source": "TechCrunch",
@@ -9,7 +63,16 @@
     "saved": false
   },
   {
-    "id": -6279113196351578686,
+    "id": -1771302595707595169,
+    "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-21T22:33:50",
+    "saved": false
+  },
+  {
+    "id": -5891198464590053473,
     "title": "OpenAI says Hugging Face was breached by its pre-release models",
     "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
     "source": "TechCrunch",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 4305229348874947549,
+    "id": 982301438087240799,
     "title": "OpenAI and Hugging Face address security incident during model evaluation",
     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
     "source": "Hacker News",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6222894127577578612,
+    "id": 5723828612108244197,
     "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
     "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8597013298690211812,
+    "id": -4525393948454805269,
     "title": "AI and the rise of the universal entertainment app",
     "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8347713552520296621,
+    "id": -3587107244421364727,
     "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
     "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2764983265396904261,
+    "id": 8898051112042448470,
     "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
     "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
     "source": "Hacker News",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8259043608089379467,
+    "id": 4263034071869869640,
     "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
     "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
     "source": "Hacker News",
@@ -72,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -384570522280288657,
+    "id": 3523976604219122952,
     "title": "US threatens sanctions against Chinese AI models over IP theft",
     "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
     "source": "TechCrunch",
@@ -81,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -1073366562981871983,
-    "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
-    "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T14:48:18",
-    "saved": false
-  },
-  {
-    "id": -6013824099190195215,
+    "id": 4139890501413407062,
     "title": "Number of Submissions @ AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
     "source": "Reddit ML",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 7943922404621967586,
+    "id": 9002207133584780149,
     "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
     "source": "Reddit ML",
@@ -108,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -3574070541957945173,
+    "id": 349768874496192823,
     "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
     "source": "Reddit ML",
@@ -117,39 +171,12 @@
     "saved": false
   },
   {
-    "id": -6627540439312973758,
+    "id": -8683865688841651846,
     "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-19T12:29:44",
-    "saved": false
-  },
-  {
-    "id": 1202347568573066472,
-    "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-18T15:10:52",
-    "saved": false
-  },
-  {
-    "id": -1049529368696104555,
-    "title": "AAAI 27 AI Alignment track [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-18T14:44:38",
-    "saved": false
-  },
-  {
-    "id": -5907929062113970095,
-    "title": "Recreating the math behind the first stealth aircraft",
-    "link": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-16T18:34:56",
     "saved": false
   }
 ]

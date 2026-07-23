@@ -1,6 +1,177 @@
 [
   {
-    "id": 6179575653427111328,
+    "id": -5163086082706778134,
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T23:47:54",
+    "saved": false
+  },
+  {
+    "id": 253322339196506598,
+    "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-22T22:48:22",
+    "saved": false
+  },
+  {
+    "id": -4391788665905785206,
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T22:01:52",
+    "saved": false
+  },
+  {
+    "id": -7927912626421636727,
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T20:49:03",
+    "saved": false
+  },
+  {
+    "id": 7074499378894184410,
+    "title": "Social media addiction lawsuit against Meta is dropped",
+    "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T20:36:41",
+    "saved": false
+  },
+  {
+    "id": 8959010154235067111,
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-22T20:16:01",
+    "saved": false
+  },
+  {
+    "id": -5233337980972943456,
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T19:11:46",
+    "saved": false
+  },
+  {
+    "id": 5557476337001895496,
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T18:50:44",
+    "saved": false
+  },
+  {
+    "id": 434259140024806,
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T18:13:58",
+    "saved": false
+  },
+  {
+    "id": -9123052819417912833,
+    "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
+    "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T18:02:57",
+    "saved": false
+  },
+  {
+    "id": -8458693087200443480,
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T17:54:14",
+    "saved": false
+  },
+  {
+    "id": -2484334841398944063,
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-22T17:17:54",
+    "saved": false
+  },
+  {
+    "id": -5898710905953664700,
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T16:24:08",
+    "saved": false
+  },
+  {
+    "id": 7247094966725698481,
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T16:23:09",
+    "saved": false
+  },
+  {
+    "id": -5758900851854992203,
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T16:13:30",
+    "saved": false
+  },
+  {
+    "id": -3850294187526381443,
+    "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+    "link": "https://unlayer.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-22T16:02:03",
+    "saved": false
+  },
+  {
+    "id": -844228640573817556,
+    "title": "Building an AI-text detector from scratch [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v3j2g0/building_an_aitext_detector_from_scratch_p/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-22T15:15:31",
+    "saved": false
+  },
+  {
+    "id": 1957665795101842416,
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-22T14:18:05",
+    "saved": false
+  },
+  {
+    "id": -3869649716806561413,
+    "title": "Cascade raises $3.5M to help construction firms find and win projects",
+    "link": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-22T13:28:36",
+    "saved": false
+  },
+  {
+    "id": -4236153511762695352,
     "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
     "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
     "source": "TechCrunch",
@@ -9,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -5568181379574307862,
+    "id": 474975498558195137,
     "title": "So Reddit has decided that plain HTML is unsafe",
     "link": "https://www.cole-k.com/2026/07/21/reddit/",
     "source": "Hacker News",
@@ -18,52 +189,7 @@
     "saved": false
   },
   {
-    "id": -1867321347017618596,
-    "title": "OverpAId – Fire your CEO. Hire the future",
-    "link": "https://overpaid.lol",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-22T10:49:04",
-    "saved": false
-  },
-  {
-    "id": -7333980038966769124,
-    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-22T10:00:00",
-    "saved": false
-  },
-  {
-    "id": 8489593546868430017,
-    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-    "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-22T08:00:00",
-    "saved": false
-  },
-  {
-    "id": -4734572556170913240,
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-22T03:20:57",
-    "saved": false
-  },
-  {
-    "id": 2836988847133898902,
-    "title": "Meta is testing an AI bedtime story app for people with no imagination",
-    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T23:55:10",
-    "saved": false
-  },
-  {
-    "id": -1771302595707595169,
+    "id": -7934823476255876949,
     "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
     "source": "Reddit ML",
@@ -72,79 +198,7 @@
     "saved": false
   },
   {
-    "id": -5891198464590053473,
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T20:56:55",
-    "saved": false
-  },
-  {
-    "id": 982301438087240799,
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-21T20:09:52",
-    "saved": false
-  },
-  {
-    "id": 5723828612108244197,
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T19:43:41",
-    "saved": false
-  },
-  {
-    "id": -4525393948454805269,
-    "title": "AI and the rise of the universal entertainment app",
-    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T19:39:30",
-    "saved": false
-  },
-  {
-    "id": -3587107244421364727,
-    "title": "Bucking EV slowdown, Sila raises $300M to expand battery materials factory",
-    "link": "https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T19:36:35",
-    "saved": false
-  },
-  {
-    "id": 8898051112042448470,
-    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-    "link": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-21T19:04:39",
-    "saved": false
-  },
-  {
-    "id": 4263034071869869640,
-    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "link": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-21T17:14:06",
-    "saved": false
-  },
-  {
-    "id": 3523976604219122952,
-    "title": "US threatens sanctions against Chinese AI models over IP theft",
-    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-21T15:37:05",
-    "saved": false
-  },
-  {
-    "id": 4139890501413407062,
+    "id": 1004945076135606041,
     "title": "Number of Submissions @ AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
     "source": "Reddit ML",
@@ -153,30 +207,12 @@
     "saved": false
   },
   {
-    "id": 9002207133584780149,
+    "id": 6916009940936421599,
     "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-21T07:19:51",
-    "saved": false
-  },
-  {
-    "id": 349768874496192823,
-    "title": "Training a harness for model-agnostic and task-environment-agnostic capability improvements with PyTorch-like framework [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v1qbl7/training_a_harness_for_modelagnostic_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-20T16:26:55",
-    "saved": false
-  },
-  {
-    "id": -8683865688841651846,
-    "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-19T12:29:44",
     "saved": false
   }
 ]

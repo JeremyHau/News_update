@@ -1,6 +1,33 @@
 [
   {
-    "id": -5163086082706778134,
+    "id": -5830495606123892059,
+    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "link": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-23T13:10:02",
+    "saved": false
+  },
+  {
+    "id": 3432413621640259615,
+    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "link": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-23T13:00:03",
+    "saved": false
+  },
+  {
+    "id": 6205992668274028026,
+    "title": "Protecting our FLOSS commons from LLMs",
+    "link": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-23T01:14:53",
+    "saved": false
+  },
+  {
+    "id": 3822641071011828077,
     "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
     "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 253322339196506598,
+    "id": -9168180533316849025,
     "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -4391788665905785206,
+    "id": 2535187517994659169,
     "title": "Google justifies its massive AI spending with a booming cloud business",
     "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -7927912626421636727,
+    "id": 339085837883245485,
     "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
     "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7074499378894184410,
+    "id": -3852306578365158671,
     "title": "Social media addiction lawsuit against Meta is dropped",
     "link": "https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/",
     "source": "TechCrunch",
@@ -45,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 8959010154235067111,
-    "title": "Fairphone 6 wide camera experimental Linux support",
-    "link": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-22T20:16:01",
-    "saved": false
-  },
-  {
-    "id": -5233337980972943456,
+    "id": -6479339143151238992,
     "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
     "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 5557476337001895496,
+    "id": -3707811661819365273,
     "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
     "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 434259140024806,
+    "id": 8616358924688224000,
     "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
     "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -9123052819417912833,
+    "id": -6752865963686879317,
     "title": "Menlo Ventures’ Matt Murphy explains why Anthropic is winning (and it’s not the model)",
     "link": "https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8458693087200443480,
+    "id": 3160990938186087965,
     "title": "Monday.com lays off hundreds to focus on AI",
     "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
     "source": "TechCrunch",
@@ -99,8 +117,8 @@
     "saved": false
   },
   {
-    "id": -2484334841398944063,
-    "title": "Are AI Labs Pelicanmaxxing?",
+    "id": 2992656346188875749,
+    "title": "Are AI labs pelicanmaxxing?",
     "link": "https://dylancastillo.co/posts/pelicanmaxxing.html",
     "source": "Hacker News",
     "category": "ai",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5898710905953664700,
+    "id": 45818135667076866,
     "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
     "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7247094966725698481,
+    "id": 5747073055785314109,
     "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
     "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5758900851854992203,
+    "id": -4973902827448205472,
     "title": "OpenAI’s AI spending spree has ballooned to $750B",
     "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
     "source": "TechCrunch",
@@ -135,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -3850294187526381443,
-    "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-    "link": "https://unlayer.com",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-22T16:02:03",
-    "saved": false
-  },
-  {
-    "id": -844228640573817556,
+    "id": -7607894754634855440,
     "title": "Building an AI-text detector from scratch [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v3j2g0/building_an_aitext_detector_from_scratch_p/",
     "source": "Reddit ML",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 1957665795101842416,
+    "id": -4172805943773824297,
     "title": "Quality non-fiction books are the antithesis of AI slop",
     "link": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
     "source": "Hacker News",
@@ -162,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -3869649716806561413,
+    "id": 8732838470485681390,
     "title": "Cascade raises $3.5M to help construction firms find and win projects",
     "link": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
     "source": "TechCrunch",
@@ -171,25 +180,7 @@
     "saved": false
   },
   {
-    "id": -4236153511762695352,
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-22T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 474975498558195137,
-    "title": "So Reddit has decided that plain HTML is unsafe",
-    "link": "https://www.cole-k.com/2026/07/21/reddit/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-22T12:32:48",
-    "saved": false
-  },
-  {
-    "id": -7934823476255876949,
+    "id": 1940436112784667482,
     "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
     "source": "Reddit ML",
@@ -198,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 1004945076135606041,
+    "id": 2230118457956404954,
     "title": "Number of Submissions @ AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
     "source": "Reddit ML",
@@ -207,12 +198,30 @@
     "saved": false
   },
   {
-    "id": 6916009940936421599,
+    "id": -1250081947034190639,
     "title": "Reproducing OpenAI’s “persistently beneficial models” - GRPO trait install barely moves. Ideas? [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2b8rd/reproducing_openais_persistently_beneficial/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-21T07:19:51",
+    "saved": false
+  },
+  {
+    "id": 5296956445068529819,
+    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+    "link": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-21T07:01:24",
+    "saved": false
+  },
+  {
+    "id": 934515744102139339,
+    "title": "Test-time training 3D reconstruction",
+    "link": "https://github.com/Inception3D/TTT3R",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-16T00:11:55",
     "saved": false
   }
 ]

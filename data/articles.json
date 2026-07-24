@@ -1,6 +1,42 @@
 [
   {
-    "id": 9052654138688989431,
+    "id": 3458087007688759173,
+    "title": "LLMs Are Still Toxic, Stuck in the Past, and Bad at Math",
+    "link": "https://www.eyosias.dev/blog/llms-are-still-toxic-and-bad-at-math",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-24T12:51:13",
+    "saved": false
+  },
+  {
+    "id": 2209896177332620900,
+    "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-24T12:15:31",
+    "saved": false
+  },
+  {
+    "id": -2471675103703023457,
+    "title": "I Tried Building a Real App with AI. It Took a Year",
+    "link": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-24T12:00:17",
+    "saved": false
+  },
+  {
+    "id": 4325877376043032693,
+    "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+    "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-24T09:52:58",
+    "saved": false
+  },
+  {
+    "id": 2735667805167331288,
     "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
     "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1525223123660935502,
+    "id": -8081045580245334614,
     "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
     "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 4551971187185115582,
+    "id": -2337484344188089701,
     "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
     "link": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1931420518781544317,
+    "id": -4708625984182960952,
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 206984650323138654,
+    "id": 3551636071125374840,
     "title": "Runway launches AI model router as generative media gets crowded",
     "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6934396938878473285,
+    "id": -1823473317763044388,
     "title": "OpenAI makes ChatGPT Health available to all US users",
     "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7064539319816391586,
+    "id": -8994232188481121866,
     "title": "Meta launched a new AI optimism ad set to a song about human extinction",
     "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
     "source": "TechCrunch",
@@ -63,34 +99,7 @@
     "saved": false
   },
   {
-    "id": -4235509451782946801,
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-    "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T15:18:48",
-    "saved": false
-  },
-  {
-    "id": 7535738095716612705,
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-    "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T15:18:40",
-    "saved": false
-  },
-  {
-    "id": 7351936460221120734,
-    "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-    "link": "https://github.com/palmier-io/palmier-pro",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T15:11:37",
-    "saved": false
-  },
-  {
-    "id": 365745905875255316,
+    "id": -2873249891029599589,
     "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
     "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3856556166077540097,
+    "id": -302738746169359628,
     "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
     "link": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
     "source": "TechCrunch",
@@ -108,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 8578208205321251727,
-    "title": "Writing by hand is good for your brain",
-    "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T14:24:43",
-    "saved": false
-  },
-  {
-    "id": -6116901136315876812,
-    "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-    "link": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T13:51:36",
-    "saved": false
-  },
-  {
-    "id": 5158417587028312127,
+    "id": -4037405295536504545,
     "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
     "source": "Reddit ML",
@@ -135,21 +126,12 @@
     "saved": false
   },
   {
-    "id": 7042015212062871838,
+    "id": -2573999323363923110,
     "title": "Looking for feedback on my GPU-accelerated Snake AI project [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v2xktw/looking_for_feedback_on_my_gpuaccelerated_snake/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-21T22:33:50",
-    "saved": false
-  },
-  {
-    "id": 3544043536276210751,
-    "title": "Number of Submissions @ AAAI [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v2ef98/number_of_submissions_aaai_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-21T10:22:58",
     "saved": false
   }
 ]

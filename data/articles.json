@@ -1,6 +1,15 @@
 [
   {
-    "id": 1261879262144364969,
+    "id": -5641329563985007680,
+    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+    "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T04:20:21",
+    "saved": false
+  },
+  {
+    "id": 3384307596454710605,
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "source": "TechCrunch",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 6990307772408329061,
+    "id": 6197223446153185011,
     "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
     "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 2205455720647128968,
+    "id": -743303840456279413,
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "source": "TechCrunch",
@@ -27,16 +36,7 @@
     "saved": false
   },
   {
-    "id": 4307787868781759875,
-    "title": "AIs don't do what you want. This is bad",
-    "link": "https://rewardhacking.org",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-24T22:24:08",
-    "saved": false
-  },
-  {
-    "id": 6593808378069380462,
+    "id": -490652915128973890,
     "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
     "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
     "source": "TechCrunch",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 2705675885220583257,
+    "id": -3056741501787243493,
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2848492050974211880,
+    "id": -2866395907523539606,
     "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
     "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 5116781503959292040,
+    "id": -6717258693034775002,
     "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
     "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3997294889677174438,
+    "id": -189592437564978339,
     "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
     "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7709974351443935492,
+    "id": -8998208622195846700,
     "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
     "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1498547938410017411,
+    "id": -4489562954031299950,
     "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3983028311212419245,
+    "id": -2540760454120949523,
     "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
     "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
     "source": "TechCrunch",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1449762206002981907,
+    "id": -1250277171439927101,
     "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
     "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -4814202577521515157,
+    "id": 2802385433041857586,
     "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
     "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8160577454078084360,
+    "id": -2108225652759070841,
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
     "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
     "source": "TechCrunch",
@@ -135,25 +135,7 @@
     "saved": false
   },
   {
-    "id": -1811310952001088685,
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "link": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-24T13:32:30",
-    "saved": false
-  },
-  {
-    "id": -4532941632674729045,
-    "title": "Half-Life 2 running natively on HaikuOS",
-    "link": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-24T12:53:59",
-    "saved": false
-  },
-  {
-    "id": -8816154943416135146,
+    "id": -8505456842257011942,
     "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
     "source": "Reddit ML",
@@ -162,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 4335231385033733635,
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-    "link": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-24T09:52:58",
-    "saved": false
-  },
-  {
-    "id": -7460318539157655648,
+    "id": 2212611588129582173,
     "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
     "link": "https://globaloilnetwork.staffinganalytics.io/",
     "source": "Hacker News",
@@ -180,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 3139073282563545301,
+    "id": 5655101028827559463,
     "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
     "source": "Reddit ML",
@@ -189,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 6920729394333183031,
+    "id": 4302973794788052073,
     "title": "Firefox Containers Preview",
     "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
     "source": "Hacker News",

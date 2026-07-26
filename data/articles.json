@@ -1,15 +1,114 @@
 [
   {
-    "id": -5641329563985007680,
-    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "link": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-25T04:20:21",
+    "id": -2575388534516688139,
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-26T01:30:00",
     "saved": false
   },
   {
-    "id": 3384307596454710605,
+    "id": 686910720653928942,
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T23:32:50",
+    "saved": false
+  },
+  {
+    "id": 7667441311305919935,
+    "title": "Clinical Failure Rates over the Decades: Yikes",
+    "link": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T22:57:17",
+    "saved": false
+  },
+  {
+    "id": 3349825568133315337,
+    "title": "Cloudflare's new AI traffic options for customers",
+    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T22:50:49",
+    "saved": false
+  },
+  {
+    "id": -7539392518513249652,
+    "title": "LLM Usage in Debian: Three Proposals",
+    "link": "https://www.debian.org/vote/2026/vote_002",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T19:44:39",
+    "saved": false
+  },
+  {
+    "id": 8993889583646841683,
+    "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+    "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-25T19:23:32",
+    "saved": false
+  },
+  {
+    "id": -8115334020051088043,
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+    "link": "https://github.com/slvDev/esp32-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T18:59:50",
+    "saved": false
+  },
+  {
+    "id": 3597326549061965918,
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "link": "https://brolly.sh/forecast/RWFP2qW8",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T17:34:34",
+    "saved": false
+  },
+  {
+    "id": -7327181604487729092,
+    "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+    "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-25T16:46:46",
+    "saved": false
+  },
+  {
+    "id": -7987020975473600983,
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-25T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 7573528021985320180,
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-25T14:49:49",
+    "saved": false
+  },
+  {
+    "id": -4482212936600764573,
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-25T13:05:00",
+    "saved": false
+  },
+  {
+    "id": -7238724560310291488,
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "source": "TechCrunch",
@@ -18,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6197223446153185011,
+    "id": 8733291496421589853,
     "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
     "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
     "source": "TechCrunch",
@@ -27,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -743303840456279413,
+    "id": -6688965515965466146,
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "source": "TechCrunch",
@@ -36,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -490652915128973890,
+    "id": 9079882668941954579,
     "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
     "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
     "source": "TechCrunch",
@@ -45,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -3056741501787243493,
+    "id": 2269950008872906689,
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "source": "TechCrunch",
@@ -54,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -2866395907523539606,
+    "id": -3787816018944286458,
     "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
     "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
     "source": "TechCrunch",
@@ -63,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -6717258693034775002,
+    "id": -7497709807680625990,
     "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
     "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
     "source": "TechCrunch",
@@ -72,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -189592437564978339,
+    "id": 5262434705277883051,
     "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
     "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
     "source": "TechCrunch",
@@ -81,16 +180,7 @@
     "saved": false
   },
   {
-    "id": -8998208622195846700,
-    "title": "OpenAI’s own model went rogue before Kimi had Wall Street sweating",
-    "link": "https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T16:50:08",
-    "saved": false
-  },
-  {
-    "id": -4489562954031299950,
+    "id": 9001309998490979970,
     "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
     "source": "Reddit ML",
@@ -99,43 +189,7 @@
     "saved": false
   },
   {
-    "id": -2540760454120949523,
-    "title": "Sam Altman’s biometric startup World raises $52.5M via crypto sale",
-    "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T16:11:56",
-    "saved": false
-  },
-  {
-    "id": -1250277171439927101,
-    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T15:51:49",
-    "saved": false
-  },
-  {
-    "id": 2802385433041857586,
-    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-    "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T15:13:57",
-    "saved": false
-  },
-  {
-    "id": -2108225652759070841,
-    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-    "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T13:36:42",
-    "saved": false
-  },
-  {
-    "id": -8505456842257011942,
+    "id": 5976550982559508299,
     "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
     "source": "Reddit ML",
@@ -144,30 +198,12 @@
     "saved": false
   },
   {
-    "id": 2212611588129582173,
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "link": "https://globaloilnetwork.staffinganalytics.io/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T12:31:21",
-    "saved": false
-  },
-  {
-    "id": 5655101028827559463,
+    "id": -1026584629625572113,
     "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-22T22:48:22",
-    "saved": false
-  },
-  {
-    "id": 4302973794788052073,
-    "title": "Firefox Containers Preview",
-    "link": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-21T17:27:59",
     "saved": false
   }
 ]

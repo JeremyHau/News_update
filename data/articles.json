@@ -1,6 +1,33 @@
 [
   {
-    "id": -6558493501582106710,
+    "id": -3984865234094296785,
+    "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-27T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -8432122397731615786,
+    "title": "AI companies are shredding rare books",
+    "link": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-27T12:32:12",
+    "saved": false
+  },
+  {
+    "id": -7601321724927574825,
+    "title": "Modern email can be built from borrowed parts",
+    "link": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-27T08:27:21",
+    "saved": false
+  },
+  {
+    "id": 5655827981470720665,
     "title": "Are brain waves the next unlock for physical AI?",
     "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
     "source": "TechCrunch",
@@ -9,16 +36,7 @@
     "saved": false
   },
   {
-    "id": 3107837912014656329,
-    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-26T22:21:41",
-    "saved": false
-  },
-  {
-    "id": -3383853654164939112,
+    "id": 1174018366716112278,
     "title": "Missed AAAI reciprocal reviewer nomination deadline — risk of desk rejection? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v7hgrh/missed_aaai_reciprocal_reviewer_nomination/",
     "source": "Reddit ML",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -5103698861815592277,
+    "id": 8518073899724121046,
     "title": "Making sense of the panic over Chinese AI",
     "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5492229205514931751,
+    "id": -3354327205180206634,
     "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
     "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -190346522731312954,
+    "id": -2478484645880098404,
     "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
     "source": "Reddit ML",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 6013205204583607040,
+    "id": -9121470896728787935,
     "title": "I want to use AI coding agents for machine learning projects [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v758ek/i_want_to_use_ai_coding_agents_for_machine/",
     "source": "Reddit ML",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -117132192331586024,
+    "id": -2991800470815715183,
     "title": "We compared different LLMs on IMO 2026 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7113498998889457986,
+    "id": -7339335933692817506,
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2555554524225241169,
+    "id": -2788889152717506901,
     "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
     "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5267434928962704663,
+    "id": 2634400775087843757,
     "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
     "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -185048146609933654,
+    "id": 1952312541446924642,
     "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7913507654638707393,
+    "id": 1069440221573815187,
     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2082312922054645774,
+    "id": -3272348071889950168,
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8539376383640239051,
+    "id": 2480441351609152950,
     "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
     "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
     "source": "TechCrunch",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4471067803841372878,
+    "id": 7854087186807425554,
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "source": "TechCrunch",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -1207959070601405608,
+    "id": 853704170735922070,
     "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
     "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
     "source": "TechCrunch",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -7049785355298437054,
+    "id": -8301554130671974658,
     "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
     "source": "Reddit ML",

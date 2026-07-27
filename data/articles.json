@@ -1,6 +1,69 @@
 [
   {
-    "id": 4999227897463868156,
+    "id": -6558493501582106710,
+    "title": "Are brain waves the next unlock for physical AI?",
+    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-27T00:19:14",
+    "saved": false
+  },
+  {
+    "id": 3107837912014656329,
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-26T22:21:41",
+    "saved": false
+  },
+  {
+    "id": -3383853654164939112,
+    "title": "Missed AAAI reciprocal reviewer nomination deadline — risk of desk rejection? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v7hgrh/missed_aaai_reciprocal_reviewer_nomination/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-26T21:58:02",
+    "saved": false
+  },
+  {
+    "id": -5103698861815592277,
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-26T19:40:57",
+    "saved": false
+  },
+  {
+    "id": -5492229205514931751,
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-26T16:33:13",
+    "saved": false
+  },
+  {
+    "id": -190346522731312954,
+    "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-26T15:57:02",
+    "saved": false
+  },
+  {
+    "id": 6013205204583607040,
+    "title": "I want to use AI coding agents for machine learning projects [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v758ek/i_want_to_use_ai_coding_agents_for_machine/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-26T14:21:15",
+    "saved": false
+  },
+  {
+    "id": -117132192331586024,
     "title": "We compared different LLMs on IMO 2026 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
     "source": "Reddit ML",
@@ -9,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 2094250230368722640,
-    "title": "GrapheneOS protections against data extraction from locked devices",
-    "link": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-26T05:57:22",
-    "saved": false
-  },
-  {
-    "id": -3928435942385620756,
+    "id": -7113498998889457986,
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "source": "TechCrunch",
@@ -27,34 +81,7 @@
     "saved": false
   },
   {
-    "id": -6090959594233560763,
-    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-    "link": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-25T23:32:50",
-    "saved": false
-  },
-  {
-    "id": 7249654642203465288,
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "link": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-25T22:51:10",
-    "saved": false
-  },
-  {
-    "id": 3824132418283291094,
-    "title": "Cloudflare's new AI traffic options for customers",
-    "link": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-25T22:50:49",
-    "saved": false
-  },
-  {
-    "id": -2910303201678272624,
+    "id": 2555554524225241169,
     "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
     "link": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
     "source": "TechCrunch",
@@ -63,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -5404354088630873476,
-    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "link": "https://github.com/slvDev/esp32-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-25T18:59:50",
-    "saved": false
-  },
-  {
-    "id": -4105232473232163696,
+    "id": 5267434928962704663,
     "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
     "link": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7425790595261486126,
+    "id": -185048146609933654,
     "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1960680748348139733,
+    "id": -7913507654638707393,
     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8749954480183753050,
+    "id": -2082312922054645774,
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -8142149834357324884,
+    "id": -8539376383640239051,
     "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
     "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 8066485160320152271,
+    "id": -4471067803841372878,
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5732310389933271836,
+    "id": -1207959070601405608,
     "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
     "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
     "source": "TechCrunch",
@@ -135,66 +153,12 @@
     "saved": false
   },
   {
-    "id": 8411245233514503348,
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T18:07:32",
-    "saved": false
-  },
-  {
-    "id": -1461176413589929268,
-    "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-    "link": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T17:33:19",
-    "saved": false
-  },
-  {
-    "id": 161939382494388363,
-    "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-    "link": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 3485418880936774858,
-    "title": "India’s move against Jack Dorsey’s Bitchat sparks legal debate",
-    "link": "https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-24T16:54:58",
-    "saved": false
-  },
-  {
-    "id": 4531795393429712745,
+    "id": -7049785355298437054,
     "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-24T16:15:16",
-    "saved": false
-  },
-  {
-    "id": 331756082456961163,
-    "title": "I built an open-source multi-agent SDLC harness that beats a cold Claude Code run on large repos, by learning the repo once. Real benchmarks (incl. where it loses) inside. [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-24T12:15:31",
-    "saved": false
-  },
-  {
-    "id": -5028941276903442777,
-    "title": "Rethinking Legal Education in the AI Era",
-    "link": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T17:12:48",
     "saved": false
   }
 ]

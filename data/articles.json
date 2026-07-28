@@ -1,15 +1,87 @@
 [
   {
-    "id": -6630033096430230227,
-    "title": "Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v8insy/structural_admission_verify_a_sequential_tasks/",
-    "source": "Reddit ML",
+    "id": -8222109551931711963,
+    "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
+    "link": "https://github.com/ctrlb-hq/ctrlb-decompose",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-28T00:39:44",
+    "date": "2026-07-28T13:13:35",
     "saved": false
   },
   {
-    "id": 3893073181184695915,
+    "id": -5814000734372110220,
+    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "link": "https://github.com/schildep/verified-3d-mesh-intersection",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T13:07:14",
+    "saved": false
+  },
+  {
+    "id": -8292209791906897715,
+    "title": "What AI developers could learn from Charles Bukowski?",
+    "link": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T13:00:12",
+    "saved": false
+  },
+  {
+    "id": 2746996512519312369,
+    "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
+    "link": "https://segue.ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T12:27:05",
+    "saved": false
+  },
+  {
+    "id": 2279238143112807527,
+    "title": "AI revenues are growing fast, but not fast enough",
+    "link": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T12:19:54",
+    "saved": false
+  },
+  {
+    "id": 5110801558964379246,
+    "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+    "link": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T12:02:57",
+    "saved": false
+  },
+  {
+    "id": 5238880965235957703,
+    "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "link": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T10:20:50",
+    "saved": false
+  },
+  {
+    "id": -6910500758149569744,
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "link": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T09:59:13",
+    "saved": false
+  },
+  {
+    "id": -7634691941737307165,
+    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
+    "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-28T08:00:00",
+    "saved": false
+  },
+  {
+    "id": 2147389331078160284,
     "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
     "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
     "source": "TechCrunch",
@@ -18,34 +90,7 @@
     "saved": false
   },
   {
-    "id": 4990925335257521351,
-    "title": "The Burau representation of the braid group is faithful for n = 4",
-    "link": "https://arxiv.org/abs/2607.05283",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-27T23:46:15",
-    "saved": false
-  },
-  {
-    "id": 9065493828875191191,
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "link": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-27T23:21:37",
-    "saved": false
-  },
-  {
-    "id": -1449493550052968898,
-    "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-27T22:37:40",
-    "saved": false
-  },
-  {
-    "id": 5944627989278809719,
+    "id": -2600927886339072637,
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "source": "TechCrunch",
@@ -54,25 +99,7 @@
     "saved": false
   },
   {
-    "id": -8406007415242475640,
-    "title": "Training data needs a real go/no-go gate before training [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v8a3nu/training_data_needs_a_real_gonogo_gate_before/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-27T19:13:16",
-    "saved": false
-  },
-  {
-    "id": 3195193691971262513,
-    "title": "Self-contained highly-portable Python distributions",
-    "link": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-27T18:43:31",
-    "saved": false
-  },
-  {
-    "id": 7625236945888779658,
+    "id": 5315697589525744479,
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7480022756763748569,
+    "id": 8762689689414888212,
     "title": "Antares raises $470M to build nuclear reactors for the US military",
     "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5254388364932366299,
+    "id": -3431447104413396206,
     "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
     "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
     "source": "TechCrunch",
@@ -99,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 2394645491633556617,
-    "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-27T17:17:50",
-    "saved": false
-  },
-  {
-    "id": 1523610836334459164,
+    "id": 7916385118058588348,
     "title": "Threads users can now chat with Meta AI in their DMs",
     "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -1654935603185434907,
+    "id": 1307392639578341462,
     "title": "Google’s AI search is rapidly becoming the default, new data shows",
     "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6425925623031556786,
+    "id": 198593114566815031,
     "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -135,84 +153,12 @@
     "saved": false
   },
   {
-    "id": -6593364710663280038,
-    "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-    "link": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-27T15:08:16",
-    "saved": false
-  },
-  {
-    "id": -1336806577196176772,
+    "id": -7582511095683693273,
     "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
     "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-07-27T15:01:50",
-    "saved": false
-  },
-  {
-    "id": 6198372167022932741,
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-27T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -7680642977327802564,
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-27T00:19:14",
-    "saved": false
-  },
-  {
-    "id": -6190177979364920515,
-    "title": "Missed AAAI reciprocal reviewer nomination deadline — risk of desk rejection? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v7hgrh/missed_aaai_reciprocal_reviewer_nomination/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-26T21:58:02",
-    "saved": false
-  },
-  {
-    "id": -4857437779005057295,
-    "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-26T15:57:02",
-    "saved": false
-  },
-  {
-    "id": -7764584420888844900,
-    "title": "I want to use AI coding agents for machine learning projects [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v758ek/i_want_to_use_ai_coding_agents_for_machine/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-26T14:21:15",
-    "saved": false
-  },
-  {
-    "id": 7933654988495085421,
-    "title": "We compared different LLMs on IMO 2026 [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-26T07:21:40",
-    "saved": false
-  },
-  {
-    "id": 2975786714276226072,
-    "title": "Securing Services with Rootless Containers",
-    "link": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-23T13:11:30",
     "saved": false
   }
 ]

@@ -1,15 +1,105 @@
 [
   {
-    "id": -4870733251873462657,
-    "title": "Hubble: Open-source notetaking app for you and your agents",
-    "link": "https://www.hubble.md/",
+    "id": -5201539373615245184,
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "link": "https://arxiv.org/abs/2607.25398",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-29T00:11:23",
+    "date": "2026-07-29T13:01:57",
     "saved": false
   },
   {
-    "id": -5391695638622680245,
+    "id": 3885112480212299033,
+    "title": "After the AI Crash",
+    "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T13:00:39",
+    "saved": false
+  },
+  {
+    "id": 4957253441047834653,
+    "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T12:58:27",
+    "saved": false
+  },
+  {
+    "id": -6131907375006278007,
+    "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+    "link": "https://echologue.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T12:43:36",
+    "saved": false
+  },
+  {
+    "id": 347126127533776739,
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T12:11:18",
+    "saved": false
+  },
+  {
+    "id": 1180352187170740094,
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T11:44:33",
+    "saved": false
+  },
+  {
+    "id": 4400814762053513434,
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 5248201257584649996,
+    "title": "Exploring Human-AI relationships [Honours Thesis] [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v9maa7/exploring_humanai_relationships_honours_thesis_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-29T05:02:01",
+    "saved": false
+  },
+  {
+    "id": 7254003661131111632,
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T04:58:46",
+    "saved": false
+  },
+  {
+    "id": 9012836630631318590,
+    "title": "EMNLP 2026 AI Reviewing Experiment [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-29T02:44:29",
+    "saved": false
+  },
+  {
+    "id": -6424485166417154643,
+    "title": "My LLM kept implementing every method it found, so I added research and specification gates[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1v9ib5f/my_llm_kept_implementing_every_method_it_found_so/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-29T01:54:42",
+    "saved": false
+  },
+  {
+    "id": 307309234590467591,
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "source": "TechCrunch",
@@ -18,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5280945249903095033,
+    "id": 6949474872752092928,
     "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
     "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
     "source": "TechCrunch",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6744076015671325891,
+    "id": 2979650992739637721,
     "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
     "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
     "source": "TechCrunch",
@@ -36,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -6159206980765242004,
-    "title": "Might need math+code benchmark for frontier model(LLMs Silently Replace Math)[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v94h9m/might_need_mathcode_benchmark_for_frontier/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-28T17:05:17",
-    "saved": false
-  },
-  {
-    "id": -8769121096093994623,
+    "id": -8057514196114383371,
     "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
     "source": "Reddit ML",
@@ -54,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6294891888921663340,
+    "id": -5961068402280121322,
     "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
     "source": "Reddit ML",
@@ -63,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -1153405428142403894,
-    "title": "I built a deep learning library from scratch in C that lets you train language models [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v90hlt/i_built_a_deep_learning_library_from_scratch_in_c/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-28T14:42:07",
-    "saved": false
-  },
-  {
-    "id": -4512188823128466785,
+    "id": -7766920066815172420,
     "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
     "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
     "source": "TechCrunch",
@@ -81,48 +153,12 @@
     "saved": false
   },
   {
-    "id": 3826247623562901032,
+    "id": 420801110515766201,
     "title": "NeurIPS 2026 AI-generated reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-28T11:34:57",
-    "saved": false
-  },
-  {
-    "id": 8439542975547842703,
-    "title": "Lyft and Baidu enter London’s robotaxi battleground as testing begins",
-    "link": "https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-28T08:00:00",
-    "saved": false
-  },
-  {
-    "id": 1996620262628708739,
-    "title": "Evaluated 6 frontier LLMs (GPT-5.4, Claude Sonnet 4.6, Claude Opus 4.7, Gemini Pro/Flash, Grok 4.3) on political, gender, and racial bias across 8 benchmarks (~20,600 examples) [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v8fnzw/evaluated_6_frontier_llms_gpt54_claude_sonnet_46/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-27T22:37:40",
-    "saved": false
-  },
-  {
-    "id": -4523504885183053057,
-    "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-27T17:17:50",
-    "saved": false
-  },
-  {
-    "id": -101203422973138624,
-    "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-26T15:57:02",
     "saved": false
   }
 ]

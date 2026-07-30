@@ -1,6 +1,141 @@
 [
   {
-    "id": -5201539373615245184,
+    "id": -4506515953041233570,
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T00:21:06",
+    "saved": false
+  },
+  {
+    "id": -8630258749804726512,
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "link": "https://github.com/funador/claude-code-merge-queue",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T00:20:16",
+    "saved": false
+  },
+  {
+    "id": 6291313891055325888,
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T23:00:11",
+    "saved": false
+  },
+  {
+    "id": 8370865219546270993,
+    "title": "LLM Honeypot",
+    "link": "https://llm2human.pages.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T22:51:03",
+    "saved": false
+  },
+  {
+    "id": 872391719565148151,
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T22:46:03",
+    "saved": false
+  },
+  {
+    "id": 6231846004194311140,
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T22:23:12",
+    "saved": false
+  },
+  {
+    "id": -6455596745890891811,
+    "title": "AI's top startups are barely publishing their research",
+    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T21:25:40",
+    "saved": false
+  },
+  {
+    "id": 6406462189300453278,
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T21:16:39",
+    "saved": false
+  },
+  {
+    "id": -2116424224446479182,
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T21:07:48",
+    "saved": false
+  },
+  {
+    "id": -3922559340799077004,
+    "title": "The Cold Email",
+    "link": "https://zachholman.com/posts/cold-email",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-29T21:06:42",
+    "saved": false
+  },
+  {
+    "id": 7720383445773627676,
+    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+    "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T21:02:12",
+    "saved": false
+  },
+  {
+    "id": 5186509057777971045,
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T19:44:49",
+    "saved": false
+  },
+  {
+    "id": 4303498804112710194,
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T15:35:09",
+    "saved": false
+  },
+  {
+    "id": -2552362715836670177,
+    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
+    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 517368601918973722,
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-29T14:41:06",
+    "saved": false
+  },
+  {
+    "id": 4577701161061733671,
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "link": "https://arxiv.org/abs/2607.25398",
     "source": "Hacker News",
@@ -9,43 +144,7 @@
     "saved": false
   },
   {
-    "id": 3885112480212299033,
-    "title": "After the AI Crash",
-    "link": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T13:00:39",
-    "saved": false
-  },
-  {
-    "id": 4957253441047834653,
-    "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-    "link": "https://github.com/SerhiiKorniienko/bullshit-detector",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T12:58:27",
-    "saved": false
-  },
-  {
-    "id": -6131907375006278007,
-    "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-    "link": "https://echologue.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T12:43:36",
-    "saved": false
-  },
-  {
-    "id": 347126127533776739,
-    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-    "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T12:11:18",
-    "saved": false
-  },
-  {
-    "id": 1180352187170740094,
+    "id": 754654494862570364,
     "title": "Document-borne AI worms can self-propagate through Copilot for Word",
     "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
     "source": "Hacker News",
@@ -54,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 4400814762053513434,
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T11:00:00",
-    "saved": false
-  },
-  {
-    "id": 5248201257584649996,
+    "id": -6374089969414693928,
     "title": "Exploring Human-AI relationships [Honours Thesis] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v9maa7/exploring_humanai_relationships_honours_thesis_r/",
     "source": "Reddit ML",
@@ -72,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 7254003661131111632,
-    "title": "More Tailscale tricks for your jailbroken Kindle",
-    "link": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T04:58:46",
-    "saved": false
-  },
-  {
-    "id": 9012836630631318590,
+    "id": 4209622676442473931,
     "title": "EMNLP 2026 AI Reviewing Experiment [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
     "source": "Reddit ML",
@@ -90,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -6424485166417154643,
+    "id": 7722337906579256533,
     "title": "My LLM kept implementing every method it found, so I added research and specification gates[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v9ib5f/my_llm_kept_implementing_every_method_it_found_so/",
     "source": "Reddit ML",
@@ -99,34 +180,16 @@
     "saved": false
   },
   {
-    "id": 307309234590467591,
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T00:09:05",
+    "id": -5129709853180670612,
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T20:28:33",
     "saved": false
   },
   {
-    "id": 6949474872752092928,
-    "title": "Waymo, robotaxi operators face fresh scrutiny over emergency response failures",
-    "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-28T19:06:33",
-    "saved": false
-  },
-  {
-    "id": 2979650992739637721,
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-    "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-28T18:16:39",
-    "saved": false
-  },
-  {
-    "id": -8057514196114383371,
+    "id": -7870123156952059307,
     "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
     "source": "Reddit ML",
@@ -135,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -5961068402280121322,
+    "id": 3842081576418827927,
     "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
     "source": "Reddit ML",
@@ -144,16 +207,7 @@
     "saved": false
   },
   {
-    "id": -7766920066815172420,
-    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-28T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 420801110515766201,
+    "id": -4814814665261805906,
     "title": "NeurIPS 2026 AI-generated reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
     "source": "Reddit ML",

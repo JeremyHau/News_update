@@ -1,6 +1,96 @@
 [
   {
-    "id": -4506515953041233570,
+    "id": -4854147127549688784,
+    "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
+    "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T13:09:03",
+    "saved": false
+  },
+  {
+    "id": -5974260836587997043,
+    "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
+    "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 1064478997331826973,
+    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -6858540759206240833,
+    "title": "OpenJDK Interim Policy on Generative AI",
+    "link": "https://openjdk.org/legal/ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T12:36:38",
+    "saved": false
+  },
+  {
+    "id": 6278060851074229320,
+    "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T12:01:05",
+    "saved": false
+  },
+  {
+    "id": -2897043453091155849,
+    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+    "link": "https://github.com/grafana/ai-sdk",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T11:55:39",
+    "saved": false
+  },
+  {
+    "id": -5434340418330500743,
+    "title": "GCC steering committee announces AI policy",
+    "link": "https://lwn.net/Articles/1086041/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T11:45:44",
+    "saved": false
+  },
+  {
+    "id": -4542159024445141659,
+    "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+    "link": "https://github.com/YoanWai/agent-manager",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T09:34:27",
+    "saved": false
+  },
+  {
+    "id": 1820641211961133542,
+    "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+    "link": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T09:28:01",
+    "saved": false
+  },
+  {
+    "id": 6569869038316255359,
+    "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-30T02:54:23",
+    "saved": false
+  },
+  {
+    "id": -3950681977725866558,
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
     "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "source": "TechCrunch",
@@ -9,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -8630258749804726512,
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
-    "link": "https://github.com/funador/claude-code-merge-queue",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-30T00:20:16",
-    "saved": false
-  },
-  {
-    "id": 6291313891055325888,
+    "id": 2704758576258141467,
     "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "source": "TechCrunch",
@@ -27,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8370865219546270993,
+    "id": -5688955989568090276,
     "title": "LLM Honeypot",
     "link": "https://llm2human.pages.dev/",
     "source": "Hacker News",
@@ -36,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 872391719565148151,
+    "id": -875022315646896713,
     "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
     "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
     "source": "TechCrunch",
@@ -45,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6231846004194311140,
+    "id": -1974856958855345752,
     "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
     "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
     "source": "TechCrunch",
@@ -54,7 +135,16 @@
     "saved": false
   },
   {
-    "id": -6455596745890891811,
+    "id": -7652804046123953249,
+    "title": "AI Security Leaderboard: benchmarking model robustness [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-29T22:09:52",
+    "saved": false
+  },
+  {
+    "id": 72199756151551226,
     "title": "AI's top startups are barely publishing their research",
     "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
     "source": "Hacker News",
@@ -63,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6406462189300453278,
+    "id": -2414619526875799081,
     "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -72,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -2116424224446479182,
+    "id": 6494134327209941201,
     "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
     "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
     "source": "TechCrunch",
@@ -81,16 +171,7 @@
     "saved": false
   },
   {
-    "id": -3922559340799077004,
-    "title": "The Cold Email",
-    "link": "https://zachholman.com/posts/cold-email",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T21:06:42",
-    "saved": false
-  },
-  {
-    "id": 7720383445773627676,
+    "id": 5068785923486205052,
     "title": "Winamp aims for a comeback with a new music player powered by Deezer",
     "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
     "source": "TechCrunch",
@@ -99,8 +180,8 @@
     "saved": false
   },
   {
-    "id": 5186509057777971045,
-    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "id": -9040749642159984711,
+    "title": "The Hugging Face break-in explained",
     "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
     "source": "TechCrunch",
     "category": "tech",
@@ -108,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 4303498804112710194,
+    "id": 6264669427863016652,
     "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
     "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
     "source": "TechCrunch",
@@ -117,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -2552362715836670177,
+    "id": -1577375263805059928,
     "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
     "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
     "source": "TechCrunch",
@@ -126,34 +207,7 @@
     "saved": false
   },
   {
-    "id": 517368601918973722,
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T14:41:06",
-    "saved": false
-  },
-  {
-    "id": 4577701161061733671,
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-    "link": "https://arxiv.org/abs/2607.25398",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T13:01:57",
-    "saved": false
-  },
-  {
-    "id": 754654494862570364,
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "link": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T11:44:33",
-    "saved": false
-  },
-  {
-    "id": -6374089969414693928,
+    "id": -133471064984533483,
     "title": "Exploring Human-AI relationships [Honours Thesis] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v9maa7/exploring_humanai_relationships_honours_thesis_r/",
     "source": "Reddit ML",
@@ -162,7 +216,7 @@
     "saved": false
   },
   {
-    "id": 4209622676442473931,
+    "id": 7662781202059866071,
     "title": "EMNLP 2026 AI Reviewing Experiment [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
     "source": "Reddit ML",
@@ -171,25 +225,7 @@
     "saved": false
   },
   {
-    "id": 7722337906579256533,
-    "title": "My LLM kept implementing every method it found, so I added research and specification gates[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v9ib5f/my_llm_kept_implementing_every_method_it_found_so/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-29T01:54:42",
-    "saved": false
-  },
-  {
-    "id": -5129709853180670612,
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-    "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-28T20:28:33",
-    "saved": false
-  },
-  {
-    "id": -7870123156952059307,
+    "id": -3227364772364457910,
     "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
     "source": "Reddit ML",
@@ -198,7 +234,7 @@
     "saved": false
   },
   {
-    "id": 3842081576418827927,
+    "id": 8655906584638965561,
     "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
     "source": "Reddit ML",
@@ -207,7 +243,7 @@
     "saved": false
   },
   {
-    "id": -4814814665261805906,
+    "id": -6873420408229880872,
     "title": "NeurIPS 2026 AI-generated reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
     "source": "Reddit ML",

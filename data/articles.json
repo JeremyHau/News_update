@@ -1,87 +1,150 @@
 [
   {
-    "id": -4854147127549688784,
-    "title": "Zoox clears final federal hurdle to launch paid robotaxi service",
-    "link": "https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/",
+    "id": -3903240381281753965,
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-30T13:09:03",
+    "date": "2026-07-31T01:06:54",
     "saved": false
   },
   {
-    "id": -5974260836587997043,
-    "title": "Inforcer raises $50M to help prepare smaller businesses for a new world of AI and security risks",
-    "link": "https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/",
+    "id": 1372527801285427411,
+    "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+    "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-30T13:00:00",
+    "date": "2026-07-30T23:28:05",
     "saved": false
   },
   {
-    "id": 1064478997331826973,
-    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "id": 6224301527655806056,
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-07-30T13:00:00",
+    "date": "2026-07-30T23:25:58",
     "saved": false
   },
   {
-    "id": -6858540759206240833,
-    "title": "OpenJDK Interim Policy on Generative AI",
-    "link": "https://openjdk.org/legal/ai",
+    "id": -4259886079493018438,
+    "title": "The AI Aesthetic",
+    "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-30T12:36:38",
+    "date": "2026-07-30T23:22:16",
     "saved": false
   },
   {
-    "id": 6278060851074229320,
-    "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-    "link": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+    "id": -1494703409566459561,
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T23:08:58",
+    "saved": false
+  },
+  {
+    "id": -937849717710411771,
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T22:41:41",
+    "saved": false
+  },
+  {
+    "id": 3315316395738428644,
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T20:26:38",
+    "saved": false
+  },
+  {
+    "id": -5485282504322852696,
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T19:44:16",
+    "saved": false
+  },
+  {
+    "id": -480406485982471129,
+    "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+    "link": "https://github.com/AminBlg/SimpleEnglish",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-30T12:01:05",
+    "date": "2026-07-30T19:34:27",
     "saved": false
   },
   {
-    "id": -2897043453091155849,
-    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-    "link": "https://github.com/grafana/ai-sdk",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-30T11:55:39",
+    "id": 1249740651952501333,
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T18:57:58",
     "saved": false
   },
   {
-    "id": -5434340418330500743,
-    "title": "GCC steering committee announces AI policy",
-    "link": "https://lwn.net/Articles/1086041/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-30T11:45:44",
+    "id": 7830318880433474501,
+    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
+    "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T18:38:12",
     "saved": false
   },
   {
-    "id": -4542159024445141659,
-    "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-    "link": "https://github.com/YoanWai/agent-manager",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-30T09:34:27",
+    "id": -2085164387163016845,
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T18:05:21",
     "saved": false
   },
   {
-    "id": 1820641211961133542,
-    "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-    "link": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-30T09:28:01",
+    "id": -7340627544537983824,
+    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
+    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T17:50:11",
     "saved": false
   },
   {
-    "id": 6569869038316255359,
+    "id": -6756396879439481137,
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T16:09:42",
+    "saved": false
+  },
+  {
+    "id": 3996744863043887312,
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T15:41:16",
+    "saved": false
+  },
+  {
+    "id": 6311206621320368119,
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-30T15:19:15",
+    "saved": false
+  },
+  {
+    "id": -6511776227646674068,
     "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
     "source": "Reddit ML",
@@ -90,52 +153,7 @@
     "saved": false
   },
   {
-    "id": -3950681977725866558,
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T00:21:06",
-    "saved": false
-  },
-  {
-    "id": 2704758576258141467,
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T23:00:11",
-    "saved": false
-  },
-  {
-    "id": -5688955989568090276,
-    "title": "LLM Honeypot",
-    "link": "https://llm2human.pages.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T22:51:03",
-    "saved": false
-  },
-  {
-    "id": -875022315646896713,
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T22:46:03",
-    "saved": false
-  },
-  {
-    "id": -1974856958855345752,
-    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T22:23:12",
-    "saved": false
-  },
-  {
-    "id": -7652804046123953249,
+    "id": -8250759706705555818,
     "title": "AI Security Leaderboard: benchmarking model robustness [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
     "source": "Reddit ML",
@@ -144,79 +162,7 @@
     "saved": false
   },
   {
-    "id": 72199756151551226,
-    "title": "AI's top startups are barely publishing their research",
-    "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T21:25:40",
-    "saved": false
-  },
-  {
-    "id": -2414619526875799081,
-    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T21:16:39",
-    "saved": false
-  },
-  {
-    "id": 6494134327209941201,
-    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T21:07:48",
-    "saved": false
-  },
-  {
-    "id": 5068785923486205052,
-    "title": "Winamp aims for a comeback with a new music player powered by Deezer",
-    "link": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T21:02:12",
-    "saved": false
-  },
-  {
-    "id": -9040749642159984711,
-    "title": "The Hugging Face break-in explained",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T19:44:49",
-    "saved": false
-  },
-  {
-    "id": 6264669427863016652,
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T15:35:09",
-    "saved": false
-  },
-  {
-    "id": -1577375263805059928,
-    "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-    "link": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-29T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -133471064984533483,
-    "title": "Exploring Human-AI relationships [Honours Thesis] [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v9maa7/exploring_humanai_relationships_honours_thesis_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-29T05:02:01",
-    "saved": false
-  },
-  {
-    "id": 7662781202059866071,
+    "id": -8150136147457311897,
     "title": "EMNLP 2026 AI Reviewing Experiment [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
     "source": "Reddit ML",
@@ -225,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -3227364772364457910,
+    "id": -4695094041975053191,
     "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
     "source": "Reddit ML",
@@ -234,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 8655906584638965561,
+    "id": 2734684351009932551,
     "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
     "source": "Reddit ML",
@@ -243,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -6873420408229880872,
+    "id": -2540831582781015749,
     "title": "NeurIPS 2026 AI-generated reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
     "source": "Reddit ML",

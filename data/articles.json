@@ -1,6 +1,33 @@
 [
   {
-    "id": -7949604333651878467,
+    "id": 852930469336995214,
+    "title": "Show HN: Free AI Prompt Gen – A local-first, open-source prompt engineering tool",
+    "link": "https://freeaipromptgen.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-01T12:03:25",
+    "saved": false
+  },
+  {
+    "id": 5763838559085328237,
+    "title": "AI doesn't generate working products, that's still your job",
+    "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-01T07:52:10",
+    "saved": false
+  },
+  {
+    "id": 4818712238882847291,
+    "title": "Flint: A Visualization Language for the AI Era",
+    "link": "https://microsoft.github.io/flint-chart/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-01T02:45:09",
+    "saved": false
+  },
+  {
+    "id": 3902874062791524334,
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -6447635830883521993,
+    "id": -6962368497291258797,
     "title": "I have trained a model to predict my blood sugar [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -6541907564480761854,
+    "id": 5220455276429483740,
     "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
     "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 4096545357519776010,
+    "id": -1090636970160152735,
     "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
     "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
     "source": "TechCrunch",
@@ -36,25 +63,7 @@
     "saved": false
   },
   {
-    "id": -1394655661024510359,
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
-    "link": "https://tailscale.com/blog/hugging-face-intrusion",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-31T19:03:45",
-    "saved": false
-  },
-  {
-    "id": -7141380439320139639,
-    "title": "Golang proposal: container/: generic collection types",
-    "link": "https://github.com/golang/go/issues/80590",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-31T18:39:47",
-    "saved": false
-  },
-  {
-    "id": 3037808435514231923,
+    "id": -3182671376170901727,
     "title": "qm – Multiplayer agent harness for work",
     "link": "https://github.com/yc-software/qm",
     "source": "Hacker News",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7475355019108072152,
+    "id": -3778618609659686502,
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "source": "TechCrunch",
@@ -72,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 4978723729141053612,
-    "title": "Should I start learning AI/ML (currently third year 2nd sem stud) because i do have genuine interest in this domain but I keep watching these reels that Ai bubble burst is about to burst and all, will it affect the job market for this domain as well? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vbwp9m/should_i_start_learning_aiml_currently_third_year/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-31T17:00:43",
-    "saved": false
-  },
-  {
-    "id": 7960986889746865552,
+    "id": -3014683199586280234,
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
     "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6523618220656640079,
+    "id": 5601271021641974517,
     "title": "Siri AI could come with a paywall for power users",
     "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 5345258845067082777,
+    "id": -6011893372882064075,
     "title": "Thoughts on Sustainable Computing: Informatics and Systems (SUSCOM) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vbtw9o/thoughts_on_sustainable_computing_informatics_and/",
     "source": "Reddit ML",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -9185987963111100608,
+    "id": 5735507498652949462,
     "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
     "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -3713197244903282062,
+    "id": -1373484500984614297,
     "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
     "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 66381336456538212,
+    "id": 637026204769041068,
     "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
     "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
     "source": "TechCrunch",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -1717641729563868617,
+    "id": -8538855377142093164,
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "source": "TechCrunch",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 3863153143049995517,
+    "id": -7062051230741152778,
     "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
     "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
     "source": "TechCrunch",
@@ -153,21 +153,12 @@
     "saved": false
   },
   {
-    "id": 6876157916517588527,
+    "id": 8761115433863169234,
     "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-07-30T02:54:23",
-    "saved": false
-  },
-  {
-    "id": 1173240320660073979,
-    "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
-    "link": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-29T11:59:10",
     "saved": false
   }
 ]

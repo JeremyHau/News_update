@@ -1,6 +1,132 @@
 [
   {
-    "id": -1651846485517693269,
+    "id": -7949604333651878467,
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T22:47:26",
+    "saved": false
+  },
+  {
+    "id": -6447635830883521993,
+    "title": "I have trained a model to predict my blood sugar [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-31T20:09:34",
+    "saved": false
+  },
+  {
+    "id": -6541907564480761854,
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T19:47:28",
+    "saved": false
+  },
+  {
+    "id": 4096545357519776010,
+    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
+    "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T19:39:51",
+    "saved": false
+  },
+  {
+    "id": -1394655661024510359,
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "link": "https://tailscale.com/blog/hugging-face-intrusion",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-31T19:03:45",
+    "saved": false
+  },
+  {
+    "id": -7141380439320139639,
+    "title": "Golang proposal: container/: generic collection types",
+    "link": "https://github.com/golang/go/issues/80590",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-31T18:39:47",
+    "saved": false
+  },
+  {
+    "id": 3037808435514231923,
+    "title": "qm – Multiplayer agent harness for work",
+    "link": "https://github.com/yc-software/qm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-31T18:04:58",
+    "saved": false
+  },
+  {
+    "id": -7475355019108072152,
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T17:26:32",
+    "saved": false
+  },
+  {
+    "id": 4978723729141053612,
+    "title": "Should I start learning AI/ML (currently third year 2nd sem stud) because i do have genuine interest in this domain but I keep watching these reels that Ai bubble burst is about to burst and all, will it affect the job market for this domain as well? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vbwp9m/should_i_start_learning_aiml_currently_third_year/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-31T17:00:43",
+    "saved": false
+  },
+  {
+    "id": 7960986889746865552,
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T16:49:08",
+    "saved": false
+  },
+  {
+    "id": -6523618220656640079,
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T16:08:18",
+    "saved": false
+  },
+  {
+    "id": 5345258845067082777,
+    "title": "Thoughts on Sustainable Computing: Informatics and Systems (SUSCOM) [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vbtw9o/thoughts_on_sustainable_computing_informatics_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-07-31T15:19:20",
+    "saved": false
+  },
+  {
+    "id": -9185987963111100608,
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T15:16:17",
+    "saved": false
+  },
+  {
+    "id": -3713197244903282062,
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-07-31T14:47:11",
+    "saved": false
+  },
+  {
+    "id": 66381336456538212,
     "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
     "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
     "source": "TechCrunch",
@@ -9,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -2861665627879925203,
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-31T07:29:22",
-    "saved": false
-  },
-  {
-    "id": 1255842786423263848,
+    "id": -1717641729563868617,
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "source": "TechCrunch",
@@ -27,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8451945939484124903,
+    "id": 3863153143049995517,
     "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
     "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
     "source": "TechCrunch",
@@ -36,106 +153,7 @@
     "saved": false
   },
   {
-    "id": -1728597962477169424,
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T23:25:58",
-    "saved": false
-  },
-  {
-    "id": -154262864089417613,
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T23:08:58",
-    "saved": false
-  },
-  {
-    "id": 2003463593114676780,
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T22:41:41",
-    "saved": false
-  },
-  {
-    "id": 2496386118797301702,
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T20:26:38",
-    "saved": false
-  },
-  {
-    "id": -6933079813485442492,
-    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T19:44:16",
-    "saved": false
-  },
-  {
-    "id": 2298325847770302068,
-    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T18:57:58",
-    "saved": false
-  },
-  {
-    "id": -6509251219777284090,
-    "title": "Florida plans to build air taxi pads using $200M intended for EV chargers",
-    "link": "https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T18:38:12",
-    "saved": false
-  },
-  {
-    "id": 6985883480604776588,
-    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T18:05:21",
-    "saved": false
-  },
-  {
-    "id": 8724517605933358827,
-    "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
-    "link": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T17:50:11",
-    "saved": false
-  },
-  {
-    "id": -4826918517557526727,
-    "title": "Okta buys AI security startup Permiso — source says for about $200M",
-    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T16:09:42",
-    "saved": false
-  },
-  {
-    "id": 4243196830468421117,
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-30T15:41:16",
-    "saved": false
-  },
-  {
-    "id": -3164643939638752010,
+    "id": 6876157916517588527,
     "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
     "source": "Reddit ML",
@@ -144,48 +162,12 @@
     "saved": false
   },
   {
-    "id": 53383665552956630,
-    "title": "AI Security Leaderboard: benchmarking model robustness [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vaargb/ai_security_leaderboard_benchmarking_model/",
-    "source": "Reddit ML",
+    "id": 1173240320660073979,
+    "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+    "link": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-29T22:09:52",
-    "saved": false
-  },
-  {
-    "id": -8691304273327933919,
-    "title": "EMNLP 2026 AI Reviewing Experiment [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-29T02:44:29",
-    "saved": false
-  },
-  {
-    "id": 8010307518553757663,
-    "title": "PNAS: Over Half of All Academic Articles Now Show LLM Influence—7.3M-Paper Study [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v93q78/pnas_over_half_of_all_academic_articles_now_show/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-28T16:38:32",
-    "saved": false
-  },
-  {
-    "id": 258168628538705272,
-    "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-28T14:52:01",
-    "saved": false
-  },
-  {
-    "id": 7054461725434348212,
-    "title": "NeurIPS 2026 AI-generated reviews [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1v8vuae/neurips_2026_aigenerated_reviews_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-28T11:34:57",
+    "date": "2026-07-29T11:59:10",
     "saved": false
   }
 ]

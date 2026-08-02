@@ -1,15 +1,15 @@
 [
   {
-    "id": -4861136025143604351,
-    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-    "link": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "id": -539159886508403296,
+    "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+    "link": "https://website-auditor.io/ai-visibility-index",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-01T22:25:12",
+    "date": "2026-08-02T11:53:52",
     "saved": false
   },
   {
-    "id": -6830018452932712002,
+    "id": -6936294321500310569,
     "title": "Inside the London hacker house taking a stand against founder burnout",
     "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
     "source": "TechCrunch",
@@ -18,7 +18,7 @@
     "saved": false
   },
   {
-    "id": -5467377598700543137,
+    "id": 8253702344875256190,
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "source": "TechCrunch",
@@ -27,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 1834599785872303103,
+    "id": 2082226554466766393,
     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
     "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "source": "TechCrunch",
@@ -36,16 +36,7 @@
     "saved": false
   },
   {
-    "id": -9153490645434882507,
-    "title": "Explorative modeling: Train on the best of K guesses",
-    "link": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-01T15:23:15",
-    "saved": false
-  },
-  {
-    "id": 3098742931971739072,
+    "id": -7614636543251033344,
     "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
     "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 805987593738823435,
+    "id": -5999693537946189290,
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "source": "TechCrunch",
@@ -63,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7176018512453415292,
+    "id": -6550038339804016187,
     "title": "I have trained a model to predict my blood sugar [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
     "source": "Reddit ML",
@@ -72,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 5072299429177527245,
+    "id": -8202643926342410360,
     "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
     "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "source": "TechCrunch",
@@ -81,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -2594850186485516587,
+    "id": -722610384799472828,
     "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
     "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
     "source": "TechCrunch",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8348347926273991552,
+    "id": -472464331357658700,
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "source": "TechCrunch",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3046337018467100142,
+    "id": 4011260718513262790,
     "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
     "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
     "source": "TechCrunch",
@@ -108,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6635733579778176566,
+    "id": 4951636340430408189,
     "title": "Siri AI could come with a paywall for power users",
     "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "source": "TechCrunch",
@@ -117,21 +108,12 @@
     "saved": false
   },
   {
-    "id": 6229675132542913612,
-    "title": "Thoughts on Sustainable Computing: Informatics and Systems (SUSCOM) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vbtw9o/thoughts_on_sustainable_computing_informatics_and/",
-    "source": "Reddit ML",
+    "id": 3209447067763132219,
+    "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
+    "link": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-07-31T15:19:20",
-    "saved": false
-  },
-  {
-    "id": -4197548119614305378,
-    "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-07-30T02:54:23",
+    "date": "2026-07-29T10:54:07",
     "saved": false
   }
 ]

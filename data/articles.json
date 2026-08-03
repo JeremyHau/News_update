@@ -1,24 +1,78 @@
 [
   {
-    "id": -3359558163711867651,
-    "title": "Twin: A Possible Solution to AI Context Rebuilding [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vdz02j/twin_a_possible_solution_to_ai_context_rebuilding/",
+    "id": 7775329460872611308,
+    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
+    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-03T12:50:46",
+    "saved": false
+  },
+  {
+    "id": 8197593741166865295,
+    "title": "Deep Dive on RL and OPD for Training LLMs [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1veat29/deep_dive_on_rl_and_opd_for_training_llms_d/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-08-03T01:00:41",
+    "date": "2026-08-03T11:30:28",
     "saved": false
   },
   {
-    "id": -3650883976263513274,
-    "title": "Show HN: Mu – Tools for Agents",
-    "link": "https://github.com/micro/mu",
+    "id": 8730549292107901510,
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "link": "https://github.com/lyogavin/airllm",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-02T22:06:34",
+    "date": "2026-08-03T11:15:48",
     "saved": false
   },
   {
-    "id": 9004410478433947200,
+    "id": 4234614108610150875,
+    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "link": "https://github.com/garagehq/nightcrawler/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-03T11:06:15",
+    "saved": false
+  },
+  {
+    "id": 1800594497448271420,
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-03T10:00:00",
+    "saved": false
+  },
+  {
+    "id": 8154027034911026102,
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-03T09:32:07",
+    "saved": false
+  },
+  {
+    "id": 8124108905377571548,
+    "title": "Bonsai: Janestreet's UI Library",
+    "link": "https://github.com/janestreet/bonsai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-03T08:29:57",
+    "saved": false
+  },
+  {
+    "id": 3674245172307198539,
+    "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-03T08:17:40",
+    "saved": false
+  },
+  {
+    "id": 6260335108811214077,
     "title": "The global memory shortage hits the MacBook Air",
     "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2464229466928193668,
+    "id": -3235270312311882084,
     "title": "Sam Altman and AI’s decel debate",
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5766407661880299318,
+    "id": -5461850769006231359,
     "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/",
     "source": "Reddit ML",
@@ -45,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -101011942973824575,
-    "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-    "link": "https://frogs.vaguespac.es/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-02T19:42:08",
-    "saved": false
-  },
-  {
-    "id": 4935373385546525942,
+    "id": 6936082801451585496,
     "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
     "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1652087474566191750,
+    "id": -4807752899203754001,
     "title": "Inside the London hacker house taking a stand against founder burnout",
     "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 591287687627439751,
+    "id": 9206457557789602373,
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2514306840924973249,
+    "id": -5905123530965330584,
     "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
     "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -1767216547361483399,
+    "id": 2298997999677913651,
     "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
     "link": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
     "source": "TechCrunch",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -1091145109657041085,
+    "id": -8438599331925589053,
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6305130517005140078,
+    "id": 4494222329307842061,
     "title": "I have trained a model to predict my blood sugar [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
     "source": "Reddit ML",
@@ -117,21 +162,21 @@
     "saved": false
   },
   {
-    "id": 4588556478859587593,
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-31T19:47:28",
+    "id": -4955808556844461000,
+    "title": "Train Simulator Controller",
+    "link": "https://z80.me/blog/tsc-2026-july/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-30T21:18:39",
     "saved": false
   },
   {
-    "id": 854901525803868112,
-    "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-    "link": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-07-31T19:39:51",
+    "id": -8542777685149437942,
+    "title": "Walk on Decomposed Subdomains",
+    "link": "https://clementjambon.github.io/wods/index.html#blogpost",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-07-28T03:17:03",
     "saved": false
   }
 ]

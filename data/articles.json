@@ -1,6 +1,78 @@
 [
   {
-    "id": -2125146101490324178,
+    "id": -4139550360494256337,
+    "title": "Bending Spoons to buy Airtable for $1.28B",
+    "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-04T11:30:56",
+    "saved": false
+  },
+  {
+    "id": -2335978803234753993,
+    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+    "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-04T11:30:17",
+    "saved": false
+  },
+  {
+    "id": 6867749603439185334,
+    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+    "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-04T11:01:37",
+    "saved": false
+  },
+  {
+    "id": 2453994546622177387,
+    "title": "\"Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation\", Gladstone et al. 2026 [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vf6r6f/explorative_modeling_unlocking_a_third/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-04T10:42:09",
+    "saved": false
+  },
+  {
+    "id": 5246945910835345922,
+    "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+    "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-04T10:13:13",
+    "saved": false
+  },
+  {
+    "id": 2118227526715638314,
+    "title": "Why Large Language Models Fail at Tabular Prediction",
+    "link": "https://arxiv.org/abs/2608.02412",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-04T10:07:06",
+    "saved": false
+  },
+  {
+    "id": 9158813533850408239,
+    "title": "The Downsides of LLM-Generated Peer Reviews [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-04T09:03:02",
+    "saved": false
+  },
+  {
+    "id": -4320388549661067062,
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-03T23:24:53",
+    "saved": false
+  },
+  {
+    "id": -8268793643587916779,
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "source": "TechCrunch",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4781092575350411319,
+    "id": 198346807002742579,
     "title": "I created an autonomous boxing benchmark [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
     "source": "Reddit ML",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -8242855121358960059,
+    "id": 6993719842167289350,
     "title": "LLMs reward expertise",
     "link": "https://www.seangoedecke.com/llms-reward-expertise/",
     "source": "Hacker News",
@@ -27,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1181435131095264476,
+    "id": -5183897626392320669,
     "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
     "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
     "source": "TechCrunch",
@@ -36,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3924119477738892001,
+    "id": -968960951671185803,
     "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
     "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
     "source": "TechCrunch",
@@ -45,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8812870176639000827,
+    "id": -7278079409520760879,
     "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
     "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
     "source": "TechCrunch",
@@ -54,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6578262807783130959,
+    "id": 5538945667520146,
     "title": "Base Power raises another $1B to save the grid using backyard batteries",
     "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
     "source": "TechCrunch",
@@ -63,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -7494912764012456358,
+    "id": -1774423220805132018,
     "title": "Congress’ favorite AI tool? ChatGPT",
     "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "source": "TechCrunch",
@@ -72,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -1245424775363250142,
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-    "link": "https://hoplite.sh",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-03T16:32:06",
-    "saved": false
-  },
-  {
-    "id": -4991400541871298610,
+    "id": -7701109714273292373,
     "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
     "source": "Reddit ML",
@@ -90,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 5381932977609759960,
-    "title": "Frame selection is the whole game: notes on making LLMs watch video",
-    "link": "https://leoaido.com/how-llms-watch-video/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-03T13:28:10",
-    "saved": false
-  },
-  {
-    "id": -8250941270954585091,
+    "id": 6509615623239098091,
     "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
     "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
     "source": "TechCrunch",
@@ -108,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 8520348120259011604,
+    "id": 7490016071597155523,
     "title": "Deep Dive on RL and OPD for Training LLMs [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1veat29/deep_dive_on_rl_and_opd_for_training_llms_d/",
     "source": "Reddit ML",
@@ -117,66 +171,12 @@
     "saved": false
   },
   {
-    "id": -8907510232326208216,
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T10:00:00",
-    "saved": false
-  },
-  {
-    "id": -7770782132808846728,
-    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-    "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-03T09:32:07",
-    "saved": false
-  },
-  {
-    "id": 9208145770151918118,
-    "title": "Bonsai: Janestreet's UI Library",
-    "link": "https://github.com/janestreet/bonsai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-03T08:29:57",
-    "saved": false
-  },
-  {
-    "id": 3141061501297647214,
+    "id": -5360709963433194373,
     "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-03T08:17:40",
-    "saved": false
-  },
-  {
-    "id": -3647048910211255240,
-    "title": "The global memory shortage hits the MacBook Air",
-    "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-02T21:33:59",
-    "saved": false
-  },
-  {
-    "id": 5138341583157252404,
-    "title": "Sam Altman and AI’s decel debate",
-    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-02T20:54:22",
-    "saved": false
-  },
-  {
-    "id": 5351064481071142669,
-    "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-02T20:20:45",
     "saved": false
   }
 ]

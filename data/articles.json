@@ -1,33 +1,78 @@
 [
   {
-    "id": -4139550360494256337,
-    "title": "Bending Spoons to buy Airtable for $1.28B",
-    "link": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+    "id": -4427974588085649163,
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "link": "https://queue.acm.org/detail.cfm?id=3807963",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-04T23:50:52",
+    "saved": false
+  },
+  {
+    "id": -4014419315895892380,
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-04T22:01:41",
+    "saved": false
+  },
+  {
+    "id": 282559507039972199,
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-04T11:30:56",
+    "date": "2026-08-04T20:05:26",
     "saved": false
   },
   {
-    "id": -2335978803234753993,
-    "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-    "link": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-04T11:30:17",
+    "id": -7503862735366121113,
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-04T19:48:40",
     "saved": false
   },
   {
-    "id": 6867749603439185334,
-    "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-    "link": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-04T11:01:37",
+    "id": 8271026316226454435,
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-04T19:28:49",
     "saved": false
   },
   {
-    "id": 2453994546622177387,
+    "id": -3009518197157686023,
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-04T15:50:06",
+    "saved": false
+  },
+  {
+    "id": 5223985317346508992,
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-04T15:20:06",
+    "saved": false
+  },
+  {
+    "id": 4889891500101474153,
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-04T14:03:01",
+    "saved": false
+  },
+  {
+    "id": -8385089609411088349,
     "title": "\"Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation\", Gladstone et al. 2026 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vf6r6f/explorative_modeling_unlocking_a_third/",
     "source": "Reddit ML",
@@ -36,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 5246945910835345922,
-    "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-    "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-04T10:13:13",
-    "saved": false
-  },
-  {
-    "id": 2118227526715638314,
-    "title": "Why Large Language Models Fail at Tabular Prediction",
-    "link": "https://arxiv.org/abs/2608.02412",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-04T10:07:06",
-    "saved": false
-  },
-  {
-    "id": 9158813533850408239,
+    "id": 5961545355236133317,
     "title": "The Downsides of LLM-Generated Peer Reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
     "source": "Reddit ML",
@@ -63,25 +90,7 @@
     "saved": false
   },
   {
-    "id": -4320388549661067062,
-    "title": "There Will Come Soft Rains (1950) [pdf]",
-    "link": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-03T23:24:53",
-    "saved": false
-  },
-  {
-    "id": -8268793643587916779,
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T23:19:50",
-    "saved": false
-  },
-  {
-    "id": 198346807002742579,
+    "id": 7245279879945269490,
     "title": "I created an autonomous boxing benchmark [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
     "source": "Reddit ML",
@@ -90,61 +99,7 @@
     "saved": false
   },
   {
-    "id": 6993719842167289350,
-    "title": "LLMs reward expertise",
-    "link": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-03T21:13:53",
-    "saved": false
-  },
-  {
-    "id": -5183897626392320669,
-    "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T19:45:35",
-    "saved": false
-  },
-  {
-    "id": -968960951671185803,
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T19:28:57",
-    "saved": false
-  },
-  {
-    "id": -7278079409520760879,
-    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T19:09:56",
-    "saved": false
-  },
-  {
-    "id": 5538945667520146,
-    "title": "Base Power raises another $1B to save the grid using backyard batteries",
-    "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T16:46:57",
-    "saved": false
-  },
-  {
-    "id": -1774423220805132018,
-    "title": "Congress’ favorite AI tool? ChatGPT",
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T16:40:55",
-    "saved": false
-  },
-  {
-    "id": -7701109714273292373,
+    "id": 7480742489004109145,
     "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
     "source": "Reddit ML",
@@ -153,25 +108,7 @@
     "saved": false
   },
   {
-    "id": 6509615623239098091,
-    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-03T12:50:46",
-    "saved": false
-  },
-  {
-    "id": 7490016071597155523,
-    "title": "Deep Dive on RL and OPD for Training LLMs [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1veat29/deep_dive_on_rl_and_opd_for_training_llms_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-03T11:30:28",
-    "saved": false
-  },
-  {
-    "id": -5360709963433194373,
+    "id": 2555958174267678649,
     "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
     "source": "Reddit ML",

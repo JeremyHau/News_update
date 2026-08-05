@@ -1,24 +1,87 @@
 [
   {
-    "id": -4427974588085649163,
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "link": "https://queue.acm.org/detail.cfm?id=3807963",
+    "id": -1691020236402783472,
+    "title": "Iowa et al asks OpenAI to keep their bots sandboxed",
+    "link": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-04T23:50:52",
+    "date": "2026-08-05T12:42:50",
     "saved": false
   },
   {
-    "id": -4014419315895892380,
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "link": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "id": -4745003707295512654,
+    "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+    "link": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-04T22:01:41",
+    "date": "2026-08-05T12:41:47",
     "saved": false
   },
   {
-    "id": 282559507039972199,
+    "id": -1580303113592673793,
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-05T12:28:38",
+    "saved": false
+  },
+  {
+    "id": 2025988635423087036,
+    "title": "Why the Legendary Erdős Problems Are Falling to AI",
+    "link": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-05T11:49:34",
+    "saved": false
+  },
+  {
+    "id": 3447481326802120637,
+    "title": "Indian EV startup River raises $120M Series C to scale production, launch more models",
+    "link": "https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-05T11:26:00",
+    "saved": false
+  },
+  {
+    "id": 6427139581302759827,
+    "title": "Position: LLMs Can't Jump",
+    "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-05T11:01:37",
+    "saved": false
+  },
+  {
+    "id": 8026654106349483343,
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-05T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 612069286849130334,
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "link": "https://arxiv.org/abs/2607.29377",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-05T04:36:44",
+    "saved": false
+  },
+  {
+    "id": 2183624078078394981,
+    "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-05T04:36:38",
+    "saved": false
+  },
+  {
+    "id": 8332916369755211128,
     "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
     "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "source": "TechCrunch",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7503862735366121113,
+    "id": -2521644808993919704,
     "title": "Anthropic signs $10B deal with AI cloud startup Volta",
     "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8271026316226454435,
+    "id": -6854557053689799121,
     "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
     "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
     "source": "TechCrunch",
@@ -45,34 +108,7 @@
     "saved": false
   },
   {
-    "id": -3009518197157686023,
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-04T15:50:06",
-    "saved": false
-  },
-  {
-    "id": 5223985317346508992,
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-04T15:20:06",
-    "saved": false
-  },
-  {
-    "id": 4889891500101474153,
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-04T14:03:01",
-    "saved": false
-  },
-  {
-    "id": -8385089609411088349,
+    "id": -2603890153733876504,
     "title": "\"Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation\", Gladstone et al. 2026 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vf6r6f/explorative_modeling_unlocking_a_third/",
     "source": "Reddit ML",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 5961545355236133317,
+    "id": 1335955967180013578,
     "title": "The Downsides of LLM-Generated Peer Reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
     "source": "Reddit ML",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7245279879945269490,
+    "id": -8648660487242886682,
     "title": "I created an autonomous boxing benchmark [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
     "source": "Reddit ML",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7480742489004109145,
+    "id": -8771958150996140728,
     "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
     "source": "Reddit ML",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 2555958174267678649,
+    "id": 8654310040249272742,
     "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
     "source": "Reddit ML",

@@ -1,6 +1,69 @@
 [
   {
-    "id": -1275074954066830781,
+    "id": 5381221664984267640,
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -8343540811215149459,
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -452315033095092622,
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T12:30:00",
+    "saved": false
+  },
+  {
+    "id": 1880980729846451136,
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -3330502872841021896,
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-06T11:58:07",
+    "saved": false
+  },
+  {
+    "id": 6144601905569679692,
+    "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-06T07:07:44",
+    "saved": false
+  },
+  {
+    "id": -8422266682236332551,
+    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-06T06:24:42",
+    "saved": false
+  },
+  {
+    "id": -774236904689493188,
     "title": "Meta launches Muse Code, an AI agent for large code bases",
     "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
     "source": "TechCrunch",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -8173967324956236865,
+    "id": 2253339048069272943,
     "title": "Prime Agent: A self-improving RLM agent",
     "link": "https://www.primeintellect.ai/blog/prime-agent",
     "source": "Hacker News",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 3819818337775082667,
+    "id": 9120330575746444542,
     "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
     "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
     "source": "TechCrunch",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -3920749061727013240,
+    "id": 2162349513643072013,
     "title": "Moove raises $250M to become the backbone of the robotaxi industry",
     "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3595352997992623311,
+    "id": 5792922853875870811,
     "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
     "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7352623451783640477,
+    "id": -90905183792756036,
     "title": "Do LLMs make ML research more fair for small teams? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
     "source": "Reddit ML",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1693756123180915277,
+    "id": 7981287677883904649,
     "title": "Born Against, or why hobby programming communities are against LLM usage",
     "link": "https://blog.fogus.me/llm/born-against.html",
     "source": "Hacker News",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3665520094269404126,
+    "id": 4363768561691608057,
     "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
     "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
     "source": "TechCrunch",
@@ -72,25 +135,7 @@
     "saved": false
   },
   {
-    "id": 577009425595749807,
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-    "link": "https://www.hyperprobe.co",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-05T16:47:15",
-    "saved": false
-  },
-  {
-    "id": 3279688512293395572,
-    "title": "Anyone here working on AI/ML projects? I’d like to join and contribute [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vgcnio/anyone_here_working_on_aiml_projects_id_like_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-05T16:42:10",
-    "saved": false
-  },
-  {
-    "id": 4031513361767571308,
+    "id": -7902437559154122263,
     "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
     "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
     "source": "Hacker News",
@@ -99,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 7068489219203865812,
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T15:56:14",
-    "saved": false
-  },
-  {
-    "id": 5989529681662269678,
-    "title": "Hark previews its browser use agent for completing tasks",
-    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T15:46:27",
-    "saved": false
-  },
-  {
-    "id": -4285610075623650673,
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T15:05:00",
-    "saved": false
-  },
-  {
-    "id": 6291124964396026622,
+    "id": -2078507451200293349,
     "title": "Cloudflare OS: an open platform for agents, apps, and work",
     "link": "https://blog.cloudflare.com/cloudflare-os/",
     "source": "Hacker News",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4774171295266061773,
+    "id": 1597118027813099015,
     "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
     "source": "Reddit ML",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -4782564248375374163,
+    "id": 6294758079963082945,
     "title": "The Downsides of LLM-Generated Peer Reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
     "source": "Reddit ML",
@@ -153,21 +171,12 @@
     "saved": false
   },
   {
-    "id": 5278826365451444733,
+    "id": -1415176242406525281,
     "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-03T15:01:36",
-    "saved": false
-  },
-  {
-    "id": -2831826324978275358,
-    "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-03T08:17:40",
     "saved": false
   }
 ]

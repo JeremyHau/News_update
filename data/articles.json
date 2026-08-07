@@ -1,42 +1,87 @@
 [
   {
-    "id": 5381221664984267640,
-    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-    "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "id": -7832552597016645883,
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-06T13:00:00",
+    "date": "2026-08-06T22:43:53",
     "saved": false
   },
   {
-    "id": -8343540811215149459,
-    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-    "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "id": 6314079833688046457,
+    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-06T13:00:00",
+    "date": "2026-08-06T22:00:00",
     "saved": false
   },
   {
-    "id": -452315033095092622,
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T12:30:00",
+    "id": 4038733123205759014,
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "link": "https://www.aleksagordic.com/blog/vllm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-06T21:30:21",
     "saved": false
   },
   {
-    "id": 1880980729846451136,
-    "title": "Omilia raises $67M to scale its customer support platform",
-    "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "id": 4369625296015810765,
+    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
+    "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-06T12:00:00",
+    "date": "2026-08-06T19:02:57",
     "saved": false
   },
   {
-    "id": -3330502872841021896,
+    "id": -2989802542538829600,
+    "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-06T17:24:54",
+    "saved": false
+  },
+  {
+    "id": 1201053566307423458,
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T17:00:37",
+    "saved": false
+  },
+  {
+    "id": 880664114143328960,
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T15:53:03",
+    "saved": false
+  },
+  {
+    "id": -3227962551609164960,
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-06T15:49:38",
+    "saved": false
+  },
+  {
+    "id": 5323624528923963648,
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-06T15:10:32",
+    "saved": false
+  },
+  {
+    "id": 3819067787924251128,
     "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
     "source": "Hacker News",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6144601905569679692,
+    "id": -8074762602469875345,
     "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
     "source": "Reddit ML",
@@ -54,61 +99,7 @@
     "saved": false
   },
   {
-    "id": -8422266682236332551,
-    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-    "link": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-06T06:24:42",
-    "saved": false
-  },
-  {
-    "id": -774236904689493188,
-    "title": "Meta launches Muse Code, an AI agent for large code bases",
-    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T21:21:28",
-    "saved": false
-  },
-  {
-    "id": 2253339048069272943,
-    "title": "Prime Agent: A self-improving RLM agent",
-    "link": "https://www.primeintellect.ai/blog/prime-agent",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-05T21:11:57",
-    "saved": false
-  },
-  {
-    "id": 9120330575746444542,
-    "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
-    "link": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T21:05:37",
-    "saved": false
-  },
-  {
-    "id": 2162349513643072013,
-    "title": "Moove raises $250M to become the backbone of the robotaxi industry",
-    "link": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T20:50:45",
-    "saved": false
-  },
-  {
-    "id": 5792922853875870811,
-    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T19:30:19",
-    "saved": false
-  },
-  {
-    "id": -90905183792756036,
+    "id": 3273660486561788746,
     "title": "Do LLMs make ML research more fair for small teams? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
     "source": "Reddit ML",
@@ -117,43 +108,7 @@
     "saved": false
   },
   {
-    "id": 7981287677883904649,
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
-    "link": "https://blog.fogus.me/llm/born-against.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-05T18:37:49",
-    "saved": false
-  },
-  {
-    "id": 4363768561691608057,
-    "title": "Reddit aims to make ‘karma’ less important for first-time posters with shift to AI moderation tools",
-    "link": "https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-05T18:00:40",
-    "saved": false
-  },
-  {
-    "id": -7902437559154122263,
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-05T16:05:31",
-    "saved": false
-  },
-  {
-    "id": -2078507451200293349,
-    "title": "Cloudflare OS: an open platform for agents, apps, and work",
-    "link": "https://blog.cloudflare.com/cloudflare-os/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-05T13:58:53",
-    "saved": false
-  },
-  {
-    "id": 1597118027813099015,
+    "id": 1916338299655433431,
     "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
     "source": "Reddit ML",
@@ -162,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6294758079963082945,
+    "id": -7230676392536973276,
     "title": "The Downsides of LLM-Generated Peer Reviews [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
     "source": "Reddit ML",
@@ -171,12 +126,12 @@
     "saved": false
   },
   {
-    "id": -1415176242406525281,
-    "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
-    "source": "Reddit ML",
+    "id": -4487422792797257368,
+    "title": "The Sylvester–Gallai Theorem",
+    "link": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-03T15:01:36",
+    "date": "2026-07-31T14:00:34",
     "saved": false
   }
 ]

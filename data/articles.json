@@ -1,6 +1,15 @@
 [
   {
-    "id": -7832552597016645883,
+    "id": 678339310018374237,
+    "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-07T10:30:14",
+    "saved": false
+  },
+  {
+    "id": -1760892966288828409,
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 6314079833688046457,
+    "id": 3096289582770003626,
     "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
     "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
     "source": "TechCrunch",
@@ -18,16 +27,7 @@
     "saved": false
   },
   {
-    "id": 4038733123205759014,
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-    "link": "https://www.aleksagordic.com/blog/vllm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-06T21:30:21",
-    "saved": false
-  },
-  {
-    "id": 4369625296015810765,
+    "id": -7735956216712552661,
     "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
     "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
     "source": "TechCrunch",
@@ -36,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -2989802542538829600,
+    "id": 4026316588250858563,
     "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
     "source": "Reddit ML",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 1201053566307423458,
+    "id": 6045895811685907628,
     "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
     "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 880664114143328960,
+    "id": 2275342629167316533,
     "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
     "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3227962551609164960,
+    "id": 7403345137467534003,
     "title": "GitHub Actions and Pages are experiencing degraded availability",
     "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
     "source": "Hacker News",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5323624528923963648,
+    "id": 2500199140122132910,
     "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
     "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 3819067787924251128,
+    "id": 3564323570216063745,
     "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
     "source": "Hacker News",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -8074762602469875345,
+    "id": -2019274966533407214,
     "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
     "source": "Reddit ML",
@@ -99,39 +99,12 @@
     "saved": false
   },
   {
-    "id": 3273660486561788746,
-    "title": "Do LLMs make ML research more fair for small teams? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-05T19:16:29",
-    "saved": false
-  },
-  {
-    "id": 1916338299655433431,
+    "id": 2629599555314611089,
     "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-05T04:36:38",
-    "saved": false
-  },
-  {
-    "id": -7230676392536973276,
-    "title": "The Downsides of LLM-Generated Peer Reviews [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-04T09:03:02",
-    "saved": false
-  },
-  {
-    "id": -4487422792797257368,
-    "title": "The Sylvester–Gallai Theorem",
-    "link": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-07-31T14:00:34",
     "saved": false
   }
 ]

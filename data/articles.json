@@ -1,6 +1,123 @@
 [
   {
-    "id": 678339310018374237,
+    "id": 6124180456130965713,
+    "title": "Should AI labs be treated like the owners of dangerous animals?",
+    "link": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-08T00:03:31",
+    "saved": false
+  },
+  {
+    "id": 3002942712286107810,
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-07T22:48:24",
+    "saved": false
+  },
+  {
+    "id": -3086326770227085574,
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-07T21:30:11",
+    "saved": false
+  },
+  {
+    "id": -4787338530991951193,
+    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+    "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-07T21:00:08",
+    "saved": false
+  },
+  {
+    "id": 776128130201718729,
+    "title": "Managing AI Coding Costs at Scale",
+    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-07T18:25:17",
+    "saved": false
+  },
+  {
+    "id": 5856424127350462892,
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "link": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-07T17:36:30",
+    "saved": false
+  },
+  {
+    "id": -8116384199608689719,
+    "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-07T17:10:03",
+    "saved": false
+  },
+  {
+    "id": 8745774843628641327,
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-07T16:16:09",
+    "saved": false
+  },
+  {
+    "id": 2155361085271754998,
+    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+    "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-07T14:28:31",
+    "saved": false
+  },
+  {
+    "id": -1279385552289556158,
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-07T14:22:49",
+    "saved": false
+  },
+  {
+    "id": 2063535926528091903,
+    "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-07T13:14:39",
+    "saved": false
+  },
+  {
+    "id": -1253948274428866703,
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-07T12:42:27",
+    "saved": false
+  },
+  {
+    "id": -3701744783639113311,
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "link": "https://blog.cloudflare.com/kitesurf/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-07T10:42:07",
+    "saved": false
+  },
+  {
+    "id": 7332544745692264815,
     "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
     "source": "Reddit ML",
@@ -9,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -1760892966288828409,
+    "id": -2666709641197162363,
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch",
@@ -18,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3096289582770003626,
+    "id": -1852772050689473064,
     "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
     "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
     "source": "TechCrunch",
@@ -27,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -7735956216712552661,
+    "id": 6953880745506922717,
     "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
     "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
     "source": "TechCrunch",
@@ -36,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4026316588250858563,
+    "id": 2557163840239455771,
     "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
     "source": "Reddit ML",
@@ -45,66 +162,12 @@
     "saved": false
   },
   {
-    "id": 6045895811685907628,
-    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T17:00:37",
-    "saved": false
-  },
-  {
-    "id": 2275342629167316533,
-    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-    "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T15:53:03",
-    "saved": false
-  },
-  {
-    "id": 7403345137467534003,
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
-    "link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-06T15:49:38",
-    "saved": false
-  },
-  {
-    "id": 2500199140122132910,
-    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-    "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T15:10:32",
-    "saved": false
-  },
-  {
-    "id": 3564323570216063745,
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "link": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-06T11:58:07",
-    "saved": false
-  },
-  {
-    "id": -2019274966533407214,
+    "id": -4438237445588445874,
     "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-06T07:07:44",
-    "saved": false
-  },
-  {
-    "id": 2629599555314611089,
-    "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-05T04:36:38",
     "saved": false
   }
 ]

@@ -1,7 +1,52 @@
 [
   {
-    "id": 5134922720945459934,
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "id": -3184033801798826709,
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-08T19:41:13",
+    "saved": false
+  },
+  {
+    "id": -6294264603675297181,
+    "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-08T18:42:55",
+    "saved": false
+  },
+  {
+    "id": -2892850296465622559,
+    "title": "TinySol, a tiny solitaire game for DOS",
+    "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-08T17:42:40",
+    "saved": false
+  },
+  {
+    "id": 7367640456248933288,
+    "title": "Fastmail offers EU data region",
+    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-08T16:04:51",
+    "saved": false
+  },
+  {
+    "id": 7702514212124853082,
+    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
+    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-08T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 8509828716205190130,
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
     "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
     "source": "Hacker News",
     "category": "ai",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1234147232166400001,
+    "id": 396579250791794063,
     "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
     "source": "Reddit ML",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 8155766387259199547,
+    "id": -5858854070331137714,
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -151567404290113684,
+    "id": 256181537378642808,
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2486153907350034435,
+    "id": -4828031198891677554,
     "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
     "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
     "source": "TechCrunch",
@@ -45,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -4634969859752881926,
-    "title": "Managing AI Coding Costs at Scale",
-    "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-07T18:25:17",
-    "saved": false
-  },
-  {
-    "id": 3100955999072877834,
+    "id": 5854140522276121090,
     "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
     "source": "Reddit ML",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6939743890391304094,
+    "id": 622859533776917857,
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3437004512646566432,
+    "id": 2808316082495260255,
     "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
     "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6979515136334026205,
+    "id": -7574296821083676178,
     "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6083143889916577526,
+    "id": 4657674951393323864,
     "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
     "source": "Reddit ML",
@@ -99,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 8472730598861955620,
-    "title": "What happens if an entire class of workers loses faith in their careers",
-    "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-07T12:42:27",
-    "saved": false
-  },
-  {
-    "id": -8065473069227880859,
+    "id": -3510490760927411013,
     "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
     "source": "Reddit ML",
@@ -117,39 +144,12 @@
     "saved": false
   },
   {
-    "id": 5849807049598696502,
+    "id": 641445504512102463,
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-08-06T22:43:53",
-    "saved": false
-  },
-  {
-    "id": 531358814896690735,
-    "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-    "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T22:00:00",
-    "saved": false
-  },
-  {
-    "id": 7126172899512011861,
-    "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
-    "link": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T19:02:57",
-    "saved": false
-  },
-  {
-    "id": 4216749730476165961,
-    "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-06T17:24:54",
     "saved": false
   }
 ]

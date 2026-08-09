@@ -1,6 +1,24 @@
 [
   {
-    "id": -3184033801798826709,
+    "id": -57934732997470705,
+    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+    "link": "http://longbets.org/601/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-09T04:30:26",
+    "saved": false
+  },
+  {
+    "id": -3494655395416571224,
+    "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
+    "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-09T00:59:58",
+    "saved": false
+  },
+  {
+    "id": -4459691167744125979,
     "title": "OpenAI acquires presentation startup NextSlide",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "source": "TechCrunch",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -6294264603675297181,
+    "id": 620422743875862379,
     "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
     "source": "Reddit ML",
@@ -18,16 +36,7 @@
     "saved": false
   },
   {
-    "id": -2892850296465622559,
-    "title": "TinySol, a tiny solitaire game for DOS",
-    "link": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-08T17:42:40",
-    "saved": false
-  },
-  {
-    "id": 7367640456248933288,
+    "id": -5091718600691342894,
     "title": "Fastmail offers EU data region",
     "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "source": "Hacker News",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 7702514212124853082,
+    "id": -4776376898393574505,
     "title": "Google’s top hacker hunter explains why hacking groups get codenames",
     "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
     "source": "TechCrunch",
@@ -45,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 8509828716205190130,
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-08T10:57:44",
-    "saved": false
-  },
-  {
-    "id": 396579250791794063,
+    "id": 473894100979179412,
     "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
     "source": "Reddit ML",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -5858854070331137714,
+    "id": -6221230617729926098,
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 256181537378642808,
+    "id": -1572006054757915533,
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4828031198891677554,
+    "id": 8273404716270864864,
     "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
     "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5854140522276121090,
+    "id": -4335153505598931377,
     "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 622859533776917857,
+    "id": 9142882826976010628,
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "source": "TechCrunch",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2808316082495260255,
+    "id": -4812938706799745176,
     "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
     "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
     "source": "TechCrunch",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7574296821083676178,
+    "id": -344532788571779593,
     "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
     "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4657674951393323864,
+    "id": -539562655499961586,
     "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
     "source": "Reddit ML",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3510490760927411013,
+    "id": 1601701762524755043,
     "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
     "source": "Reddit ML",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 641445504512102463,
+    "id": -5247901967738172819,
     "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
     "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
     "source": "TechCrunch",

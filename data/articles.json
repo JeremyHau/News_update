@@ -1,24 +1,78 @@
 [
   {
-    "id": -57934732997470705,
-    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-    "link": "http://longbets.org/601/",
+    "id": -6900674681369021455,
+    "title": "Tuxedo No. 2 – Cocktail recipes",
+    "link": "https://tuxedono2.com",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-09T04:30:26",
+    "date": "2026-08-09T20:48:46",
     "saved": false
   },
   {
-    "id": -3494655395416571224,
-    "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-    "link": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+    "id": -6104517220591366309,
+    "title": "The Hacker's Renaissance",
+    "link": "https://phrack.org/issues/72/19#article",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-09T00:59:58",
+    "date": "2026-08-09T20:18:44",
     "saved": false
   },
   {
-    "id": -4459691167744125979,
+    "id": 7629923626404784995,
+    "title": "The tragedy of the commons, AI edition",
+    "link": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-09T19:43:52",
+    "saved": false
+  },
+  {
+    "id": 1439292094969457772,
+    "title": "How I use LLMs to learn complex topics",
+    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-09T19:16:49",
+    "saved": false
+  },
+  {
+    "id": -3793867719328750458,
+    "title": "OpenChamber: An Agentic Development Environment",
+    "link": "https://openchamber.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-09T17:27:16",
+    "saved": false
+  },
+  {
+    "id": -3165104014311896346,
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-09T14:30:00",
+    "saved": false
+  },
+  {
+    "id": 1318648361448541730,
+    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-09T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 4512014100396905339,
+    "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-09T10:55:50",
+    "saved": false
+  },
+  {
+    "id": 3867312962005851042,
     "title": "OpenAI acquires presentation startup NextSlide",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 620422743875862379,
+    "id": 773462446416011985,
     "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
     "source": "Reddit ML",
@@ -36,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -5091718600691342894,
-    "title": "Fastmail offers EU data region",
-    "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-08T16:04:51",
-    "saved": false
-  },
-  {
-    "id": -4776376898393574505,
+    "id": -2587000310071358243,
     "title": "Google’s top hacker hunter explains why hacking groups get codenames",
     "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 473894100979179412,
+    "id": -7034618206373348268,
     "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
     "source": "Reddit ML",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -6221230617729926098,
+    "id": 8413785155555221903,
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1572006054757915533,
+    "id": 3822652000627480434,
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8273404716270864864,
+    "id": 2695312328865945358,
     "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
     "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4335153505598931377,
+    "id": -8061664360710501327,
     "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
     "source": "Reddit ML",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 9142882826976010628,
+    "id": 5715750702562045047,
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
     "source": "TechCrunch",
@@ -108,48 +153,12 @@
     "saved": false
   },
   {
-    "id": -4812938706799745176,
-    "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-    "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-07T14:28:31",
-    "saved": false
-  },
-  {
-    "id": -344532788571779593,
-    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-    "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-07T14:22:49",
-    "saved": false
-  },
-  {
-    "id": -539562655499961586,
-    "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-07T13:14:39",
-    "saved": false
-  },
-  {
-    "id": 1601701762524755043,
+    "id": 2844898543434395749,
     "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-07T10:30:14",
-    "saved": false
-  },
-  {
-    "id": -5247901967738172819,
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-06T22:43:53",
     "saved": false
   }
 ]

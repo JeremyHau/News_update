@@ -1,6 +1,159 @@
 [
   {
-    "id": -3946440019328855649,
+    "id": -7908859530440583649,
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-11T00:03:18",
+    "saved": false
+  },
+  {
+    "id": -7144504350535956391,
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T23:56:15",
+    "saved": false
+  },
+  {
+    "id": -5904544195816367959,
+    "title": "World Train Map – 1247 train routes around the world",
+    "link": "https://worldtrainmap.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T22:42:14",
+    "saved": false
+  },
+  {
+    "id": -396074866486167988,
+    "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+    "link": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T21:20:04",
+    "saved": false
+  },
+  {
+    "id": 3870534867443821883,
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T20:53:02",
+    "saved": false
+  },
+  {
+    "id": 5263327643207382403,
+    "title": "Confessions of a Long-Distance Sailor",
+    "link": "https://arachnoid.com/lutusp/sailbook.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T20:52:55",
+    "saved": false
+  },
+  {
+    "id": -5635052476810246971,
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T20:04:24",
+    "saved": false
+  },
+  {
+    "id": 7219840167391103642,
+    "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+    "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T18:30:33",
+    "saved": false
+  },
+  {
+    "id": 5349436445234575132,
+    "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-10T17:37:35",
+    "saved": false
+  },
+  {
+    "id": 4700123857181881311,
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "link": "https://cactuscompute.com/needle",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T17:22:07",
+    "saved": false
+  },
+  {
+    "id": -5155588089773219012,
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "link": "https://www.stoaexchange.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T16:35:27",
+    "saved": false
+  },
+  {
+    "id": 2793983939223283929,
+    "title": "What's the best programming language for coding agents?",
+    "link": "http://danluu.com/pl-tokens/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T16:28:58",
+    "saved": false
+  },
+  {
+    "id": 4362120228547292987,
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T16:20:13",
+    "saved": false
+  },
+  {
+    "id": -6502902907874989010,
+    "title": "How to file a complaint about a published CVPR paper? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-10T14:56:16",
+    "saved": false
+  },
+  {
+    "id": -941709133556999149,
+    "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+    "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-10T14:20:19",
+    "saved": false
+  },
+  {
+    "id": -2861022664095475482,
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T14:06:22",
+    "saved": false
+  },
+  {
+    "id": 7004321803311459530,
+    "title": "Humanising LLM Outputs Is Dumb",
+    "link": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-10T13:35:40",
+    "saved": false
+  },
+  {
+    "id": 1104299841587381002,
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
     "source": "TechCrunch",
@@ -9,70 +162,16 @@
     "saved": false
   },
   {
-    "id": 3120867374311186093,
-    "title": "Tail-call optimization in C is relatively recent",
-    "link": "https://lwn.net/Articles/1034703/",
+    "id": -8156329369412101092,
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "link": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-10T11:34:40",
+    "date": "2026-08-10T10:10:02",
     "saved": false
   },
   {
-    "id": 1243078222902501923,
-    "title": "Because It's Not Fun Enough: why languages fail",
-    "link": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-10T11:27:47",
-    "saved": false
-  },
-  {
-    "id": 4434073281173687501,
-    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "link": "https://www.docker.com/products/docker-sandboxes/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-10T06:02:38",
-    "saved": false
-  },
-  {
-    "id": -5282280106320293134,
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "link": "https://www.whodunnitai.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-10T03:18:40",
-    "saved": false
-  },
-  {
-    "id": -8570988331051708338,
-    "title": "How I use LLMs to learn complex topics",
-    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-09T19:16:49",
-    "saved": false
-  },
-  {
-    "id": 7418668474351306255,
-    "title": "The AI safety test is becoming a safety risk",
-    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-09T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -4079264960623052678,
-    "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-    "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-09T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -6841087686397010270,
+    "id": -3560199040690910544,
     "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
     "source": "Reddit ML",
@@ -81,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 8613594246538058785,
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-08T19:41:13",
-    "saved": false
-  },
-  {
-    "id": 18031739012227088,
+    "id": 8800635229808924694,
     "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
     "source": "Reddit ML",
@@ -99,16 +189,7 @@
     "saved": false
   },
   {
-    "id": -3484391488567211767,
-    "title": "Google’s top hacker hunter explains why hacking groups get codenames",
-    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-08T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 7132541914062166280,
+    "id": 5787521532671964100,
     "title": "Real-Time Conversational Agents (RTCA) Workshop @ NeurIPS 2026 — submissions now open, deadline Aug 29 AoE [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vir5t6/realtime_conversational_agents_rtca_workshop/",
     "source": "Reddit ML",
@@ -117,34 +198,7 @@
     "saved": false
   },
   {
-    "id": -1102633151939935007,
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-07T22:48:24",
-    "saved": false
-  },
-  {
-    "id": 4359737269032203511,
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-07T21:30:11",
-    "saved": false
-  },
-  {
-    "id": -6638687257521283784,
-    "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-    "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-07T21:00:08",
-    "saved": false
-  },
-  {
-    "id": 4165373765607365332,
+    "id": 3226269270880619854,
     "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
     "source": "Reddit ML",
@@ -153,30 +207,12 @@
     "saved": false
   },
   {
-    "id": 9141216271438224772,
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-07T16:16:09",
-    "saved": false
-  },
-  {
-    "id": -6079019774409893648,
-    "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-    "link": "https://lordgoati.us/blog/tail-call/",
+    "id": -8691922369911926852,
+    "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+    "link": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-07T12:05:10",
-    "saved": false
-  },
-  {
-    "id": 4485237713744063400,
-    "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-07T10:30:14",
+    "date": "2026-08-05T15:22:23",
     "saved": false
   }
 ]

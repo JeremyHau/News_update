@@ -1,51 +1,123 @@
 [
   {
-    "id": -1626880216030517473,
-    "title": "Delphi 13 Community Edition Is Now Available",
-    "link": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "id": 8512877878545611719,
+    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+    "link": "https://www.ballet.dev/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-12T11:13:36",
+    "date": "2026-08-13T00:01:43",
     "saved": false
   },
   {
-    "id": -5643426944497014696,
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "id": -894217731911829738,
+    "title": "AI nuclear power firm Fermi finally has a new CEO",
+    "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-12T11:00:00",
+    "date": "2026-08-12T22:24:00",
     "saved": false
   },
   {
-    "id": 7352377872347803495,
-    "title": "What sort of maths are LLMs good at?",
-    "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-12T10:04:25",
-    "saved": false
-  },
-  {
-    "id": -1955689989035805640,
-    "title": "Reservoir raises $8M to make water heaters that people — and the grid — will actually want",
-    "link": "https://techcrunch.com/2026/08/12/reservoir-raises-8m-to-make-water-heaters-that-people-and-the-grid-will-actually-want/",
+    "id": -8263330397058656618,
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-12T10:00:00",
+    "date": "2026-08-12T20:10:40",
     "saved": false
   },
   {
-    "id": -7630518902041903585,
-    "title": "Facebook is paying controversial creators to produce rage-bait content",
-    "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+    "id": -4508538955715602440,
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T18:19:12",
+    "saved": false
+  },
+  {
+    "id": -7393529169567308169,
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T17:51:00",
+    "saved": false
+  },
+  {
+    "id": -4626029025186377215,
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T17:41:29",
+    "saved": false
+  },
+  {
+    "id": -1120859159145533051,
+    "title": "Uber Freight reportedly investigating after hacking group claims data breach",
+    "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T17:15:41",
+    "saved": false
+  },
+  {
+    "id": 5923718379559148367,
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T16:46:02",
+    "saved": false
+  },
+  {
+    "id": 1993187616716549601,
+    "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
+    "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T16:18:23",
+    "saved": false
+  },
+  {
+    "id": 2047133042075201582,
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T16:04:27",
+    "saved": false
+  },
+  {
+    "id": -4620640507113353346,
+    "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
+    "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-12T15:56:13",
+    "saved": false
+  },
+  {
+    "id": -6261551084365461424,
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-12T09:35:30",
+    "date": "2026-08-12T14:22:30",
     "saved": false
   },
   {
-    "id": 5683356303827929453,
+    "id": 123207918740300035,
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "link": "https://knownagents.com/insights",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-12T14:02:46",
+    "saved": false
+  },
+  {
+    "id": -5010832648590181381,
     "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
     "link": "https://discoveredmaterials.com/research/",
     "source": "Hacker News",
@@ -54,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -5053816583697279436,
-    "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
-    "link": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T04:30:00",
-    "saved": false
-  },
-  {
-    "id": 7841889782166970760,
-    "title": "WorldClaw Agentic 3D open-world generation at scale",
-    "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-11T21:56:18",
-    "saved": false
-  },
-  {
-    "id": 7627633461071214019,
+    "id": -9213997194541380282,
     "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
     "source": "Reddit ML",
@@ -81,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 743608207821359307,
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-11T19:15:35",
-    "saved": false
-  },
-  {
-    "id": 1581319503286385816,
+    "id": -5082796454513958228,
     "title": "AAAI 2027 Review: No code submission? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
     "source": "Reddit ML",
@@ -99,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 8131156715794719558,
-    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-11T17:41:34",
-    "saved": false
-  },
-  {
-    "id": 150654475661915987,
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-11T17:41:22",
-    "saved": false
-  },
-  {
-    "id": 494015615039048091,
+    "id": -1680766946066192796,
     "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
     "source": "Reddit ML",
@@ -126,34 +153,7 @@
     "saved": false
   },
   {
-    "id": -5162401210416268098,
-    "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-11T15:30:00",
-    "saved": false
-  },
-  {
-    "id": -8001125969913985115,
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-    "link": "https://stolen-thoughts.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-11T13:22:00",
-    "saved": false
-  },
-  {
-    "id": 5805735247473118100,
-    "title": "OpenAI’s head of ethics leaves less than a year after joining",
-    "link": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-11T12:23:07",
-    "saved": false
-  },
-  {
-    "id": 8013198711144968257,
+    "id": -2738809406093102080,
     "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
     "source": "Reddit ML",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -966154953628721537,
+    "id": -506265067456657309,
     "title": "How to file a complaint about a published CVPR paper? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
     "source": "Reddit ML",
@@ -171,30 +171,12 @@
     "saved": false
   },
   {
-    "id": -1843914276486906501,
+    "id": -5994951949630100401,
     "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-09T10:55:50",
-    "saved": false
-  },
-  {
-    "id": 8541905312987264127,
-    "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-08T18:42:55",
-    "saved": false
-  },
-  {
-    "id": 2415189734187979639,
-    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-    "link": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-06T10:29:50",
     "saved": false
   }
 ]

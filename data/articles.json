@@ -1,6 +1,123 @@
 [
   {
-    "id": -1088532435679041944,
+    "id": 1410169893850869988,
+    "title": "How AI text watermarking works",
+    "link": "https://declaude.org/watermarking/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-13T23:16:55",
+    "saved": false
+  },
+  {
+    "id": -8789684154988777563,
+    "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-13T22:52:35",
+    "saved": false
+  },
+  {
+    "id": -1558193648671631680,
+    "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+    "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T22:02:04",
+    "saved": false
+  },
+  {
+    "id": 2878053031321026296,
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T21:13:24",
+    "saved": false
+  },
+  {
+    "id": 6003548422796863058,
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T20:14:39",
+    "saved": false
+  },
+  {
+    "id": -150381258388110568,
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-13T19:25:38",
+    "saved": false
+  },
+  {
+    "id": 7389889121763958426,
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T19:22:40",
+    "saved": false
+  },
+  {
+    "id": -4203096074801104300,
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T19:19:49",
+    "saved": false
+  },
+  {
+    "id": -7900101417721787849,
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T18:28:14",
+    "saved": false
+  },
+  {
+    "id": 7870508545877360402,
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T17:07:13",
+    "saved": false
+  },
+  {
+    "id": -6437252345312074806,
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T15:30:52",
+    "saved": false
+  },
+  {
+    "id": -1172867734650047516,
+    "title": "Who really needs a cocktail robot?",
+    "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-13T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -6449251918107577211,
+    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-13T13:14:12",
+    "saved": false
+  },
+  {
+    "id": 3911943726808998968,
     "title": "AI nuclear power firm Fermi finally has a new CEO",
     "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
     "source": "TechCrunch",
@@ -9,88 +126,7 @@
     "saved": false
   },
   {
-    "id": 4371796045788443677,
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T20:10:40",
-    "saved": false
-  },
-  {
-    "id": 4573387676717359105,
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T18:19:12",
-    "saved": false
-  },
-  {
-    "id": -4920323452031196983,
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T17:51:00",
-    "saved": false
-  },
-  {
-    "id": 7143351971479666651,
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T17:41:29",
-    "saved": false
-  },
-  {
-    "id": 7831883121322804270,
-    "title": "Uber Freight reportedly investigating after hacking group claims data breach",
-    "link": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T17:15:41",
-    "saved": false
-  },
-  {
-    "id": 1092072857088979937,
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T16:46:02",
-    "saved": false
-  },
-  {
-    "id": -3033475985861897091,
-    "title": "Form Energy raises $750M to build more 100-hour batteries for the grid",
-    "link": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T16:18:23",
-    "saved": false
-  },
-  {
-    "id": -1890483972014427972,
-    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-    "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T16:04:27",
-    "saved": false
-  },
-  {
-    "id": -6214567133589875780,
-    "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
-    "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T15:56:13",
-    "saved": false
-  },
-  {
-    "id": 335100194726255293,
+    "id": 8881280485342467539,
     "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
     "source": "Reddit ML",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5644939072726754919,
+    "id": -1584103484576583583,
     "title": "AAAI 2027 Review: No code submission? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
     "source": "Reddit ML",
@@ -108,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 637394425483377687,
-    "title": "We built the Agentic World Cup - LLMs that compete in 1v1 Soccer. [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-11T16:12:11",
-    "saved": false
-  },
-  {
-    "id": 4263951438821353439,
+    "id": -614834343366522944,
     "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4551853635331539243,
+    "id": -5156214041368767583,
     "title": "How to file a complaint about a published CVPR paper? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
     "source": "Reddit ML",

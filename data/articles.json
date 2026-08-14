@@ -1,15 +1,42 @@
 [
   {
-    "id": 1410169893850869988,
-    "title": "How AI text watermarking works",
-    "link": "https://declaude.org/watermarking/",
-    "source": "Hacker News",
+    "id": -8469051529139203977,
+    "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-08-13T23:16:55",
+    "date": "2026-08-14T12:26:29",
     "saved": false
   },
   {
-    "id": -8789684154988777563,
+    "id": -847541391508948535,
+    "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
+    "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-14T10:44:30",
+    "saved": false
+  },
+  {
+    "id": -6560053150195984703,
+    "title": "A collision-entropy floor for watermark/retrieval AI-text detection. Looking for a sanity check before I take this further [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vo2nfc/a_collisionentropy_floor_for_watermarkretrieval/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-14T09:38:20",
+    "saved": false
+  },
+  {
+    "id": 5619698883524182067,
+    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-14T06:09:04",
+    "saved": false
+  },
+  {
+    "id": 6391774731452758710,
     "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1558193648671631680,
+    "id": 5268449039510697972,
     "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
     "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
     "source": "TechCrunch",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2878053031321026296,
+    "id": 8177374733000249394,
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6003548422796863058,
+    "id": -5390261120555900973,
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "source": "TechCrunch",
@@ -45,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -150381258388110568,
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "link": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-13T19:25:38",
-    "saved": false
-  },
-  {
-    "id": 7389889121763958426,
+    "id": 1265132852798282604,
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4203096074801104300,
+    "id": 4922213266080753713,
     "title": "IBM partners with OpenAI to bolster enterprise AI push",
     "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7900101417721787849,
+    "id": -2875544886957119619,
     "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
     "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7870508545877360402,
+    "id": 5224216881402835983,
     "title": "OpenAI hires new CRO as executive shake-up continues",
     "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -6437252345312074806,
+    "id": 5597808092949947115,
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1172867734650047516,
+    "id": -8526428171794980907,
     "title": "Who really needs a cocktail robot?",
     "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
     "source": "TechCrunch",
@@ -108,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -6449251918107577211,
-    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-    "link": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-13T13:14:12",
-    "saved": false
-  },
-  {
-    "id": 3911943726808998968,
-    "title": "AI nuclear power firm Fermi finally has a new CEO",
-    "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-12T22:24:00",
-    "saved": false
-  },
-  {
-    "id": 8881280485342467539,
+    "id": -7265695594402259766,
     "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
     "source": "Reddit ML",
@@ -135,30 +135,12 @@
     "saved": false
   },
   {
-    "id": -1584103484576583583,
+    "id": -8837737807106811079,
     "title": "AAAI 2027 Review: No code submission? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-11T18:58:04",
-    "saved": false
-  },
-  {
-    "id": -614834343366522944,
-    "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-10T17:37:35",
-    "saved": false
-  },
-  {
-    "id": -5156214041368767583,
-    "title": "How to file a complaint about a published CVPR paper? [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vkn5x9/how_to_file_a_complaint_about_a_published_cvpr/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-10T14:56:16",
     "saved": false
   }
 ]

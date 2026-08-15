@@ -1,6 +1,24 @@
 [
   {
-    "id": 6959850304343770240,
+    "id": -4038207731452133560,
+    "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-15T07:26:32",
+    "saved": false
+  },
+  {
+    "id": 5641408965325748120,
+    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+    "link": "https://chenxiachan.github.io/thoughtdag/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-15T04:42:07",
+    "saved": false
+  },
+  {
+    "id": 1112988684581346890,
     "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
     "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
     "source": "TechCrunch",
@@ -9,16 +27,7 @@
     "saved": false
   },
   {
-    "id": 7876261858328253706,
-    "title": "Show HN: Mole – Deep research agent for your terminal",
-    "link": "https://github.com/lajosdeme/mole",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-14T18:52:48",
-    "saved": false
-  },
-  {
-    "id": 7217847279451914010,
+    "id": 2506378515766739487,
     "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
     "source": "Reddit ML",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -3235650194985787390,
+    "id": -3767320530577993474,
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -2671141909918724390,
+    "id": -5218302764846849302,
     "title": "AI by Hand",
     "link": "https://www.byhand.ai/",
     "source": "Hacker News",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7017551015923889536,
+    "id": -5428898719334928815,
     "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
     "source": "Reddit ML",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6218749186281567198,
+    "id": 2523716510014427972,
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -2091516820377335102,
+    "id": 8595378260416573751,
     "title": "Google is making private AI practical with homomorphic encryption",
     "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
     "source": "Hacker News",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4075521627730510330,
+    "id": 6907301362526321259,
     "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
     "source": "Reddit ML",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7202436610840308062,
+    "id": 7149361906229722694,
     "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
     "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 1839469247004644626,
+    "id": -4034965660565195256,
     "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
     "source": "Reddit ML",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8460223140006006382,
+    "id": -8758612789761386438,
     "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
     "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5758077037797439123,
+    "id": 2057521356544383056,
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 917895998353419782,
+    "id": 7665420490310874470,
     "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
     "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 1868113759830981796,
+    "id": -8228861570772462617,
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
     "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2867236879845517543,
+    "id": 7608690478703044625,
     "title": "IBM partners with OpenAI to bolster enterprise AI push",
     "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
     "source": "TechCrunch",

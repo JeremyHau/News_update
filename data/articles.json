@@ -1,6 +1,78 @@
 [
   {
-    "id": -4038207731452133560,
+    "id": 7338770995026541302,
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-15T21:29:19",
+    "saved": false
+  },
+  {
+    "id": -3935867720747065830,
+    "title": "AI in drug discovery – what it is, where we stand and the path forward",
+    "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-15T19:12:53",
+    "saved": false
+  },
+  {
+    "id": -7509340365631504717,
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-15T18:58:39",
+    "saved": false
+  },
+  {
+    "id": -4390723579191789663,
+    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+    "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-15T18:33:25",
+    "saved": false
+  },
+  {
+    "id": 8001586248581990100,
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-15T18:13:02",
+    "saved": false
+  },
+  {
+    "id": 8026168547650187596,
+    "title": "How to tell if your AI platforms’ accounts have been hacked",
+    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-15T16:10:00",
+    "saved": false
+  },
+  {
+    "id": 6656815496002125175,
+    "title": "Every fusion startup that has raised over $100M",
+    "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-15T13:15:20",
+    "saved": false
+  },
+  {
+    "id": -3163379337395528346,
+    "title": "Working with AI feels more like leadership than coding",
+    "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-15T10:39:41",
+    "saved": false
+  },
+  {
+    "id": -5677803994472707238,
     "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
     "source": "Reddit ML",
@@ -9,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 5641408965325748120,
-    "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-    "link": "https://chenxiachan.github.io/thoughtdag/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-15T04:42:07",
-    "saved": false
-  },
-  {
-    "id": 1112988684581346890,
+    "id": 6649889838191280383,
     "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
     "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
     "source": "TechCrunch",
@@ -27,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 2506378515766739487,
+    "id": 2094697224336220011,
     "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
     "source": "Reddit ML",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3767320530577993474,
+    "id": 511362659554613853,
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "source": "TechCrunch",
@@ -45,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -5218302764846849302,
-    "title": "AI by Hand",
-    "link": "https://www.byhand.ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-14T15:58:59",
-    "saved": false
-  },
-  {
-    "id": -5428898719334928815,
+    "id": -2600918450640047861,
     "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
     "source": "Reddit ML",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2523716510014427972,
+    "id": -356867220151383905,
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "source": "TechCrunch",
@@ -72,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 8595378260416573751,
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "link": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-14T15:43:10",
-    "saved": false
-  },
-  {
-    "id": 6907301362526321259,
+    "id": -909953315487836161,
     "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
     "source": "Reddit ML",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 7149361906229722694,
+    "id": -5598370839463439778,
     "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
     "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
     "source": "TechCrunch",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -4034965660565195256,
+    "id": 3957137282486145895,
     "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
     "source": "Reddit ML",
@@ -108,48 +153,12 @@
     "saved": false
   },
   {
-    "id": -8758612789761386438,
+    "id": -3858115029715013550,
     "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
     "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-08-13T22:02:04",
-    "saved": false
-  },
-  {
-    "id": 2057521356544383056,
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-13T21:13:24",
-    "saved": false
-  },
-  {
-    "id": 7665420490310874470,
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-13T20:14:39",
-    "saved": false
-  },
-  {
-    "id": -8228861570772462617,
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-13T19:22:40",
-    "saved": false
-  },
-  {
-    "id": 7608690478703044625,
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-13T19:19:49",
     "saved": false
   }
 ]

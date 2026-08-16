@@ -1,6 +1,33 @@
 [
   {
-    "id": 7338770995026541302,
+    "id": -9048726775418629909,
+    "title": "ICDM 2026 Results Waiting Place [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-16T12:02:18",
+    "saved": false
+  },
+  {
+    "id": -321868507133609426,
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "link": "https://littlelearner-ll.github.io/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-16T07:37:53",
+    "saved": false
+  },
+  {
+    "id": 1345397423047477343,
+    "title": "Patterns and problems in emerging multi-agent systems",
+    "link": "https://www.anthropic.com/research/multiagent-systems",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-16T02:12:53",
+    "saved": false
+  },
+  {
+    "id": 829086888664234715,
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -3935867720747065830,
+    "id": 7844914190718360045,
     "title": "AI in drug discovery – what it is, where we stand and the path forward",
     "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
     "source": "Hacker News",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -7509340365631504717,
+    "id": 5239313547651275207,
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "source": "TechCrunch",
@@ -27,25 +54,7 @@
     "saved": false
   },
   {
-    "id": -4390723579191789663,
-    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-    "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-15T18:33:25",
-    "saved": false
-  },
-  {
-    "id": 8001586248581990100,
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-15T18:13:02",
-    "saved": false
-  },
-  {
-    "id": 8026168547650187596,
+    "id": -8438135353963886134,
     "title": "How to tell if your AI platforms’ accounts have been hacked",
     "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6656815496002125175,
+    "id": -6505718219985008122,
     "title": "Every fusion startup that has raised over $100M",
     "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
     "source": "TechCrunch",
@@ -63,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -3163379337395528346,
-    "title": "Working with AI feels more like leadership than coding",
-    "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-15T10:39:41",
-    "saved": false
-  },
-  {
-    "id": -5677803994472707238,
+    "id": -439378646277249171,
     "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
     "source": "Reddit ML",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6649889838191280383,
+    "id": -8199751087764809177,
     "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
     "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 2094697224336220011,
+    "id": -8007012708069209253,
     "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
     "source": "Reddit ML",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 511362659554613853,
+    "id": -6727771914468762859,
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "source": "TechCrunch",
@@ -108,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2600918450640047861,
+    "id": 7143043922432311857,
     "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
     "source": "Reddit ML",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -356867220151383905,
+    "id": 807508521977192046,
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -909953315487836161,
+    "id": 608547713403682863,
     "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
     "source": "Reddit ML",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5598370839463439778,
+    "id": 2883084318399400525,
     "title": "Uber and Pony.ai plan to bring 2,000 robotaxis to Europe",
     "link": "https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/",
     "source": "TechCrunch",
@@ -144,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 3957137282486145895,
-    "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-13T22:52:35",
-    "saved": false
-  },
-  {
-    "id": -3858115029715013550,
+    "id": -9034952870608108610,
     "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
     "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
     "source": "TechCrunch",

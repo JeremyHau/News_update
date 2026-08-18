@@ -1,24 +1,141 @@
 [
   {
-    "id": -4447017354826251304,
-    "title": "Self hosted email continues to steeply decline",
-    "link": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+    "id": 5730932732494377096,
+    "title": "Un-AI Your Internet",
+    "link": "https://un-ai.digitalprophet.online/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-17T10:45:14",
+    "date": "2026-08-17T23:57:13",
     "saved": false
   },
   {
-    "id": -6178203029245708705,
-    "title": "Rhombus 1.1 is now available",
-    "link": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "id": 1085913569977039546,
+    "title": "Fairphone 6 and PostmarketOS working main camera",
+    "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-17T00:48:21",
+    "date": "2026-08-17T22:01:17",
     "saved": false
   },
   {
-    "id": 734215912449161065,
+    "id": -5472130413704836713,
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T21:27:05",
+    "saved": false
+  },
+  {
+    "id": -5469692502389543925,
+    "title": "AI;DR (AI; Didn't Read)",
+    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-17T19:47:15",
+    "saved": false
+  },
+  {
+    "id": 1457851308384698784,
+    "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+    "link": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T19:24:43",
+    "saved": false
+  },
+  {
+    "id": -4681239671283974034,
+    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
+    "link": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T19:04:27",
+    "saved": false
+  },
+  {
+    "id": 7202942153669482833,
+    "title": "Feedly attributes weeklong slowdown to bug, not its AI pivot",
+    "link": "https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T17:10:59",
+    "saved": false
+  },
+  {
+    "id": -1098186560225484527,
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T16:38:44",
+    "saved": false
+  },
+  {
+    "id": -7905910912896726232,
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T16:15:12",
+    "saved": false
+  },
+  {
+    "id": 417193215400935783,
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "link": "https://speko.ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-17T15:36:18",
+    "saved": false
+  },
+  {
+    "id": -6396421243956316292,
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T15:16:24",
+    "saved": false
+  },
+  {
+    "id": 730078678286016202,
+    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+    "link": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-17T14:18:38",
+    "saved": false
+  },
+  {
+    "id": -1881237384071505858,
+    "title": "How to disable or avoid intrusive AI",
+    "link": "https://www.librarian.net/notoai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-17T14:07:56",
+    "saved": false
+  },
+  {
+    "id": 9199568812888422300,
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-17T13:10:05",
+    "saved": false
+  },
+  {
+    "id": 5262629301880804037,
+    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+    "link": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-17T12:09:42",
+    "saved": false
+  },
+  {
+    "id": -3912218107701080912,
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "source": "TechCrunch",
@@ -27,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2310728192786272802,
+    "id": 2098152670134347119,
     "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
     "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
     "source": "TechCrunch",
@@ -36,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -592517968023457415,
+    "id": 1709046936425411700,
     "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
     "source": "Reddit ML",
@@ -45,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -1084319960082714105,
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-16T16:53:51",
-    "saved": false
-  },
-  {
-    "id": 5458500093283995439,
-    "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-    "link": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-16T16:04:00",
-    "saved": false
-  },
-  {
-    "id": -7993493840783325447,
+    "id": -1366305185145000743,
     "title": "ICDM 2026 Results Waiting Place [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
     "source": "Reddit ML",
@@ -72,43 +171,7 @@
     "saved": false
   },
   {
-    "id": 8354372681892845972,
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-15T21:29:19",
-    "saved": false
-  },
-  {
-    "id": -1614620275207169134,
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-15T18:58:39",
-    "saved": false
-  },
-  {
-    "id": 8272672220218273415,
-    "title": "How to tell if your AI platforms’ accounts have been hacked",
-    "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-15T16:10:00",
-    "saved": false
-  },
-  {
-    "id": 9164217824148792261,
-    "title": "Every fusion startup that has raised over $100M",
-    "link": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-15T13:15:20",
-    "saved": false
-  },
-  {
-    "id": 7929103171316858921,
+    "id": 687450037297151256,
     "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
     "source": "Reddit ML",
@@ -117,39 +180,12 @@
     "saved": false
   },
   {
-    "id": 2181768355978814683,
-    "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
-    "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-14T19:33:00",
-    "saved": false
-  },
-  {
-    "id": -2390735142921779227,
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-14T16:13:40",
-    "saved": false
-  },
-  {
-    "id": -5276818913172990360,
+    "id": -7593580657189242757,
     "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-14T15:50:11",
-    "saved": false
-  },
-  {
-    "id": 5945580528763159451,
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-14T15:43:28",
     "saved": false
   }
 ]

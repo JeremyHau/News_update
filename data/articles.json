@@ -1,105 +1,168 @@
 [
   {
-    "id": -2735618810152859316,
-    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T12:00:00",
-    "saved": false
-  },
-  {
-    "id": 2645598980303363704,
-    "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-    "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+    "id": -5820709302364902086,
+    "title": "Technical leaders should have the largest AI exhaust",
+    "link": "https://schipper.ai/posts/technical-leaders-should-have-the-largest-ai-exhaust/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-19T11:46:58",
+    "date": "2026-08-19T23:12:38",
     "saved": false
   },
   {
-    "id": -8282584006748954269,
-    "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-    "link": "https://theremin.bizibah.com/",
+    "id": -8217190797596818236,
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-19T22:10:46",
+    "saved": false
+  },
+  {
+    "id": -4026599296571907006,
+    "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-19T21:30:26",
+    "saved": false
+  },
+  {
+    "id": -8977059859261767970,
+    "title": "Feature Request: Support AGENTS.md",
+    "link": "https://github.com/anthropics/claude-code/issues/6235",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-19T10:15:00",
+    "date": "2026-08-19T21:19:50",
     "saved": false
   },
   {
-    "id": 6685628893849826538,
-    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "id": -220136703583971639,
+    "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+    "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-19T10:00:00",
+    "date": "2026-08-19T20:12:33",
     "saved": false
   },
   {
-    "id": 8149400373252126252,
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "id": 1653555526998886041,
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T18:00:00",
+    "date": "2026-08-19T19:11:40",
     "saved": false
   },
   {
-    "id": -7809235783313476284,
-    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "id": 6116241585751342228,
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T16:19:10",
+    "date": "2026-08-19T19:00:00",
     "saved": false
   },
   {
-    "id": -1889792516394205897,
-    "title": "Peacock is raising prices across all of its streaming plans",
-    "link": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
+    "id": -1481354235922012411,
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T15:26:31",
+    "date": "2026-08-19T18:46:14",
     "saved": false
   },
   {
-    "id": 1138534166705658495,
-    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "id": 560639395811926580,
+    "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+    "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-19T17:47:29",
+    "saved": false
+  },
+  {
+    "id": -9129101969552484331,
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T14:00:00",
+    "date": "2026-08-19T17:26:48",
     "saved": false
   },
   {
-    "id": 4624543566651728187,
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "id": -6897881746883523547,
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T13:50:30",
+    "date": "2026-08-19T15:44:53",
     "saved": false
   },
   {
-    "id": 5304611755954516309,
-    "title": "Perplexity’s free AI offer left it with millions more users in India",
-    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "id": -3085942985996901551,
+    "title": "Rivian spinout Also raises another $150M",
+    "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T13:45:40",
+    "date": "2026-08-19T15:39:47",
     "saved": false
   },
   {
-    "id": 4373852580342797502,
-    "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
-    "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+    "id": 1949479328532389851,
+    "title": "Mathematics in the age of AI",
+    "link": "https://arxiv.org/abs/2608.16753",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-19T15:14:25",
+    "saved": false
+  },
+  {
+    "id": 6856794204711850057,
+    "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
+    "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-18T13:28:51",
+    "date": "2026-08-19T15:01:41",
     "saved": false
   },
   {
-    "id": 1200029319682970172,
+    "id": -2462495219602527275,
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-19T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 57448337237381458,
+    "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+    "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-19T14:57:58",
+    "saved": false
+  },
+  {
+    "id": 4768941670216373987,
+    "title": "A joke domain purchase turned in geopolitical warfare",
+    "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-19T11:21:50",
+    "saved": false
+  },
+  {
+    "id": -5916452136027230482,
+    "title": "fx :Tiny, open, native coding agent.",
+    "link": "https://fx.sh",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-18T22:00:21",
+    "saved": false
+  },
+  {
+    "id": 1189672278817281083,
     "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
     "source": "Reddit ML",
@@ -108,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -2686852450082370623,
+    "id": 5301124229616403824,
     "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
     "source": "Reddit ML",
@@ -117,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -1137065166098406855,
+    "id": 1865463251108316042,
     "title": "ICDM 2026 Results Waiting Place [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
     "source": "Reddit ML",

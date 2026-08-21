@@ -1,33 +1,96 @@
 [
   {
-    "id": 2918878278977527947,
-    "title": "In What Areas, If Any, Do Humans Still Go Beyond AI Creatively? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vthuc9/in_what_areas_if_any_do_humans_still_go_beyond_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-20T12:15:54",
-    "saved": false
-  },
-  {
-    "id": -4798981399997259500,
-    "title": "Meta AI’s new Mac app wants you to talk to your apps",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T12:11:57",
-    "saved": false
-  },
-  {
-    "id": -7279591376005533662,
-    "title": "AI didn't erase the junior engineer's value, it increased it it",
-    "link": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+    "id": -1482990656943910573,
+    "title": "Copyright does not protect AI-generated content in EU",
+    "link": "https://mathstodon.xyz/@maxpool/117128107757895678",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-20T11:42:20",
+    "date": "2026-08-21T00:15:12",
     "saved": false
   },
   {
-    "id": 1053070683033993443,
+    "id": 1171463819966641949,
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-21T00:13:44",
+    "saved": false
+  },
+  {
+    "id": 2051625715426463028,
+    "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+    "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-20T23:32:27",
+    "saved": false
+  },
+  {
+    "id": -704628420687703233,
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-20T22:36:37",
+    "saved": false
+  },
+  {
+    "id": 9152754766904601436,
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-20T19:18:21",
+    "saved": false
+  },
+  {
+    "id": -8544780753099168666,
+    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "link": "https://www.danielvaughn.dev/posts/huzzah/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-20T19:05:36",
+    "saved": false
+  },
+  {
+    "id": -4284105690767321311,
+    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-20T17:18:58",
+    "saved": false
+  },
+  {
+    "id": 3414570850587075226,
+    "title": "Ramp launches its own AI model router, called Router",
+    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-20T16:46:00",
+    "saved": false
+  },
+  {
+    "id": 2096658012590761814,
+    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+    "link": "https://github.com/zachahn/vomit",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-20T15:26:02",
+    "saved": false
+  },
+  {
+    "id": -296452052654807185,
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-20T12:04:38",
+    "saved": false
+  },
+  {
+    "id": -2282865103094410027,
     "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
     "source": "Reddit ML",
@@ -36,34 +99,7 @@
     "saved": false
   },
   {
-    "id": -4471200019034620587,
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T09:30:00",
-    "saved": false
-  },
-  {
-    "id": -1426498992648608672,
-    "title": "Don't Paste the AI, please",
-    "link": "https://dontpastetheai.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-20T08:20:44",
-    "saved": false
-  },
-  {
-    "id": -7866716985315515006,
-    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T22:10:46",
-    "saved": false
-  },
-  {
-    "id": -8061255332684724927,
+    "id": -1858874325636304238,
     "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
     "source": "Reddit ML",
@@ -72,106 +108,7 @@
     "saved": false
   },
   {
-    "id": 7418462015357317671,
-    "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-    "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T20:12:33",
-    "saved": false
-  },
-  {
-    "id": 4396726259055930838,
-    "title": "AI was supposed to win people over by now — it hasn’t",
-    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T19:11:40",
-    "saved": false
-  },
-  {
-    "id": 2095789487821922814,
-    "title": "Google packs Search and Gemini with new AI study tools",
-    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T19:00:00",
-    "saved": false
-  },
-  {
-    "id": 7659768399884738571,
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T18:46:14",
-    "saved": false
-  },
-  {
-    "id": -4063097973400097799,
-    "title": "Meet the startup helping Wall Street put a price on AI compute",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T17:26:48",
-    "saved": false
-  },
-  {
-    "id": 1914362275975803655,
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T15:44:53",
-    "saved": false
-  },
-  {
-    "id": -6670369115443300006,
-    "title": "Rivian spinout Also raises another $150M",
-    "link": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T15:39:47",
-    "saved": false
-  },
-  {
-    "id": -2739881129509770764,
-    "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-    "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T15:01:41",
-    "saved": false
-  },
-  {
-    "id": 2360288652218540005,
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-19T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -8536825589599468387,
-    "title": "A joke domain purchase turned in geopolitical warfare",
-    "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-19T11:21:50",
-    "saved": false
-  },
-  {
-    "id": -2541607939335865876,
-    "title": "fx :Tiny, open, native coding agent.",
-    "link": "https://fx.sh",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-18T22:00:21",
-    "saved": false
-  },
-  {
-    "id": 1361940179026649612,
+    "id": 1057958058330128016,
     "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
     "source": "Reddit ML",
@@ -180,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5747734655809296655,
+    "id": -7635178100310499738,
     "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
     "source": "Reddit ML",

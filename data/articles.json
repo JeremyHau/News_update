@@ -1,15 +1,60 @@
 [
   {
-    "id": -5368750546824387456,
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "link": "https://annas-archive.pk/blog/physical-destruction.html",
+    "id": 7798724791249462620,
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "link": "https://ozbrain.com",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-21T10:05:46",
+    "date": "2026-08-21T23:09:06",
     "saved": false
   },
   {
-    "id": 3010770697579195832,
+    "id": -5201564974499014067,
+    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+    "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-21T22:10:01",
+    "saved": false
+  },
+  {
+    "id": 2863512781648528539,
+    "title": "A Classification model trained entirely on a scientific calculator [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vurfv8/a_classification_model_trained_entirely_on_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-21T20:18:40",
+    "saved": false
+  },
+  {
+    "id": 8944046128927636810,
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-21T19:43:39",
+    "saved": false
+  },
+  {
+    "id": -5544327958460518855,
+    "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-21T16:38:15",
+    "saved": false
+  },
+  {
+    "id": -8850623736443299561,
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-21T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -8279966564990776627,
     "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
     "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
     "source": "TechCrunch",
@@ -18,84 +63,12 @@
     "saved": false
   },
   {
-    "id": -5303058236097371672,
-    "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-    "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T23:32:27",
-    "saved": false
-  },
-  {
-    "id": -849527250203098486,
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T22:36:37",
-    "saved": false
-  },
-  {
-    "id": 3544737100729271939,
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T19:18:21",
-    "saved": false
-  },
-  {
-    "id": -726070784616063607,
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T17:18:58",
-    "saved": false
-  },
-  {
-    "id": -703674159471955344,
-    "title": "Ramp launches its own AI model router, called Router",
-    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-20T16:46:00",
-    "saved": false
-  },
-  {
-    "id": -8983848463422473027,
-    "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-20T11:31:12",
-    "saved": false
-  },
-  {
-    "id": 3476612311935000038,
-    "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-19T21:30:26",
-    "saved": false
-  },
-  {
-    "id": 6620866248745167038,
-    "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-18T09:26:21",
-    "saved": false
-  },
-  {
-    "id": -807384571492193517,
-    "title": "Flat Chair by Sara Paculdo",
-    "link": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
+    "id": 1940468607727567182,
+    "title": "AI boosted homework scores, then exam scores dropped: study",
+    "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-17T14:01:37",
+    "date": "2026-08-19T06:13:31",
     "saved": false
   }
 ]

@@ -1,15 +1,33 @@
 [
   {
-    "id": 7798724791249462620,
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "link": "https://ozbrain.com",
+    "id": 7980873333017322908,
+    "title": "Munder Difflin – Agent harness to run an office of your clones",
+    "link": "https://munderdiffl.in/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-21T23:09:06",
+    "date": "2026-08-22T09:49:14",
     "saved": false
   },
   {
-    "id": -5201564974499014067,
+    "id": -3652536792628270873,
+    "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-22T04:39:18",
+    "saved": false
+  },
+  {
+    "id": -1879431532905302158,
+    "title": "Michael Polansky is training an AI model on skin that’s still alive",
+    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-22T01:31:04",
+    "saved": false
+  },
+  {
+    "id": -1374539909468529331,
     "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
     "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
     "source": "TechCrunch",
@@ -18,16 +36,7 @@
     "saved": false
   },
   {
-    "id": 2863512781648528539,
-    "title": "A Classification model trained entirely on a scientific calculator [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vurfv8/a_classification_model_trained_entirely_on_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-21T20:18:40",
-    "saved": false
-  },
-  {
-    "id": 8944046128927636810,
+    "id": 228724289748500050,
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
     "source": "TechCrunch",
@@ -36,7 +45,16 @@
     "saved": false
   },
   {
-    "id": -5544327958460518855,
+    "id": -3596754454486139597,
+    "title": "How Thailand Resisted Colonization",
+    "link": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-21T18:28:42",
+    "saved": false
+  },
+  {
+    "id": 7839029456854817641,
     "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
     "source": "Reddit ML",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8850623736443299561,
+    "id": -7544696661376956530,
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "source": "TechCrunch",
@@ -54,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -8279966564990776627,
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-21T00:13:44",
-    "saved": false
-  },
-  {
-    "id": 1940468607727567182,
+    "id": -6359595555146350192,
     "title": "AI boosted homework scores, then exam scores dropped: study",
     "link": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
     "source": "Hacker News",

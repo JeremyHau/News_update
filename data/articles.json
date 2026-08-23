@@ -1,6 +1,6 @@
 [
   {
-    "id": -3422838004030984891,
+    "id": -2945468392527836267,
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "source": "TechCrunch",
@@ -9,7 +9,7 @@
     "saved": false
   },
   {
-    "id": 3007960928988109443,
+    "id": -7912988220105523313,
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "source": "TechCrunch",
@@ -18,7 +18,7 @@
     "saved": false
   },
   {
-    "id": -6303836031566473002,
+    "id": -8380974442112421861,
     "title": "Why your local LLM feels dumber than it is",
     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
     "source": "Hacker News",
@@ -27,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -6785489395106578231,
+    "id": -7223155555310997436,
     "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
     "source": "Reddit ML",
@@ -36,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 3987454436664672038,
+    "id": 7277026003357191506,
     "title": "OpenAI says California should strengthen its AI safety bill",
     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "source": "TechCrunch",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 2807878568955389776,
+    "id": 3915300652939336355,
     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1453700960515297512,
+    "id": 1988827288497336291,
     "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
     "source": "Reddit ML",
@@ -63,16 +63,7 @@
     "saved": false
   },
   {
-    "id": 9092185920026585576,
-    "title": "Munder Difflin – Agent harness to run an office of your clones",
-    "link": "https://munderdiffl.in/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-22T09:49:14",
-    "saved": false
-  },
-  {
-    "id": 672430948258850934,
+    "id": -8099015627204373585,
     "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
     "source": "Reddit ML",
@@ -81,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 8643622154635772291,
+    "id": -4215330662886370621,
     "title": "Michael Polansky is training an AI model on skin that’s still alive",
     "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
     "source": "TechCrunch",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 871233974926861922,
+    "id": -6632157454677983582,
     "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
     "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
     "source": "TechCrunch",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6847568532538245740,
+    "id": 653890887692389517,
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
     "source": "TechCrunch",
@@ -108,21 +99,12 @@
     "saved": false
   },
   {
-    "id": -7529410995749194334,
+    "id": 3679901021148936585,
     "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-21T16:38:15",
-    "saved": false
-  },
-  {
-    "id": 120088986343877023,
-    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-    "link": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-21T13:43:33",
     "saved": false
   }
 ]

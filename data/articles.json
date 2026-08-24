@@ -1,15 +1,78 @@
 [
   {
-    "id": -187145086174920130,
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-    "link": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "source": "Hacker News",
+    "id": 7065150142070758330,
+    "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-08-23T20:30:50",
+    "date": "2026-08-24T12:11:34",
     "saved": false
   },
   {
-    "id": -6612383878823280000,
+    "id": 7145442843190507837,
+    "title": "Agent Is Not the Model",
+    "link": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T11:20:40",
+    "saved": false
+  },
+  {
+    "id": -550487376462955985,
+    "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
+    "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T09:45:02",
+    "saved": false
+  },
+  {
+    "id": 6868795488452847574,
+    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+    "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T06:30:07",
+    "saved": false
+  },
+  {
+    "id": 3878492036644506425,
+    "title": "OCR It – pull text out of un-copyable documents for your LLM",
+    "link": "https://github.com/thiagotigaz/ocr-it",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T06:25:31",
+    "saved": false
+  },
+  {
+    "id": 4724925660986058680,
+    "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-24T06:11:03",
+    "saved": false
+  },
+  {
+    "id": -6313217262424842381,
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "link": "https://pantel.is/projects/ai-gaming-companion/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-23T23:18:17",
+    "saved": false
+  },
+  {
+    "id": 1619358531353105376,
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "link": "https://twitter.com/paulg/status/2091544343589060625",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-23T20:38:09",
+    "saved": false
+  },
+  {
+    "id": 2020007995418890433,
     "title": "Google Workspace thinks my domain is an email provider (2025)",
     "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
     "source": "Hacker News",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8841975925154517702,
+    "id": -6071716381980217631,
     "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
     "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
     "source": "Hacker News",
@@ -27,43 +90,7 @@
     "saved": false
   },
   {
-    "id": 8955612298011095117,
-    "title": "Explain it to me like I'm ten",
-    "link": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T18:08:13",
-    "saved": false
-  },
-  {
-    "id": -1130733344398841412,
-    "title": "My agent.md to improve LLM-assisted code quality",
-    "link": "https://fabiensanglard.net/agent.md/index.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T17:59:52",
-    "saved": false
-  },
-  {
-    "id": -4145165006204919750,
-    "title": "When an AI agent says “done” how do you know it actually happened? [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vwa9ap/when_an_ai_agent_says_done_how_do_you_know_it/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-23T15:32:09",
-    "saved": false
-  },
-  {
-    "id": -428333623720148177,
-    "title": "How Complex Systems Fail (1998)",
-    "link": "https://how.complexsystems.fail/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T15:13:31",
-    "saved": false
-  },
-  {
-    "id": -6272748642704652186,
+    "id": 7616235461465915546,
     "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
     "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
     "source": "TechCrunch",
@@ -72,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 8614534464323648604,
-    "title": "AI Chip Architectures",
-    "link": "https://www.jepeake.com/ai-chip-architectures",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T02:25:10",
-    "saved": false
-  },
-  {
-    "id": -3430526831344425791,
+    "id": -3248577023990817835,
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2979604597524335188,
+    "id": -118270223991609280,
     "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
     "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8864600475146906552,
+    "id": -2121880808318265697,
     "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
     "source": "Reddit ML",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2996073705455541384,
+    "id": 1526746314628463699,
     "title": "OpenAI says California should strengthen its AI safety bill",
     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5902931596248206779,
+    "id": -3977524495854023707,
     "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
     "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 1456952706383480423,
+    "id": 5109299873123642105,
     "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7625940984765331912,
+    "id": -6694196681001692187,
     "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
     "source": "Reddit ML",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 9197110987079526692,
+    "id": -2057965794502800606,
     "title": "Michael Polansky is training an AI model on skin that’s still alive",
     "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
     "source": "TechCrunch",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 7243354081647360518,
+    "id": 6972577907400895307,
     "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
     "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
     "source": "TechCrunch",
@@ -162,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -3518382371992583033,
+    "id": -436619865923310555,
     "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
     "source": "Reddit ML",

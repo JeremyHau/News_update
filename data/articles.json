@@ -1,6 +1,114 @@
 [
   {
-    "id": 7065150142070758330,
+    "id": -4204579845345075009,
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T00:23:12",
+    "saved": false
+  },
+  {
+    "id": 1351484234280782474,
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T22:13:40",
+    "saved": false
+  },
+  {
+    "id": 826157116121726941,
+    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+    "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-24T19:58:17",
+    "saved": false
+  },
+  {
+    "id": -8658187976897157721,
+    "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-24T19:10:39",
+    "saved": false
+  },
+  {
+    "id": 8426877856343893569,
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T19:03:06",
+    "saved": false
+  },
+  {
+    "id": 4765307895643225291,
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-24T18:03:55",
+    "saved": false
+  },
+  {
+    "id": 2380027784768849795,
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T17:53:14",
+    "saved": false
+  },
+  {
+    "id": 7649439572543359376,
+    "title": "Bart- A vintage llm [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-24T17:20:03",
+    "saved": false
+  },
+  {
+    "id": 9095438896470619979,
+    "title": "IPFS Maintainers Winding Down",
+    "link": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T15:48:45",
+    "saved": false
+  },
+  {
+    "id": -2806369887464189876,
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-24T15:28:04",
+    "saved": false
+  },
+  {
+    "id": -1555823635736152393,
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-24T15:24:18",
+    "saved": false
+  },
+  {
+    "id": -9092014711016811848,
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-24T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -5807910718605898999,
     "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
     "source": "Reddit ML",
@@ -9,43 +117,7 @@
     "saved": false
   },
   {
-    "id": 7145442843190507837,
-    "title": "Agent Is Not the Model",
-    "link": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T11:20:40",
-    "saved": false
-  },
-  {
-    "id": -550487376462955985,
-    "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-    "link": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T09:45:02",
-    "saved": false
-  },
-  {
-    "id": 6868795488452847574,
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "link": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T06:30:07",
-    "saved": false
-  },
-  {
-    "id": 3878492036644506425,
-    "title": "OCR It – pull text out of un-copyable documents for your LLM",
-    "link": "https://github.com/thiagotigaz/ocr-it",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T06:25:31",
-    "saved": false
-  },
-  {
-    "id": 4724925660986058680,
+    "id": -8477125956951839561,
     "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
     "source": "Reddit ML",
@@ -54,70 +126,7 @@
     "saved": false
   },
   {
-    "id": -6313217262424842381,
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "link": "https://pantel.is/projects/ai-gaming-companion/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T23:18:17",
-    "saved": false
-  },
-  {
-    "id": 1619358531353105376,
-    "title": "I were 17, I'd learn how to build LLMs from scratch",
-    "link": "https://twitter.com/paulg/status/2091544343589060625",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T20:38:09",
-    "saved": false
-  },
-  {
-    "id": 2020007995418890433,
-    "title": "Google Workspace thinks my domain is an email provider (2025)",
-    "link": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T19:29:32",
-    "saved": false
-  },
-  {
-    "id": -6071716381980217631,
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "link": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T18:16:37",
-    "saved": false
-  },
-  {
-    "id": 7616235461465915546,
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-23T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -3248577023990817835,
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-22T21:46:56",
-    "saved": false
-  },
-  {
-    "id": -118270223991609280,
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-22T19:00:00",
-    "saved": false
-  },
-  {
-    "id": -2121880808318265697,
+    "id": 4114805508774234872,
     "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
     "source": "Reddit ML",
@@ -126,66 +135,12 @@
     "saved": false
   },
   {
-    "id": 1526746314628463699,
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-22T16:30:34",
-    "saved": false
-  },
-  {
-    "id": -3977524495854023707,
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-22T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 5109299873123642105,
-    "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-22T14:30:28",
-    "saved": false
-  },
-  {
-    "id": -6694196681001692187,
+    "id": -3177696940350027208,
     "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-22T04:39:18",
-    "saved": false
-  },
-  {
-    "id": -2057965794502800606,
-    "title": "Michael Polansky is training an AI model on skin that’s still alive",
-    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-22T01:31:04",
-    "saved": false
-  },
-  {
-    "id": 6972577907400895307,
-    "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-    "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-21T22:10:01",
-    "saved": false
-  },
-  {
-    "id": -436619865923310555,
-    "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-21T16:38:15",
     "saved": false
   }
 ]

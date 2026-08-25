@@ -1,6 +1,51 @@
 [
   {
-    "id": -4204579845345075009,
+    "id": 5634174812154504982,
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 5113876363472774464,
+    "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-25T10:30:17",
+    "saved": false
+  },
+  {
+    "id": -7076450399019798929,
+    "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-25T06:34:35",
+    "saved": false
+  },
+  {
+    "id": 136609329515350101,
+    "title": "Headlong: A Microharness for Persistent Agents",
+    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-25T03:54:19",
+    "saved": false
+  },
+  {
+    "id": -614717094067478470,
+    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+    "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T03:30:00",
+    "saved": false
+  },
+  {
+    "id": -2705086242006988562,
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1351484234280782474,
+    "id": -3306622206143364481,
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
     "link": "https://developer.apple.com/news/?id=1ptvdtcm",
     "source": "Hacker News",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 826157116121726941,
+    "id": -5357131610132753595,
     "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
     "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
     "source": "TechCrunch",
@@ -27,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -8658187976897157721,
+    "id": -2167442113694407473,
     "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
     "source": "Reddit ML",
@@ -36,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 8426877856343893569,
-    "title": "LLMs could control their host machines by exploiting inference engines",
-    "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T19:03:06",
-    "saved": false
-  },
-  {
-    "id": 4765307895643225291,
+    "id": 294675107693345253,
     "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
     "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
     "source": "TechCrunch",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 2380027784768849795,
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-    "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T17:53:14",
-    "saved": false
-  },
-  {
-    "id": 7649439572543359376,
+    "id": 9154481086673449048,
     "title": "Bart- A vintage llm [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
     "source": "Reddit ML",
@@ -72,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 9095438896470619979,
-    "title": "IPFS Maintainers Winding Down",
-    "link": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T15:48:45",
-    "saved": false
-  },
-  {
-    "id": -2806369887464189876,
+    "id": -723008200026365443,
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
     "source": "Hacker News",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1555823635736152393,
+    "id": -7558321120740596407,
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -9092014711016811848,
+    "id": -4780748971428130302,
     "title": "OpenAI is building AI agents for everything. Will everyone use them?",
     "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5807910718605898999,
+    "id": 2341917970573369845,
     "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
     "source": "Reddit ML",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -8477125956951839561,
+    "id": -4160300359072796064,
     "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
     "source": "Reddit ML",
@@ -126,16 +144,16 @@
     "saved": false
   },
   {
-    "id": 4114805508774234872,
-    "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
-    "source": "Reddit ML",
+    "id": -2075428675835392864,
+    "title": "Training AI to Paint with Code",
+    "link": "https://surya.website/rling-qwen-to-paint-with-code",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-22T17:32:17",
+    "date": "2026-08-23T19:39:29",
     "saved": false
   },
   {
-    "id": -3177696940350027208,
+    "id": -4961809667008375949,
     "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
     "source": "Reddit ML",

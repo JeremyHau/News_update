@@ -1,15 +1,123 @@
 [
   {
-    "id": 5634174812154504982,
-    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "id": 6427575703041644923,
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-25T12:00:00",
+    "date": "2026-08-26T00:06:20",
     "saved": false
   },
   {
-    "id": 5113876363472774464,
+    "id": 4732814557241651421,
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "link": "https://github.com/runetes/maiao",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-25T22:40:07",
+    "saved": false
+  },
+  {
+    "id": 794353005885440427,
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "link": "https://github.com/swimmingbrain/texbrain",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-25T22:08:50",
+    "saved": false
+  },
+  {
+    "id": 9201899365985977382,
+    "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
+    "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T19:22:52",
+    "saved": false
+  },
+  {
+    "id": 1901192552103855559,
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T19:03:47",
+    "saved": false
+  },
+  {
+    "id": -4856613766352497302,
+    "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-25T18:34:35",
+    "saved": false
+  },
+  {
+    "id": 4462986918392281224,
+    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-25T17:28:52",
+    "saved": false
+  },
+  {
+    "id": -2547373709394324647,
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "link": "https://github.com/ThinkOffApp/CarWatch",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-25T15:20:20",
+    "saved": false
+  },
+  {
+    "id": 622628902411035599,
+    "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+    "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T14:46:32",
+    "saved": false
+  },
+  {
+    "id": -6949714391340996630,
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T14:22:04",
+    "saved": false
+  },
+  {
+    "id": 7104416267179839570,
+    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+    "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-25T14:06:02",
+    "saved": false
+  },
+  {
+    "id": -6949908749086567656,
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-25T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -1832798182280231218,
+    "title": "What would a fair benchmark for agent architecture look like? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-25T13:55:48",
+    "saved": false
+  },
+  {
+    "id": 2138316541510556495,
     "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
     "source": "Reddit ML",
@@ -18,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7076450399019798929,
+    "id": -8205101147164726565,
     "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
     "source": "Reddit ML",
@@ -27,52 +135,7 @@
     "saved": false
   },
   {
-    "id": 136609329515350101,
-    "title": "Headlong: A Microharness for Persistent Agents",
-    "link": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-25T03:54:19",
-    "saved": false
-  },
-  {
-    "id": -614717094067478470,
-    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
-    "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-25T03:30:00",
-    "saved": false
-  },
-  {
-    "id": -2705086242006988562,
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-25T00:23:12",
-    "saved": false
-  },
-  {
-    "id": -3306622206143364481,
-    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "link": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T22:13:40",
-    "saved": false
-  },
-  {
-    "id": -5357131610132753595,
-    "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-    "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-24T19:58:17",
-    "saved": false
-  },
-  {
-    "id": -2167442113694407473,
+    "id": -2270044437304747654,
     "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
     "source": "Reddit ML",
@@ -81,16 +144,7 @@
     "saved": false
   },
   {
-    "id": 294675107693345253,
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-24T18:03:55",
-    "saved": false
-  },
-  {
-    "id": 9154481086673449048,
+    "id": -7525776185054636444,
     "title": "Bart- A vintage llm [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
     "source": "Reddit ML",
@@ -99,34 +153,7 @@
     "saved": false
   },
   {
-    "id": -723008200026365443,
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-24T15:28:04",
-    "saved": false
-  },
-  {
-    "id": -7558321120740596407,
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-24T15:24:18",
-    "saved": false
-  },
-  {
-    "id": -4780748971428130302,
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-24T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 2341917970573369845,
+    "id": 6917713171905739181,
     "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
     "source": "Reddit ML",
@@ -135,30 +162,12 @@
     "saved": false
   },
   {
-    "id": -4160300359072796064,
+    "id": -1866678252983622631,
     "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-24T06:11:03",
-    "saved": false
-  },
-  {
-    "id": -2075428675835392864,
-    "title": "Training AI to Paint with Code",
-    "link": "https://surya.website/rling-qwen-to-paint-with-code",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-23T19:39:29",
-    "saved": false
-  },
-  {
-    "id": -4961809667008375949,
-    "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-22T04:39:18",
     "saved": false
   }
 ]

@@ -1,7 +1,43 @@
 [
   {
-    "id": 6427575703041644923,
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "id": -4060383868290040068,
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 492135823147965158,
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T11:00:00",
+    "saved": false
+  },
+  {
+    "id": -8048860429258810656,
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-26T10:04:55",
+    "saved": false
+  },
+  {
+    "id": -1148216172569642161,
+    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T03:30:00",
+    "saved": false
+  },
+  {
+    "id": 5663169892689405947,
+    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
     "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
     "source": "TechCrunch",
     "category": "tech",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 4732814557241651421,
+    "id": 3251686903373650292,
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "link": "https://github.com/runetes/maiao",
     "source": "Hacker News",
@@ -18,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 794353005885440427,
-    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-    "link": "https://github.com/swimmingbrain/texbrain",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-25T22:08:50",
-    "saved": false
-  },
-  {
-    "id": 9201899365985977382,
+    "id": 1354900250530233931,
     "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
     "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1901192552103855559,
+    "id": 1147059064933916478,
     "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
     "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "source": "TechCrunch",
@@ -45,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4856613766352497302,
+    "id": -2630441796256204650,
     "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
     "source": "Reddit ML",
@@ -54,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 4462986918392281224,
-    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-25T17:28:52",
-    "saved": false
-  },
-  {
-    "id": -2547373709394324647,
-    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-    "link": "https://github.com/ThinkOffApp/CarWatch",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-25T15:20:20",
-    "saved": false
-  },
-  {
-    "id": 622628902411035599,
+    "id": -6429591234188710270,
     "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
     "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6949714391340996630,
+    "id": -4740702910597463442,
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7104416267179839570,
+    "id": -1839518442801408589,
     "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
     "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
     "source": "Hacker News",
@@ -99,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -6949908749086567656,
-    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-    "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-25T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -1832798182280231218,
+    "id": -477341905103040698,
     "title": "What would a fair benchmark for agent architecture look like? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
     "source": "Reddit ML",
@@ -117,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 2138316541510556495,
+    "id": 1177903446773416653,
     "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
     "source": "Reddit ML",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -8205101147164726565,
+    "id": -4293298975500546709,
     "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
     "source": "Reddit ML",
@@ -135,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2270044437304747654,
+    "id": 4810392958932687686,
     "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
     "source": "Reddit ML",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -7525776185054636444,
+    "id": -1488737130150793881,
     "title": "Bart- A vintage llm [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
     "source": "Reddit ML",
@@ -153,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6917713171905739181,
+    "id": -6629091958299489347,
     "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
     "source": "Reddit ML",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -1866678252983622631,
+    "id": 1557899691602990338,
     "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
     "source": "Reddit ML",

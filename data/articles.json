@@ -1,78 +1,132 @@
 [
   {
-    "id": -4060383868290040068,
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-26T12:00:00",
-    "saved": false
-  },
-  {
-    "id": 492135823147965158,
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-26T11:00:00",
-    "saved": false
-  },
-  {
-    "id": -8048860429258810656,
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "link": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "id": 7307700383647795728,
+    "title": "Laion Big Video Dataset",
+    "link": "https://projects.laion.ai/bvd/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-26T10:04:55",
+    "date": "2026-08-27T01:50:26",
     "saved": false
   },
   {
-    "id": -1148216172569642161,
-    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-26T03:30:00",
-    "saved": false
-  },
-  {
-    "id": 5663169892689405947,
-    "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-26T00:06:20",
-    "saved": false
-  },
-  {
-    "id": 3251686903373650292,
-    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "link": "https://github.com/runetes/maiao",
+    "id": 4585569038551757703,
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "link": "https://github.com/SenteLabsAI/OpenExecutive",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-25T22:40:07",
+    "date": "2026-08-27T01:46:22",
     "saved": false
   },
   {
-    "id": 1354900250530233931,
-    "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
-    "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+    "id": -8693890887335388263,
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-25T19:22:52",
+    "date": "2026-08-27T00:24:57",
     "saved": false
   },
   {
-    "id": 1147059064933916478,
-    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-    "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "id": 8649719554782715634,
+    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "link": "https://acceptmarkdown.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-26T19:45:59",
+    "saved": false
+  },
+  {
+    "id": -1540854161229840387,
+    "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+    "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-08-25T19:03:47",
+    "date": "2026-08-26T19:37:34",
     "saved": false
   },
   {
-    "id": -2630441796256204650,
+    "id": -1070500742639482328,
+    "title": "How do we explain OpenAI’s executive exodus?",
+    "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T19:34:04",
+    "saved": false
+  },
+  {
+    "id": -7329006281747141053,
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T19:05:22",
+    "saved": false
+  },
+  {
+    "id": -3752391456455701206,
+    "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+    "link": "https://github.com/tailscale/tailcat",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-26T17:42:22",
+    "saved": false
+  },
+  {
+    "id": 6695575187159957158,
+    "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+    "link": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T17:01:05",
+    "saved": false
+  },
+  {
+    "id": 1436012597507906388,
+    "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-26T16:53:40",
+    "saved": false
+  },
+  {
+    "id": 4533649334398500442,
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T15:47:28",
+    "saved": false
+  },
+  {
+    "id": 2003892093318938793,
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -2333841501856907121,
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T14:37:01",
+    "saved": false
+  },
+  {
+    "id": 1694294533528119673,
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-26T14:19:29",
+    "saved": false
+  },
+  {
+    "id": -3532160615396287247,
     "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
     "source": "Reddit ML",
@@ -81,34 +135,7 @@
     "saved": false
   },
   {
-    "id": -6429591234188710270,
-    "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-    "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-25T14:46:32",
-    "saved": false
-  },
-  {
-    "id": -4740702910597463442,
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-25T14:22:04",
-    "saved": false
-  },
-  {
-    "id": -1839518442801408589,
-    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-    "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-25T14:06:02",
-    "saved": false
-  },
-  {
-    "id": -477341905103040698,
+    "id": 3316455311669057783,
     "title": "What would a fair benchmark for agent architecture look like? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vy0ki7/what_would_a_fair_benchmark_for_agent/",
     "source": "Reddit ML",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 1177903446773416653,
+    "id": 8937851562851958313,
     "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4293298975500546709,
+    "id": 227315834170742105,
     "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
     "source": "Reddit ML",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4810392958932687686,
+    "id": 3690083814568290881,
     "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
     "source": "Reddit ML",
@@ -144,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -1488737130150793881,
+    "id": -1726035137458556134,
     "title": "Bart- A vintage llm [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
     "source": "Reddit ML",
@@ -153,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -6629091958299489347,
+    "id": 476364376464903242,
     "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
     "source": "Reddit ML",
@@ -162,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 1557899691602990338,
+    "id": 5160749841944798809,
     "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
     "source": "Reddit ML",

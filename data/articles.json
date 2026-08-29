@@ -1,15 +1,42 @@
 [
   {
-    "id": -3137953982556575348,
-    "title": "Stopping the smart TV from being used against you",
-    "link": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+    "id": -1083215627721900725,
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "link": "https://github.com/stemdeckapp/stemdeck",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-28T20:27:57",
+    "date": "2026-08-29T01:24:13",
     "saved": false
   },
   {
-    "id": 2268268003821992539,
+    "id": -8777395083582883042,
+    "title": "I accidentally turned LLM memory into program analysis",
+    "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-28T23:27:45",
+    "saved": false
+  },
+  {
+    "id": 9103770137447200217,
+    "title": "Is the best way to watch a movie on a pair of sunglasses?",
+    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-28T22:42:48",
+    "saved": false
+  },
+  {
+    "id": 5769326052603087359,
+    "title": "Identifying fake cosmetics using AI",
+    "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-28T22:18:27",
+    "saved": false
+  },
+  {
+    "id": 7968906874459714380,
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "source": "TechCrunch",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 5300778170089676634,
-    "title": "The Analytical AI Handbook",
-    "link": "https://handbook.sutro.sh",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-28T19:01:47",
-    "saved": false
-  },
-  {
-    "id": 3677136100301444060,
+    "id": 8574921017353535730,
     "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
     "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -5469094578072978691,
+    "id": -1748037919712084853,
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "source": "TechCrunch",
@@ -45,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -554149486805044013,
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "link": "https://arxiv.org/abs/2608.23691",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-28T17:01:12",
-    "saved": false
-  },
-  {
-    "id": -7349358017942708796,
+    "id": 5509279825758763816,
     "title": "Apple TV is raising its subscription prices again",
     "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 7736933994782304914,
+    "id": -2830886637498828137,
     "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
     "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 8919663534344804849,
+    "id": 7728537728563017766,
     "title": "U.S. sanctions against the A/I Collective",
     "link": "https://www.inventati.org/",
     "source": "Hacker News",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4294643347806792339,
+    "id": 4010808087316876106,
     "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 18382191214407604,
+    "id": -1170710627585057727,
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
     "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2312018879639546260,
+    "id": -7809000466184192858,
     "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
     "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -3383380448398743668,
+    "id": 1800892330922602402,
     "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
     "link": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4267380393429825383,
+    "id": -7069718868479938126,
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -532164944686532544,
+    "id": 6936753437231388307,
     "title": "Can AI Improve Itself? RSI Might Be the Answer [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w052xg/can_ai_improve_itself_rsi_might_be_the_answer_r/",
     "source": "Reddit ML",
@@ -135,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 4639424391239503141,
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-27T19:52:52",
-    "saved": false
-  },
-  {
-    "id": 5146565426044060741,
-    "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
-    "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-27T17:54:23",
-    "saved": false
-  },
-  {
-    "id": -1414933451703432094,
+    "id": -2484482182452485789,
     "title": "ECCV 2026- MALMO LUND TRAVEL PASS NOT AVAILABLE? [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vzu8uy/eccv_2026_malmo_lund_travel_pass_not_available_n/",
     "source": "Reddit ML",
@@ -162,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 8684642244540368918,
+    "id": -7455346502508095179,
     "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
     "source": "Reddit ML",
@@ -171,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -3720467572110633438,
+    "id": -4178723974666783543,
     "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
     "source": "Reddit ML",
@@ -180,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -4327532079927836582,
+    "id": 536801519192824292,
     "title": "Continual Learning of Frontier Models for SovereignAI. Tech Report + Open Weights Model [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxvzju/continual_learning_of_frontier_models_for/",
     "source": "Reddit ML",
@@ -189,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 7424203723328997325,
+    "id": -2764378126481643053,
     "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
     "source": "Reddit ML",
@@ -198,16 +189,7 @@
     "saved": false
   },
   {
-    "id": -8119759792066291632,
-    "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-24T19:10:39",
-    "saved": false
-  },
-  {
-    "id": 1203411679843239344,
+    "id": 2012408928633371021,
     "title": "Bart- A vintage llm [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1vx94er/bart_a_vintage_llm_r/",
     "source": "Reddit ML",

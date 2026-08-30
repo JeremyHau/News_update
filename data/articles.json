@@ -1,15 +1,42 @@
 [
   {
-    "id": 8013119199270677513,
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-29T23:17:17",
+    "id": 243164202972937318,
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-30T15:00:00",
     "saved": false
   },
   {
-    "id": -4047659872470139368,
+    "id": 6784904485596589383,
+    "title": "No AI Fridays",
+    "link": "https://noaifridays.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-30T12:31:05",
+    "saved": false
+  },
+  {
+    "id": 8166917601144382797,
+    "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-30T11:55:38",
+    "saved": false
+  },
+  {
+    "id": -1189484578443248922,
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "link": "https://arxiv.org/abs/1804.07389",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-30T08:23:26",
+    "saved": false
+  },
+  {
+    "id": 5316308798444440142,
     "title": "Open-source access-control checker for retrieval-based AI applications [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
     "source": "Reddit ML",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": -6220155467023663822,
-    "title": "Domain-Driven Agents",
-    "link": "https://coldtake.dev/blog/domain-driven-agents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-29T19:28:28",
-    "saved": false
-  },
-  {
-    "id": -6095251154108029772,
+    "id": -6247052307049302641,
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 5231570752049554052,
+    "id": -3051211814376136355,
     "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
     "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
     "source": "TechCrunch",
@@ -45,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -692955907833243983,
-    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-29T17:19:47",
-    "saved": false
-  },
-  {
-    "id": -4554805422793605356,
+    "id": 4531020627101798336,
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 5888645976042162001,
+    "id": 2548148891730541762,
     "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
     "source": "Reddit ML",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2486462446587670298,
+    "id": 3426631045693787173,
     "title": "Is the best way to watch a movie on a pair of sunglasses?",
     "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3854744862148465810,
+    "id": 4218222630991961226,
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 1944176652101868963,
+    "id": -2230150210028977308,
     "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
     "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1833784294774089937,
+    "id": 1285061150963699503,
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1541774312056661766,
+    "id": 8190917751837414454,
     "title": "Apple TV is raising its subscription prices again",
     "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 2206461045000629447,
+    "id": 425719836234037586,
     "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
     "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
     "source": "TechCrunch",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3653070915138318360,
+    "id": -6704257664289833199,
     "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
     "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5841464550459351024,
+    "id": 4876783288465316296,
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
     "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
     "source": "TechCrunch",
@@ -144,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -7064119999844197336,
-    "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-    "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-28T09:33:00",
-    "saved": false
-  },
-  {
-    "id": -1902477163018889119,
+    "id": -9098931883066084422,
     "title": "Can AI Improve Itself? RSI Might Be the Answer [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w052xg/can_ai_improve_itself_rsi_might_be_the_answer_r/",
     "source": "Reddit ML",
@@ -162,21 +162,12 @@
     "saved": false
   },
   {
-    "id": -5080857078166629167,
-    "title": "ECCV 2026- MALMO LUND TRAVEL PASS NOT AVAILABLE? [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vzu8uy/eccv_2026_malmo_lund_travel_pass_not_available_n/",
-    "source": "Reddit ML",
+    "id": -3902113486502669463,
+    "title": "What my dad taught me about AI coding in the 90s",
+    "link": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-27T13:38:37",
-    "saved": false
-  },
-  {
-    "id": -68301807168339077,
-    "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-26T16:53:40",
+    "date": "2026-08-24T13:19:55",
     "saved": false
   }
 ]

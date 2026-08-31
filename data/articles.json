@@ -1,6 +1,33 @@
 [
   {
-    "id": 243164202972937318,
+    "id": 5659377479990459839,
+    "title": "Yen weakens past ¥160 per dollar, eroding intervention gains",
+    "link": "https://www.japantimes.co.jp/business/2026/08/29/markets/yen-160-dollar-intervention/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-31T00:37:47",
+    "saved": false
+  },
+  {
+    "id": -2923742501144054747,
+    "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+    "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-30T18:33:44",
+    "saved": false
+  },
+  {
+    "id": 4991111818386673018,
+    "title": "Haiku R1/beta6 has been released",
+    "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-30T16:01:10",
+    "saved": false
+  },
+  {
+    "id": 2516372842910113732,
     "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
     "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
     "source": "TechCrunch",
@@ -9,16 +36,7 @@
     "saved": false
   },
   {
-    "id": 6784904485596589383,
-    "title": "No AI Fridays",
-    "link": "https://noaifridays.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-30T12:31:05",
-    "saved": false
-  },
-  {
-    "id": 8166917601144382797,
+    "id": -4431572591811160004,
     "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
     "source": "Reddit ML",
@@ -27,16 +45,7 @@
     "saved": false
   },
   {
-    "id": -1189484578443248922,
-    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-    "link": "https://arxiv.org/abs/1804.07389",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-30T08:23:26",
-    "saved": false
-  },
-  {
-    "id": 5316308798444440142,
+    "id": -7786906560935664341,
     "title": "Open-source access-control checker for retrieval-based AI applications [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
     "source": "Reddit ML",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -6247052307049302641,
+    "id": 7412984686003471606,
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3051211814376136355,
+    "id": -2407187171325561773,
     "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
     "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 4531020627101798336,
+    "id": 3664831251527156379,
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2548148891730541762,
+    "id": -1215464272777349994,
     "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
     "source": "Reddit ML",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 3426631045693787173,
+    "id": -4557323497626949923,
     "title": "Is the best way to watch a movie on a pair of sunglasses?",
     "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4218222630991961226,
+    "id": -5070288392875897616,
     "title": "An Anthropic researcher just gave us a peek at self-improving AI",
     "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
     "source": "TechCrunch",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2230150210028977308,
+    "id": 7222651973864398477,
     "title": "Brave’s browser one-ups Chrome with its new support for email aliases",
     "link": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1285061150963699503,
+    "id": -8900532482795604024,
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 8190917751837414454,
+    "id": -3634640267569458545,
     "title": "Apple TV is raising its subscription prices again",
     "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
     "source": "TechCrunch",
@@ -126,48 +135,21 @@
     "saved": false
   },
   {
-    "id": 425719836234037586,
-    "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
-    "link": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-28T13:24:43",
-    "saved": false
-  },
-  {
-    "id": -6704257664289833199,
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-28T12:46:12",
-    "saved": false
-  },
-  {
-    "id": 4876783288465316296,
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-28T12:21:06",
-    "saved": false
-  },
-  {
-    "id": -9098931883066084422,
-    "title": "Can AI Improve Itself? RSI Might Be the Answer [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w052xg/can_ai_improve_itself_rsi_might_be_the_answer_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-27T20:13:30",
-    "saved": false
-  },
-  {
-    "id": -3902113486502669463,
-    "title": "What my dad taught me about AI coding in the 90s",
-    "link": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "id": 741757394679026719,
+    "title": "Electric rain can eat through metal",
+    "link": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-08-24T13:19:55",
+    "date": "2026-08-27T12:04:11",
+    "saved": false
+  },
+  {
+    "id": 6855190973340032266,
+    "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+    "link": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-26T15:04:44",
     "saved": false
   }
 ]

@@ -1,24 +1,60 @@
 [
   {
-    "id": -5034356904477817013,
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "link": "https://jobs.ashbyhq.com/workweave",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-31T18:15:26",
+    "id": -3625758866997335050,
+    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
+    "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-01T00:30:00",
     "saved": false
   },
   {
-    "id": 759689691418437849,
-    "title": "The Safest Job from AI May Be Writing",
-    "link": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-31T18:12:20",
+    "id": 6551068692556504815,
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-01T00:13:00",
     "saved": false
   },
   {
-    "id": 8516582320210876335,
+    "id": 7579585464895029739,
+    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
+    "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-31T23:41:10",
+    "saved": false
+  },
+  {
+    "id": -4737079124731491258,
+    "title": "Autonomous (YC F25) is hiring engineers",
+    "link": "https://news.ycombinator.com/item?id=49514781",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-31T21:00:09",
+    "saved": false
+  },
+  {
+    "id": -7375021594944472602,
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-31T19:16:59",
+    "saved": false
+  },
+  {
+    "id": 4672845234621443384,
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-08-31T18:35:11",
+    "saved": false
+  },
+  {
+    "id": 8927611761038479487,
     "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
     "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 5823136538518396468,
+    "id": 1552755940166554492,
     "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
     "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7626694416474589049,
+    "id": 7264496967836611239,
     "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
     "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
     "source": "TechCrunch",
@@ -45,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 4557405940278131881,
-    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-    "link": "https://usealmanac.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-31T15:34:34",
-    "saved": false
-  },
-  {
-    "id": 8586741663042404766,
+    "id": 2222569828644500333,
     "title": "How AI could make it harder for governments to use hacking tools",
     "link": "https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6346920389488226359,
+    "id": -1164650576678551225,
     "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
     "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2678742820950242958,
+    "id": -3661016457147261281,
     "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
     "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
     "source": "Hacker News",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8215880483198814895,
+    "id": -4059907548436141989,
     "title": "Cold emailing profs about PhD positions? Read this [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
     "source": "Reddit ML",
@@ -90,25 +117,16 @@
     "saved": false
   },
   {
-    "id": 1986056008540399189,
-    "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-    "link": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-30T18:33:44",
+    "id": 2458448227335576497,
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-30T22:37:01",
     "saved": false
   },
   {
-    "id": -4341036472660893767,
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-30T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -4481595782354168095,
+    "id": -1801255914489987987,
     "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
     "source": "Reddit ML",
@@ -117,21 +135,21 @@
     "saved": false
   },
   {
-    "id": 8493217734177063538,
-    "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-29T18:41:59",
+    "id": 219599270211993637,
+    "title": "Smartphone LED detects hidden cameras with AI",
+    "link": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-30T06:52:04",
     "saved": false
   },
   {
-    "id": -472430573757397865,
-    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
-    "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-29T17:51:10",
+    "id": -6120703191329968110,
+    "title": "Open-source access-control checker for retrieval-based AI applications [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-08-29T22:11:26",
     "saved": false
   }
 ]

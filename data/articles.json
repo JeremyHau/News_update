@@ -1,6 +1,87 @@
 [
   {
-    "id": -6421168444112284292,
+    "id": 8945093129279735975,
+    "title": "The efficient frontier of LLM inference",
+    "link": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-01T23:48:05",
+    "saved": false
+  },
+  {
+    "id": 6327476198318325254,
+    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "link": "https://masteranza.github.io/weedout/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-01T22:06:57",
+    "saved": false
+  },
+  {
+    "id": -2961415890863598426,
+    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-01T21:06:24",
+    "saved": false
+  },
+  {
+    "id": 4111281286305743863,
+    "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-01T19:17:00",
+    "saved": false
+  },
+  {
+    "id": -4676428461360985001,
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "link": "https://danluu.com/zitron/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-01T18:35:15",
+    "saved": false
+  },
+  {
+    "id": -3368680460940087891,
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-01T17:35:37",
+    "saved": false
+  },
+  {
+    "id": 7550843473215094422,
+    "title": "GoPro to be acquired for $285M, will remain a public company",
+    "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-01T15:57:23",
+    "saved": false
+  },
+  {
+    "id": 1385890694135905338,
+    "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-01T15:52:04",
+    "saved": false
+  },
+  {
+    "id": 3469151418603924215,
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-01T15:45:51",
+    "saved": false
+  },
+  {
+    "id": 1966954812673947310,
     "title": "Fambot introduces an ‘AI chief of staff’ for families",
     "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
     "source": "TechCrunch",
@@ -9,52 +90,16 @@
     "saved": false
   },
   {
-    "id": 1701026358607609099,
-    "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
-    "link": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
+    "id": -4794744398563036332,
+    "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+    "link": "https://mvakde.github.io/blog/44-on-arc-1/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-01T14:19:30",
+    "date": "2026-09-01T09:52:45",
     "saved": false
   },
   {
-    "id": -7658889318330762027,
-    "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
-    "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-01T00:30:00",
-    "saved": false
-  },
-  {
-    "id": -3612094610062806985,
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-01T00:13:00",
-    "saved": false
-  },
-  {
-    "id": 7634451633221238684,
-    "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund",
-    "link": "https://techcrunch.com/2026/08/31/polymarket-reportedly-raises-300-million-from-donald-trump-jr-s-investment-fund/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-31T23:41:10",
-    "saved": false
-  },
-  {
-    "id": -3831651689478924266,
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-08-31T19:16:59",
-    "saved": false
-  },
-  {
-    "id": 1163512325230001491,
+    "id": 3977699709475820339,
     "title": "Cold emailing profs about PhD positions? Read this [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
     "source": "Reddit ML",
@@ -63,21 +108,12 @@
     "saved": false
   },
   {
-    "id": 689772002602565541,
+    "id": 6456241492773476797,
     "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-30T11:55:38",
-    "saved": false
-  },
-  {
-    "id": 2215373194725912368,
-    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
-    "link": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-08-29T21:25:17",
     "saved": false
   }
 ]

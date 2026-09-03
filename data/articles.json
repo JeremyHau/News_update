@@ -1,6 +1,69 @@
 [
   {
-    "id": 1444993883361984773,
+    "id": 6868976724520907413,
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-02T22:44:56",
+    "saved": false
+  },
+  {
+    "id": 4018037551003442669,
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-02T22:24:09",
+    "saved": false
+  },
+  {
+    "id": 5769953219498911693,
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-02T20:19:14",
+    "saved": false
+  },
+  {
+    "id": 2582941179408790158,
+    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+    "link": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-02T18:42:41",
+    "saved": false
+  },
+  {
+    "id": 8709012505351791322,
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-02T17:18:13",
+    "saved": false
+  },
+  {
+    "id": -6602709521043021781,
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-02T17:09:06",
+    "saved": false
+  },
+  {
+    "id": 5299868003071167385,
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-02T16:01:48",
+    "saved": false
+  },
+  {
+    "id": 8183564742975418984,
     "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
     "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
     "source": "TechCrunch",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -2910696903191132622,
+    "id": 7370824988353029261,
     "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
     "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
     "source": "TechCrunch",
@@ -18,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -800364939961321832,
+    "id": -5873702150536202732,
     "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
     "source": "Reddit ML",
@@ -27,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 3183521538370797953,
-    "title": "WebLLM: high-performance in-browser LLM inference engine",
-    "link": "https://github.com/mlc-ai/web-llm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-02T14:02:35",
-    "saved": false
-  },
-  {
-    "id": -2724958617280011610,
+    "id": -4876987528547225858,
     "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
     "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
     "source": "Hacker News",
@@ -45,25 +99,7 @@
     "saved": false
   },
   {
-    "id": 7621695025921774203,
-    "title": "A third of Perplexity's citations don't contain the number they're cited for",
-    "link": "https://hausresearch.com/reports/perplexity-citation-audit/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-02T13:49:23",
-    "saved": false
-  },
-  {
-    "id": -3923903341249237018,
-    "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-    "link": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-02T13:43:14",
-    "saved": false
-  },
-  {
-    "id": 7918955950304121443,
+    "id": -1006308006992691560,
     "title": "Adobe is making its tools available in Slack",
     "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
     "source": "TechCrunch",
@@ -72,17 +108,8 @@
     "saved": false
   },
   {
-    "id": 8188734648240567161,
-    "title": "LLMs: Intelligence vs. Cost",
-    "link": "https://openteams.com/intelligence-vs-cost/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-02T13:03:50",
-    "saved": false
-  },
-  {
-    "id": -3237444289824572800,
-    "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+    "id": 7098787449453309884,
+    "title": "Aging brains blend memories together instead of just forgetting them",
     "link": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
     "source": "Hacker News",
     "category": "ai",
@@ -90,8 +117,8 @@
     "saved": false
   },
   {
-    "id": -9031532958560651711,
-    "title": "Mistral now trains on user input by default, except on enterprise tier",
+    "id": 5099785888889724128,
+    "title": "Can I opt out of my input or output data being used for training?",
     "link": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
     "source": "Hacker News",
     "category": "ai",
@@ -99,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 3498034031352277779,
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T12:09:42",
-    "saved": false
-  },
-  {
-    "id": 3158754918378216522,
+    "id": 6233322347744124447,
     "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
     "source": "Reddit ML",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3729584974830646758,
+    "id": 2639989334567403191,
     "title": "MIR with AudioMuse-AI-SAE [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
     "source": "Reddit ML",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 6490971442811662786,
+    "id": 7785143223673448780,
     "title": "I regret reviewing for AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
     "source": "Reddit ML",
@@ -135,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 7174264296139165359,
-    "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-01T21:06:24",
-    "saved": false
-  },
-  {
-    "id": 3337300460837866842,
+    "id": -5693403670024155033,
     "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
     "source": "Reddit ML",
@@ -153,16 +162,16 @@
     "saved": false
   },
   {
-    "id": 4321801324528082671,
-    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-01T17:35:37",
+    "id": 850175240847058857,
+    "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
+    "link": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-01T16:41:13",
     "saved": false
   },
   {
-    "id": -7192262403103627271,
+    "id": 855809734652692744,
     "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
     "source": "Reddit ML",
@@ -171,12 +180,21 @@
     "saved": false
   },
   {
-    "id": 2329555307193032887,
+    "id": -3193127025802570830,
     "title": "Cold emailing profs about PhD positions? Read this [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-08-31T12:09:24",
+    "saved": false
+  },
+  {
+    "id": -130922873004364778,
+    "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
+    "link": "https://www.nature.com/articles/s41562-026-02550-0",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-08-30T12:12:56",
     "saved": false
   }
 ]

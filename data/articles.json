@@ -1,6 +1,87 @@
 [
   {
-    "id": 7021933938141711925,
+    "id": 3558759919098520420,
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-04T00:48:42",
+    "saved": false
+  },
+  {
+    "id": 1181440050632129124,
+    "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-03T21:12:36",
+    "saved": false
+  },
+  {
+    "id": 3780094865644099687,
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "link": "https://arcprize.org/blog/astra",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-03T19:45:00",
+    "saved": false
+  },
+  {
+    "id": -8253591981720124878,
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-03T18:37:57",
+    "saved": false
+  },
+  {
+    "id": 6741574520348053444,
+    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "link": "https://inference-docs.cerebras.ai/models/overview",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-03T18:32:13",
+    "saved": false
+  },
+  {
+    "id": -3111805207765333836,
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-03T18:19:56",
+    "saved": false
+  },
+  {
+    "id": 7778604652835727085,
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-03T18:01:45",
+    "saved": false
+  },
+  {
+    "id": 4521073693892679197,
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-03T16:09:01",
+    "saved": false
+  },
+  {
+    "id": -2892575410217240102,
+    "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+    "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-03T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -7746353079749525922,
     "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
     "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
     "source": "TechCrunch",
@@ -9,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8108109325474832233,
+    "id": 4672477130536451636,
     "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
     "source": "Reddit ML",
@@ -18,7 +99,16 @@
     "saved": false
   },
   {
-    "id": 4051687845569812038,
+    "id": 5582425752484763148,
+    "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+    "link": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-03T14:28:18",
+    "saved": false
+  },
+  {
+    "id": 832185534461110974,
     "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
     "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
     "source": "TechCrunch",
@@ -27,70 +117,16 @@
     "saved": false
   },
   {
-    "id": -7891724971262748071,
-    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-    "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T22:44:56",
+    "id": -1104897659356230237,
+    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+    "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-03T01:11:22",
     "saved": false
   },
   {
-    "id": -712656121421118269,
-    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-    "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T22:24:09",
-    "saved": false
-  },
-  {
-    "id": 6297853213074803881,
-    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T20:19:14",
-    "saved": false
-  },
-  {
-    "id": -928299452571539117,
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T17:18:13",
-    "saved": false
-  },
-  {
-    "id": 7663680170278606658,
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T17:09:06",
-    "saved": false
-  },
-  {
-    "id": 1064767918962482544,
-    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-    "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T16:01:48",
-    "saved": false
-  },
-  {
-    "id": 2647599752923821282,
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-02T15:01:23",
-    "saved": false
-  },
-  {
-    "id": -7940199706005266370,
+    "id": 3923223642385558058,
     "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
     "source": "Reddit ML",
@@ -99,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 8349284536885399643,
-    "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-    "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-02T13:59:59",
-    "saved": false
-  },
-  {
-    "id": 9023388011521457069,
+    "id": 1466441640853274858,
     "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
     "source": "Reddit ML",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5015094387658652861,
+    "id": -7340050869452307593,
     "title": "MIR with AudioMuse-AI-SAE [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4579770950077264263,
+    "id": -589262659838803795,
     "title": "I regret reviewing for AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
     "source": "Reddit ML",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 5056253171401148388,
+    "id": -9039566718241177330,
     "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
     "source": "Reddit ML",
@@ -144,30 +171,30 @@
     "saved": false
   },
   {
-    "id": 4129347447412640609,
+    "id": -1500201582599687339,
+    "title": "The largest electric aircraft just flew [video]",
+    "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-01T19:02:34",
+    "saved": false
+  },
+  {
+    "id": 4357777102772061478,
+    "title": "Xanadu was waiting for agents",
+    "link": "https://zed.dev/blog/agentic-xanadu",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-01T18:50:42",
+    "saved": false
+  },
+  {
+    "id": -1148377661692804240,
     "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-01T15:52:04",
-    "saved": false
-  },
-  {
-    "id": -4292337528300077310,
-    "title": "The Browser's Main Thread Is Expensive",
-    "link": "https://kciter.so/posts/the-expensive-main-thread/en/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-01T14:00:15",
-    "saved": false
-  },
-  {
-    "id": 2255152924731099681,
-    "title": "Cold emailing profs about PhD positions? Read this [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-08-31T12:09:24",
     "saved": false
   }
 ]

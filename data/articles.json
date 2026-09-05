@@ -1,33 +1,69 @@
 [
   {
-    "id": -8556865831552588090,
-    "title": "GMails custom domain \"send as\" discontinues January 2027",
-    "link": "https://support.google.com/mail/answer/22370?hl=en",
+    "id": 718089865035548520,
+    "title": "Reversing MikroTik's Silent Patch: The RouterOS 7.23.4 Fix They Wouldn't Explain",
+    "link": "https://npratley.net/reversing-mikrotiks-silent-patch-the-routeros-7-23-4-fix-they-wouldnt-explain/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-04T15:03:03",
+    "date": "2026-09-05T00:03:08",
     "saved": false
   },
   {
-    "id": -2422247448508241546,
-    "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
-    "link": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+    "id": 2082812344089464060,
+    "title": "Show HN: Moadim.io – A scheduler for agents",
+    "link": "https://moadim.io/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-04T12:43:49",
+    "date": "2026-09-04T23:50:29",
     "saved": false
   },
   {
-    "id": -7701572837488828986,
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "link": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-04T11:59:15",
+    "id": 8514981679648956278,
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-04T23:15:11",
     "saved": false
   },
   {
-    "id": -7173997051964374710,
+    "id": -4606934730835135716,
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-04T21:12:11",
+    "saved": false
+  },
+  {
+    "id": -7073289502331195641,
+    "title": "Can AI design circuit boards yet?",
+    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-04T19:48:29",
+    "saved": false
+  },
+  {
+    "id": 5121412285895114413,
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-04T19:06:39",
+    "saved": false
+  },
+  {
+    "id": 1570810600813296470,
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-04T16:21:11",
+    "saved": false
+  },
+  {
+    "id": 7758809597992430464,
     "title": "Discovery of a new OpenAI agent message board",
     "link": "https://collusion.wiki/",
     "source": "Hacker News",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5733805552961306769,
+    "id": 7787939086871486555,
     "title": "How many repeated LLM queries are enough? Testing a pilot-based reliability protocol [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w6wtw7/how_many_repeated_llm_queries_are_enough_testing/",
     "source": "Reddit ML",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 4119202601610044829,
+    "id": 2468909314983989725,
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 2016306815952162059,
+    "id": 509323441602092191,
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6524131302820518099,
+    "id": -2579217795057494483,
     "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
     "source": "Reddit ML",
@@ -72,52 +108,7 @@
     "saved": false
   },
   {
-    "id": -7859992782316749237,
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-03T18:37:57",
-    "saved": false
-  },
-  {
-    "id": -8302718768739824815,
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-    "link": "https://inference-docs.cerebras.ai/models/overview",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-03T18:32:13",
-    "saved": false
-  },
-  {
-    "id": -5123297981496896544,
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-03T18:19:56",
-    "saved": false
-  },
-  {
-    "id": -3827800026333912321,
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-03T18:01:45",
-    "saved": false
-  },
-  {
-    "id": 5466168408191537655,
-    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-    "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-03T16:09:01",
-    "saved": false
-  },
-  {
-    "id": -8434046397493017946,
+    "id": 5578515810018364321,
     "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
     "source": "Reddit ML",
@@ -126,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 759453233670957283,
-    "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-    "link": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-03T01:11:22",
-    "saved": false
-  },
-  {
-    "id": -6844953759164881525,
+    "id": 2504879705095384028,
     "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
     "source": "Reddit ML",
@@ -144,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6059767726650525460,
+    "id": -4944574165072316961,
     "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
     "source": "Reddit ML",
@@ -153,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2222007091127017169,
+    "id": 1911915160766979569,
     "title": "MIR with AudioMuse-AI-SAE [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
     "source": "Reddit ML",
@@ -162,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -2260874795015836570,
+    "id": -6196486665748470222,
     "title": "I regret reviewing for AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
     "source": "Reddit ML",
@@ -171,25 +153,7 @@
     "saved": false
   },
   {
-    "id": -388229063737915055,
-    "title": "The largest electric aircraft just flew [video]",
-    "link": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-01T19:02:34",
-    "saved": false
-  },
-  {
-    "id": 6617879623682687104,
-    "title": "E-Paper Panel Isn't Broken: How Retained State Makes Drivers Look Buggy",
-    "link": "https://msj.prose.sh/epaper-retained-state",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-01T17:12:38",
-    "saved": false
-  },
-  {
-    "id": -5268514748511211455,
+    "id": -5786944990137846724,
     "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
     "source": "Reddit ML",

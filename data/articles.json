@@ -1,15 +1,69 @@
 [
   {
-    "id": -2010517693304008515,
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "link": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "source": "Hacker News",
+    "id": 8446340734914469747,
+    "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-09-05T07:52:50",
+    "date": "2026-09-06T00:05:47",
     "saved": false
   },
   {
-    "id": 1497230076807122784,
+    "id": 164760644934115493,
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-05T22:49:55",
+    "saved": false
+  },
+  {
+    "id": -118329948160653464,
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "link": "https://github.com/okf-memory/okf-agent-memory",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-05T22:15:52",
+    "saved": false
+  },
+  {
+    "id": -1962986020107197692,
+    "title": "LLMs as a Cognitive Virus",
+    "link": "https://arxiv.org/abs/2609.03344",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-05T20:02:35",
+    "saved": false
+  },
+  {
+    "id": 933256587651854227,
+    "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-05T19:11:16",
+    "saved": false
+  },
+  {
+    "id": -8330164037860764682,
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-05T18:05:27",
+    "saved": false
+  },
+  {
+    "id": -6948134222841944885,
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-05T13:31:05",
+    "saved": false
+  },
+  {
+    "id": -3857704804157105271,
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 8208103557215104718,
+    "id": -8291815387182858177,
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "source": "TechCrunch",
@@ -27,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 7596246010010365843,
-    "title": "Can AI design circuit boards yet?",
-    "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-04T19:48:29",
-    "saved": false
-  },
-  {
-    "id": 8907817083390120837,
+    "id": 1605181761457201348,
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -4900297729344361526,
+    "id": -212509340486932631,
     "title": "Discovery of a new OpenAI agent message board",
     "link": "https://collusion.wiki/",
     "source": "Hacker News",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 881356211876992677,
+    "id": -5475583361839096014,
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6441449532944400172,
+    "id": -7951172281220257642,
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1527056447833256926,
+    "id": 6646376606939503839,
     "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
     "source": "Reddit ML",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7040409138933746633,
+    "id": -8147739438942990728,
     "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
     "source": "Reddit ML",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4069291667209320060,
+    "id": -5948172139805231393,
     "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
     "source": "Reddit ML",
@@ -99,25 +144,7 @@
     "saved": false
   },
   {
-    "id": -3838987701732024136,
-    "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-02T12:04:39",
-    "saved": false
-  },
-  {
-    "id": 4667175889060011198,
-    "title": "MIR with AudioMuse-AI-SAE [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-02T08:47:36",
-    "saved": false
-  },
-  {
-    "id": 7803512763728815117,
+    "id": -691330049174776936,
     "title": "I regret reviewing for AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
     "source": "Reddit ML",

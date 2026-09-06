@@ -1,15 +1,33 @@
 [
   {
-    "id": 8446340734914469747,
-    "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/",
+    "id": -5630518117479563526,
+    "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-09-06T00:05:47",
+    "date": "2026-09-06T09:23:59",
     "saved": false
   },
   {
-    "id": 164760644934115493,
+    "id": 4096763738119832068,
+    "title": "AIStats 2027 Questions [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-06T03:33:12",
+    "saved": false
+  },
+  {
+    "id": 4147670481145322418,
+    "title": "AI, Tools and Transformation",
+    "link": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-06T02:12:46",
+    "saved": false
+  },
+  {
+    "id": 4838962190637817999,
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "source": "TechCrunch",
@@ -18,25 +36,7 @@
     "saved": false
   },
   {
-    "id": -118329948160653464,
-    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-    "link": "https://github.com/okf-memory/okf-agent-memory",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-05T22:15:52",
-    "saved": false
-  },
-  {
-    "id": -1962986020107197692,
-    "title": "LLMs as a Cognitive Virus",
-    "link": "https://arxiv.org/abs/2609.03344",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-05T20:02:35",
-    "saved": false
-  },
-  {
-    "id": 933256587651854227,
+    "id": -3686317054465196099,
     "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
     "source": "Reddit ML",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -8330164037860764682,
+    "id": 8660014630221276274,
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "source": "TechCrunch",
@@ -54,16 +54,7 @@
     "saved": false
   },
   {
-    "id": -6948134222841944885,
-    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-    "link": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-05T13:31:05",
-    "saved": false
-  },
-  {
-    "id": -3857704804157105271,
+    "id": 1397666196376687746,
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
     "source": "TechCrunch",
@@ -72,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8291815387182858177,
+    "id": -8979630659111871837,
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "source": "TechCrunch",
@@ -81,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1605181761457201348,
+    "id": -3462324979499542214,
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "source": "TechCrunch",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -212509340486932631,
+    "id": -5100774028222254826,
     "title": "Discovery of a new OpenAI agent message board",
     "link": "https://collusion.wiki/",
     "source": "Hacker News",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -5475583361839096014,
+    "id": -5142021160326141364,
     "title": "The sameness problem behind those unappetizing AI-generated menus",
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "source": "TechCrunch",
@@ -108,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7951172281220257642,
+    "id": -6382670575372316699,
     "title": "Crusoe reportedly raises $3B at a  $30B valuation",
     "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
     "source": "TechCrunch",
@@ -117,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6646376606939503839,
+    "id": 8465575248164741003,
     "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
     "source": "Reddit ML",
@@ -126,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8147739438942990728,
+    "id": 2953846016784899248,
     "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
     "source": "Reddit ML",
@@ -135,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -5948172139805231393,
-    "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-02T14:40:29",
-    "saved": false
-  },
-  {
-    "id": -691330049174776936,
+    "id": 4657070551223600079,
     "title": "I regret reviewing for AAAI [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
     "source": "Reddit ML",

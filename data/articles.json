@@ -1,6 +1,51 @@
 [
   {
-    "id": -4331995359769786971,
+    "id": -1102972560614671695,
+    "title": "De-Brainrot Vacations",
+    "link": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-07T13:00:48",
+    "saved": false
+  },
+  {
+    "id": -2794515867819473278,
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+    "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-07T11:46:37",
+    "saved": false
+  },
+  {
+    "id": 7376971714406311389,
+    "title": "Speculative Decoding in vLLM on AMD GPUs",
+    "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-07T09:26:41",
+    "saved": false
+  },
+  {
+    "id": -1057422914505416867,
+    "title": "KV cache as an agent runtime [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-07T09:03:48",
+    "saved": false
+  },
+  {
+    "id": 1105121615464744969,
+    "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-07T07:44:34",
+    "saved": false
+  },
+  {
+    "id": -8332610042703629054,
     "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
     "source": "Reddit ML",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1247764340431979924,
+    "id": 435007038457835271,
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "source": "TechCrunch",
@@ -18,34 +63,7 @@
     "saved": false
   },
   {
-    "id": -7667475360349069998,
-    "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-06T18:41:34",
-    "saved": false
-  },
-  {
-    "id": 1553654397838995288,
-    "title": "Research acceleration: The view inside OpenAI",
-    "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-06T15:08:44",
-    "saved": false
-  },
-  {
-    "id": 5164353280787422879,
-    "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-06T09:23:59",
-    "saved": false
-  },
-  {
-    "id": -5834071035788035158,
+    "id": 4804269793582337190,
     "title": "AIStats 2027 Questions [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
     "source": "Reddit ML",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3216088088232376815,
+    "id": 3879463324310165125,
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 5484326876122960127,
+    "id": -182467299497527338,
     "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -8744392751602881302,
+    "id": -4907445640347815894,
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6295914025123110973,
+    "id": -3852239228420805962,
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 309094045690860231,
+    "id": -2714440237588973346,
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "source": "TechCrunch",
@@ -99,21 +117,12 @@
     "saved": false
   },
   {
-    "id": 603099209075410254,
+    "id": -6544677688157856421,
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-09-04T16:21:11",
-    "saved": false
-  },
-  {
-    "id": -6261199992212210997,
-    "title": "AAAI-27 desk rejection over incredibly minor abstract modifications [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w6kcp6/aaai27_desk_rejection_over_incredibly_minor/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-03T21:12:36",
     "saved": false
   }
 ]

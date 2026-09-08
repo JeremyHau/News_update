@@ -1,33 +1,33 @@
 [
   {
-    "id": -1102972560614671695,
-    "title": "De-Brainrot Vacations",
-    "link": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "source": "Hacker News",
+    "id": -8153650714173311376,
+    "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-09-07T13:00:48",
+    "date": "2026-09-08T00:05:37",
     "saved": false
   },
   {
-    "id": -2794515867819473278,
-    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-    "link": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-07T11:46:37",
+    "id": 3528030163943787617,
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-07T19:24:00",
     "saved": false
   },
   {
-    "id": 7376971714406311389,
-    "title": "Speculative Decoding in vLLM on AMD GPUs",
-    "link": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "source": "Hacker News",
+    "id": -3494068806240282296,
+    "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-09-07T09:26:41",
+    "date": "2026-09-07T16:54:55",
     "saved": false
   },
   {
-    "id": -1057422914505416867,
+    "id": -8864193870211503185,
     "title": "KV cache as an agent runtime [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
     "source": "Reddit ML",
@@ -36,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 1105121615464744969,
+    "id": -8584622101888923208,
     "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
     "source": "Reddit ML",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -8332610042703629054,
+    "id": -7987512060517043155,
     "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
     "source": "Reddit ML",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 435007038457835271,
+    "id": 9194634947028584239,
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 4804269793582337190,
+    "id": -945708808541380398,
     "title": "AIStats 2027 Questions [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
     "source": "Reddit ML",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3879463324310165125,
+    "id": 3938911252554571543,
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -182467299497527338,
+    "id": -5850567713314217604,
     "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
     "source": "Reddit ML",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -4907445640347815894,
+    "id": 847800975055656600,
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "source": "TechCrunch",
@@ -99,7 +99,16 @@
     "saved": false
   },
   {
-    "id": -3852239228420805962,
+    "id": 7294586230801935048,
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+    "link": "https://arxiv.org/abs/2607.24888",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-05T11:25:18",
+    "saved": false
+  },
+  {
+    "id": 4242358202903420276,
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
     "source": "TechCrunch",
@@ -108,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2714440237588973346,
+    "id": -4135049015582949716,
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
     "source": "TechCrunch",
@@ -117,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6544677688157856421,
+    "id": -7662150264143489263,
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
     "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "source": "TechCrunch",

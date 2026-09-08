@@ -1,6 +1,114 @@
 [
   {
-    "id": -8153650714173311376,
+    "id": -9046203178898281604,
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-08T15:04:09",
+    "saved": false
+  },
+  {
+    "id": -1910612687405847863,
+    "title": "The two Christian saints who are the Buddha",
+    "link": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-08T14:44:25",
+    "saved": false
+  },
+  {
+    "id": -1567468381833815741,
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-08T14:17:48",
+    "saved": false
+  },
+  {
+    "id": 2825963916834477246,
+    "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+    "link": "https://github.com/ayghri/i-have-adhd",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-08T14:13:26",
+    "saved": false
+  },
+  {
+    "id": -8348129038100466952,
+    "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+    "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-08T14:10:17",
+    "saved": false
+  },
+  {
+    "id": 3662492199479606798,
+    "title": "LibreOffice breaks download records after declaring it has no AI features",
+    "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-08T14:05:57",
+    "saved": false
+  },
+  {
+    "id": -6543777218721360954,
+    "title": "We Must Return to the Office to Use AI in Person",
+    "link": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-08T13:41:25",
+    "saved": false
+  },
+  {
+    "id": -1557812294454074101,
+    "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-08T10:19:04",
+    "saved": false
+  },
+  {
+    "id": 5514642509541215820,
+    "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+    "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-08T09:00:00",
+    "saved": false
+  },
+  {
+    "id": -6912305709734921582,
+    "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-08T05:01:04",
+    "saved": false
+  },
+  {
+    "id": -5597448849399974050,
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "link": "https://weirdgloop.org/blog/google-jail",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-08T01:57:23",
+    "saved": false
+  },
+  {
+    "id": -6606639892506081760,
+    "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-08T01:57:19",
+    "saved": false
+  },
+  {
+    "id": 2593269235170095830,
     "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
     "source": "Reddit ML",
@@ -9,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 3528030163943787617,
+    "id": -8949822071507725870,
     "title": "Opaque recurrence, and other AI terms that you should probably know",
     "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "source": "TechCrunch",
@@ -18,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -3494068806240282296,
+    "id": 307462641001320883,
     "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
     "source": "Reddit ML",
@@ -27,7 +135,16 @@
     "saved": false
   },
   {
-    "id": -8864193870211503185,
+    "id": -4795043278544745129,
+    "title": "ParaRNN: Parallel Training for Non-Linear RNNs (sLSTM, RWKV-7, CfC, Titans) via Triton Newton Scans [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1w9oi7l/pararnn_parallel_training_for_nonlinear_rnns/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-07T10:31:44",
+    "saved": false
+  },
+  {
+    "id": 8896832112140853217,
     "title": "KV cache as an agent runtime [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
     "source": "Reddit ML",
@@ -36,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -8584622101888923208,
+    "id": 1643113598421404685,
     "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
     "source": "Reddit ML",
@@ -45,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -7987512060517043155,
+    "id": 3437556894992228588,
     "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
     "source": "Reddit ML",
@@ -54,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 9194634947028584239,
+    "id": 2986726274818623687,
     "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "source": "TechCrunch",
@@ -63,16 +180,7 @@
     "saved": false
   },
   {
-    "id": -945708808541380398,
-    "title": "AIStats 2027 Questions [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-06T03:33:12",
-    "saved": false
-  },
-  {
-    "id": 3938911252554571543,
+    "id": 7434469698020298187,
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "source": "TechCrunch",
@@ -81,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -5850567713314217604,
+    "id": -7019780128373781645,
     "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
     "source": "Reddit ML",
@@ -90,48 +198,12 @@
     "saved": false
   },
   {
-    "id": 847800975055656600,
+    "id": 837771840175161357,
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-09-05T18:05:27",
-    "saved": false
-  },
-  {
-    "id": 7294586230801935048,
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "link": "https://arxiv.org/abs/2607.24888",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-05T11:25:18",
-    "saved": false
-  },
-  {
-    "id": 4242358202903420276,
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-04T23:15:11",
-    "saved": false
-  },
-  {
-    "id": -4135049015582949716,
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-04T21:12:11",
-    "saved": false
-  },
-  {
-    "id": -7662150264143489263,
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-04T16:21:11",
     "saved": false
   }
 ]

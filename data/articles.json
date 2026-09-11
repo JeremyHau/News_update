@@ -1,6 +1,78 @@
 [
   {
-    "id": -4979552464159938081,
+    "id": 6604741635528799461,
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "link": "https://system76.com/workstations/thelio-mira-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-10T23:10:06",
+    "saved": false
+  },
+  {
+    "id": -687938381274154835,
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-10T21:51:59",
+    "saved": false
+  },
+  {
+    "id": 7683303915381621391,
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-10T20:59:51",
+    "saved": false
+  },
+  {
+    "id": 4789156920022749002,
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-10T20:57:30",
+    "saved": false
+  },
+  {
+    "id": 8359764396688889679,
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-10T19:50:04",
+    "saved": false
+  },
+  {
+    "id": 6615578522671836980,
+    "title": "OpenAI Agents API",
+    "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-10T19:43:22",
+    "saved": false
+  },
+  {
+    "id": 7683636650371362736,
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-10T17:54:44",
+    "saved": false
+  },
+  {
+    "id": 1098310565204265968,
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-10T17:45:00",
+    "saved": false
+  },
+  {
+    "id": 5371456865383912503,
     "title": "The Boring Company raises $3B in round led by UAE",
     "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
     "source": "TechCrunch",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4636736158347430009,
+    "id": 4791849332071659456,
     "title": "AI agents are flooding public services with new requests",
     "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
     "source": "TechCrunch",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6492032867706408835,
+    "id": 5566242406500365522,
     "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
     "source": "Reddit ML",
@@ -27,25 +99,7 @@
     "saved": false
   },
   {
-    "id": -25708721091748693,
-    "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-    "link": "https://news.ycombinator.com/item?id=49643556",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-10T13:39:53",
-    "saved": false
-  },
-  {
-    "id": -2118625384872483762,
-    "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-    "link": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-10T13:07:14",
-    "saved": false
-  },
-  {
-    "id": -1955990017553492283,
+    "id": 459683891890483713,
     "title": "Snapchat takes aim at Partiful with new event-planning features",
     "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
     "source": "TechCrunch",
@@ -54,7 +108,16 @@
     "saved": false
   },
   {
-    "id": 7486069375334222085,
+    "id": -5309216218916850242,
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-10T06:49:43",
+    "saved": false
+  },
+  {
+    "id": -536355061351506828,
     "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
     "source": "Reddit ML",
@@ -63,52 +126,7 @@
     "saved": false
   },
   {
-    "id": -8691432828851362898,
-    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-10T00:00:37",
-    "saved": false
-  },
-  {
-    "id": 4053633729722889288,
-    "title": "OpenAI adds a prominent AI doomer to its board of directors",
-    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-09T22:25:22",
-    "saved": false
-  },
-  {
-    "id": 2721780795626789494,
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-09T20:24:48",
-    "saved": false
-  },
-  {
-    "id": -1937524849397627314,
-    "title": "The hinge for Apple’s new foldable phone was built with AI",
-    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-09T19:21:48",
-    "saved": false
-  },
-  {
-    "id": -454950487378361579,
-    "title": "Shopify acquires Tailwind",
-    "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-09T13:27:11",
-    "saved": false
-  },
-  {
-    "id": 3298760995938238224,
+    "id": 1688380907026184364,
     "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
     "source": "Reddit ML",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6465388969338620837,
+    "id": -6626705971057152016,
     "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
     "source": "Reddit ML",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8190143417889977090,
+    "id": -1564759700370961437,
     "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4514558521455071550,
+    "id": -6319276271799145392,
     "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
     "source": "Reddit ML",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -1420977495881912727,
+    "id": -7122022815123638173,
     "title": "KV cache as an agent runtime [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
     "source": "Reddit ML",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -6666674478420439490,
+    "id": -4242149423803284865,
     "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
     "source": "Reddit ML",

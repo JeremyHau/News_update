@@ -1,6 +1,69 @@
 [
   {
-    "id": 6421121222292238582,
+    "id": -4802094091496694523,
+    "title": "Align AI and Mathematics–To Something Else",
+    "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-13T00:47:48",
+    "saved": false
+  },
+  {
+    "id": 3605661278606853674,
+    "title": "Everyone should slow down AI development except for me",
+    "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-13T00:30:44",
+    "saved": false
+  },
+  {
+    "id": -4555289335134413294,
+    "title": "AgentsDock: An IDE designed for agentic AI research",
+    "link": "https://agentsdock.net/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-12T23:45:58",
+    "saved": false
+  },
+  {
+    "id": -3146987533018186828,
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "link": "https://withspecific.com/benchmarks/real-swe",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-12T20:25:48",
+    "saved": false
+  },
+  {
+    "id": 9097883211626308007,
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-12T20:19:16",
+    "saved": false
+  },
+  {
+    "id": -559561536481592344,
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-12T19:34:44",
+    "saved": false
+  },
+  {
+    "id": -7369747609847904267,
+    "title": "Nvidia is the central bank of AI",
+    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-12T15:08:27",
+    "saved": false
+  },
+  {
+    "id": -5813867477128599915,
     "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
     "source": "Reddit ML",
@@ -9,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 3382540709456497209,
-    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-    "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-12T11:13:38",
-    "saved": false
-  },
-  {
-    "id": 289349318198681785,
+    "id": 3499412182353569952,
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 3889014241561101666,
+    "id": 5301431545236342164,
     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4877976420163067853,
+    "id": 3937746545343626185,
     "title": "OpenAI’s feud with mathematicians is only escalating",
     "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1120231112720698459,
+    "id": 3424785492032183405,
     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -2910213709503163562,
+    "id": -8219404535687359288,
     "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
     "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1741265672579011215,
+    "id": 5138911178005422586,
     "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
     "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
     "source": "TechCrunch",
@@ -72,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -8260767084820176711,
-    "title": "A misalignment of AI in mathematics",
-    "link": "https://mathandai.org/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-11T17:45:12",
-    "saved": false
-  },
-  {
-    "id": -4705969043756556338,
+    "id": -5416938274555096763,
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "source": "TechCrunch",
@@ -90,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 6404670529376814492,
-    "title": "I Fixed a Tractor Using John Deere's Self-Repair Service. Farmers Aren't Sold",
-    "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-11T14:07:08",
-    "saved": false
-  },
-  {
-    "id": -4798874274169580960,
+    "id": 745097483061590212,
     "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
     "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
     "source": "TechCrunch",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8490982598768459306,
+    "id": 4394973855743211008,
     "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
     "source": "Reddit ML",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -436112374183691065,
+    "id": 3214261684444931892,
     "title": "Neurips 2026: site selection email [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
     "source": "Reddit ML",
@@ -126,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 382042012037477364,
+    "id": 8910600953733484267,
     "title": "ACL Sustainable Reviewing Policy [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
     "source": "Reddit ML",
@@ -135,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 852597314596365335,
+    "id": 4946703005387924784,
     "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "source": "TechCrunch",
@@ -144,34 +180,16 @@
     "saved": false
   },
   {
-    "id": 9187164190796089286,
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-10T20:59:51",
+    "id": -6569186972800783584,
+    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-10T15:31:37",
     "saved": false
   },
   {
-    "id": 5165841228397062460,
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-10T20:57:30",
-    "saved": false
-  },
-  {
-    "id": -4429180437764577924,
-    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-10T19:50:04",
-    "saved": false
-  },
-  {
-    "id": -3116804189989249247,
+    "id": 6932159459193177410,
     "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
     "source": "Reddit ML",
@@ -180,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 4326133971402640846,
+    "id": -4114380035714607888,
     "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
     "source": "Reddit ML",
@@ -189,16 +207,7 @@
     "saved": false
   },
   {
-    "id": -2060541567432701272,
-    "title": "A Design Space Exploration of Async/Await",
-    "link": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-09T13:59:50",
-    "saved": false
-  },
-  {
-    "id": -4859228390179094833,
+    "id": -1983790971587447573,
     "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
     "source": "Reddit ML",
@@ -207,7 +216,7 @@
     "saved": false
   },
   {
-    "id": -5194457273403760253,
+    "id": -6059968952444715945,
     "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
     "source": "Reddit ML",

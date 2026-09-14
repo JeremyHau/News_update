@@ -1,15 +1,69 @@
 [
   {
-    "id": -7358743735740917402,
-    "title": "AI models don't kill people – people kill people",
-    "link": "https://www.theregister.com/ai-and-ml/2026/09/09/ai-models-dont-kill-people-people-kill-people/5295368",
+    "id": -3963456058742183950,
+    "title": "The case against JPEG XL",
+    "link": "https://giannirosato.com/blog/post/case-against-jxl/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-13T13:33:34",
+    "date": "2026-09-14T01:02:37",
     "saved": false
   },
   {
-    "id": 4259199552272439651,
+    "id": 2170704303292244353,
+    "title": "Open-Source AI and Open Models Reading List",
+    "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-14T00:22:51",
+    "saved": false
+  },
+  {
+    "id": 5128410288667595079,
+    "title": "Pacing the Frontier – Tahuna: AI Training Infrastructure, Now Open Source [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wfnbap/pacing_the_frontier_tahuna_ai_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-13T23:38:28",
+    "saved": false
+  },
+  {
+    "id": -7753462003834473705,
+    "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-13T21:30:00",
+    "saved": false
+  },
+  {
+    "id": 91965518473465199,
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-13T19:40:15",
+    "saved": false
+  },
+  {
+    "id": -102958168002152521,
+    "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-13T18:01:03",
+    "saved": false
+  },
+  {
+    "id": 4669932932237588328,
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-13T16:30:00",
+    "saved": false
+  },
+  {
+    "id": -5629164408761087535,
     "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
     "source": "Reddit ML",
@@ -18,25 +72,7 @@
     "saved": false
   },
   {
-    "id": -399899481015554744,
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-13T01:22:31",
-    "saved": false
-  },
-  {
-    "id": -4464801900302412087,
-    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-    "link": "https://github.com/FeralFirmware/TailTalk/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-12T23:43:31",
-    "saved": false
-  },
-  {
-    "id": -7509859477797230794,
+    "id": 8909198004705606798,
     "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 5799547155933740852,
+    "id": 6145971091472638494,
     "title": "Anthropic CEO outlines plan to slow AI development",
     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8901263017967703760,
+    "id": -4983419088638613089,
     "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
     "source": "Reddit ML",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 9124909479440975081,
+    "id": 630712756801417553,
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3512748757406776311,
+    "id": -7025938287933033189,
     "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
     "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 1792310543698692694,
+    "id": 2912350716083169683,
     "title": "OpenAI’s feud with mathematicians is only escalating",
     "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4317456190027304283,
+    "id": 5483116895469988758,
     "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 1039166614204085182,
+    "id": -3175122144032979525,
     "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
     "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
     "source": "TechCrunch",
@@ -108,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 1389016435562535225,
-    "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-    "link": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T18:58:01",
-    "saved": false
-  },
-  {
-    "id": 6520335644393709583,
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T16:46:25",
-    "saved": false
-  },
-  {
-    "id": -3624333560247467521,
-    "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-    "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T13:32:54",
-    "saved": false
-  },
-  {
-    "id": -6606139508512174691,
+    "id": -5715965234032965527,
     "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -5324768414328794183,
+    "id": -5117318508804045527,
     "title": "Neurips 2026: site selection email [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
     "source": "Reddit ML",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -1418766841630262438,
+    "id": 2479438979400352631,
     "title": "ACL Sustainable Reviewing Policy [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
     "source": "Reddit ML",
@@ -162,39 +171,12 @@
     "saved": false
   },
   {
-    "id": -1161108820410176572,
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-10T21:51:59",
-    "saved": false
-  },
-  {
-    "id": -4770410567477715666,
-    "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
-    "source": "Reddit ML",
+    "id": 3450322229964052506,
+    "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+    "link": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-10T13:44:25",
-    "saved": false
-  },
-  {
-    "id": -4610007875567112402,
-    "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-10T03:28:41",
-    "saved": false
-  },
-  {
-    "id": -5628484795280415524,
-    "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-08T10:19:04",
+    "date": "2026-09-10T15:35:36",
     "saved": false
   }
 ]

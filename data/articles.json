@@ -1,33 +1,105 @@
 [
   {
-    "id": -3963456058742183950,
-    "title": "The case against JPEG XL",
-    "link": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "id": -5184855319977305826,
+    "title": "Why don't machine learning research agents overfit?",
+    "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-14T01:02:37",
+    "date": "2026-09-14T16:32:23",
     "saved": false
   },
   {
-    "id": 2170704303292244353,
-    "title": "Open-Source AI and Open Models Reading List",
-    "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "id": -5853309910311176353,
+    "title": "When LLM judges agree, should we believe them?",
+    "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-14T00:22:51",
+    "date": "2026-09-14T16:29:30",
     "saved": false
   },
   {
-    "id": 5128410288667595079,
-    "title": "Pacing the Frontier – Tahuna: AI Training Infrastructure, Now Open Source [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wfnbap/pacing_the_frontier_tahuna_ai_training/",
-    "source": "Reddit ML",
+    "id": -7052428378787506344,
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T16:27:53",
+    "saved": false
+  },
+  {
+    "id": 8612530456488066383,
+    "title": "I stress-tested Meta Muse until its agent control plane started timing out",
+    "link": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-13T23:38:28",
+    "date": "2026-09-14T16:26:07",
     "saved": false
   },
   {
-    "id": -7753462003834473705,
+    "id": -1478709114513745121,
+    "title": "Hacking AI customer service agents",
+    "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-14T16:26:03",
+    "saved": false
+  },
+  {
+    "id": -7391050363565643048,
+    "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+    "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T15:34:31",
+    "saved": false
+  },
+  {
+    "id": 687988117900954626,
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -9034866787435941930,
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T14:45:44",
+    "saved": false
+  },
+  {
+    "id": 4143606571680581477,
+    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T14:30:00",
+    "saved": false
+  },
+  {
+    "id": 4245045956491896355,
+    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+    "link": "https://spectrum.ieee.org/adversarial-fashion",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-14T14:04:53",
+    "saved": false
+  },
+  {
+    "id": -4190795170065788481,
+    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T13:55:00",
+    "saved": false
+  },
+  {
+    "id": 5773450561796301055,
     "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
     "source": "TechCrunch",
@@ -36,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 91965518473465199,
+    "id": 6790628448047048279,
     "title": "What’s behind the AI industry’s latest warnings of doom?",
     "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
     "source": "TechCrunch",
@@ -45,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -102958168002152521,
+    "id": 7565951497525040531,
     "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
     "source": "Reddit ML",
@@ -54,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 4669932932237588328,
+    "id": -6209467397250030705,
     "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
     "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
     "source": "TechCrunch",
@@ -63,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5629164408761087535,
+    "id": -7656405063126170149,
     "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
     "source": "Reddit ML",
@@ -72,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8909198004705606798,
+    "id": -6668721431648401613,
     "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "source": "TechCrunch",
@@ -81,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6145971091472638494,
+    "id": -8574230466111506393,
     "title": "Anthropic CEO outlines plan to slow AI development",
     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "source": "TechCrunch",
@@ -90,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -4983419088638613089,
+    "id": -1287744282675744062,
     "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
     "source": "Reddit ML",
@@ -99,84 +171,12 @@
     "saved": false
   },
   {
-    "id": 630712756801417553,
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T22:58:17",
-    "saved": false
-  },
-  {
-    "id": -7025938287933033189,
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T20:59:47",
-    "saved": false
-  },
-  {
-    "id": 2912350716083169683,
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T20:57:36",
-    "saved": false
-  },
-  {
-    "id": 5483116895469988758,
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T19:35:54",
-    "saved": false
-  },
-  {
-    "id": -3175122144032979525,
-    "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-    "link": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-11T19:00:00",
-    "saved": false
-  },
-  {
-    "id": -5715965234032965527,
+    "id": -8885832850001474532,
     "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-11T13:00:11",
-    "saved": false
-  },
-  {
-    "id": -5117318508804045527,
-    "title": "Neurips 2026: site selection email [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-11T09:02:43",
-    "saved": false
-  },
-  {
-    "id": 2479438979400352631,
-    "title": "ACL Sustainable Reviewing Policy [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-11T05:38:02",
-    "saved": false
-  },
-  {
-    "id": 3450322229964052506,
-    "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-    "link": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-10T15:35:36",
     "saved": false
   }
 ]

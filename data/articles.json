@@ -1,6 +1,132 @@
 [
   {
-    "id": -7704429016710245989,
+    "id": -6790321578967741231,
+    "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+    "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T15:49:18",
+    "saved": false
+  },
+  {
+    "id": 476935954676949657,
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T15:47:03",
+    "saved": false
+  },
+  {
+    "id": -9154903306692041162,
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "link": "https://www.formas.ai/cartesian",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T15:26:45",
+    "saved": false
+  },
+  {
+    "id": -736141216124992928,
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T15:22:48",
+    "saved": false
+  },
+  {
+    "id": -1290907065312555900,
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T14:42:37",
+    "saved": false
+  },
+  {
+    "id": 1246251992827403128,
+    "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+    "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T14:13:59",
+    "saved": false
+  },
+  {
+    "id": -5931035402570590686,
+    "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
+    "link": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T14:07:01",
+    "saved": false
+  },
+  {
+    "id": 3238806630984183253,
+    "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
+    "link": "https://github.com/greentfrapp/panel",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T13:58:37",
+    "saved": false
+  },
+  {
+    "id": -4050991518475137041,
+    "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
+    "link": "https://github.com/ordewell/ordewell",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T13:31:37",
+    "saved": false
+  },
+  {
+    "id": -4509522250897489194,
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 3731711431232177687,
+    "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-15T12:59:37",
+    "saved": false
+  },
+  {
+    "id": -8847024828722364572,
+    "title": "New Italian unicorn Exein rides the physical AI wave",
+    "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T12:19:38",
+    "saved": false
+  },
+  {
+    "id": -543637154437948007,
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -7649909048911388435,
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T10:22:46",
+    "saved": false
+  },
+  {
+    "id": 1963392248567275438,
     "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "source": "TechCrunch",
@@ -9,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2201680602672857057,
+    "id": 1930757088884629061,
     "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
     "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "source": "TechCrunch",
@@ -18,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 7298864626814764482,
+    "id": 7861983938487951712,
     "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
     "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
     "source": "TechCrunch",
@@ -27,115 +153,7 @@
     "saved": false
   },
   {
-    "id": 4979094309849963346,
-    "title": "Pion, an agent designed to run any company autonomously",
-    "link": "https://andonlabs.com/blog/why-we-built-pion",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T17:16:06",
-    "saved": false
-  },
-  {
-    "id": 2460627676581830281,
-    "title": "With iOS 27, I’m actually using Siri again",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T17:10:30",
-    "saved": false
-  },
-  {
-    "id": -111229490764424005,
-    "title": "macOS 27: new Siri takes on AI productivity apps",
-    "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T17:10:09",
-    "saved": false
-  },
-  {
-    "id": 5686944409414566206,
-    "title": "Why don't machine learning research agents overfit?",
-    "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T16:32:23",
-    "saved": false
-  },
-  {
-    "id": 4679236613496066799,
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T16:27:53",
-    "saved": false
-  },
-  {
-    "id": -1049325840360724716,
-    "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-    "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T15:34:31",
-    "saved": false
-  },
-  {
-    "id": 60793793028666787,
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -431480198826488152,
-    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T14:45:44",
-    "saved": false
-  },
-  {
-    "id": 5505008688519022642,
-    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T14:30:00",
-    "saved": false
-  },
-  {
-    "id": 4594548552452818648,
-    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T14:29:23",
-    "saved": false
-  },
-  {
-    "id": 3121316143507475757,
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T12:40:57",
-    "saved": false
-  },
-  {
-    "id": 8985055329718382307,
-    "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-13T21:30:00",
-    "saved": false
-  },
-  {
-    "id": -8564418878614405001,
+    "id": 3123863016513667806,
     "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
     "source": "Reddit ML",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 8830901691695146785,
+    "id": 5030216233489908088,
     "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
     "source": "Reddit ML",
@@ -153,21 +171,12 @@
     "saved": false
   },
   {
-    "id": -842842824302776770,
+    "id": 6844148344439770298,
     "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-12T11:23:51",
-    "saved": false
-  },
-  {
-    "id": -3061166152779383383,
-    "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-11T13:00:11",
     "saved": false
   }
 ]

@@ -1,6 +1,60 @@
 [
   {
-    "id": -5184855319977305826,
+    "id": -7704429016710245989,
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T21:51:02",
+    "saved": false
+  },
+  {
+    "id": -2201680602672857057,
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T20:44:14",
+    "saved": false
+  },
+  {
+    "id": 7298864626814764482,
+    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+    "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T20:07:37",
+    "saved": false
+  },
+  {
+    "id": 4979094309849963346,
+    "title": "Pion, an agent designed to run any company autonomously",
+    "link": "https://andonlabs.com/blog/why-we-built-pion",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-14T17:16:06",
+    "saved": false
+  },
+  {
+    "id": 2460627676581830281,
+    "title": "With iOS 27, I’m actually using Siri again",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T17:10:30",
+    "saved": false
+  },
+  {
+    "id": -111229490764424005,
+    "title": "macOS 27: new Siri takes on AI productivity apps",
+    "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-14T17:10:09",
+    "saved": false
+  },
+  {
+    "id": 5686944409414566206,
     "title": "Why don't machine learning research agents overfit?",
     "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
     "source": "Hacker News",
@@ -9,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -5853309910311176353,
-    "title": "When LLM judges agree, should we believe them?",
-    "link": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T16:29:30",
-    "saved": false
-  },
-  {
-    "id": -7052428378787506344,
+    "id": 4679236613496066799,
     "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
     "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
     "source": "TechCrunch",
@@ -27,25 +72,7 @@
     "saved": false
   },
   {
-    "id": 8612530456488066383,
-    "title": "I stress-tested Meta Muse until its agent control plane started timing out",
-    "link": "https://blog.cygankiewicz.com/en/meta-muse-black-box-testing/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T16:26:07",
-    "saved": false
-  },
-  {
-    "id": -1478709114513745121,
-    "title": "Hacking AI customer service agents",
-    "link": "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-14T16:26:03",
-    "saved": false
-  },
-  {
-    "id": -7391050363565643048,
+    "id": -1049325840360724716,
     "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
     "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 687988117900954626,
+    "id": 60793793028666787,
     "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
     "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -9034866787435941930,
+    "id": -431480198826488152,
     "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
     "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4143606571680581477,
+    "id": 5505008688519022642,
     "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -81,25 +108,25 @@
     "saved": false
   },
   {
-    "id": 4245045956491896355,
-    "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-    "link": "https://spectrum.ieee.org/adversarial-fashion",
+    "id": 4594548552452818648,
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-14T14:04:53",
+    "date": "2026-09-14T14:29:23",
     "saved": false
   },
   {
-    "id": -4190795170065788481,
-    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-    "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T13:55:00",
+    "id": 3121316143507475757,
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-14T12:40:57",
     "saved": false
   },
   {
-    "id": 5773450561796301055,
+    "id": 8985055329718382307,
     "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
     "source": "TechCrunch",
@@ -108,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 6790628448047048279,
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-13T19:40:15",
-    "saved": false
-  },
-  {
-    "id": 7565951497525040531,
+    "id": -8564418878614405001,
     "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
     "source": "Reddit ML",
@@ -126,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -6209467397250030705,
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-13T16:30:00",
-    "saved": false
-  },
-  {
-    "id": -7656405063126170149,
+    "id": 8830901691695146785,
     "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
     "source": "Reddit ML",
@@ -144,25 +153,7 @@
     "saved": false
   },
   {
-    "id": -6668721431648401613,
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-12T20:19:16",
-    "saved": false
-  },
-  {
-    "id": -8574230466111506393,
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-12T19:34:44",
-    "saved": false
-  },
-  {
-    "id": -1287744282675744062,
+    "id": -842842824302776770,
     "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
     "source": "Reddit ML",
@@ -171,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -8885832850001474532,
+    "id": -3061166152779383383,
     "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
     "source": "Reddit ML",

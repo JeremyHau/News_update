@@ -1,6 +1,69 @@
 [
   {
-    "id": -6790321578967741231,
+    "id": -4235748885466398742,
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T00:20:39",
+    "saved": false
+  },
+  {
+    "id": -978592108949429747,
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T21:47:38",
+    "saved": false
+  },
+  {
+    "id": -8775107933306400167,
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T20:12:53",
+    "saved": false
+  },
+  {
+    "id": 7223052225092031662,
+    "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+    "link": "https://mnoukhov.github.io/posts/ngu/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T19:07:38",
+    "saved": false
+  },
+  {
+    "id": -6348777070373422305,
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T19:00:00",
+    "saved": false
+  },
+  {
+    "id": 7634706383766231001,
+    "title": "AI agents now have a place to snitch",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T17:42:59",
+    "saved": false
+  },
+  {
+    "id": -4578545170554217716,
+    "title": "Meta expands subscription push with new AI-focused plans",
+    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-15T17:05:24",
+    "saved": false
+  },
+  {
+    "id": -4502634044249715925,
     "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
     "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
     "source": "TechCrunch",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 476935954676949657,
+    "id": 6860120334119245326,
     "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
     "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
     "source": "TechCrunch",
@@ -18,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -9154903306692041162,
-    "title": "Cartesian – AI 3D Modeling for Design",
-    "link": "https://www.formas.ai/cartesian",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-15T15:26:45",
-    "saved": false
-  },
-  {
-    "id": -736141216124992928,
+    "id": -8229459176502167166,
     "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
     "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
     "source": "TechCrunch",
@@ -36,7 +90,16 @@
     "saved": false
   },
   {
-    "id": -1290907065312555900,
+    "id": 5270750855070929852,
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "link": "https://github.com/pizza-bot-app/pizza-bot",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T15:20:26",
+    "saved": false
+  },
+  {
+    "id": 8601624994311158753,
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1246251992827403128,
+    "id": 7994129616411363598,
     "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
     "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
     "source": "TechCrunch",
@@ -54,43 +117,7 @@
     "saved": false
   },
   {
-    "id": -5931035402570590686,
-    "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-    "link": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-15T14:07:01",
-    "saved": false
-  },
-  {
-    "id": 3238806630984183253,
-    "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-    "link": "https://github.com/greentfrapp/panel",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-15T13:58:37",
-    "saved": false
-  },
-  {
-    "id": -4050991518475137041,
-    "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-    "link": "https://github.com/ordewell/ordewell",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-15T13:31:37",
-    "saved": false
-  },
-  {
-    "id": -4509522250897489194,
-    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 3731711431232177687,
+    "id": 3509978321998877327,
     "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
     "source": "Reddit ML",
@@ -99,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -8847024828722364572,
-    "title": "New Italian unicorn Exein rides the physical AI wave",
-    "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T12:19:38",
-    "saved": false
-  },
-  {
-    "id": -543637154437948007,
-    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
-    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -7649909048911388435,
+    "id": 6302507703374311326,
     "title": "Suspected sabotage causes major Netherlands rail disruption",
     "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
     "source": "Hacker News",
@@ -126,34 +135,25 @@
     "saved": false
   },
   {
-    "id": 1963392248567275438,
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T21:51:02",
+    "id": -7903600523219735064,
+    "title": "Let's make quality the norm again",
+    "link": "https://www.forbrukerradet.no/short-life/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T10:00:16",
     "saved": false
   },
   {
-    "id": 1930757088884629061,
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T20:44:14",
+    "id": -3277479982514963066,
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "link": "https://www.effort.news/irregular",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-14T21:15:01",
     "saved": false
   },
   {
-    "id": 7861983938487951712,
-    "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-    "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-14T20:07:37",
-    "saved": false
-  },
-  {
-    "id": 3123863016513667806,
+    "id": -7510146830637790681,
     "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
     "source": "Reddit ML",
@@ -162,21 +162,12 @@
     "saved": false
   },
   {
-    "id": 5030216233489908088,
+    "id": 733458947901461405,
     "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-13T12:12:39",
-    "saved": false
-  },
-  {
-    "id": 6844148344439770298,
-    "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-12T11:23:51",
     "saved": false
   }
 ]

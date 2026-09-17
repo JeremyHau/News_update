@@ -1,15 +1,168 @@
 [
   {
-    "id": 5686553325530625658,
-    "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
-    "link": "https://news.ycombinator.com/item?id=49728159",
+    "id": -7435711171416008033,
+    "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+    "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-16T15:04:08",
+    "date": "2026-09-17T01:02:13",
     "saved": false
   },
   {
-    "id": 9012828688884180509,
+    "id": 1030883228655495771,
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-17T00:58:49",
+    "saved": false
+  },
+  {
+    "id": -1948546512199274822,
+    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-17T00:28:33",
+    "saved": false
+  },
+  {
+    "id": -4756183987054286998,
+    "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T23:43:09",
+    "saved": false
+  },
+  {
+    "id": 2867062236930424757,
+    "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-16T23:20:58",
+    "saved": false
+  },
+  {
+    "id": 8290257867376278466,
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "link": "https://openspec.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-16T23:06:39",
+    "saved": false
+  },
+  {
+    "id": 8933091602647829840,
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "link": "https://harnesstax.github.io/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-16T22:10:13",
+    "saved": false
+  },
+  {
+    "id": -7362414090400277249,
+    "title": "Noise wants to help everyday people  become paid content creators",
+    "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T21:35:00",
+    "saved": false
+  },
+  {
+    "id": 5868472857411946229,
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T21:07:24",
+    "saved": false
+  },
+  {
+    "id": -2824580941968539811,
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "link": "https://arxiv.org/abs/2609.16338",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-16T20:59:24",
+    "saved": false
+  },
+  {
+    "id": -6586076440929758159,
+    "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-16T20:19:45",
+    "saved": false
+  },
+  {
+    "id": 444581682241759570,
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T20:12:00",
+    "saved": false
+  },
+  {
+    "id": 5165905078287751785,
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "link": "https://mimo.xiaomi.com/rl/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-16T20:09:18",
+    "saved": false
+  },
+  {
+    "id": 3511427830259208539,
+    "title": "GoBench: Evaluating LLMs on the game of Go [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-16T18:54:35",
+    "saved": false
+  },
+  {
+    "id": -5918217892092868859,
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "link": "https://rohanbansal.com/qorl",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-16T18:50:00",
+    "saved": false
+  },
+  {
+    "id": -1697263440445493273,
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T18:25:25",
+    "saved": false
+  },
+  {
+    "id": -2624936794270803315,
+    "title": "Your AI agents can now control your Google Home devices",
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 9125528855206312838,
+    "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+    "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-16T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -1610246870370013599,
     "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -18,34 +171,7 @@
     "saved": false
   },
   {
-    "id": 8248196415606947756,
-    "title": "Amazon gives its workers a raise of $1 per hour",
-    "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T14:32:08",
-    "saved": false
-  },
-  {
-    "id": 8009707410223136512,
-    "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-    "link": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-16T14:30:36",
-    "saved": false
-  },
-  {
-    "id": 8655073574868022742,
-    "title": "PhD in ML in the AI era, autoresearch [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1whxlgq/phd_in_ml_in_the_ai_era_autoresearch_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-16T13:41:42",
-    "saved": false
-  },
-  {
-    "id": -9153914497419458268,
+    "id": -6800511805399860342,
     "title": "LARA: small, composable behaviours for frozen LLMs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
     "source": "Reddit ML",
@@ -54,97 +180,7 @@
     "saved": false
   },
   {
-    "id": -111944639479744329,
-    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-    "link": "https://stale.jock.pl/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-16T13:01:52",
-    "saved": false
-  },
-  {
-    "id": -1562976361159540917,
-    "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-    "link": "https://github.com/officefloor/ImpactGate",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-16T13:01:09",
-    "saved": false
-  },
-  {
-    "id": -5527077938113547677,
-    "title": "Former Infosys chief’s AI startup nabs another $53M",
-    "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -1136524643464112334,
-    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-    "link": "https://mistral.ai/news/mistral-x-mozilla/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-16T08:08:57",
-    "saved": false
-  },
-  {
-    "id": -4197224127196359331,
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T00:20:39",
-    "saved": false
-  },
-  {
-    "id": -5431764548182630584,
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T21:47:38",
-    "saved": false
-  },
-  {
-    "id": 28248034284499947,
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T20:12:53",
-    "saved": false
-  },
-  {
-    "id": -5025392667651364063,
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T19:00:00",
-    "saved": false
-  },
-  {
-    "id": -2288566305260046566,
-    "title": "AI agents now have a place to snitch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T17:42:59",
-    "saved": false
-  },
-  {
-    "id": -4257875802422635767,
-    "title": "Meta expands subscription push with new AI-focused plans",
-    "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-15T17:05:24",
-    "saved": false
-  },
-  {
-    "id": 3579671806404256428,
+    "id": 5311120596033139678,
     "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
     "source": "Reddit ML",
@@ -153,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 4578115000726615541,
+    "id": -4820602032251366742,
     "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
     "source": "Reddit ML",

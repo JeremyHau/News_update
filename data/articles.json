@@ -1,87 +1,159 @@
 [
   {
-    "id": -6872565226760972056,
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "id": 3566304752182978469,
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+    "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T14:06:14",
+    "date": "2026-09-18T00:02:36",
     "saved": false
   },
   {
-    "id": -4544119890201258063,
-    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "id": -1338233319730748903,
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T13:46:16",
+    "date": "2026-09-17T23:25:52",
     "saved": false
   },
   {
-    "id": 60490487356615913,
-    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
-    "link": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "id": -4355677467838791221,
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T13:38:33",
+    "date": "2026-09-17T22:34:09",
     "saved": false
   },
   {
-    "id": -7300813059517624032,
-    "title": "I had Gemini train its own replacement for $9",
-    "link": "https://www.petervijeh.com/projects/reddit-ner",
+    "id": 5360422694362027187,
+    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-17T22:14:59",
+    "saved": false
+  },
+  {
+    "id": -2194299262197275128,
+    "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-17T21:55:47",
+    "saved": false
+  },
+  {
+    "id": -468968720659606926,
+    "title": "How Uber Protects Against Retry Storms",
+    "link": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-17T13:17:16",
+    "date": "2026-09-17T21:14:32",
     "saved": false
   },
   {
-    "id": -3469171175720071288,
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "link": "https://mysetup.ai/",
+    "id": -1276415559178502686,
+    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+    "link": "https://prismml.com/news/bonsai-2-27b",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-17T13:01:44",
+    "date": "2026-09-17T21:13:31",
     "saved": false
   },
   {
-    "id": 520144715945232216,
-    "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-    "link": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
+    "id": 2683155310795789353,
+    "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+    "link": "https://bend-lang.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-17T20:36:13",
+    "saved": false
+  },
+  {
+    "id": -8909673283555558694,
+    "title": "The fix for rogue AI agents could be more AI",
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T12:57:46",
+    "date": "2026-09-17T20:34:47",
     "saved": false
   },
   {
-    "id": -7513961496236916883,
-    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-    "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+    "id": 7267380243287679700,
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T11:00:00",
+    "date": "2026-09-17T20:34:24",
     "saved": false
   },
   {
-    "id": -4892635100542609642,
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "id": 954361562643137092,
+    "title": "Is the AI safety debate about safety or control?",
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T05:00:00",
+    "date": "2026-09-17T20:19:37",
     "saved": false
   },
   {
-    "id": -8165290641930810086,
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "id": 8621111426366425138,
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-17T03:30:00",
+    "date": "2026-09-17T20:00:00",
     "saved": false
   },
   {
-    "id": 4041749662872867201,
+    "id": -7160743991123775360,
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-17T19:46:08",
+    "saved": false
+  },
+  {
+    "id": -1075691442819266068,
+    "title": "Even the king of England has his hesitations about AI",
+    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-17T17:26:25",
+    "saved": false
+  },
+  {
+    "id": -4142412457479693286,
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-17T17:15:59",
+    "saved": false
+  },
+  {
+    "id": -4639839252470510002,
+    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-17T17:15:00",
+    "saved": false
+  },
+  {
+    "id": 625768633960855841,
+    "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+    "link": "https://arxiv.org/abs/2609.18842",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-17T16:55:14",
+    "saved": false
+  },
+  {
+    "id": -2513252350058075843,
     "title": "If you have leftover AI tokens/compute, there’s an open project working on the Twin Prime Conjecture [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wiggpg/if_you_have_leftover_ai_tokenscompute_theres_an/",
     "source": "Reddit ML",
@@ -90,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -5012429255726597981,
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T00:58:49",
-    "saved": false
-  },
-  {
-    "id": -5417694640589850433,
-    "title": "Al Gore says the real AI risk isn’t data centers",
-    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T23:43:09",
-    "saved": false
-  },
-  {
-    "id": 5846269060060587508,
+    "id": -3000928673630528129,
     "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
     "source": "Reddit ML",
@@ -117,25 +171,7 @@
     "saved": false
   },
   {
-    "id": 1591093908402485707,
-    "title": "Noise wants to help everyday people  become paid content creators",
-    "link": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T21:35:00",
-    "saved": false
-  },
-  {
-    "id": 2053492881784680375,
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T21:07:24",
-    "saved": false
-  },
-  {
-    "id": -7784565555550855482,
+    "id": -1734829792852528072,
     "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
     "source": "Reddit ML",
@@ -144,25 +180,7 @@
     "saved": false
   },
   {
-    "id": 8853698728605616955,
-    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-16T20:12:00",
-    "saved": false
-  },
-  {
-    "id": -1327674317264917205,
-    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-    "link": "https://mimo.xiaomi.com/rl/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-16T20:09:18",
-    "saved": false
-  },
-  {
-    "id": -4884822716127007752,
+    "id": 3121369070378541555,
     "title": "GoBench: Evaluating LLMs on the game of Go [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
     "source": "Reddit ML",
@@ -171,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 3475542650553552050,
+    "id": 199932578992834283,
     "title": "LARA: small, composable behaviours for frozen LLMs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
     "source": "Reddit ML",
@@ -180,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 9186462577398760705,
+    "id": -7202199386940960043,
     "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
     "source": "Reddit ML",
@@ -189,7 +207,16 @@
     "saved": false
   },
   {
-    "id": -4918522679873364373,
+    "id": 5747206641947871434,
+    "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+    "link": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-15T10:46:24",
+    "saved": false
+  },
+  {
+    "id": 692826476509361720,
     "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
     "source": "Reddit ML",

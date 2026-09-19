@@ -1,42 +1,168 @@
 [
   {
-    "id": 2436879675587051636,
-    "title": "AI Protest in Montreal",
-    "link": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-18T14:45:41",
-    "saved": false
-  },
-  {
-    "id": 4612243512787083720,
-    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-    "link": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-18T14:41:02",
-    "saved": false
-  },
-  {
-    "id": 2543705640353639050,
-    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-    "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "id": 1013079454199296625,
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-09-18T14:00:14",
+    "date": "2026-09-19T00:12:07",
     "saved": false
   },
   {
-    "id": 4798755761037893189,
-    "title": "An Empirical Study of Harness Design for Coding Agents",
-    "link": "https://arxiv.org/abs/2609.20804",
+    "id": -921124384697840202,
+    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T23:25:01",
+    "saved": false
+  },
+  {
+    "id": -2939049768569006994,
+    "title": "AI hallucination nearly triggers US military operation",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T23:12:32",
+    "saved": false
+  },
+  {
+    "id": 6877104455087372747,
+    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+    "link": "https://spectrum.ieee.org/llms-for-chip-design",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-18T13:06:30",
+    "date": "2026-09-18T23:04:17",
     "saved": false
   },
   {
-    "id": 5617683311009777143,
+    "id": -8418903802838060044,
+    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+    "link": "https://code.claude.com/docs/en/changelog",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-18T21:00:32",
+    "saved": false
+  },
+  {
+    "id": -6228435419319955313,
+    "title": "The Implications of Linguistic Illegibility for LLM Security",
+    "link": "https://arxiv.org/abs/2609.02852",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-18T19:00:06",
+    "saved": false
+  },
+  {
+    "id": -2099329084048059444,
+    "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+    "link": "https://arxiv.org/abs/2510.03215",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-18T18:55:35",
+    "saved": false
+  },
+  {
+    "id": 3513724129413136953,
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T18:49:30",
+    "saved": false
+  },
+  {
+    "id": 4241743432540051388,
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T17:59:53",
+    "saved": false
+  },
+  {
+    "id": -3344295463672825759,
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T17:33:50",
+    "saved": false
+  },
+  {
+    "id": 7360571685117116849,
+    "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+    "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T17:26:41",
+    "saved": false
+  },
+  {
+    "id": 4620330802004192907,
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T17:09:56",
+    "saved": false
+  },
+  {
+    "id": 3744229350484158429,
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T16:35:49",
+    "saved": false
+  },
+  {
+    "id": -8455411251622466529,
+    "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-18T16:13:30",
+    "saved": false
+  },
+  {
+    "id": 2800264780187058826,
+    "title": "Family offices are clamoring for AI investments",
+    "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 6636716006545901905,
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T15:30:00",
+    "saved": false
+  },
+  {
+    "id": -4713493216653667805,
+    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-18T15:22:48",
+    "saved": false
+  },
+  {
+    "id": -5281293410529994181,
+    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+    "link": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-18T15:12:07",
+    "saved": false
+  },
+  {
+    "id": -3085023459559564559,
     "title": "How competitive are journals compared to top ai conferences? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
     "source": "Reddit ML",
@@ -45,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 2178986570064596809,
+    "id": -3965052514281111039,
     "title": "augmenting large datasets to have more edge case data for training [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
     "source": "Reddit ML",
@@ -54,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 344609667261251616,
-    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-    "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-18T11:01:44",
-    "saved": false
-  },
-  {
-    "id": -1312855614050519967,
+    "id": 6162848709305953254,
     "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
     "source": "Reddit ML",
@@ -72,16 +189,7 @@
     "saved": false
   },
   {
-    "id": -6454501376904785286,
-    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-18T09:45:07",
-    "saved": false
-  },
-  {
-    "id": -6450343328477556992,
+    "id": -1951412173604034166,
     "title": "AAAI-27 Phase 1 Results [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
     "source": "Reddit ML",
@@ -90,43 +198,7 @@
     "saved": false
   },
   {
-    "id": 6524971357435966308,
-    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
-    "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-18T00:02:36",
-    "saved": false
-  },
-  {
-    "id": -1071366397689693444,
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T23:25:52",
-    "saved": false
-  },
-  {
-    "id": -3656117354616942031,
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T22:34:09",
-    "saved": false
-  },
-  {
-    "id": -2765600783982125008,
-    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T22:14:59",
-    "saved": false
-  },
-  {
-    "id": 4738584027407085967,
+    "id": 1215679152261114994,
     "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
     "source": "Reddit ML",
@@ -135,79 +207,16 @@
     "saved": false
   },
   {
-    "id": 7589673904985693075,
-    "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-    "link": "https://prismml.com/news/bonsai-2-27b",
+    "id": -3091090431151256430,
+    "title": "How to Write with an LLM",
+    "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-17T21:13:31",
+    "date": "2026-09-17T21:48:38",
     "saved": false
   },
   {
-    "id": -534252827931629093,
-    "title": "The fix for rogue AI agents could be more AI",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T20:34:47",
-    "saved": false
-  },
-  {
-    "id": 8827840575146174989,
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T20:34:24",
-    "saved": false
-  },
-  {
-    "id": 6077534578077792562,
-    "title": "Is the AI safety debate about safety or control?",
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T20:19:37",
-    "saved": false
-  },
-  {
-    "id": 6450191354975845886,
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T20:00:00",
-    "saved": false
-  },
-  {
-    "id": -7765654457172984618,
-    "title": "Even the king of England has his hesitations about AI",
-    "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T17:26:25",
-    "saved": false
-  },
-  {
-    "id": -1366265182419982750,
-    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T17:15:59",
-    "saved": false
-  },
-  {
-    "id": -5889252300988051969,
-    "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-    "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-17T17:15:00",
-    "saved": false
-  },
-  {
-    "id": 5452373468948857130,
+    "id": 4579327724533545939,
     "title": "If you have leftover AI tokens/compute, there’s an open project working on the Twin Prime Conjecture [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wiggpg/if_you_have_leftover_ai_tokenscompute_theres_an/",
     "source": "Reddit ML",
@@ -216,7 +225,7 @@
     "saved": false
   },
   {
-    "id": -2090926258598433274,
+    "id": 7462297229879562907,
     "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
     "source": "Reddit ML",
@@ -225,7 +234,7 @@
     "saved": false
   },
   {
-    "id": 2927047623685154213,
+    "id": -3050524902744834891,
     "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
     "source": "Reddit ML",
@@ -234,7 +243,7 @@
     "saved": false
   },
   {
-    "id": 3003738523845598092,
+    "id": 4873520471991560420,
     "title": "GoBench: Evaluating LLMs on the game of Go [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
     "source": "Reddit ML",
@@ -243,16 +252,7 @@
     "saved": false
   },
   {
-    "id": 7437429020653288591,
-    "title": "LARA: small, composable behaviours for frozen LLMs [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-16T13:28:40",
-    "saved": false
-  },
-  {
-    "id": 2187920811097421155,
+    "id": -2601782494683531553,
     "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
     "source": "Reddit ML",

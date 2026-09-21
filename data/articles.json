@@ -1,25 +1,61 @@
 [
   {
-    "id": 7957417275032687147,
-    "title": "Amiga Unix, Again",
-    "link": "https://amigaux.org/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-20T23:57:10",
+    "id": -8572168514806548419,
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-21T16:38:51",
     "saved": false
   },
   {
-    "id": -8794327357658487176,
-    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
-    "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "id": -2546605453482274259,
+    "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
+    "link": "https://github.com/naw103/foremerge",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-20T23:19:04",
+    "date": "2026-09-21T16:22:06",
     "saved": false
   },
   {
-    "id": -8810293947127381503,
-    "title": "Google's Open Agentic Orchestrator",
+    "id": -6201007639907662135,
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-21T14:10:49",
+    "saved": false
+  },
+  {
+    "id": 6838847021765573786,
+    "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+    "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-21T13:49:00",
+    "saved": false
+  },
+  {
+    "id": 6933632895549481220,
+    "title": "Python Workers are now generally available",
+    "link": "https://blog.cloudflare.com/python-workers-ga/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-21T13:38:19",
+    "saved": false
+  },
+  {
+    "id": -4874515689058449771,
+    "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-21T10:55:42",
+    "saved": false
+  },
+  {
+    "id": -1885834805714841811,
+    "title": "AX – Google’s Open Agentic Orchestrator",
     "link": "https://agentexecutor.io",
     "source": "Hacker News",
     "category": "ai",
@@ -27,7 +63,16 @@
     "saved": false
   },
   {
-    "id": 1039019040153975845,
+    "id": -7422917747859164008,
+    "title": "Whirlpool Washer Transmission Repair (2007)",
+    "link": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-20T21:24:33",
+    "saved": false
+  },
+  {
+    "id": -7914875796194944996,
     "title": "Is the AI industry really ready to slow down?",
     "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
     "source": "TechCrunch",
@@ -36,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7388548388723675808,
+    "id": -7933615480953369280,
     "title": "How is your experience with ICLR LLM Feedback? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
     "source": "Reddit ML",
@@ -45,25 +90,7 @@
     "saved": false
   },
   {
-    "id": -8720328262966937864,
-    "title": "Pirate Face Rescues LLM Models from Deletion",
-    "link": "https://pirateface.co/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-20T15:16:07",
-    "saved": false
-  },
-  {
-    "id": 3464365483618111732,
-    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-    "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-20T06:16:42",
-    "saved": false
-  },
-  {
-    "id": 7955321783835044787,
+    "id": -988624967113002687,
     "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
     "source": "Reddit ML",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5060066631770020759,
+    "id": 1948764070283301235,
     "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 7286229713417597951,
+    "id": 5737561090851934956,
     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
     "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7792159512843836666,
+    "id": -8242951638533204036,
     "title": "World Models From Scratch 2: Model Training and Dreaming [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wkvuen/world_models_from_scratch_2_model_training_and/",
     "source": "Reddit ML",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7591424281165171916,
+    "id": -7043565128724128758,
     "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
     "source": "Reddit ML",
@@ -108,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -6863554538007417597,
-    "title": "Reproduce it, or it doesn't count: why training-side decontamination can't be verified, and what an evaluation-side rule looks like [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wks8db/reproduce_it_or_it_doesnt_count_why_trainingside/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-19T17:32:20",
-    "saved": false
-  },
-  {
-    "id": -5404801134577697800,
+    "id": 7531378465734727837,
     "title": "Google’s Gemini is the latest AI model to hack other companies",
     "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
     "source": "TechCrunch",
@@ -126,34 +144,7 @@
     "saved": false
   },
   {
-    "id": -2806818776601964423,
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-19T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -880703105644070216,
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-19T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 2449502429839097325,
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-19T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -2007512839868791852,
+    "id": -5216685818384261613,
     "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
     "source": "Reddit ML",
@@ -162,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -801762082692256021,
+    "id": 4321041633076996863,
     "title": "OpenTrainDNN: An interactive, zero-dependency browser tool for visualizing backpropagation in neural networks. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wkh4s7/opentraindnn_an_interactive_zerodependency/",
     "source": "Reddit ML",
@@ -171,25 +162,7 @@
     "saved": false
   },
   {
-    "id": -3492623055833758931,
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-19T00:12:07",
-    "saved": false
-  },
-  {
-    "id": 6149594003844604627,
-    "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-18T23:25:01",
-    "saved": false
-  },
-  {
-    "id": -8829665775949823106,
+    "id": 5748595554601707842,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

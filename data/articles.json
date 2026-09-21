@@ -1,6 +1,69 @@
 [
   {
-    "id": 3676174324227271193,
+    "id": 7957417275032687147,
+    "title": "Amiga Unix, Again",
+    "link": "https://amigaux.org/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-20T23:57:10",
+    "saved": false
+  },
+  {
+    "id": -8794327357658487176,
+    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+    "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-20T23:19:04",
+    "saved": false
+  },
+  {
+    "id": -8810293947127381503,
+    "title": "Google's Open Agentic Orchestrator",
+    "link": "https://agentexecutor.io",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-20T22:32:43",
+    "saved": false
+  },
+  {
+    "id": 1039019040153975845,
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-20T18:56:04",
+    "saved": false
+  },
+  {
+    "id": -7388548388723675808,
+    "title": "How is your experience with ICLR LLM Feedback? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-20T16:19:10",
+    "saved": false
+  },
+  {
+    "id": -8720328262966937864,
+    "title": "Pirate Face Rescues LLM Models from Deletion",
+    "link": "https://pirateface.co/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-20T15:16:07",
+    "saved": false
+  },
+  {
+    "id": 3464365483618111732,
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-20T06:16:42",
+    "saved": false
+  },
+  {
+    "id": 7955321783835044787,
     "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
     "source": "Reddit ML",
@@ -9,7 +72,16 @@
     "saved": false
   },
   {
-    "id": -4780995568521861170,
+    "id": -5060066631770020759,
+    "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-19T20:19:49",
+    "saved": false
+  },
+  {
+    "id": 7286229713417597951,
     "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
     "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
     "source": "TechCrunch",
@@ -18,7 +90,16 @@
     "saved": false
   },
   {
-    "id": 1761606923945216579,
+    "id": -7792159512843836666,
+    "title": "World Models From Scratch 2: Model Training and Dreaming [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wkvuen/world_models_from_scratch_2_model_training_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-19T19:54:50",
+    "saved": false
+  },
+  {
+    "id": 7591424281165171916,
     "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
     "source": "Reddit ML",
@@ -27,7 +108,16 @@
     "saved": false
   },
   {
-    "id": -4869402127866250187,
+    "id": -6863554538007417597,
+    "title": "Reproduce it, or it doesn't count: why training-side decontamination can't be verified, and what an evaluation-side rule looks like [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wks8db/reproduce_it_or_it_doesnt_count_why_trainingside/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-19T17:32:20",
+    "saved": false
+  },
+  {
+    "id": -5404801134577697800,
     "title": "Google’s Gemini is the latest AI model to hack other companies",
     "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
     "source": "TechCrunch",
@@ -36,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -933046068035100420,
+    "id": -2806818776601964423,
     "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
     "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
     "source": "TechCrunch",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -3148984729423189993,
+    "id": -880703105644070216,
     "title": "AI safety conversations have gotten unbelievable",
     "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
     "source": "TechCrunch",
@@ -54,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8197760710343874495,
+    "id": 2449502429839097325,
     "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
     "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
     "source": "TechCrunch",
@@ -63,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 5958682290121841707,
+    "id": -2007512839868791852,
     "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
     "source": "Reddit ML",
@@ -72,7 +162,16 @@
     "saved": false
   },
   {
-    "id": 9041440532380110663,
+    "id": -801762082692256021,
+    "title": "OpenTrainDNN: An interactive, zero-dependency browser tool for visualizing backpropagation in neural networks. [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wkh4s7/opentraindnn_an_interactive_zerodependency/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-19T08:59:02",
+    "saved": false
+  },
+  {
+    "id": -3492623055833758931,
     "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
     "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
     "source": "TechCrunch",
@@ -81,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 9107618815872246501,
+    "id": 6149594003844604627,
     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
     "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
     "source": "TechCrunch",
@@ -90,66 +189,12 @@
     "saved": false
   },
   {
-    "id": 6157439533202048309,
-    "title": "AI hallucination nearly triggers US military operation",
-    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-18T23:12:32",
-    "saved": false
-  },
-  {
-    "id": 8121347642897273972,
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-18T18:49:30",
-    "saved": false
-  },
-  {
-    "id": -7974366728192080864,
+    "id": -8829665775949823106,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-18T16:13:30",
-    "saved": false
-  },
-  {
-    "id": 8235969913944738153,
-    "title": "How competitive are journals compared to top ai conferences? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-18T11:36:57",
-    "saved": false
-  },
-  {
-    "id": -4967680550696900431,
-    "title": "augmenting large datasets to have more edge case data for training [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-18T11:24:11",
-    "saved": false
-  },
-  {
-    "id": -5460864394226701576,
-    "title": "AAAI-27 Phase 1 Results [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wjhiyu/aaai27_phase_1_results_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-18T05:36:32",
-    "saved": false
-  },
-  {
-    "id": 1433505542431415673,
-    "title": "Future of general LLM work (interp/inference/alignment) vs agentic/physical AI (VLA, multimodal) for career [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wj7ltg/future_of_general_llm_work/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-17T21:55:47",
     "saved": false
   }
 ]

@@ -1,6 +1,105 @@
 [
   {
-    "id": -8572168514806548419,
+    "id": -2948483503507548989,
+    "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+    "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-22T01:24:49",
+    "saved": false
+  },
+  {
+    "id": -3082212249846371278,
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-21T23:44:28",
+    "saved": false
+  },
+  {
+    "id": 3953007103872176433,
+    "title": "Jev's calibration was measured. The LLMs won [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wmre0b/jevs_calibration_was_measured_the_llms_won_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-21T22:20:52",
+    "saved": false
+  },
+  {
+    "id": 3738804180019342895,
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-21T20:15:58",
+    "saved": false
+  },
+  {
+    "id": -1663572606145076059,
+    "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-21T19:44:28",
+    "saved": false
+  },
+  {
+    "id": -623539425064712484,
+    "title": "Transformers Explained Visually",
+    "link": "https://poloclub.github.io/transformer-explainer/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-21T19:43:49",
+    "saved": false
+  },
+  {
+    "id": 6840038794945921029,
+    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+    "link": "https://linear.app/now/ci-bottleneck-reworked",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-21T19:23:33",
+    "saved": false
+  },
+  {
+    "id": 4240279750724172255,
+    "title": "Frontier AI on Your Own Hardware",
+    "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-21T18:53:01",
+    "saved": false
+  },
+  {
+    "id": 4786876425825186528,
+    "title": "Why does mathmain need an encrypted loader?",
+    "link": "https://safedep.io/mathmain-encrypted-loader/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-21T18:33:44",
+    "saved": false
+  },
+  {
+    "id": -3616205789808088338,
+    "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+    "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-21T18:23:05",
+    "saved": false
+  },
+  {
+    "id": 5882396956633551026,
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-21T17:55:18",
+    "saved": false
+  },
+  {
+    "id": -2351535973964458716,
     "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
     "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
     "source": "TechCrunch",
@@ -9,25 +108,7 @@
     "saved": false
   },
   {
-    "id": -2546605453482274259,
-    "title": "Show HN: Foremerge – Catch Intent Conflicts Between Parallel Coding Agents",
-    "link": "https://github.com/naw103/foremerge",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T16:22:06",
-    "saved": false
-  },
-  {
-    "id": -6201007639907662135,
-    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-    "link": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T14:10:49",
-    "saved": false
-  },
-  {
-    "id": 6838847021765573786,
+    "id": -7551213548480259320,
     "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
     "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
     "source": "TechCrunch",
@@ -36,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 6933632895549481220,
-    "title": "Python Workers are now generally available",
-    "link": "https://blog.cloudflare.com/python-workers-ga/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T13:38:19",
-    "saved": false
-  },
-  {
-    "id": -4874515689058449771,
+    "id": 267320130215824081,
     "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
     "source": "Reddit ML",
@@ -54,25 +126,7 @@
     "saved": false
   },
   {
-    "id": -1885834805714841811,
-    "title": "AX – Google’s Open Agentic Orchestrator",
-    "link": "https://agentexecutor.io",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-20T22:32:43",
-    "saved": false
-  },
-  {
-    "id": -7422917747859164008,
-    "title": "Whirlpool Washer Transmission Repair (2007)",
-    "link": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-20T21:24:33",
-    "saved": false
-  },
-  {
-    "id": -7914875796194944996,
+    "id": 7663776050904726585,
     "title": "Is the AI industry really ready to slow down?",
     "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -7933615480953369280,
+    "id": -4766800823510415782,
     "title": "How is your experience with ICLR LLM Feedback? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
     "source": "Reddit ML",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -988624967113002687,
+    "id": 5085424229665595377,
     "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
     "source": "Reddit ML",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 1948764070283301235,
+    "id": -7437603822718774599,
     "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
     "source": "Reddit ML",
@@ -108,25 +162,7 @@
     "saved": false
   },
   {
-    "id": 5737561090851934956,
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-19T19:57:47",
-    "saved": false
-  },
-  {
-    "id": -8242951638533204036,
-    "title": "World Models From Scratch 2: Model Training and Dreaming [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wkvuen/world_models_from_scratch_2_model_training_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-19T19:54:50",
-    "saved": false
-  },
-  {
-    "id": -7043565128724128758,
+    "id": 9091043645933397352,
     "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
     "source": "Reddit ML",
@@ -135,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 7531378465734727837,
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-19T17:30:00",
-    "saved": false
-  },
-  {
-    "id": -5216685818384261613,
+    "id": 8607432460738859888,
     "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
     "source": "Reddit ML",
@@ -153,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 4321041633076996863,
+    "id": -3887038077686450651,
     "title": "OpenTrainDNN: An interactive, zero-dependency browser tool for visualizing backpropagation in neural networks. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wkh4s7/opentraindnn_an_interactive_zerodependency/",
     "source": "Reddit ML",
@@ -162,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 5748595554601707842,
+    "id": 7184597245538329531,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

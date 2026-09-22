@@ -1,15 +1,96 @@
 [
   {
-    "id": -2948483503507548989,
-    "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-    "link": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+    "id": -6439968771514005067,
+    "title": "If you start writing today, there's no way to know if you can write without AI",
+    "link": "https://www.ssp.sh/brain/ai-writing/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-22T01:24:49",
+    "date": "2026-09-22T15:09:45",
     "saved": false
   },
   {
-    "id": -3082212249846371278,
+    "id": -2181812244116518010,
+    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+    "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-22T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 741970135378898625,
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-22T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 1279107980918909017,
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-22T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -1894906259794800775,
+    "title": "OpenAI is about to eat Jev's lunch – Arcturus Labs",
+    "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-22T14:42:59",
+    "saved": false
+  },
+  {
+    "id": -5993313695453095566,
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-22T14:35:15",
+    "saved": false
+  },
+  {
+    "id": 4523815329968418040,
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-22T13:52:15",
+    "saved": false
+  },
+  {
+    "id": -6569147801812728745,
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-22T12:23:05",
+    "saved": false
+  },
+  {
+    "id": 7536490324580055541,
+    "title": "I said no and Apple said yes",
+    "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-22T08:04:55",
+    "saved": false
+  },
+  {
+    "id": -3916164260535862952,
+    "title": "Morphotonics raises €40M to expand its display tech into data centers",
+    "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-22T06:00:00",
+    "saved": false
+  },
+  {
+    "id": 2750760317375471985,
     "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
     "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
     "source": "TechCrunch",
@@ -18,16 +99,16 @@
     "saved": false
   },
   {
-    "id": 3953007103872176433,
-    "title": "Jev's calibration was measured. The LLMs won [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wmre0b/jevs_calibration_was_measured_the_llms_won_d/",
-    "source": "Reddit ML",
+    "id": -2115508015099531586,
+    "title": "Solitaire Alone Together",
+    "link": "https://solitairealonetogether.com/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-21T22:20:52",
+    "date": "2026-09-21T22:16:34",
     "saved": false
   },
   {
-    "id": 3738804180019342895,
+    "id": 2916450355035065312,
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "source": "TechCrunch",
@@ -36,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1663572606145076059,
+    "id": -7962693022536591658,
     "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
     "source": "Reddit ML",
@@ -45,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -623539425064712484,
+    "id": -767835688324304911,
     "title": "Transformers Explained Visually",
     "link": "https://poloclub.github.io/transformer-explainer/",
     "source": "Hacker News",
@@ -54,34 +135,7 @@
     "saved": false
   },
   {
-    "id": 6840038794945921029,
-    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "link": "https://linear.app/now/ci-bottleneck-reworked",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T19:23:33",
-    "saved": false
-  },
-  {
-    "id": 4240279750724172255,
-    "title": "Frontier AI on Your Own Hardware",
-    "link": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T18:53:01",
-    "saved": false
-  },
-  {
-    "id": 4786876425825186528,
-    "title": "Why does mathmain need an encrypted loader?",
-    "link": "https://safedep.io/mathmain-encrypted-loader/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T18:33:44",
-    "saved": false
-  },
-  {
-    "id": -3616205789808088338,
+    "id": 6932286381680027570,
     "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
     "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
     "source": "TechCrunch",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5882396956633551026,
+    "id": 4775004670906187039,
     "title": "Meta’s AI agent has been blocked from using Amazon.com",
     "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
     "source": "TechCrunch",
@@ -99,25 +153,7 @@
     "saved": false
   },
   {
-    "id": -2351535973964458716,
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-21T16:38:51",
-    "saved": false
-  },
-  {
-    "id": -7551213548480259320,
-    "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-    "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-21T13:49:00",
-    "saved": false
-  },
-  {
-    "id": 267320130215824081,
+    "id": 4222638454532686215,
     "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
     "source": "Reddit ML",
@@ -126,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 7663776050904726585,
-    "title": "Is the AI industry really ready to slow down?",
-    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-20T18:56:04",
-    "saved": false
-  },
-  {
-    "id": -4766800823510415782,
+    "id": -3686543952472817208,
     "title": "How is your experience with ICLR LLM Feedback? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
     "source": "Reddit ML",
@@ -144,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 5085424229665595377,
-    "title": "AI/ML and sensitive production data in fintech and healthcare? Where is the data going? Can it be made sense of? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wl2kho/aiml_and_sensitive_production_data_in_fintech_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-20T00:43:46",
-    "saved": false
-  },
-  {
-    "id": -7437603822718774599,
+    "id": -378383853453517298,
     "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
     "source": "Reddit ML",
@@ -162,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 9091043645933397352,
-    "title": "Experimenting with hypersurface-constrained dynamic weight updating [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wksamz/experimenting_with_hypersurfaceconstrained/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-19T17:34:49",
-    "saved": false
-  },
-  {
-    "id": 8607432460738859888,
+    "id": -4782855419417300972,
     "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
     "source": "Reddit ML",
@@ -180,16 +189,7 @@
     "saved": false
   },
   {
-    "id": -3887038077686450651,
-    "title": "OpenTrainDNN: An interactive, zero-dependency browser tool for visualizing backpropagation in neural networks. [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wkh4s7/opentraindnn_an_interactive_zerodependency/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-19T08:59:02",
-    "saved": false
-  },
-  {
-    "id": 7184597245538329531,
+    "id": -6646523631738907026,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

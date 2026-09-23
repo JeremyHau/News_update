@@ -1,6 +1,132 @@
 [
   {
-    "id": 7758241135068709301,
+    "id": -2488498492987995219,
+    "title": "YouTube Music gets more conversational with new AI features",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T15:19:30",
+    "saved": false
+  },
+  {
+    "id": -4561681103082551948,
+    "title": "GPT-6 Astra has gained the ability to drive a car",
+    "link": "https://drivingbench.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T15:14:22",
+    "saved": false
+  },
+  {
+    "id": -758092427235127504,
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T14:30:00",
+    "saved": false
+  },
+  {
+    "id": 4615240473474300755,
+    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
+    "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T14:30:00",
+    "saved": false
+  },
+  {
+    "id": -8054668789424196886,
+    "title": "YouTube will let you build your own algorithm with AI",
+    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T14:30:00",
+    "saved": false
+  },
+  {
+    "id": 8342705302055897119,
+    "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
+    "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T14:30:00",
+    "saved": false
+  },
+  {
+    "id": -7011030988740979482,
+    "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
+    "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T14:21:41",
+    "saved": false
+  },
+  {
+    "id": -4557908374819475090,
+    "title": "Stripe's Knowledge AI Platform",
+    "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T13:38:00",
+    "saved": false
+  },
+  {
+    "id": -2345550420536728391,
+    "title": "I don't want the details",
+    "link": "https://michaelheap.com/i-dont-want-the-details/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T13:04:44",
+    "saved": false
+  },
+  {
+    "id": 930226071139305748,
+    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+    "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T12:15:33",
+    "saved": false
+  },
+  {
+    "id": -7378032733445901045,
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -2876927707885496559,
+    "title": "How do you split AI models across ideation, math, and coding?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-23T07:59:39",
+    "saved": false
+  },
+  {
+    "id": 956943907383887159,
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T04:59:08",
+    "saved": false
+  },
+  {
+    "id": -5062503802054831319,
+    "title": "ICLR main paper + Supplementary in 1 submission [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wnry1d/iclr_main_paper_supplementary_in_1_submission_r/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-23T01:15:59",
+    "saved": false
+  },
+  {
+    "id": -1342345194185110477,
     "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
     "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
     "source": "TechCrunch",
@@ -9,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 4330765451229226450,
+    "id": -4096044555124251746,
     "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
     "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
     "source": "TechCrunch",
@@ -18,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 7059958896978105134,
+    "id": -8543198750790565373,
     "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
     "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
     "source": "TechCrunch",
@@ -27,43 +153,7 @@
     "saved": false
   },
   {
-    "id": 4708177821710410940,
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-22T19:03:38",
-    "saved": false
-  },
-  {
-    "id": -4662655029190280283,
-    "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
-    "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T18:40:30",
-    "saved": false
-  },
-  {
-    "id": -3530219388662182709,
-    "title": "Unreal Agent",
-    "link": "https://unreallabs.ai/blog/unreal-agent/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-22T18:15:53",
-    "saved": false
-  },
-  {
-    "id": -3791483838602763716,
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T18:00:00",
-    "saved": false
-  },
-  {
-    "id": -1996330263073895646,
+    "id": -6883094768040464666,
     "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
     "source": "Reddit ML",
@@ -72,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -5446590932590727722,
+    "id": 7161369588949408760,
     "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
     "source": "Reddit ML",
@@ -81,43 +171,7 @@
     "saved": false
   },
   {
-    "id": 6415176592291289132,
-    "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-    "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 8247639547948252191,
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -6713118446978506708,
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 5093699880096965342,
-    "title": "OpenAI is well positioned to fast-follow Jev",
-    "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-22T14:42:59",
-    "saved": false
-  },
-  {
-    "id": -2936524198777218046,
+    "id": -815842303685462912,
     "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
     "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
     "source": "Hacker News",
@@ -126,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 984756534424210373,
+    "id": -1330971078065717667,
     "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
     "source": "Reddit ML",
@@ -135,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 762707124082378488,
+    "id": 1952007833698337365,
     "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
     "source": "Reddit ML",
@@ -144,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -5714013663970974690,
+    "id": -6946825483511471174,
     "title": "How is your experience with ICLR LLM Feedback? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
     "source": "Reddit ML",
@@ -153,16 +207,7 @@
     "saved": false
   },
   {
-    "id": 5603680401263996340,
-    "title": "Can conference review infrastructure keep up with the increasing volume of NON-SLOP research due to agentic tools? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wkwha7/can_conference_review_infrastructure_keep_up_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-19T20:19:49",
-    "saved": false
-  },
-  {
-    "id": 574616745978982721,
+    "id": 8711200833706210994,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

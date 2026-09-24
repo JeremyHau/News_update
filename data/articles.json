@@ -1,6 +1,87 @@
 [
   {
-    "id": -784365792195628996,
+    "id": -1812922085745036870,
+    "title": "Applying multirate DSP principles to LLMs: A hierarchical \"Semantic Vocoder\" architecture [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wp4w9a/applying_multirate_dsp_principles_to_llms_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-24T15:34:32",
+    "saved": false
+  },
+  {
+    "id": -945783934000238621,
+    "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+    "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-24T15:15:40",
+    "saved": false
+  },
+  {
+    "id": -5724177296812035607,
+    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "link": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-24T15:09:38",
+    "saved": false
+  },
+  {
+    "id": -560430547238591088,
+    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-24T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -5723339199144225496,
+    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-24T14:31:00",
+    "saved": false
+  },
+  {
+    "id": 2610913267281421067,
+    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
+    "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-24T14:30:00",
+    "saved": false
+  },
+  {
+    "id": -4685010583871697995,
+    "title": "Best LLM for every budget, updated daily",
+    "link": "https://bestmodelforyourbudget.terrydjony.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-24T14:09:57",
+    "saved": false
+  },
+  {
+    "id": -7241320952654964965,
+    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+    "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-24T12:54:19",
+    "saved": false
+  },
+  {
+    "id": 6900415016312968867,
+    "title": "OpenAI agent hacked Australian government website, PM says",
+    "link": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-24T02:44:48",
+    "saved": false
+  },
+  {
+    "id": 8457977890811201426,
     "title": "Everything new coming to Meta’s AI agent Muse",
     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "source": "TechCrunch",
@@ -9,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 1659965929107013941,
+    "id": -4523775416624512683,
     "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
     "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
     "source": "TechCrunch",
@@ -18,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -8477194284298495571,
+    "id": -6019878700741732584,
     "title": "Meta is trying VR glasses (again), this time with more IMAX",
     "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
     "source": "TechCrunch",
@@ -27,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7591658937935285900,
+    "id": 7541548312901138874,
     "title": "Meta introduces camera-free AI glasses",
     "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
     "source": "TechCrunch",
@@ -36,25 +117,7 @@
     "saved": false
   },
   {
-    "id": -4059999400190878254,
-    "title": "Mercury 2.5 LLM hits 770 tokens per second",
-    "link": "https://artificialanalysis.ai/models/mercury-2-5",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T22:16:19",
-    "saved": false
-  },
-  {
-    "id": 3782792630602302118,
-    "title": "VSCode's SSH Agent Is Bananas (2025)",
-    "link": "https://fly.io/blog/vscode-ssh-wtf/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T21:01:48",
-    "saved": false
-  },
-  {
-    "id": 5473562840321441676,
+    "id": 7169364654598596379,
     "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
     "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
     "source": "TechCrunch",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 2761850542679581368,
+    "id": 6957334635154545757,
     "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
     "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
     "source": "TechCrunch",
@@ -72,52 +135,7 @@
     "saved": false
   },
   {
-    "id": -2820492181097835228,
-    "title": "Making Tailscale Faster",
-    "link": "https://tailscale.com/blog/making-tailscale-faster",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T17:49:07",
-    "saved": false
-  },
-  {
-    "id": -6199860054040785161,
-    "title": "ChatGPT mobile app gets voice-based agentic features",
-    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 2155706164310485100,
-    "title": "Even Americans who use AI every day are worried about it",
-    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T16:49:58",
-    "saved": false
-  },
-  {
-    "id": -4783692860146528075,
-    "title": "YouTube Music gets more conversational with new AI features",
-    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T15:19:30",
-    "saved": false
-  },
-  {
-    "id": -7374934473790371596,
-    "title": "YouTube releases new AI features for creators within its Studio app",
-    "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -6368469860557945919,
+    "id": 942247082207718757,
     "title": "How do you split AI models across ideation, math, and coding?[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
     "source": "Reddit ML",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8025383690673898015,
+    "id": 7532373326298835248,
     "title": "ICLR main paper + Supplementary in 1 submission [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnry1d/iclr_main_paper_supplementary_in_1_submission_r/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 8657339694937190363,
+    "id": -5740892286948753354,
     "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
     "source": "Reddit ML",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -7790081008424678922,
+    "id": 1213064436681017122,
     "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
     "source": "Reddit ML",
@@ -153,7 +171,25 @@
     "saved": false
   },
   {
-    "id": 2523308077168564304,
+    "id": -348140803093429536,
+    "title": "Coulomb's law remains tricky to test at home",
+    "link": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-22T13:00:04",
+    "saved": false
+  },
+  {
+    "id": -4097662710296540101,
+    "title": "How bad is it if training and validation data overlap in a student ML project?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wmw472/how_bad_is_it_if_training_and_validation_data/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-22T01:44:20",
+    "saved": false
+  },
+  {
+    "id": -8302903755118598941,
     "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
     "source": "Reddit ML",
@@ -162,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -1114465004696904427,
+    "id": 30039512828244046,
     "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
     "source": "Reddit ML",
@@ -171,16 +207,7 @@
     "saved": false
   },
   {
-    "id": 647761980769920805,
-    "title": "How is your experience with ICLR LLM Feedback? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-20T16:19:10",
-    "saved": false
-  },
-  {
-    "id": -6751660064522821857,
+    "id": 1355933719164579676,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

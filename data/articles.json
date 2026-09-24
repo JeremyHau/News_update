@@ -1,6 +1,105 @@
 [
   {
-    "id": -2488498492987995219,
+    "id": -784365792195628996,
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-24T01:13:32",
+    "saved": false
+  },
+  {
+    "id": 1659965929107013941,
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-24T00:46:17",
+    "saved": false
+  },
+  {
+    "id": -8477194284298495571,
+    "title": "Meta is trying VR glasses (again), this time with more IMAX",
+    "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T23:47:35",
+    "saved": false
+  },
+  {
+    "id": -7591658937935285900,
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T23:39:44",
+    "saved": false
+  },
+  {
+    "id": -4059999400190878254,
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "link": "https://artificialanalysis.ai/models/mercury-2-5",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T22:16:19",
+    "saved": false
+  },
+  {
+    "id": 3782792630602302118,
+    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "link": "https://fly.io/blog/vscode-ssh-wtf/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T21:01:48",
+    "saved": false
+  },
+  {
+    "id": 5473562840321441676,
+    "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+    "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T20:35:17",
+    "saved": false
+  },
+  {
+    "id": 2761850542679581368,
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T19:31:28",
+    "saved": false
+  },
+  {
+    "id": -2820492181097835228,
+    "title": "Making Tailscale Faster",
+    "link": "https://tailscale.com/blog/making-tailscale-faster",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-23T17:49:07",
+    "saved": false
+  },
+  {
+    "id": -6199860054040785161,
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 2155706164310485100,
+    "title": "Even Americans who use AI every day are worried about it",
+    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-23T16:49:58",
+    "saved": false
+  },
+  {
+    "id": -4783692860146528075,
     "title": "YouTube Music gets more conversational with new AI features",
     "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
     "source": "TechCrunch",
@@ -9,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -4561681103082551948,
-    "title": "GPT-6 Astra has gained the ability to drive a car",
-    "link": "https://drivingbench.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T15:14:22",
-    "saved": false
-  },
-  {
-    "id": -758092427235127504,
+    "id": -7374934473790371596,
     "title": "YouTube releases new AI features for creators within its Studio app",
     "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
     "source": "TechCrunch",
@@ -27,79 +117,7 @@
     "saved": false
   },
   {
-    "id": 4615240473474300755,
-    "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-    "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -8054668789424196886,
-    "title": "YouTube will let you build your own algorithm with AI",
-    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T14:30:00",
-    "saved": false
-  },
-  {
-    "id": 8342705302055897119,
-    "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-    "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -7011030988740979482,
-    "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-    "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T14:21:41",
-    "saved": false
-  },
-  {
-    "id": -4557908374819475090,
-    "title": "Stripe's Knowledge AI Platform",
-    "link": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T13:38:00",
-    "saved": false
-  },
-  {
-    "id": -2345550420536728391,
-    "title": "I don't want the details",
-    "link": "https://michaelheap.com/i-dont-want-the-details/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T13:04:44",
-    "saved": false
-  },
-  {
-    "id": 930226071139305748,
-    "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-    "link": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T12:15:33",
-    "saved": false
-  },
-  {
-    "id": -7378032733445901045,
-    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-    "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -2876927707885496559,
+    "id": -6368469860557945919,
     "title": "How do you split AI models across ideation, math, and coding?[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnzols/how_do_you_split_ai_models_across_ideation_math/",
     "source": "Reddit ML",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 956943907383887159,
-    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-    "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-23T04:59:08",
-    "saved": false
-  },
-  {
-    "id": -5062503802054831319,
+    "id": -8025383690673898015,
     "title": "ICLR main paper + Supplementary in 1 submission [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnry1d/iclr_main_paper_supplementary_in_1_submission_r/",
     "source": "Reddit ML",
@@ -126,34 +135,7 @@
     "saved": false
   },
   {
-    "id": -1342345194185110477,
-    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T23:21:49",
-    "saved": false
-  },
-  {
-    "id": -4096044555124251746,
-    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-    "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T21:56:43",
-    "saved": false
-  },
-  {
-    "id": -8543198750790565373,
-    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-    "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-22T20:00:00",
-    "saved": false
-  },
-  {
-    "id": -6883094768040464666,
+    "id": 8657339694937190363,
     "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
     "source": "Reddit ML",
@@ -162,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 7161369588949408760,
+    "id": -7790081008424678922,
     "title": "Simulating fault tolerance with stage skipping in pipeline-parallel training [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wnd5ys/simulating_fault_tolerance_with_stage_skipping_in/",
     "source": "Reddit ML",
@@ -171,16 +153,7 @@
     "saved": false
   },
   {
-    "id": -815842303685462912,
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "link": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-22T13:52:15",
-    "saved": false
-  },
-  {
-    "id": -1330971078065717667,
+    "id": 2523308077168564304,
     "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
     "source": "Reddit ML",
@@ -189,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 1952007833698337365,
+    "id": -1114465004696904427,
     "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
     "source": "Reddit ML",
@@ -198,7 +171,7 @@
     "saved": false
   },
   {
-    "id": -6946825483511471174,
+    "id": 647761980769920805,
     "title": "How is your experience with ICLR LLM Feedback? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
     "source": "Reddit ML",
@@ -207,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 8711200833706210994,
+    "id": -6751660064522821857,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

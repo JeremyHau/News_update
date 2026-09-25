@@ -1,6 +1,42 @@
 [
   {
-    "id": 4939618619469514171,
+    "id": -8566404408671199735,
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T15:48:14",
+    "saved": false
+  },
+  {
+    "id": -609096695422825577,
+    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+    "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-25T15:27:35",
+    "saved": false
+  },
+  {
+    "id": -3354258088937899690,
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -4431492649196658811,
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T05:00:00",
+    "saved": false
+  },
+  {
+    "id": -5910936848141939842,
     "title": "AAAI 2027 Phase 1 Summary Rejection [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wpidgd/aaai_2027_phase_1_summary_rejection_n/",
     "source": "Reddit ML",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -8048294575104204010,
+    "id": -1516658080122775526,
     "title": "What's up with AAAI reviewers and organizers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
     "source": "Reddit ML",
@@ -18,25 +54,7 @@
     "saved": false
   },
   {
-    "id": 4502008153021652089,
-    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-    "link": "https://koi.rest",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-24T21:33:03",
-    "saved": false
-  },
-  {
-    "id": -7483824491513355320,
-    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-    "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-24T19:14:27",
-    "saved": false
-  },
-  {
-    "id": -1724237380657789018,
+    "id": -3539085021239350769,
     "title": "NeurIPS Main Track Decision Emails are Sent [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
     "source": "Reddit ML",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8897056832885188576,
+    "id": -3510609512744004323,
     "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
     "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
     "source": "TechCrunch",
@@ -54,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -4125684137733301203,
-    "title": "I'm a 5+ year experienced Data scientist willing to explain my real life projects on video call to someone willing to learn so that it can help with my Interview preparation [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wp925j/im_a_5_year_experienced_data_scientist_willing_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-24T18:09:46",
-    "saved": false
-  },
-  {
-    "id": 3108813569574755536,
+    "id": -5427501976016812328,
     "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
     "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
     "source": "TechCrunch",
@@ -72,79 +81,7 @@
     "saved": false
   },
   {
-    "id": 5107296241413352146,
-    "title": "Applying multirate DSP principles to LLMs: A hierarchical \"Semantic Vocoder\" architecture [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wp4w9a/applying_multirate_dsp_principles_to_llms_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-24T15:34:32",
-    "saved": false
-  },
-  {
-    "id": 7871878302002803631,
-    "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 996688481605044229,
-    "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T14:31:00",
-    "saved": false
-  },
-  {
-    "id": 871141003570196157,
-    "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-    "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -379591435717734905,
-    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-    "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T12:54:19",
-    "saved": false
-  },
-  {
-    "id": 7630296159599343342,
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T01:13:32",
-    "saved": false
-  },
-  {
-    "id": -5213142520630197489,
-    "title": "Rails World 2026 Opening Keynote [video]",
-    "link": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-23T15:33:33",
-    "saved": false
-  },
-  {
-    "id": 7160745470781539226,
-    "title": "Security auditing in the age of (good enough) AI",
-    "link": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-21T21:53:01",
-    "saved": false
-  },
-  {
-    "id": -5584170782247220554,
+    "id": -4902173114516636758,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

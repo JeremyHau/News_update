@@ -1,6 +1,96 @@
 [
   {
-    "id": -8566404408671199735,
+    "id": -2957802313805801881,
+    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+    "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-26T00:59:02",
+    "saved": false
+  },
+  {
+    "id": -599540597206998180,
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T23:11:10",
+    "saved": false
+  },
+  {
+    "id": 4087409725023135953,
+    "title": "Automattic has a new board after failed attempt to put CEO on leave",
+    "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T23:04:34",
+    "saved": false
+  },
+  {
+    "id": -5461222042195624460,
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T22:20:47",
+    "saved": false
+  },
+  {
+    "id": -5407334835122754338,
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "link": "https://swarmtraces.org/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-25T21:09:27",
+    "saved": false
+  },
+  {
+    "id": 6917474179168851787,
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T19:13:38",
+    "saved": false
+  },
+  {
+    "id": -6763969679994240942,
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T18:33:59",
+    "saved": false
+  },
+  {
+    "id": -8989988448572366837,
+    "title": "What are people building in computer vision, and what's still painful? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wq3s0u/what_are_people_building_in_computer_vision_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-25T18:21:22",
+    "saved": false
+  },
+  {
+    "id": 7349912076779691535,
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T16:16:52",
+    "saved": false
+  },
+  {
+    "id": -594529541640471993,
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-25T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -5257152573202613748,
     "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
     "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
     "source": "TechCrunch",
@@ -9,16 +99,16 @@
     "saved": false
   },
   {
-    "id": -609096695422825577,
-    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-    "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "id": 8740343510524455517,
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-25T15:27:35",
+    "date": "2026-09-25T15:29:25",
     "saved": false
   },
   {
-    "id": -3354258088937899690,
+    "id": 1760380222023606041,
     "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
     "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
     "source": "TechCrunch",
@@ -27,16 +117,16 @@
     "saved": false
   },
   {
-    "id": -4431492649196658811,
-    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-25T05:00:00",
+    "id": -2132070976089874135,
+    "title": "I wrote a ray tracer in Brainfuck",
+    "link": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-25T10:08:41",
     "saved": false
   },
   {
-    "id": -5910936848141939842,
+    "id": -6957842320749580232,
     "title": "AAAI 2027 Phase 1 Summary Rejection [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wpidgd/aaai_2027_phase_1_summary_rejection_n/",
     "source": "Reddit ML",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -1516658080122775526,
+    "id": 3176070021653799077,
     "title": "What's up with AAAI reviewers and organizers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
     "source": "Reddit ML",
@@ -54,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -3539085021239350769,
+    "id": -3655013151422600064,
     "title": "NeurIPS Main Track Decision Emails are Sent [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wpagoe/neurips_main_track_decision_emails_are_sent_d/",
     "source": "Reddit ML",
@@ -63,25 +153,7 @@
     "saved": false
   },
   {
-    "id": -3510609512744004323,
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T19:00:42",
-    "saved": false
-  },
-  {
-    "id": -5427501976016812328,
-    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-    "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-24T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -4902173114516636758,
+    "id": 282073170765852626,
     "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/",
     "source": "Reddit ML",

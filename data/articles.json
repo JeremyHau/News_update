@@ -1,6 +1,33 @@
 [
   {
-    "id": -8518673398803192194,
+    "id": 4044613293721031618,
+    "title": "The Normalization of Inexplicable Failures",
+    "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-27T15:26:40",
+    "saved": false
+  },
+  {
+    "id": -4104808091800403499,
+    "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-27T12:30:00",
+    "saved": false
+  },
+  {
+    "id": -331674868826709689,
+    "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+    "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-27T06:19:33",
+    "saved": false
+  },
+  {
+    "id": -5052225494545627794,
     "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
     "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 4740457082527647174,
+    "id": 8674225984679505698,
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "source": "TechCrunch",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 797717377553845350,
-    "title": "I ran the same prompt against our agent every week for a quarter and watched the answers drift until they broke our policy [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wr509z/i_ran_the_same_prompt_against_our_agent_every/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-26T23:38:51",
-    "saved": false
-  },
-  {
-    "id": 7495412058508244947,
+    "id": 784016546505300793,
     "title": "Insurers claim AI is already increasing healthcare costs",
     "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 779534872588948229,
+    "id": -8071905779573039402,
     "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
     "source": "Reddit ML",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 2618881586744802694,
+    "id": -5510114519632453325,
     "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
     "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
     "source": "TechCrunch",
@@ -54,25 +72,7 @@
     "saved": false
   },
   {
-    "id": 7254304030908077084,
-    "title": "LLMs were told they could lie in Diplomacy. Here's who actually kept their promises. [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wqufwj/llms_were_told_they_could_lie_in_diplomacy_heres/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-26T16:13:32",
-    "saved": false
-  },
-  {
-    "id": 5751107001195112022,
-    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-26T15:56:34",
-    "saved": false
-  },
-  {
-    "id": -1233459088537086622,
+    "id": -8591421912363910614,
     "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
     "source": "Reddit ML",
@@ -81,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 7643314000532445022,
-    "title": "Generate fonts where every LLM token is the same width",
-    "link": "https://ampdot.mesh.host/token-space-fonts.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-26T00:30:03",
-    "saved": false
-  },
-  {
-    "id": 4368928798469611074,
+    "id": -954614146665089585,
     "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
     "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
     "source": "TechCrunch",
@@ -99,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 4099144285294724111,
+    "id": -8266769234475907352,
     "title": "Automattic has a new board after failed attempt to put CEO on leave",
     "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
     "source": "TechCrunch",
@@ -108,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6667451764577741778,
+    "id": 1400754435152588320,
     "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
     "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
     "source": "TechCrunch",
@@ -117,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6703311310246522602,
+    "id": 2194217570684209638,
     "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
     "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
     "source": "TechCrunch",
@@ -126,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5213081291141426365,
+    "id": -2686963521393956538,
     "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
     "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
     "source": "TechCrunch",
@@ -135,39 +126,12 @@
     "saved": false
   },
   {
-    "id": -8956970504424999025,
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-25T16:16:52",
-    "saved": false
-  },
-  {
-    "id": -1116321997754199115,
-    "title": "Evolving programming languages in the AI era",
-    "link": "https://dashbit.co/blog/evolving-ai-era",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-25T02:34:39",
-    "saved": false
-  },
-  {
-    "id": -2792324544777937560,
+    "id": -2827899182593174480,
     "title": "What's up with AAAI reviewers and organizers? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-25T00:09:18",
-    "saved": false
-  },
-  {
-    "id": 6224867561411388099,
-    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-    "link": "https://www.movingimagearchive.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-24T16:11:42",
     "saved": false
   }
 ]

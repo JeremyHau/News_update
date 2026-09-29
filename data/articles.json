@@ -1,6 +1,78 @@
 [
   {
-    "id": -6411686323579201068,
+    "id": 2260988607322248136,
+    "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-09-29T02:58:39",
+    "saved": false
+  },
+  {
+    "id": -1359477427026719338,
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-28T23:39:20",
+    "saved": false
+  },
+  {
+    "id": 7171518325753146094,
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "link": "https://github.com/firelex/jeff",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-28T20:23:36",
+    "saved": false
+  },
+  {
+    "id": -6552672975947102836,
+    "title": "It's Time to Investigate the AI Labs",
+    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-28T19:53:35",
+    "saved": false
+  },
+  {
+    "id": 6153431530247478967,
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-28T19:33:57",
+    "saved": false
+  },
+  {
+    "id": -1348479075492249528,
+    "title": "Tesla delays Roadster 2 event again due to bad weather",
+    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-28T19:27:27",
+    "saved": false
+  },
+  {
+    "id": -3754523631696894442,
+    "title": "The AI boom took over Climate Week and not everyone is happy about it",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-28T19:21:59",
+    "saved": false
+  },
+  {
+    "id": 8750311681075902062,
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "link": "https://stateofutopia.com/experiments/microllmlab/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-09-28T18:58:53",
+    "saved": false
+  },
+  {
+    "id": 6366417164275429209,
     "title": "Nvidia launches new platform for reining in rogue AI agents",
     "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
     "source": "TechCrunch",
@@ -9,34 +81,16 @@
     "saved": false
   },
   {
-    "id": -27460059209464718,
-    "title": "I made a visual workspace for AI Automations",
-    "link": "https://www.biom.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-28T17:53:14",
-    "saved": false
-  },
-  {
-    "id": 2809135690389597807,
-    "title": "The Teen Portraits That Captivated Sofia Coppola",
-    "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-28T17:41:28",
-    "saved": false
-  },
-  {
-    "id": -84338849401155789,
-    "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+    "id": 7211302677960000498,
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
     "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-28T17:33:34",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-28T17:09:02",
     "saved": false
   },
   {
-    "id": -4020631310737385933,
+    "id": 2739458505828905159,
     "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
     "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7509861350515822440,
+    "id": 2987249051630403661,
     "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8420512584333232009,
+    "id": -325082085118159866,
     "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
     "link": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
     "source": "TechCrunch",
@@ -63,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -286097088001798013,
-    "title": "Cf: The Agentic CLI for the Cloudflare API",
-    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-28T15:28:13",
-    "saved": false
-  },
-  {
-    "id": 7638455023038357780,
+    "id": 6981666942494941753,
     "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
     "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6333144616170904449,
+    "id": 295447138855018283,
     "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
     "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5181961689636219285,
+    "id": 3321471717746510303,
     "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
     "source": "Reddit ML",
@@ -99,52 +144,7 @@
     "saved": false
   },
   {
-    "id": 2386598287488538449,
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T14:05:00",
-    "saved": false
-  },
-  {
-    "id": -687112914651976883,
-    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -6022075383654033924,
-    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-    "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T13:38:48",
-    "saved": false
-  },
-  {
-    "id": 2354686392602013619,
-    "title": "Maritime intelligence startup Quartermaster raises another $140M",
-    "link": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 7537565010913816415,
-    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-    "link": "https://git.mills.io/prologic/parley",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-28T10:30:54",
-    "saved": false
-  },
-  {
-    "id": -7371909439798816775,
+    "id": -9137827367306865207,
     "title": "Are there any good research papers around Text clustering using LLMs [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ws6g1p/are_there_any_good_research_papers_around_text/",
     "source": "Reddit ML",
@@ -153,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 1564599432554550929,
+    "id": -7431093566153511905,
     "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
     "source": "Reddit ML",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -550142298921242635,
+    "id": 6108740172551848875,
     "title": "OpenTrainDNN: A Browser-Based Real-Time Neural Network Visualizer.[P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ws14qi/opentraindnn_a_browserbased_realtime_neural/",
     "source": "Reddit ML",
@@ -171,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 1060301414446972688,
+    "id": 8278126434097712484,
     "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
     "source": "Reddit ML",
@@ -180,21 +180,12 @@
     "saved": false
   },
   {
-    "id": -8797221344698639084,
-    "title": "[P] A small MLP from scratch in NumPy with a GUI to look inside it while it trains (weight distributions, t-SNE per layer, neuron ablation...) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wqy1qd/p_a_small_mlp_from_scratch_in_numpy_with_a_gui_to/",
-    "source": "Reddit ML",
+    "id": -8249675435917329756,
+    "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+    "link": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-09-26T18:38:38",
-    "saved": false
-  },
-  {
-    "id": -680037068111127695,
-    "title": "A Little Guide to Learning Distributed Algorithms for LLMS Training and Inference [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-26T07:10:45",
+    "date": "2026-09-26T10:16:26",
     "saved": false
   }
 ]

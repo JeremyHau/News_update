@@ -1,15 +1,105 @@
 [
   {
-    "id": -1279730997946329553,
-    "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-    "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-29T16:30:48",
+    "id": -1429475138899281508,
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T22:20:59",
     "saved": false
   },
   {
-    "id": -8789959725959628281,
+    "id": 919846119013551896,
+    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+    "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T21:51:36",
+    "saved": false
+  },
+  {
+    "id": 6076637516302571437,
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T20:15:47",
+    "saved": false
+  },
+  {
+    "id": 1743358660906463401,
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T19:52:37",
+    "saved": false
+  },
+  {
+    "id": -6915442383411045035,
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T18:35:00",
+    "saved": false
+  },
+  {
+    "id": -4864115498375682455,
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T17:45:51",
+    "saved": false
+  },
+  {
+    "id": 361340467965466811,
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T17:20:00",
+    "saved": false
+  },
+  {
+    "id": 1119189823163591358,
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T17:17:15",
+    "saved": false
+  },
+  {
+    "id": 2064353842958309813,
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T17:15:00",
+    "saved": false
+  },
+  {
+    "id": 6357502274559087702,
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T17:15:00",
+    "saved": false
+  },
+  {
+    "id": -1946140454159384329,
+    "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-09-29T17:15:00",
+    "saved": false
+  },
+  {
+    "id": 190503440820542408,
     "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
     "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
     "source": "TechCrunch",
@@ -18,52 +108,7 @@
     "saved": false
   },
   {
-    "id": -8282122358171352270,
-    "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
-    "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-29T14:56:55",
-    "saved": false
-  },
-  {
-    "id": 8716451950973022238,
-    "title": "Meta is expanding its AI agent Muse to small businesses",
-    "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-29T13:47:30",
-    "saved": false
-  },
-  {
-    "id": -7423702173487585918,
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-29T12:45:05",
-    "saved": false
-  },
-  {
-    "id": -1725968058414909292,
-    "title": "Without the Hot Air",
-    "link": "https://www.withouthotair.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-29T12:38:18",
-    "saved": false
-  },
-  {
-    "id": 8910191404335421345,
-    "title": "Reco raises $55M as AI agent security startups crowd the market",
-    "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-29T12:30:00",
-    "saved": false
-  },
-  {
-    "id": -8599354071730072585,
+    "id": -6374340581428918046,
     "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
     "source": "Reddit ML",
@@ -72,34 +117,7 @@
     "saved": false
   },
   {
-    "id": -2674986963314865717,
-    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-29T09:03:41",
-    "saved": false
-  },
-  {
-    "id": 1872608812645739234,
-    "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-    "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-29T09:00:00",
-    "saved": false
-  },
-  {
-    "id": -3459431010691877853,
-    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-29T05:13:43",
-    "saved": false
-  },
-  {
-    "id": 501605672467554674,
+    "id": -4761467383301696264,
     "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
     "source": "Reddit ML",
@@ -108,34 +126,7 @@
     "saved": false
   },
   {
-    "id": 1158071073860465354,
-    "title": "OpenAI reportedly ditches model over safety concerns",
-    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T23:39:20",
-    "saved": false
-  },
-  {
-    "id": 3975615656387677089,
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T19:33:57",
-    "saved": false
-  },
-  {
-    "id": 7288825791512062381,
-    "title": "Tesla delays Roadster 2 event again due to bad weather",
-    "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-28T19:27:27",
-    "saved": false
-  },
-  {
-    "id": 283518861801570495,
+    "id": 5099528212459912107,
     "title": "Browser demo of our Clash Royale RL environment: a 5.6k-parameter REINFORCE policy learns defensive placement against a brute-force optimum [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wsfkwg/browser_demo_of_our_clash_royale_rl_environment_a/",
     "source": "Reddit ML",
@@ -144,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3220792928696230629,
+    "id": -5307503994405086331,
     "title": "Are there any good research papers around Text clustering using LLMs [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ws6g1p/are_there_any_good_research_papers_around_text/",
     "source": "Reddit ML",
@@ -153,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8297535139142188324,
+    "id": 8222813185731647525,
     "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
     "source": "Reddit ML",
@@ -162,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 3256648023891454354,
-    "title": "OpenTrainDNN: A Browser-Based Real-Time Neural Network Visualizer.[P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1ws14qi/opentraindnn_a_browserbased_realtime_neural/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-28T01:12:00",
-    "saved": false
-  },
-  {
-    "id": -7117977134295496899,
+    "id": -2863756057804394165,
     "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/",
     "source": "Reddit ML",

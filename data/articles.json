@@ -1,6 +1,123 @@
 [
   {
-    "id": -2179485404466435107,
+    "id": 8316479778994800752,
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T16:44:35",
+    "saved": false
+  },
+  {
+    "id": 2539815840879312518,
+    "title": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wv2jpi/wm_pai_workshop_at_neurips_confused_about_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-01T15:31:49",
+    "saved": false
+  },
+  {
+    "id": 3966913216726228493,
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T15:12:00",
+    "saved": false
+  },
+  {
+    "id": -6736098729437144728,
+    "title": "Identity Management for Agentic AI [pdf] (2025)",
+    "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-01T15:11:10",
+    "saved": false
+  },
+  {
+    "id": -4444464296191476476,
+    "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-01T14:45:25",
+    "saved": false
+  },
+  {
+    "id": -4078265517142179676,
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -3527590593578392597,
+    "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-01T13:12:08",
+    "saved": false
+  },
+  {
+    "id": -2952371509486287284,
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-01T13:00:55",
+    "saved": false
+  },
+  {
+    "id": -4084474010974403806,
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -5496827179336158182,
+    "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+    "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -2443480839461262972,
+    "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+    "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -2883802378109138714,
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-01T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -1750505717238246847,
+    "title": "Does TMLR Confirmation email take time?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wuxcwd/does_tmlr_confirmation_email_take_timed/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-01T11:49:52",
+    "saved": false
+  },
+  {
+    "id": -7047024560263289421,
     "title": "How to address novelty concerns in top ai conference? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
     "source": "Reddit ML",
@@ -9,7 +126,16 @@
     "saved": false
   },
   {
-    "id": -1728532611510459962,
+    "id": -2889229648226180643,
+    "title": "NeurIPS SLM Agents or RoboPAD Workshops [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wum2z7/neurips_slm_agents_or_robopad_workshops_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-01T01:01:42",
+    "saved": false
+  },
+  {
+    "id": -212299151529122071,
     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
     "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
     "source": "TechCrunch",
@@ -18,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 4037677246515016620,
+    "id": 2489091530451315889,
     "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
     "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
     "source": "TechCrunch",
@@ -27,156 +153,12 @@
     "saved": false
   },
   {
-    "id": -6729985366506407379,
-    "title": "Surprisingly complex waves reveal the brain's inner workings",
-    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-30T19:04:50",
-    "saved": false
-  },
-  {
-    "id": -3611162688669344609,
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T19:00:57",
-    "saved": false
-  },
-  {
-    "id": -5715497062099209785,
+    "id": -3658153835121484797,
     "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-09-30T18:31:31",
-    "saved": false
-  },
-  {
-    "id": -7863305149614942574,
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T18:23:57",
-    "saved": false
-  },
-  {
-    "id": -1476398091735380778,
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T17:45:00",
-    "saved": false
-  },
-  {
-    "id": 7731490071949187969,
-    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-    "link": "https://github.com/magnitudedev/magnitude",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-09-30T17:37:40",
-    "saved": false
-  },
-  {
-    "id": -2898601516710806866,
-    "title": "The ugly economics of consumer AI",
-    "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T17:24:45",
-    "saved": false
-  },
-  {
-    "id": 562587328681364304,
-    "title": "OpenAI’s Lean 4 Navier-Stokes proof compiles with zero errors, but the fluid vaporizes at 0.7 nm. What does this mean for Neuro-Symbolic AI? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wuac1n/openais_lean_4_navierstokes_proof_compiles_with/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-30T16:59:35",
-    "saved": false
-  },
-  {
-    "id": 4294230695453227460,
-    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-    "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T16:24:23",
-    "saved": false
-  },
-  {
-    "id": -1867456569467863780,
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T16:00:24",
-    "saved": false
-  },
-  {
-    "id": -5543671803379639635,
-    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-    "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 7209849826905262002,
-    "title": "Which API for general real-time LLM agents [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-30T15:14:07",
-    "saved": false
-  },
-  {
-    "id": 8304966874069759865,
-    "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-    "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T14:50:55",
-    "saved": false
-  },
-  {
-    "id": 8274598171334570245,
-    "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-    "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T14:32:03",
-    "saved": false
-  },
-  {
-    "id": 3827245273245520273,
-    "title": "Instagram rolls out an AI video assistant for creators",
-    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-09-30T14:30:00",
-    "saved": false
-  },
-  {
-    "id": 7336675886253190620,
-    "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-29T10:35:53",
-    "saved": false
-  },
-  {
-    "id": 2359392608063395093,
-    "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-29T02:58:39",
     "saved": false
   }
 ]

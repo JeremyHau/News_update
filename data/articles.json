@@ -1,24 +1,42 @@
 [
   {
-    "id": 9023347595815355487,
-    "title": "Hair Loss Was Just the Start. Ozempic Users Are Also Reporting Nail Trouble",
-    "link": "https://gizmodo.com/hair-loss-was-just-the-start-ozempic-users-are-also-reporting-nail-trouble-2000820821",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T01:15:15",
+    "id": 2637014460011014397,
+    "title": "All the AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-03T14:00:00",
     "saved": false
   },
   {
-    "id": 8480713692298085841,
-    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T01:09:01",
+    "id": 8292806734491713564,
+    "title": "Spotify billionaire’s body scan startup has come to America",
+    "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-03T14:00:00",
     "saved": false
   },
   {
-    "id": 178422639975991468,
+    "id": 7511701870571076464,
+    "title": "Show HN: Germany's new sovereign AI model Kolibri",
+    "link": "https://tej.as/blog/aleph-alpha-kolibri",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-03T10:43:51",
+    "saved": false
+  },
+  {
+    "id": -2408890412890820208,
+    "title": "Show HN: Offrun – manage every coding agent from one workspace",
+    "link": "https://offrun.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-03T08:40:17",
+    "saved": false
+  },
+  {
+    "id": 167328881804687733,
     "title": "Sean Parker is rebuilding Stability AI around music",
     "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "source": "TechCrunch",
@@ -27,16 +45,7 @@
     "saved": false
   },
   {
-    "id": -1563257424334884715,
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "link": "https://github.com/anteloc/ldraw-nova",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-02T20:00:15",
-    "saved": false
-  },
-  {
-    "id": 7357296187169921336,
+    "id": -7039412743468184698,
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 4495606321637463848,
+    "id": 4389437894734056714,
     "title": "From the creator of Redis; run LLM locally with ds4",
     "link": "https://dwarfstar.sh/",
     "source": "Hacker News",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -7085689556348200396,
+    "id": 7418780696843669407,
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
     "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1656897133021480795,
+    "id": 9179139621064556553,
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -7428133247311622596,
+    "id": -8653151998633245845,
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7454194001472258002,
+    "id": 3188771204245852580,
     "title": "Pope Leo XIV is not a fan of AI-generated art",
     "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
     "source": "TechCrunch",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8490686263941294707,
+    "id": 1681043834630027133,
     "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
     "source": "Reddit ML",
@@ -99,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5322722937111315322,
+    "id": 3442034374318105598,
     "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
     "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
     "source": "TechCrunch",
@@ -108,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -2918791957011997635,
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-02T14:11:24",
-    "saved": false
-  },
-  {
-    "id": -4535308672495493969,
+    "id": -632978207964976342,
     "title": "Tesla sustains its EV sales momentum despite US troubles",
     "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
     "source": "TechCrunch",
@@ -126,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 2169790948590871212,
+    "id": -28309725353279784,
     "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
     "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
     "source": "Hacker News",
@@ -135,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -1053579165315262020,
-    "title": "What's up with AAAI round 2 reviews? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wv4yji/whats_up_with_aaai_round_2_reviews_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-01T17:03:08",
-    "saved": false
-  },
-  {
-    "id": -4092262913949985627,
+    "id": 7414379273635613492,
     "title": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wv2jpi/wm_pai_workshop_at_neurips_confused_about_the/",
     "source": "Reddit ML",
@@ -153,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -94836501845193754,
+    "id": 2301599718014951293,
     "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
     "source": "Reddit ML",
@@ -162,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -1076783407487272149,
+    "id": 4533234860015294492,
     "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
     "source": "Reddit ML",
@@ -171,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 4025188261633813237,
-    "title": "Does TMLR Confirmation email take time?[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wuxcwd/does_tmlr_confirmation_email_take_timed/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-01T11:49:52",
-    "saved": false
-  },
-  {
-    "id": 3878171123543789285,
+    "id": -6492907865229552548,
     "title": "How to address novelty concerns in top ai conference? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
     "source": "Reddit ML",
@@ -189,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 2521216937167837165,
+    "id": 4966425587895312487,
     "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
     "source": "Reddit ML",

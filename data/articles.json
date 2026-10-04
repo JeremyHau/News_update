@@ -1,6 +1,42 @@
 [
   {
-    "id": 2637014460011014397,
+    "id": -7448148028291361130,
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-03T22:18:13",
+    "saved": false
+  },
+  {
+    "id": -7543390320093408227,
+    "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-03T18:04:32",
+    "saved": false
+  },
+  {
+    "id": -568918668638730395,
+    "title": "Agents don't need memory, they need documentation",
+    "link": "https://liao.gg/blog/agents-dont-need-memory",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-03T17:03:37",
+    "saved": false
+  },
+  {
+    "id": -765095113319280199,
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-03T16:30:01",
+    "saved": false
+  },
+  {
+    "id": 2800852252359789434,
     "title": "All the AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 8292806734491713564,
+    "id": 4111019050729176598,
     "title": "Spotify billionaire’s body scan startup has come to America",
     "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
     "source": "TechCrunch",
@@ -18,25 +54,7 @@
     "saved": false
   },
   {
-    "id": 7511701870571076464,
-    "title": "Show HN: Germany's new sovereign AI model Kolibri",
-    "link": "https://tej.as/blog/aleph-alpha-kolibri",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T10:43:51",
-    "saved": false
-  },
-  {
-    "id": -2408890412890820208,
-    "title": "Show HN: Offrun – manage every coding agent from one workspace",
-    "link": "https://offrun.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T08:40:17",
-    "saved": false
-  },
-  {
-    "id": 167328881804687733,
+    "id": 5155481437948525089,
     "title": "Sean Parker is rebuilding Stability AI around music",
     "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "source": "TechCrunch",
@@ -45,7 +63,25 @@
     "saved": false
   },
   {
-    "id": -7039412743468184698,
+    "id": 4980141227456412288,
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-02T20:39:05",
+    "saved": false
+  },
+  {
+    "id": 881794499947483327,
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "link": "https://pipod.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-02T19:10:38",
+    "saved": false
+  },
+  {
+    "id": -8366074659639434475,
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "source": "TechCrunch",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 4389437894734056714,
-    "title": "From the creator of Redis; run LLM locally with ds4",
-    "link": "https://dwarfstar.sh/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-02T18:01:16",
-    "saved": false
-  },
-  {
-    "id": 7418780696843669407,
+    "id": -1525415320900840036,
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
     "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 9179139621064556553,
+    "id": 1008705110562221996,
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8653151998633245845,
+    "id": -677347470502755630,
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 3188771204245852580,
+    "id": 4258223002845815632,
     "title": "Pope Leo XIV is not a fan of AI-generated art",
     "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1681043834630027133,
+    "id": 1181693238685832992,
     "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 3442034374318105598,
+    "id": 5622680715693084985,
     "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
     "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
     "source": "TechCrunch",
@@ -117,25 +144,7 @@
     "saved": false
   },
   {
-    "id": -632978207964976342,
-    "title": "Tesla sustains its EV sales momentum despite US troubles",
-    "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-02T13:39:23",
-    "saved": false
-  },
-  {
-    "id": -28309725353279784,
-    "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-    "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-02T02:51:27",
-    "saved": false
-  },
-  {
-    "id": 7414379273635613492,
+    "id": 5950184902507771717,
     "title": "WM PAI Workshop at NeurIPS — confused about the acceptance/rejection process [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wv2jpi/wm_pai_workshop_at_neurips_confused_about_the/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 2301599718014951293,
+    "id": -2475351666697308933,
     "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
     "source": "Reddit ML",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4533234860015294492,
+    "id": -750394669533728004,
     "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
     "source": "Reddit ML",
@@ -162,21 +171,12 @@
     "saved": false
   },
   {
-    "id": -6492907865229552548,
+    "id": -2136764248801388548,
     "title": "How to address novelty concerns in top ai conference? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wumgyy/how_to_address_novelty_concerns_in_top_ai/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-01T01:20:35",
-    "saved": false
-  },
-  {
-    "id": 4966425587895312487,
-    "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-09-30T18:31:31",
     "saved": false
   }
 ]

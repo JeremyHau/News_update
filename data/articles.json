@@ -1,6 +1,51 @@
 [
   {
-    "id": 4308025613735298679,
+    "id": -7234364235144648881,
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-05T01:54:08",
+    "saved": false
+  },
+  {
+    "id": -7915219556087912748,
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-04T20:31:07",
+    "saved": false
+  },
+  {
+    "id": 2738740321251351384,
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-04T20:08:34",
+    "saved": false
+  },
+  {
+    "id": -5278949907668069300,
+    "title": "Homa: The end of TCP for AI clusters [video]",
+    "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-04T19:42:25",
+    "saved": false
+  },
+  {
+    "id": 3182086801093294402,
+    "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-04T18:03:08",
+    "saved": false
+  },
+  {
+    "id": -6634057803440435278,
     "title": "Show HN: AI search for every photo and every frame of video on macOS",
     "link": "https://github.com/allenv0/SCM",
     "source": "Hacker News",
@@ -9,7 +54,16 @@
     "saved": false
   },
   {
-    "id": 3831370551355742002,
+    "id": 8031095596174463323,
+    "title": "How to scale intent, quality, and artistry with AI [video]",
+    "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-04T08:41:58",
+    "saved": false
+  },
+  {
+    "id": -155892931588507780,
     "title": "Working with an AI Company That Does Things You Disagree With [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
     "source": "Reddit ML",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -962089403584688882,
+    "id": 8288453397648333676,
     "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
     "source": "Reddit ML",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1789811045314388601,
+    "id": -2424971567064055344,
     "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
     "source": "Reddit ML",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 5570746079343692878,
+    "id": -1766193818584195476,
     "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
     "source": "Reddit ML",
@@ -45,25 +99,7 @@
     "saved": false
   },
   {
-    "id": 9079875767089921097,
-    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "link": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T17:44:29",
-    "saved": false
-  },
-  {
-    "id": 1781509227628519974,
-    "title": "Agents don't need memory, they need documentation",
-    "link": "https://liao.gg/blog/agents-dont-need-memory",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T17:03:37",
-    "saved": false
-  },
-  {
-    "id": -712249913894296250,
+    "id": -7136836450393173008,
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3221983173913524686,
+    "id": 7107603603789442301,
     "title": "All the AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6054098851086615818,
+    "id": -8102802880332998155,
     "title": "Spotify billionaire’s body scan startup has come to America",
     "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -6189780071423039967,
+    "id": 7051229028484271430,
     "title": "Sean Parker is rebuilding Stability AI around music",
     "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -748221208564914104,
+    "id": 8812466847472167903,
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
     "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "source": "TechCrunch",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -90104805403109023,
+    "id": 3481766580660492945,
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
     "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
     "source": "TechCrunch",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 7608749481920984657,
+    "id": -2556336050504954899,
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
     "source": "TechCrunch",
@@ -126,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 8267687995136746654,
+    "id": -8679197541977561915,
     "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
     "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
     "source": "TechCrunch",
@@ -135,16 +171,7 @@
     "saved": false
   },
   {
-    "id": -7313431400594215115,
-    "title": "Pope Leo XIV is not a fan of AI-generated art",
-    "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-02T15:39:41",
-    "saved": false
-  },
-  {
-    "id": -7983492579136713164,
+    "id": 2152041628275469830,
     "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
     "source": "Reddit ML",
@@ -153,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 3096383491492779154,
-    "title": "LLMs that push back on a wrong user still accept the same wrong answer from a \"verified source\" - NeurIPS 2026 [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wv1c2e/llms_that_push_back_on_a_wrong_user_still_accept/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-01T14:45:25",
-    "saved": false
-  },
-  {
-    "id": -5994034821482462338,
+    "id": -188577894030494171,
     "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
     "source": "Reddit ML",

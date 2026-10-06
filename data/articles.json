@@ -1,6 +1,42 @@
 [
   {
-    "id": -1620492935222213268,
+    "id": 499873127628472542,
+    "title": "AI tutoring with Khanmigo in a two-year school experiment",
+    "link": "https://edworkingpapers.com/ai26-1551",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T00:00:45",
+    "saved": false
+  },
+  {
+    "id": 8969461201115625448,
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "link": "https://qlabs.sh/research/dust",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-05T21:15:07",
+    "saved": false
+  },
+  {
+    "id": -8776063769275361605,
+    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-05T21:00:21",
+    "saved": false
+  },
+  {
+    "id": 2254729584591929326,
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-05T20:36:48",
+    "saved": false
+  },
+  {
+    "id": 5108397426169018292,
     "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
     "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1080318673357233412,
+    "id": -4617405401330880138,
     "title": "Instinct brings its AI agent to group chats, even for friends without an account",
     "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
     "source": "TechCrunch",
@@ -18,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 8349204631592246439,
-    "title": "Why Plain Text Is Still One of the Best Technologies We Have",
-    "link": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-05T18:54:00",
-    "saved": false
-  },
-  {
-    "id": 6336065365051739026,
+    "id": -6682111552972262476,
     "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
     "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
     "source": "TechCrunch",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 8891105654473192602,
+    "id": 6729602755075304470,
     "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
     "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
     "source": "TechCrunch",
@@ -45,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 5314309572606144637,
-    "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-    "link": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-05T17:53:35",
-    "saved": false
-  },
-  {
-    "id": -6289534504884414384,
+    "id": -1882113999546209926,
     "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
     "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2418670413017539871,
+    "id": -8937655763164782172,
     "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
     "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6473162144203118070,
+    "id": 5830798571741871625,
     "title": "OpenAI launches visual ads that appear alongside image generation results",
     "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7464623879659896482,
+    "id": 5237188826241849522,
     "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
     "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -5310268305893439355,
+    "id": 713871772529978796,
     "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2281743523113420992,
+    "id": -8189662653022238713,
     "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
     "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
     "source": "TechCrunch",
@@ -108,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -8732450556966141248,
-    "title": "Linux containers in 500 lines of code",
-    "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-05T14:09:15",
-    "saved": false
-  },
-  {
-    "id": -1456485278086256879,
+    "id": -7709356362852386942,
     "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
     "source": "Reddit ML",
@@ -126,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5692180720698574510,
+    "id": 8800042360346127668,
     "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
     "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -7391997761661089983,
+    "id": -7510950426640040783,
     "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
     "source": "Reddit ML",
@@ -144,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4283086739039898448,
+    "id": -823729077722847644,
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "source": "TechCrunch",
@@ -153,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -5280015484808017638,
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-04T20:08:34",
-    "saved": false
-  },
-  {
-    "id": -5285256113575591770,
+    "id": -7444303791521478635,
     "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
     "source": "Reddit ML",
@@ -171,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 6971673967499601387,
+    "id": 4896609482441869521,
     "title": "Working with an AI Company That Does Things You Disagree With [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
     "source": "Reddit ML",
@@ -180,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -3927013130397180058,
+    "id": -7457837387158092154,
     "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
     "source": "Reddit ML",
@@ -189,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -5953796706017779050,
+    "id": 6143616262033867914,
     "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
     "source": "Reddit ML",
@@ -198,12 +198,21 @@
     "saved": false
   },
   {
-    "id": -1417577300155496231,
+    "id": -1687880864124557785,
     "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-03T18:04:32",
+    "saved": false
+  },
+  {
+    "id": -5557923873279828953,
+    "title": "An Algorithmic Failure Beneath the Secret Ballot",
+    "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-03T16:23:07",
     "saved": false
   }
 ]

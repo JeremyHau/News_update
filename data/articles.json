@@ -1,15 +1,114 @@
 [
   {
-    "id": 499873127628472542,
-    "title": "AI tutoring with Khanmigo in a two-year school experiment",
-    "link": "https://edworkingpapers.com/ai26-1551",
+    "id": -6351042446115243788,
+    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+    "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-06T00:00:45",
+    "date": "2026-10-06T17:01:52",
     "saved": false
   },
   {
-    "id": 8969461201115625448,
+    "id": -8218889318769763690,
+    "title": "AI is now capable of developing its own inference hardware",
+    "link": "https://github.com/FeSens/openTPU",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T16:23:25",
+    "saved": false
+  },
+  {
+    "id": -424873523163034995,
+    "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+    "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T16:18:45",
+    "saved": false
+  },
+  {
+    "id": 997994279216633633,
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T15:25:00",
+    "saved": false
+  },
+  {
+    "id": -4814004460635035984,
+    "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+    "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T15:15:00",
+    "saved": false
+  },
+  {
+    "id": 1834318429961698365,
+    "title": "Bluesky wants to give you your own domain on the open web",
+    "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T14:41:52",
+    "saved": false
+  },
+  {
+    "id": 3029493653309541251,
+    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T14:33:16",
+    "saved": false
+  },
+  {
+    "id": -7896887271637779107,
+    "title": "Pinterest’s AI now turns beauty Pins into action plans",
+    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T14:00:49",
+    "saved": false
+  },
+  {
+    "id": -8010569128678601468,
+    "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+    "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 5649357328382205405,
+    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+    "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -5311401183263748449,
+    "title": "JetBrains reported a net financial loss first time in its tracked history",
+    "link": "https://www.helgilibrary.com/companies/jetbrains",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T11:45:55",
+    "saved": false
+  },
+  {
+    "id": -4225155432813654733,
+    "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-06T07:03:22",
+    "saved": false
+  },
+  {
+    "id": 7949216254033061874,
     "title": "Dust: Pretraining Transformers Without Backpropagation",
     "link": "https://qlabs.sh/research/dust",
     "source": "Hacker News",
@@ -18,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -8776063769275361605,
-    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-05T21:00:21",
-    "saved": false
-  },
-  {
-    "id": 2254729584591929326,
+    "id": 2851739541845670994,
     "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
     "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "source": "TechCrunch",
@@ -36,97 +126,7 @@
     "saved": false
   },
   {
-    "id": 5108397426169018292,
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T19:33:53",
-    "saved": false
-  },
-  {
-    "id": -4617405401330880138,
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T18:54:30",
-    "saved": false
-  },
-  {
-    "id": -6682111552972262476,
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T18:29:00",
-    "saved": false
-  },
-  {
-    "id": 6729602755075304470,
-    "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-    "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T18:07:07",
-    "saved": false
-  },
-  {
-    "id": -1882113999546209926,
-    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T17:29:22",
-    "saved": false
-  },
-  {
-    "id": -8937655763164782172,
-    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-    "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T16:43:35",
-    "saved": false
-  },
-  {
-    "id": 5830798571741871625,
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T15:14:24",
-    "saved": false
-  },
-  {
-    "id": 5237188826241849522,
-    "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-    "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 713871772529978796,
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -8189662653022238713,
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T14:35:09",
-    "saved": false
-  },
-  {
-    "id": -7709356362852386942,
+    "id": -934737906674636429,
     "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
     "source": "Reddit ML",
@@ -135,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 8800042360346127668,
-    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-    "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -7510950426640040783,
+    "id": 6617969344666507166,
     "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
     "source": "Reddit ML",
@@ -153,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -823729077722847644,
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-04T20:31:07",
-    "saved": false
-  },
-  {
-    "id": -7444303791521478635,
+    "id": 7598796898146489041,
     "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
     "source": "Reddit ML",
@@ -171,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4896609482441869521,
+    "id": -6086907127697678974,
     "title": "Working with an AI Company That Does Things You Disagree With [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
     "source": "Reddit ML",
@@ -180,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -7457837387158092154,
+    "id": 721615075611882802,
     "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
     "source": "Reddit ML",
@@ -189,30 +171,12 @@
     "saved": false
   },
   {
-    "id": 6143616262033867914,
+    "id": 1094164821326324091,
     "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-04T05:21:35",
-    "saved": false
-  },
-  {
-    "id": -1687880864124557785,
-    "title": "The Principles of Diffusion Models by Lai et al.: thoughts on the monograph [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wwtpg6/the_principles_of_diffusion_models_by_lai_et_al/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-03T18:04:32",
-    "saved": false
-  },
-  {
-    "id": -5557923873279828953,
-    "title": "An Algorithmic Failure Beneath the Secret Ballot",
-    "link": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-03T16:23:07",
     "saved": false
   }
 ]

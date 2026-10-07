@@ -1,24 +1,114 @@
 [
   {
-    "id": 278529110695720998,
-    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-    "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-07T01:27:49",
+    "id": -3656634303028689553,
+    "title": "Greenairy is building smart plant towers to clean the air in your office",
+    "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T17:30:00",
     "saved": false
   },
   {
-    "id": 1058626234736943135,
-    "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
-    "link": "https://arxiv.org/abs/2609.38721",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T22:51:35",
+    "id": 7412123861252017995,
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T16:53:46",
     "saved": false
   },
   {
-    "id": 4811417732503382687,
+    "id": 2190680618713675720,
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T15:07:08",
+    "saved": false
+  },
+  {
+    "id": -490993240490545559,
+    "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
+    "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -7896748930345817687,
+    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+    "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 8360538837970891719,
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T14:41:38",
+    "saved": false
+  },
+  {
+    "id": 5320969544987120520,
+    "title": "Google experiments with an AI-powered gaming platform",
+    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T14:36:23",
+    "saved": false
+  },
+  {
+    "id": 6336370418176988187,
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T14:30:00",
+    "saved": false
+  },
+  {
+    "id": -4419634333054348314,
+    "title": "AI-assisted proof of optimal packing for 11 squares",
+    "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-07T14:10:55",
+    "saved": false
+  },
+  {
+    "id": -839888006735481584,
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -286947329943847804,
+    "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+    "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T13:45:00",
+    "saved": false
+  },
+  {
+    "id": 7308796036328008191,
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-07T09:51:43",
+    "saved": false
+  },
+  {
+    "id": 5624192238192908803,
     "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
     "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
     "source": "TechCrunch",
@@ -27,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 5511003750140234592,
-    "title": "Sharing AI progress in mathematics",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T22:17:21",
-    "saved": false
-  },
-  {
-    "id": 3083187981058192542,
-    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "link": "https://penguin-mail.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T21:59:43",
-    "saved": false
-  },
-  {
-    "id": 1519442107124353652,
+    "id": -5888582595328682488,
     "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
     "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
     "source": "TechCrunch",
@@ -54,115 +126,7 @@
     "saved": false
   },
   {
-    "id": 716113299890474215,
-    "title": "How AI decision models could change content moderation",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T20:35:20",
-    "saved": false
-  },
-  {
-    "id": 4035963228794433102,
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T20:00:30",
-    "saved": false
-  },
-  {
-    "id": -5817542503100962336,
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T19:56:50",
-    "saved": false
-  },
-  {
-    "id": -1576985985918323574,
-    "title": "Hark releases an AI personal assistant with a focus on privacy",
-    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T18:22:45",
-    "saved": false
-  },
-  {
-    "id": -5314209218650263218,
-    "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-    "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T17:01:52",
-    "saved": false
-  },
-  {
-    "id": 217891903695419364,
-    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "link": "https://github.com/FeSens/openTPU",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T16:23:25",
-    "saved": false
-  },
-  {
-    "id": 7168917249710483264,
-    "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-    "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T16:18:45",
-    "saved": false
-  },
-  {
-    "id": -3304966890301266501,
-    "title": "LibreOffice says ‘no AI’ is now a software feature",
-    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T15:25:00",
-    "saved": false
-  },
-  {
-    "id": 2295994764338010026,
-    "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-    "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T15:15:00",
-    "saved": false
-  },
-  {
-    "id": 2269694408841356990,
-    "title": "Bluesky wants to give you your own domain on the open web",
-    "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T14:41:52",
-    "saved": false
-  },
-  {
-    "id": 7216225848154060386,
-    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T14:33:16",
-    "saved": false
-  },
-  {
-    "id": -6596148110478087515,
-    "title": "Pinterest’s AI now turns beauty Pins into action plans",
-    "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T14:00:49",
-    "saved": false
-  },
-  {
-    "id": -5373218276603556193,
+    "id": -7888607891431479843,
     "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
     "source": "Reddit ML",
@@ -171,16 +135,7 @@
     "saved": false
   },
   {
-    "id": 2331525898285640947,
-    "title": "LLMs may have helped my RSI",
-    "link": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T03:01:04",
-    "saved": false
-  },
-  {
-    "id": -8748334138537241557,
+    "id": -3758150040439161212,
     "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
     "source": "Reddit ML",
@@ -189,21 +144,12 @@
     "saved": false
   },
   {
-    "id": -2023678343083862613,
+    "id": 2048978741522428266,
     "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-05T04:11:48",
-    "saved": false
-  },
-  {
-    "id": 2701989096668688348,
-    "title": "Working with an AI Company That Does Things You Disagree With [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-04T08:41:09",
     "saved": false
   }
 ]

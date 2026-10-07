@@ -1,6 +1,96 @@
 [
   {
-    "id": -6351042446115243788,
+    "id": 278529110695720998,
+    "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+    "link": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-07T01:27:49",
+    "saved": false
+  },
+  {
+    "id": 1058626234736943135,
+    "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+    "link": "https://arxiv.org/abs/2609.38721",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T22:51:35",
+    "saved": false
+  },
+  {
+    "id": 4811417732503382687,
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T22:34:03",
+    "saved": false
+  },
+  {
+    "id": 5511003750140234592,
+    "title": "Sharing AI progress in mathematics",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T22:17:21",
+    "saved": false
+  },
+  {
+    "id": 3083187981058192542,
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "link": "https://penguin-mail.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T21:59:43",
+    "saved": false
+  },
+  {
+    "id": 1519442107124353652,
+    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+    "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T20:47:01",
+    "saved": false
+  },
+  {
+    "id": 716113299890474215,
+    "title": "How AI decision models could change content moderation",
+    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T20:35:20",
+    "saved": false
+  },
+  {
+    "id": 4035963228794433102,
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T20:00:30",
+    "saved": false
+  },
+  {
+    "id": -5817542503100962336,
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T19:56:50",
+    "saved": false
+  },
+  {
+    "id": -1576985985918323574,
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-06T18:22:45",
+    "saved": false
+  },
+  {
+    "id": -5314209218650263218,
     "title": "Utah to let AI examine patients and prescribe medication without human oversight",
     "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
     "source": "Hacker News",
@@ -9,8 +99,8 @@
     "saved": false
   },
   {
-    "id": -8218889318769763690,
-    "title": "AI is now capable of developing its own inference hardware",
+    "id": 217891903695419364,
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
     "link": "https://github.com/FeSens/openTPU",
     "source": "Hacker News",
     "category": "ai",
@@ -18,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -424873523163034995,
+    "id": 7168917249710483264,
     "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
     "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
     "source": "TechCrunch",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 997994279216633633,
+    "id": -3304966890301266501,
     "title": "LibreOffice says ‘no AI’ is now a software feature",
     "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
     "source": "TechCrunch",
@@ -36,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4814004460635035984,
+    "id": 2295994764338010026,
     "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
     "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
     "source": "TechCrunch",
@@ -45,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 1834318429961698365,
+    "id": 2269694408841356990,
     "title": "Bluesky wants to give you your own domain on the open web",
     "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
     "source": "TechCrunch",
@@ -54,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 3029493653309541251,
+    "id": 7216225848154060386,
     "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
     "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
     "source": "TechCrunch",
@@ -63,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7896887271637779107,
+    "id": -6596148110478087515,
     "title": "Pinterest’s AI now turns beauty Pins into action plans",
     "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
     "source": "TechCrunch",
@@ -72,34 +162,7 @@
     "saved": false
   },
   {
-    "id": -8010569128678601468,
-    "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
-    "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 5649357328382205405,
-    "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-    "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T12:00:00",
-    "saved": false
-  },
-  {
-    "id": -5311401183263748449,
-    "title": "JetBrains reported a net financial loss first time in its tracked history",
-    "link": "https://www.helgilibrary.com/companies/jetbrains",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T11:45:55",
-    "saved": false
-  },
-  {
-    "id": -4225155432813654733,
+    "id": -5373218276603556193,
     "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
     "source": "Reddit ML",
@@ -108,25 +171,16 @@
     "saved": false
   },
   {
-    "id": 7949216254033061874,
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "link": "https://qlabs.sh/research/dust",
+    "id": 2331525898285640947,
+    "title": "LLMs may have helped my RSI",
+    "link": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-05T21:15:07",
+    "date": "2026-10-06T03:01:04",
     "saved": false
   },
   {
-    "id": 2851739541845670994,
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-05T20:36:48",
-    "saved": false
-  },
-  {
-    "id": -934737906674636429,
+    "id": -8748334138537241557,
     "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
     "source": "Reddit ML",
@@ -135,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 6617969344666507166,
+    "id": -2023678343083862613,
     "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
     "source": "Reddit ML",
@@ -144,39 +198,12 @@
     "saved": false
   },
   {
-    "id": 7598796898146489041,
-    "title": "Interactive Demonstration of Prefix Injection attacks on LLMs for jailbreaking [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-04T18:03:08",
-    "saved": false
-  },
-  {
-    "id": -6086907127697678974,
+    "id": 2701989096668688348,
     "title": "Working with an AI Company That Does Things You Disagree With [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-04T08:41:09",
-    "saved": false
-  },
-  {
-    "id": 721615075611882802,
-    "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-04T07:57:28",
-    "saved": false
-  },
-  {
-    "id": 1094164821326324091,
-    "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-04T05:21:35",
     "saved": false
   }
 ]

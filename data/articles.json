@@ -1,6 +1,114 @@
 [
   {
-    "id": -2088219236001988246,
+    "id": -8669325006790371211,
+    "title": "The Deeply Impersonal Personalized Recruiter Mail",
+    "link": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-08T17:15:57",
+    "saved": false
+  },
+  {
+    "id": -4627658410767680249,
+    "title": "OpenAI annualised revenues $20B less than previously signalled",
+    "link": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-08T16:45:58",
+    "saved": false
+  },
+  {
+    "id": -2537470697666838677,
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T16:00:00",
+    "saved": false
+  },
+  {
+    "id": 7125571687834366649,
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -5359030774396683075,
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 8454985716588270408,
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 7956581477498020234,
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "link": "https://github.com/SamsungLabs/LittleBit",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-08T13:29:46",
+    "saved": false
+  },
+  {
+    "id": -6542090789523210019,
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T13:20:32",
+    "saved": false
+  },
+  {
+    "id": 2679030542583491628,
+    "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+    "link": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T12:53:39",
+    "saved": false
+  },
+  {
+    "id": -7050196064234584043,
+    "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+    "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T12:00:00",
+    "saved": false
+  },
+  {
+    "id": 2079211651156500981,
+    "title": "OpenAI withdraws three mathematical results",
+    "link": "https://twitter.com/danintheory/status/2108065033070789090",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-08T07:05:40",
+    "saved": false
+  },
+  {
+    "id": 1236393612191707492,
+    "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-08T03:46:09",
+    "saved": false
+  },
+  {
+    "id": 5423959408552716908,
     "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
     "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
     "source": "TechCrunch",
@@ -9,34 +117,7 @@
     "saved": false
   },
   {
-    "id": 5491314068183801978,
-    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-    "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T22:59:16",
-    "saved": false
-  },
-  {
-    "id": 8820326342080001256,
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T20:48:45",
-    "saved": false
-  },
-  {
-    "id": -3063832808114583866,
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T20:22:37",
-    "saved": false
-  },
-  {
-    "id": -3636874071334951570,
+    "id": 7862274340241413297,
     "title": "Claude Haiku 5.5",
     "link": "https://www.anthropic.com/claude-haiku-5-5",
     "source": "Hacker News",
@@ -45,129 +126,12 @@
     "saved": false
   },
   {
-    "id": 90964709932686660,
-    "title": "Docker Agent",
-    "link": "https://github.com/docker/docker-agent",
+    "id": -5435455630702759494,
+    "title": "Time Travel in Braid (2015)",
+    "link": "https://qntm.org/braid",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-07T17:48:38",
-    "saved": false
-  },
-  {
-    "id": -6761245822648649481,
-    "title": "Greenairy is building smart plant towers to clean the air in your office",
-    "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T17:30:00",
-    "saved": false
-  },
-  {
-    "id": 195448703522271087,
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T16:53:46",
-    "saved": false
-  },
-  {
-    "id": -7886833266014267297,
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T15:07:08",
-    "saved": false
-  },
-  {
-    "id": 9155133659254142788,
-    "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-    "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -7945110505310228983,
-    "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-    "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 5418282031871754749,
-    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-    "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T14:41:38",
-    "saved": false
-  },
-  {
-    "id": 510863812791314504,
-    "title": "Google experiments with an AI-powered gaming platform",
-    "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T14:36:23",
-    "saved": false
-  },
-  {
-    "id": 6941382087288684409,
-    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-    "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T14:30:00",
-    "saved": false
-  },
-  {
-    "id": -1249756011310987150,
-    "title": "Google’s new SynthID website can identify AI-generated media",
-    "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 8059830743129587762,
-    "title": "Sharing AI progress in mathematics",
-    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-06T22:17:21",
-    "saved": false
-  },
-  {
-    "id": 6321318896897036035,
-    "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-06T07:03:22",
-    "saved": false
-  },
-  {
-    "id": 806135985791879515,
-    "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-05T13:58:31",
-    "saved": false
-  },
-  {
-    "id": -1145572306061981777,
-    "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-05T04:11:48",
+    "date": "2026-10-04T21:42:43",
     "saved": false
   }
 ]

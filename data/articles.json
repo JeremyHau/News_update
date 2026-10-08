@@ -1,6 +1,60 @@
 [
   {
-    "id": -3656634303028689553,
+    "id": -2088219236001988246,
+    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+    "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T23:36:57",
+    "saved": false
+  },
+  {
+    "id": 5491314068183801978,
+    "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+    "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T22:59:16",
+    "saved": false
+  },
+  {
+    "id": 8820326342080001256,
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T20:48:45",
+    "saved": false
+  },
+  {
+    "id": -3063832808114583866,
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-07T20:22:37",
+    "saved": false
+  },
+  {
+    "id": -3636874071334951570,
+    "title": "Claude Haiku 5.5",
+    "link": "https://www.anthropic.com/claude-haiku-5-5",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-07T18:01:32",
+    "saved": false
+  },
+  {
+    "id": 90964709932686660,
+    "title": "Docker Agent",
+    "link": "https://github.com/docker/docker-agent",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-07T17:48:38",
+    "saved": false
+  },
+  {
+    "id": -6761245822648649481,
     "title": "Greenairy is building smart plant towers to clean the air in your office",
     "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7412123861252017995,
+    "id": 195448703522271087,
     "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
     "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2190680618713675720,
+    "id": -7886833266014267297,
     "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
     "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -490993240490545559,
+    "id": 9155133659254142788,
     "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
     "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7896748930345817687,
+    "id": -7945110505310228983,
     "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
     "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8360538837970891719,
+    "id": 5418282031871754749,
     "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
     "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5320969544987120520,
+    "id": 510863812791314504,
     "title": "Google experiments with an AI-powered gaming platform",
     "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6336370418176988187,
+    "id": 6941382087288684409,
     "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
     "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
     "source": "TechCrunch",
@@ -72,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -4419634333054348314,
-    "title": "AI-assisted proof of optimal packing for 11 squares",
-    "link": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-07T14:10:55",
-    "saved": false
-  },
-  {
-    "id": -839888006735481584,
+    "id": -1249756011310987150,
     "title": "Google’s new SynthID website can identify AI-generated media",
     "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
     "source": "TechCrunch",
@@ -90,43 +135,16 @@
     "saved": false
   },
   {
-    "id": -286947329943847804,
-    "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-    "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T13:45:00",
-    "saved": false
-  },
-  {
-    "id": 7308796036328008191,
-    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-    "link": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "id": 8059830743129587762,
+    "title": "Sharing AI progress in mathematics",
+    "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-07T09:51:43",
+    "date": "2026-10-06T22:17:21",
     "saved": false
   },
   {
-    "id": 5624192238192908803,
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T22:34:03",
-    "saved": false
-  },
-  {
-    "id": -5888582595328682488,
-    "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-    "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-06T20:47:01",
-    "saved": false
-  },
-  {
-    "id": -7888607891431479843,
+    "id": 6321318896897036035,
     "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/",
     "source": "Reddit ML",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -3758150040439161212,
+    "id": 806135985791879515,
     "title": "I have trained a model to predict my blood sugar (Part 2) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wy99gd/i_have_trained_a_model_to_predict_my_blood_sugar/",
     "source": "Reddit ML",
@@ -144,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 2048978741522428266,
+    "id": -1145572306061981777,
     "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
     "source": "Reddit ML",

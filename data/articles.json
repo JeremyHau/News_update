@@ -1,24 +1,114 @@
 [
   {
-    "id": -8669325006790371211,
-    "title": "The Deeply Impersonal Personalized Recruiter Mail",
-    "link": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-    "source": "Hacker News",
+    "id": 986559621602341183,
+    "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-10-08T17:15:57",
+    "date": "2026-10-09T00:50:36",
     "saved": false
   },
   {
-    "id": -4627658410767680249,
-    "title": "OpenAI annualised revenues $20B less than previously signalled",
-    "link": "https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-08T16:45:58",
+    "id": 2128519051138061021,
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T21:00:00",
     "saved": false
   },
   {
-    "id": -2537470697666838677,
+    "id": 957743598447378274,
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-08T20:46:25",
+    "saved": false
+  },
+  {
+    "id": -1770278638767676124,
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T20:04:26",
+    "saved": false
+  },
+  {
+    "id": -4422745515949321626,
+    "title": "Whatever happened to BABA is AI from 2024? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-08T20:00:11",
+    "saved": false
+  },
+  {
+    "id": -5475363143017946410,
+    "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-08T19:03:32",
+    "saved": false
+  },
+  {
+    "id": 2880512113907298349,
+    "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+    "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T18:30:00",
+    "saved": false
+  },
+  {
+    "id": 90500482103395967,
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T18:20:32",
+    "saved": false
+  },
+  {
+    "id": 6506153005124436573,
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T18:19:45",
+    "saved": false
+  },
+  {
+    "id": 5589008992140922459,
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T18:19:42",
+    "saved": false
+  },
+  {
+    "id": -1726555173533757602,
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T18:18:00",
+    "saved": false
+  },
+  {
+    "id": -1244130031299645382,
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-08T18:10:55",
+    "saved": false
+  },
+  {
+    "id": 7472996173554382405,
     "title": "Natura’s $99 smart ring puts AI agents on your finger",
     "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
     "source": "TechCrunch",
@@ -27,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 7125571687834366649,
+    "id": -2175685136768718222,
     "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
     "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
     "source": "TechCrunch",
@@ -36,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5359030774396683075,
+    "id": -9156986889396693078,
     "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
     "source": "TechCrunch",
@@ -45,93 +135,12 @@
     "saved": false
   },
   {
-    "id": 8454985716588270408,
-    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-    "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 7956581477498020234,
-    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-    "link": "https://github.com/SamsungLabs/LittleBit",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-08T13:29:46",
-    "saved": false
-  },
-  {
-    "id": -6542090789523210019,
-    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-    "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T13:20:32",
-    "saved": false
-  },
-  {
-    "id": 2679030542583491628,
-    "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
-    "link": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T12:53:39",
-    "saved": false
-  },
-  {
-    "id": -7050196064234584043,
-    "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-    "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T12:00:00",
-    "saved": false
-  },
-  {
-    "id": 2079211651156500981,
-    "title": "OpenAI withdraws three mathematical results",
-    "link": "https://twitter.com/danintheory/status/2108065033070789090",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-08T07:05:40",
-    "saved": false
-  },
-  {
-    "id": 1236393612191707492,
+    "id": -5112206303858979453,
     "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-08T03:46:09",
-    "saved": false
-  },
-  {
-    "id": 5423959408552716908,
-    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-    "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-07T23:36:57",
-    "saved": false
-  },
-  {
-    "id": 7862274340241413297,
-    "title": "Claude Haiku 5.5",
-    "link": "https://www.anthropic.com/claude-haiku-5-5",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-07T18:01:32",
-    "saved": false
-  },
-  {
-    "id": -5435455630702759494,
-    "title": "Time Travel in Braid (2015)",
-    "link": "https://qntm.org/braid",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-04T21:42:43",
     "saved": false
   }
 ]

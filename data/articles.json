@@ -1,6 +1,78 @@
 [
   {
-    "id": 986559621602341183,
+    "id": 6293510273263591102,
+    "title": "Tomek Korbak: OpenAI's head of safety told they no longer trust me",
+    "link": "https://twitter.com/tomekkorbak/status/2108266859397283953",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-09T16:52:20",
+    "saved": false
+  },
+  {
+    "id": 2378477527276266559,
+    "title": "We can’t help treating AI like it’s human. But should we?",
+    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-09T16:40:14",
+    "saved": false
+  },
+  {
+    "id": -756095486702599814,
+    "title": "a16z’s Olivia Moore on the state of consumer AI",
+    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-09T15:43:33",
+    "saved": false
+  },
+  {
+    "id": 5974698067853726677,
+    "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-09T13:29:43",
+    "saved": false
+  },
+  {
+    "id": 7833786722200656590,
+    "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-09T13:26:15",
+    "saved": false
+  },
+  {
+    "id": -4370322303866841530,
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "link": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-09T11:03:48",
+    "saved": false
+  },
+  {
+    "id": -2878729561025671657,
+    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-09T10:00:26",
+    "saved": false
+  },
+  {
+    "id": -7026021860913899472,
+    "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-09T08:05:23",
+    "saved": false
+  },
+  {
+    "id": 8922557107223381745,
     "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
     "source": "Reddit ML",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 2128519051138061021,
+    "id": -8415342970268076392,
     "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
     "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
     "source": "TechCrunch",
@@ -18,25 +90,7 @@
     "saved": false
   },
   {
-    "id": 957743598447378274,
-    "title": "AI-ready biological data: $1.8B global commitment",
-    "link": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-08T20:46:25",
-    "saved": false
-  },
-  {
-    "id": -1770278638767676124,
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T20:04:26",
-    "saved": false
-  },
-  {
-    "id": -4422745515949321626,
+    "id": 2628499838126723302,
     "title": "Whatever happened to BABA is AI from 2024? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -5475363143017946410,
+    "id": 6240744590220684797,
     "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
     "source": "Reddit ML",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2880512113907298349,
+    "id": -1079050156242547971,
     "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
     "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 90500482103395967,
+    "id": 3273758715197706338,
     "title": "Ben Affleck is an AI nerd, and the internet is impressed",
     "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6506153005124436573,
+    "id": 2372682386221114862,
     "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
     "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 5589008992140922459,
+    "id": 5019816507270805796,
     "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
     "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
     "source": "TechCrunch",
@@ -90,57 +144,21 @@
     "saved": false
   },
   {
-    "id": -1726555173533757602,
-    "title": "Google brings agentic AI to Gemini, starting with businesses",
-    "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T18:18:00",
-    "saved": false
-  },
-  {
-    "id": -1244130031299645382,
-    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-    "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T18:10:55",
-    "saved": false
-  },
-  {
-    "id": 7472996173554382405,
-    "title": "Natura’s $99 smart ring puts AI agents on your finger",
-    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -2175685136768718222,
-    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -9156986889396693078,
-    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -5112206303858979453,
+    "id": -8913899330138746946,
     "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-08T03:46:09",
+    "saved": false
+  },
+  {
+    "id": -72142839963565486,
+    "title": "Training Text-to-Image Models Without a VAE",
+    "link": "https://www.linum.ai/field-notes/pyramid-jit",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-06T20:24:52",
     "saved": false
   }
 ]

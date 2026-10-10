@@ -1,6 +1,42 @@
 [
   {
-    "id": -1000753965499444457,
+    "id": 6926671772453344985,
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-10T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -4715125738272283117,
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-10T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 8208238914664830482,
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "link": "https://github.com/rociiu/talorys",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-10T10:52:09",
+    "saved": false
+  },
+  {
+    "id": -5015053158210157676,
+    "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-10T10:51:44",
+    "saved": false
+  },
+  {
+    "id": -7949369419734685873,
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "source": "TechCrunch",
@@ -9,25 +45,7 @@
     "saved": false
   },
   {
-    "id": -4201632212025023978,
-    "title": "Has the Autonomous Trucking Revolution Arrived?",
-    "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-09T23:57:12",
-    "saved": false
-  },
-  {
-    "id": -5705352718605667061,
-    "title": "Rewriting Prime Agent in Rust",
-    "link": "https://www.primeintellect.ai/blog/prime-agent-rust",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-09T23:06:25",
-    "saved": false
-  },
-  {
-    "id": -5048170095169903156,
+    "id": -2071999646194681750,
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -621354151400975163,
+    "id": -3264114045688394778,
     "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
     "source": "Reddit ML",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -9037063444273070637,
+    "id": -7175609054765284273,
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "source": "TechCrunch",
@@ -54,16 +72,7 @@
     "saved": false
   },
   {
-    "id": 8288646710445411168,
-    "title": "Typesafe AI raises $870M at $7.5B",
-    "link": "https://typesafe.ai/blog/series-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-09T17:02:31",
-    "saved": false
-  },
-  {
-    "id": 8946510606530555066,
+    "id": -8462320893156604548,
     "title": "We can’t help treating AI like it’s human. But should we?",
     "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8386139202532175287,
+    "id": -6092600351409896234,
     "title": "a16z’s Olivia Moore on the state of consumer AI",
     "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2619056351900514426,
+    "id": 429887141025413852,
     "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
     "source": "Reddit ML",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 441036683729047396,
+    "id": -1924309736730905513,
     "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/",
     "source": "Reddit ML",
@@ -99,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -1924909732984797731,
-    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "link": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-09T11:36:20",
-    "saved": false
-  },
-  {
-    "id": 7379926550977676149,
+    "id": 7636714041883626229,
     "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
     "source": "Reddit ML",
@@ -117,7 +117,16 @@
     "saved": false
   },
   {
-    "id": 6062931525329604523,
+    "id": 6909226639981333195,
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-09T06:52:49",
+    "saved": false
+  },
+  {
+    "id": 3305237187736479873,
     "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
     "source": "Reddit ML",
@@ -126,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -1617743570071635788,
-    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-08T21:00:00",
-    "saved": false
-  },
-  {
-    "id": 1377077285642923176,
+    "id": -3447366870085115337,
     "title": "Whatever happened to BABA is AI from 2024? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
     "source": "Reddit ML",

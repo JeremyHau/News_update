@@ -1,33 +1,96 @@
 [
   {
-    "id": 6741062338836715059,
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "link": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-11T02:02:38",
+    "id": 7270936246479016700,
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-11T16:52:33",
     "saved": false
   },
   {
-    "id": -5453575707447231131,
-    "title": "Generative AI scandal has come to one of Nikon's competitions",
-    "link": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-11T00:47:37",
+    "id": -2698268605569665809,
+    "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+    "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-11T16:00:00",
     "saved": false
   },
   {
-    "id": 6921248005588474506,
-    "title": "Veda: The First Agentic Hobby Operating System",
-    "link": "https://github.com/vahmoh25/Veda",
-    "source": "Hacker News",
+    "id": -2219366269559109775,
+    "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-10-11T00:22:33",
+    "date": "2026-10-11T14:39:01",
     "saved": false
   },
   {
-    "id": 1538391838145589532,
+    "id": -2209333330492080297,
+    "title": "Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
+    "link": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-11T14:28:39",
+    "saved": false
+  },
+  {
+    "id": 2267807552957069479,
+    "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-11T14:25:59",
+    "saved": false
+  },
+  {
+    "id": 4415381797605165182,
+    "title": "Why Texas Is Making Data Centers Wait",
+    "link": "https://a16z.com/why-texas-is-making-data-centers-wait/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-11T14:21:31",
+    "saved": false
+  },
+  {
+    "id": -3076299521506751695,
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-11T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 4471819229189988908,
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "link": "https://jobs.ashbyhq.com/weave-os",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-11T12:01:08",
+    "saved": false
+  },
+  {
+    "id": 7758447426206405393,
+    "title": "I paid people to try and follow my README",
+    "link": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-11T11:47:29",
+    "saved": false
+  },
+  {
+    "id": 1727435218070828591,
+    "title": "What ai is best to operate a system from screen video [p]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-11T04:18:11",
+    "saved": false
+  },
+  {
+    "id": 747427660579678919,
     "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
     "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
     "source": "TechCrunch",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 9069443442808755697,
+    "id": 3849949968030457708,
     "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
     "source": "Reddit ML",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -1517276220645128602,
+    "id": 4730691953682303765,
     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
     "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -3226650210915617959,
+    "id": 8953729843925278169,
     "title": "Here are the top AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -63,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 7262695828464136229,
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "link": "https://github.com/rociiu/talorys",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-10T10:52:09",
-    "saved": false
-  },
-  {
-    "id": 4109371168131065398,
+    "id": 4705133751810259535,
     "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
     "source": "Reddit ML",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 1759361285156499879,
+    "id": 2757462161826541604,
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "source": "TechCrunch",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 6540108210802807108,
+    "id": 6616072529258207951,
     "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
     "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
     "source": "TechCrunch",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4609159679993862052,
+    "id": 2698144668286579886,
     "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
     "source": "Reddit ML",
@@ -108,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -2108736879424648904,
+    "id": -2748121290837263486,
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "source": "TechCrunch",
@@ -117,84 +171,12 @@
     "saved": false
   },
   {
-    "id": 2186623470166644102,
-    "title": "We can’t help treating AI like it’s human. But should we?",
-    "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-09T16:40:14",
-    "saved": false
-  },
-  {
-    "id": -3870920533371739018,
-    "title": "a16z’s Olivia Moore on the state of consumer AI",
-    "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-09T15:43:33",
-    "saved": false
-  },
-  {
-    "id": -788540416099804018,
-    "title": "Five months treating bugs like patients and coding agents like a medical team",
-    "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-09T15:26:33",
-    "saved": false
-  },
-  {
-    "id": 3337420529545889331,
-    "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-09T13:29:43",
-    "saved": false
-  },
-  {
-    "id": 3458519227698901865,
-    "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x1lbrm/261008927_can_ai_agents_make_openended_scientific/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-09T13:26:15",
-    "saved": false
-  },
-  {
-    "id": -423099061993237552,
+    "id": -2303126938826634270,
     "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-09T08:05:23",
-    "saved": false
-  },
-  {
-    "id": 8993458129390851120,
-    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-09T06:52:49",
-    "saved": false
-  },
-  {
-    "id": 5262574198047796869,
-    "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-09T00:50:36",
-    "saved": false
-  },
-  {
-    "id": -1720861367079548107,
-    "title": "Whatever happened to BABA is AI from 2024? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-08T20:00:11",
     "saved": false
   }
 ]

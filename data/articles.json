@@ -1,6 +1,123 @@
 [
   {
-    "id": -3947642340100300493,
+    "id": -6729597751793712744,
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-12T17:19:14",
+    "saved": false
+  },
+  {
+    "id": 169468325360741038,
+    "title": "AI coding agents generate more code, but not more software",
+    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-12T17:14:01",
+    "saved": false
+  },
+  {
+    "id": -670916758169181028,
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "link": "https://news.ycombinator.com/item?id=50059096",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-12T16:46:34",
+    "saved": false
+  },
+  {
+    "id": -3098010368780658841,
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-12T15:45:00",
+    "saved": false
+  },
+  {
+    "id": -1699439611863388500,
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-12T15:31:19",
+    "saved": false
+  },
+  {
+    "id": -5554593784046622198,
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-12T15:27:59",
+    "saved": false
+  },
+  {
+    "id": -7677730850047289707,
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "link": "https://taylor.town/kk-ai-2026",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-12T15:16:45",
+    "saved": false
+  },
+  {
+    "id": -7753641289846105231,
+    "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+    "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-12T15:11:19",
+    "saved": false
+  },
+  {
+    "id": -6121252643245958082,
+    "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-12T15:10:34",
+    "saved": false
+  },
+  {
+    "id": -8024839528969207511,
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-12T12:47:59",
+    "saved": false
+  },
+  {
+    "id": -5908175128200242243,
+    "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-12T07:46:00",
+    "saved": false
+  },
+  {
+    "id": -2784286645279964046,
+    "title": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-12T07:44:49",
+    "saved": false
+  },
+  {
+    "id": -4590364809797852919,
+    "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-12T07:33:46",
+    "saved": false
+  },
+  {
+    "id": 597015084243096976,
     "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
     "source": "Reddit ML",
@@ -9,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 5704430706440154651,
-    "title": "The gap in shared understanding of LLM capability is widening",
-    "link": "https://twitter.com/karpathy/status/2109361546505966046",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-11T20:20:52",
-    "saved": false
-  },
-  {
-    "id": 4454908940211106055,
+    "id": 6344422512218983602,
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
     "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
     "source": "TechCrunch",
@@ -27,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -8886329078381094842,
+    "id": 1912386722027221218,
     "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
     "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
     "source": "TechCrunch",
@@ -36,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 42171790906063665,
+    "id": 5051414630403796299,
     "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
     "source": "Reddit ML",
@@ -45,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -3816307579382893815,
+    "id": 6496087709198401361,
     "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
     "source": "Reddit ML",
@@ -54,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 6879521392382528005,
+    "id": 8280561587568562071,
     "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
     "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
     "source": "TechCrunch",
@@ -63,25 +171,7 @@
     "saved": false
   },
   {
-    "id": -7244412349676656558,
-    "title": "What ai is best to operate a system from screen video [p]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-11T04:18:11",
-    "saved": false
-  },
-  {
-    "id": -7032542744128811596,
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-10T21:47:51",
-    "saved": false
-  },
-  {
-    "id": 3138174104003352521,
+    "id": 9094344836185569204,
     "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
     "source": "Reddit ML",
@@ -90,48 +180,12 @@
     "saved": false
   },
   {
-    "id": -5499780059645000064,
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-10T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 5835189749452511870,
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-10T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 6309797597387116953,
+    "id": 7713201797814074877,
     "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-10T10:51:44",
-    "saved": false
-  },
-  {
-    "id": -1600849376466886425,
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-10T00:18:32",
-    "saved": false
-  },
-  {
-    "id": 1761604456572104731,
-    "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-09T19:52:54",
     "saved": false
   }
 ]

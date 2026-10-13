@@ -1,191 +1,155 @@
 [
   {
-    "id": -1760772083893284501,
-    "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
-    "link": "https://www.argmin.net/p/faster-fourier-transforms",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-13T02:46:43",
-    "saved": false
-  },
-  {
-    "id": 5514942810048957066,
-    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-    "link": "https://arxiv.org/abs/2610.13928",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-13T02:07:08",
-    "saved": false
-  },
-  {
-    "id": -5388833596300665591,
-    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-    "link": "https://github.com/prabanta-dev/janas",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-12T22:05:43",
-    "saved": false
-  },
-  {
-    "id": -3463806757903298223,
-    "title": "AI is a tool and using it well takes skill",
-    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-12T21:40:18",
-    "saved": false
-  },
-  {
-    "id": -6740079030923825733,
-    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-12T21:35:35",
-    "saved": false
-  },
-  {
-    "id": 825025400775735532,
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "id": 7076749695569759282,
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-10-12T17:19:14",
+    "date": "2026-10-13T18:30:00",
     "saved": false
   },
   {
-    "id": -6422491170358617883,
-    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-    "link": "https://news.ycombinator.com/item?id=50059096",
+    "id": 2923394923410431576,
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-13T17:18:25",
+    "saved": false
+  },
+  {
+    "id": 1355097319677646884,
+    "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-13T16:30:00",
+    "saved": false
+  },
+  {
+    "id": 602526796888129826,
+    "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T16:06:10",
+    "saved": false
+  },
+  {
+    "id": 2391752387238692368,
+    "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+    "link": "https://news.ycombinator.com/item?id=50073471",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-12T16:46:34",
+    "date": "2026-10-13T15:41:00",
     "saved": false
   },
   {
-    "id": 539863394751980427,
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "id": -7248669885684869985,
+    "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T15:35:48",
+    "saved": false
+  },
+  {
+    "id": 8722297938854506831,
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "link": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-13T15:25:50",
+    "saved": false
+  },
+  {
+    "id": 4450274240022446992,
+    "title": "AI peer review tool for CVPR, ICLR, ICML, and NeurIPS papers [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4ye07/ai_peer_review_tool_for_cvpr_iclr_icml_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T14:37:44",
+    "saved": false
+  },
+  {
+    "id": 7794361390506332460,
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "link": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-13T14:26:08",
+    "saved": false
+  },
+  {
+    "id": 1235163548916857073,
+    "title": "How to engineer an AI harness for game development",
+    "link": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-13T14:14:23",
+    "saved": false
+  },
+  {
+    "id": -2758777374522456283,
+    "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T13:50:38",
+    "saved": false
+  },
+  {
+    "id": -5940151442332146509,
+    "title": "India delays digital payments fee rollout amid retailer pushback",
+    "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-10-12T15:45:00",
+    "date": "2026-10-13T13:25:05",
     "saved": false
   },
   {
-    "id": -5070163599257765134,
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "id": -5611523432467896342,
+    "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+    "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-10-12T15:31:19",
+    "date": "2026-10-13T13:16:11",
     "saved": false
   },
   {
-    "id": 474539447337736625,
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-12T15:27:59",
+    "id": 4564729225450536717,
+    "title": "Where do LLMs actually earn their place in a recommender system? Kim Falk’s new book + 5 ebook giveaway [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4uc90/where_do_llms_actually_earn_their_place_in_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T11:40:24",
     "saved": false
   },
   {
-    "id": 7241937504300666267,
-    "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-    "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-12T15:11:19",
+    "id": 1339608232654952730,
+    "title": "Where can you find dependable partners for large-scale training data? [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4t0g6/where_can_you_find_dependable_partners_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T10:26:35",
     "saved": false
   },
   {
-    "id": 80986547186113587,
+    "id": -6563722466460482528,
+    "title": "Is an MS a soft requirement for Research Engineer / Post-Training roles? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4lvn8/is_an_ms_a_soft_requirement_for_research_engineer/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-13T03:13:36",
+    "saved": false
+  },
+  {
+    "id": 8805706734294126842,
     "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-12T15:10:34",
-    "saved": false
-  },
-  {
-    "id": 6246610195119868107,
-    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-12T12:47:59",
-    "saved": false
-  },
-  {
-    "id": 1575403703778507317,
-    "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-12T07:46:00",
-    "saved": false
-  },
-  {
-    "id": -806791399458192969,
-    "title": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-12T07:44:49",
-    "saved": false
-  },
-  {
-    "id": -7070251660113066909,
-    "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-12T07:33:46",
-    "saved": false
-  },
-  {
-    "id": -9130908826853590696,
-    "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-11T22:30:50",
-    "saved": false
-  },
-  {
-    "id": -1473409828138584532,
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-11T16:52:33",
-    "saved": false
-  },
-  {
-    "id": -1683428143922114543,
-    "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-    "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-11T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -1002447340601386622,
-    "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-11T14:39:01",
-    "saved": false
-  },
-  {
-    "id": 6708184111915119756,
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-11T14:00:00",
     "saved": false
   }
 ]

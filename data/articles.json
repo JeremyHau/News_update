@@ -1,6 +1,51 @@
 [
   {
-    "id": -6729597751793712744,
+    "id": -1760772083893284501,
+    "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+    "link": "https://www.argmin.net/p/faster-fourier-transforms",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-13T02:46:43",
+    "saved": false
+  },
+  {
+    "id": 5514942810048957066,
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "link": "https://arxiv.org/abs/2610.13928",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-13T02:07:08",
+    "saved": false
+  },
+  {
+    "id": -5388833596300665591,
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "link": "https://github.com/prabanta-dev/janas",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-12T22:05:43",
+    "saved": false
+  },
+  {
+    "id": -3463806757903298223,
+    "title": "AI is a tool and using it well takes skill",
+    "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-12T21:40:18",
+    "saved": false
+  },
+  {
+    "id": -6740079030923825733,
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-12T21:35:35",
+    "saved": false
+  },
+  {
+    "id": 825025400775735532,
     "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
     "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
     "source": "TechCrunch",
@@ -9,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 169468325360741038,
-    "title": "AI coding agents generate more code, but not more software",
-    "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-12T17:14:01",
-    "saved": false
-  },
-  {
-    "id": -670916758169181028,
+    "id": -6422491170358617883,
     "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
     "link": "https://news.ycombinator.com/item?id=50059096",
     "source": "Hacker News",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3098010368780658841,
+    "id": 539863394751980427,
     "title": "Honeyjar offers AI tools to improve PR and comms at every company",
     "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1699439611863388500,
+    "id": -5070163599257765134,
     "title": "Microsoft president says UK is best placed to drive AI regulation",
     "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "source": "TechCrunch",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -5554593784046622198,
+    "id": 474539447337736625,
     "title": "This AI startup says it can generate permit-ready blueprints in minutes",
     "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
     "source": "TechCrunch",
@@ -54,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -7677730850047289707,
-    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "link": "https://taylor.town/kk-ai-2026",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-12T15:16:45",
-    "saved": false
-  },
-  {
-    "id": -7753641289846105231,
+    "id": 7241937504300666267,
     "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
     "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -6121252643245958082,
+    "id": 80986547186113587,
     "title": "U-Space: Uncovering When and Why Uncertainty Arises in Language Models [R][D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x44f9m/uspace_uncovering_when_and_why_uncertainty_arises/",
     "source": "Reddit ML",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8024839528969207511,
+    "id": 6246610195119868107,
     "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
     "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5908175128200242243,
+    "id": 1575403703778507317,
     "title": "Constrained Learning for Scientific Modelling (Paris NeurIPS pre-event) [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vr5g/constrained_learning_for_scientific_modelling/",
     "source": "Reddit ML",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -2784286645279964046,
+    "id": -806791399458192969,
     "title": "Compressed a RoBERTa AI-text detector from ~500 MB to ~97 MB so it runs client-side in the browser, plus a 26 MB image detector [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vqip/compressed_a_roberta_aitext_detector_from_500_mb/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4590364809797852919,
+    "id": -7070251660113066909,
     "title": "I built a tiny table that learns your local LLM's classification answers and serves the repeats in microseconds [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x3vkej/i_built_a_tiny_table_that_learns_your_local_llms/",
     "source": "Reddit ML",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 597015084243096976,
+    "id": -9130908826853590696,
     "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6344422512218983602,
+    "id": -1473409828138584532,
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
     "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
     "source": "TechCrunch",
@@ -135,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 1912386722027221218,
+    "id": -1683428143922114543,
     "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
     "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
     "source": "TechCrunch",
@@ -144,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 5051414630403796299,
+    "id": -1002447340601386622,
     "title": "Sliced Wasserstein embeddings + HNSW for color-scheme search over 48k paintings [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x39uu6/sliced_wasserstein_embeddings_hnsw_for/",
     "source": "Reddit ML",
@@ -153,39 +180,12 @@
     "saved": false
   },
   {
-    "id": 6496087709198401361,
-    "title": "I trained a 414k-parameter transformer to fly a boids flock, then tested whether the rules a probe can read are the ones it uses [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x39jlu/i_trained_a_414kparameter_transformer_to_fly_a/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-11T14:25:59",
-    "saved": false
-  },
-  {
-    "id": 8280561587568562071,
+    "id": 6708184111915119756,
     "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
     "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-10-11T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 9094344836185569204,
-    "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-10T18:08:33",
-    "saved": false
-  },
-  {
-    "id": 7713201797814074877,
-    "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-10T10:51:44",
     "saved": false
   }
 ]

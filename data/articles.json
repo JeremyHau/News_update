@@ -1,6 +1,132 @@
 [
   {
-    "id": 7338453293896982402,
+    "id": 7564317148734212139,
+    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T01:01:32",
+    "saved": false
+  },
+  {
+    "id": -1148935369671901744,
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T00:00:00",
+    "saved": false
+  },
+  {
+    "id": -3290109246575965730,
+    "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+    "link": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-14T23:59:37",
+    "saved": false
+  },
+  {
+    "id": -8040731117770787962,
+    "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-14T22:08:02",
+    "saved": false
+  },
+  {
+    "id": 8747788253876201454,
+    "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+    "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-14T22:00:00",
+    "saved": false
+  },
+  {
+    "id": 5822758062362546208,
+    "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+    "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-14T21:48:20",
+    "saved": false
+  },
+  {
+    "id": 7230509928716664514,
+    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-14T21:00:00",
+    "saved": false
+  },
+  {
+    "id": 2244404655243218197,
+    "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-14T18:40:18",
+    "saved": false
+  },
+  {
+    "id": -8814749008072485430,
+    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "link": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-14T18:32:52",
+    "saved": false
+  },
+  {
+    "id": 105108683194273218,
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-14T18:23:46",
+    "saved": false
+  },
+  {
+    "id": -132788366264251139,
+    "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x5yhr6/i_trained_a_15m_decisiononly_model_two_ways/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-14T18:07:44",
+    "saved": false
+  },
+  {
+    "id": 2610622440787748014,
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-14T18:00:00",
+    "saved": false
+  },
+  {
+    "id": -8012399775004437490,
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-14T17:45:23",
+    "saved": false
+  },
+  {
+    "id": 2676666424495414593,
+    "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+    "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-14T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -8022798673574921088,
     "title": "Deezer will soon let you filter out AI-generated music",
     "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
     "source": "TechCrunch",
@@ -9,97 +135,7 @@
     "saved": false
   },
   {
-    "id": -2210819121743936392,
-    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-    "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-14T15:08:00",
-    "saved": false
-  },
-  {
-    "id": -1439245229999016491,
-    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-    "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-14T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -6076331025756723274,
-    "title": "AI is mass decompiling games. That's both awesome and scary",
-    "link": "https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-14T14:47:44",
-    "saved": false
-  },
-  {
-    "id": -5861284978486282335,
-    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-    "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-14T14:38:55",
-    "saved": false
-  },
-  {
-    "id": 1506749824713844297,
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-14T11:00:00",
-    "saved": false
-  },
-  {
-    "id": -6875893067531979769,
-    "title": "TV4 postpones show after AI agent erases edited material",
-    "link": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-14T10:28:26",
-    "saved": false
-  },
-  {
-    "id": 6103315407234288485,
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-13T23:05:34",
-    "saved": false
-  },
-  {
-    "id": 4060090336571988928,
-    "title": "Cerebras CEO pushes back on AI doomsday warnings",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-13T22:36:59",
-    "saved": false
-  },
-  {
-    "id": -7924915400343178930,
-    "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-    "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-13T20:59:11",
-    "saved": false
-  },
-  {
-    "id": 8826767504893888842,
-    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-    "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-13T20:36:44",
-    "saved": false
-  },
-  {
-    "id": -3520821191602815041,
+    "id": -3284420317607282447,
     "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
     "source": "Reddit ML",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5575529299692046237,
+    "id": 8477287002443680128,
     "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
     "source": "Reddit ML",
@@ -117,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -4632079708450157582,
+    "id": 6405890141677516692,
     "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
     "source": "Reddit ML",
@@ -126,16 +162,16 @@
     "saved": false
   },
   {
-    "id": -4390522456399996990,
-    "title": "Where do LLMs actually earn their place in a recommender system? Kim Falk’s new book + 5 ebook giveaway [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4uc90/where_do_llms_actually_earn_their_place_in_a/",
-    "source": "Reddit ML",
+    "id": 4192472278123367241,
+    "title": "Ask HN: CAD for wood working with LLM support?",
+    "link": "https://news.ycombinator.com/item?id=50067325",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-13T11:40:24",
+    "date": "2026-10-13T05:54:01",
     "saved": false
   },
   {
-    "id": -6397563191910447368,
+    "id": -6920193213145235563,
     "title": "Is an MS a soft requirement for Research Engineer / Post-Training roles? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x4lvn8/is_an_ms_a_soft_requirement_for_research_engineer/",
     "source": "Reddit ML",

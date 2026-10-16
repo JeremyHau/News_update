@@ -1,6 +1,87 @@
 [
   {
-    "id": -439293237930728338,
+    "id": 5743074509708019559,
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T23:44:56",
+    "saved": false
+  },
+  {
+    "id": 5123354948658783892,
+    "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+    "link": "https://github.com/johnrash/bebox",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-15T23:22:53",
+    "saved": false
+  },
+  {
+    "id": -7809939413862696536,
+    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T20:38:13",
+    "saved": false
+  },
+  {
+    "id": -499294660052475549,
+    "title": "Point me to a good video on current state of the Chinese AI industry. [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x6wp1n/point_me_to_a_good_video_on_current_state_of_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-15T20:29:35",
+    "saved": false
+  },
+  {
+    "id": -1422750585858715164,
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T20:04:53",
+    "saved": false
+  },
+  {
+    "id": -3095356799774893871,
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T19:55:25",
+    "saved": false
+  },
+  {
+    "id": 1916866632840745760,
+    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T19:29:05",
+    "saved": false
+  },
+  {
+    "id": -8485350228916397584,
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T18:56:46",
+    "saved": false
+  },
+  {
+    "id": 4770198818857628414,
+    "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+    "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-15T16:45:37",
+    "saved": false
+  },
+  {
+    "id": 6431153083558992222,
     "title": "NeurIPS 2026 - waitlist [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
     "source": "Reddit ML",
@@ -9,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2529474930240668833,
+    "id": -8425864814640161230,
     "title": "AI agents are coming to Rivian’s cars",
     "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
     "source": "TechCrunch",
@@ -18,16 +99,7 @@
     "saved": false
   },
   {
-    "id": 3917568421477247171,
-    "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
-    "link": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-15T14:58:48",
-    "saved": false
-  },
-  {
-    "id": -7267658678081669904,
+    "id": 8592015876091629703,
     "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
     "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
     "source": "TechCrunch",
@@ -36,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 7516166112678916457,
-    "title": "Using AI to reverse engineer hardware",
-    "link": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-15T14:35:15",
-    "saved": false
-  },
-  {
-    "id": 1770090905777515362,
+    "id": -102758414349762494,
     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
     "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7299135970902793561,
+    "id": -8445614847105935484,
     "title": "Figma announces new features to define how agents work on its platform",
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "source": "TechCrunch",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 3281745960200713047,
+    "id": -6664370143036095735,
     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
     "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
     "source": "TechCrunch",
@@ -72,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -61711349913318266,
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T00:00:00",
-    "saved": false
-  },
-  {
-    "id": 8752749051620128617,
+    "id": -623407460112795470,
     "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
     "source": "Reddit ML",
@@ -90,34 +144,7 @@
     "saved": false
   },
   {
-    "id": 5673016261637777373,
-    "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-    "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-14T22:00:00",
-    "saved": false
-  },
-  {
-    "id": 4691175906236851642,
-    "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-    "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-14T21:48:20",
-    "saved": false
-  },
-  {
-    "id": -5676147728405924345,
-    "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-    "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-14T21:00:00",
-    "saved": false
-  },
-  {
-    "id": 2155694919594872117,
+    "id": 4979872340167803228,
     "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
     "source": "Reddit ML",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 5042411629494898853,
+    "id": -301778862130782729,
     "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x5yhr6/i_trained_a_15m_decisiononly_model_two_ways/",
     "source": "Reddit ML",
@@ -135,21 +162,21 @@
     "saved": false
   },
   {
-    "id": 1447768610142918542,
-    "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
+    "id": 2471507831496581255,
+    "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x5y2pz/i_trained_a_15m_decisiononly_model_two_ways/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-10-13T16:06:10",
+    "date": "2026-10-14T17:52:30",
     "saved": false
   },
   {
-    "id": -8622931609958011802,
-    "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
-    "source": "Reddit ML",
+    "id": -8964164396404869046,
+    "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+    "link": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-13T13:50:38",
+    "date": "2026-10-14T05:08:09",
     "saved": false
   }
 ]

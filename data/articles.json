@@ -1,15 +1,42 @@
 [
   {
-    "id": 2319794712587075777,
-    "title": "Nine-Inch Snails",
-    "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "source": "Hacker News",
+    "id": -8491605814933466065,
+    "title": "Learn what's inside AI Agent Interactively in 3D [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-10-16T22:21:05",
+    "date": "2026-10-17T14:22:57",
     "saved": false
   },
   {
-    "id": 3529806209674654143,
+    "id": -4433518122316123498,
+    "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-17T08:17:31",
+    "saved": false
+  },
+  {
+    "id": -3465522411792450046,
+    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+    "link": "https://llmspeed.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-17T04:36:53",
+    "saved": false
+  },
+  {
+    "id": -8411454241748700744,
+    "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-16T22:09:10",
+    "saved": false
+  },
+  {
+    "id": 8229078119811385469,
     "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
     "source": "Reddit ML",
@@ -18,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 2309062585822646007,
+    "id": 7381814033494384039,
     "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
     "source": "Reddit ML",
@@ -27,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1600346070446478640,
+    "id": -6483120309714155498,
     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
     "link": "https://github.com/cobanov/PS5LM",
     "source": "Hacker News",
@@ -36,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7218063760517825910,
+    "id": 7261047134422137090,
     "title": "India becomes the latest country to report rogue AI agent activity",
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "source": "TechCrunch",
@@ -45,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -5124884084185439427,
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-16T17:08:38",
-    "saved": false
-  },
-  {
-    "id": 7278577858779797012,
+    "id": -2508783582176838572,
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
     "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6416300483949601901,
+    "id": 636497621324980061,
     "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
     "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -8341166151162357735,
+    "id": 929287897387381802,
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 5160453004276331907,
+    "id": -5108652847294249912,
     "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
     "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 1824461597980536351,
+    "id": 4696687354714911070,
     "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
     "source": "Reddit ML",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5671170985257030562,
+    "id": 6299154675770993467,
     "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
     "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5740701191471784561,
+    "id": 795271688534117082,
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "source": "TechCrunch",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6898446183504719795,
+    "id": -2858406580551421482,
     "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
     "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
     "source": "TechCrunch",
@@ -126,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -3915875755780104680,
+    "id": 844473700672018980,
     "title": "Meta launches an open-weight AI model that runs on Macs",
     "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
     "source": "TechCrunch",
@@ -135,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -8349200786353584846,
+    "id": 491212557798435936,
     "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
     "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
     "source": "TechCrunch",
@@ -144,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -6380183520099841349,
-    "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T19:29:05",
-    "saved": false
-  },
-  {
-    "id": 6045037045560860897,
+    "id": -3178468401257003126,
     "title": "NeurIPS 2026 - waitlist [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
     "source": "Reddit ML",
@@ -162,16 +171,7 @@
     "saved": false
   },
   {
-    "id": 2954564862620058100,
-    "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-14T22:08:02",
-    "saved": false
-  },
-  {
-    "id": 1265603740530009098,
+    "id": -2089201322438872527,
     "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
     "source": "Reddit ML",

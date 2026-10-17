@@ -1,6 +1,78 @@
 [
   {
-    "id": -7394246815613285934,
+    "id": 2319794712587075777,
+    "title": "Nine-Inch Snails",
+    "link": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-16T22:21:05",
+    "saved": false
+  },
+  {
+    "id": 3529806209674654143,
+    "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-16T20:03:32",
+    "saved": false
+  },
+  {
+    "id": 2309062585822646007,
+    "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-16T18:49:12",
+    "saved": false
+  },
+  {
+    "id": 1600346070446478640,
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "link": "https://github.com/cobanov/PS5LM",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-16T18:32:35",
+    "saved": false
+  },
+  {
+    "id": 7218063760517825910,
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-16T17:52:24",
+    "saved": false
+  },
+  {
+    "id": -5124884084185439427,
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-16T17:08:38",
+    "saved": false
+  },
+  {
+    "id": 7278577858779797012,
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-16T16:01:37",
+    "saved": false
+  },
+  {
+    "id": 6416300483949601901,
+    "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+    "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-16T16:00:00",
+    "saved": false
+  },
+  {
+    "id": -8341166151162357735,
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "source": "TechCrunch",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7504632179784236613,
+    "id": 5160453004276331907,
     "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
     "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
     "source": "TechCrunch",
@@ -18,16 +90,7 @@
     "saved": false
   },
   {
-    "id": -170291259226124181,
-    "title": "How to make System 1 LLMs show System 2 competencies?",
-    "link": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-16T14:16:34",
-    "saved": false
-  },
-  {
-    "id": 6405865517444513392,
+    "id": 1824461597980536351,
     "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
     "source": "Reddit ML",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4324362106654723781,
+    "id": -5671170985257030562,
     "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
     "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8489537516411586706,
+    "id": -5740701191471784561,
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 6523449889383575949,
+    "id": 6898446183504719795,
     "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
     "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
     "source": "TechCrunch",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7926909927178288863,
+    "id": -3915875755780104680,
     "title": "Meta launches an open-weight AI model that runs on Macs",
     "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
     "source": "TechCrunch",
@@ -72,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6026984162532860423,
+    "id": -8349200786353584846,
     "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
     "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
     "source": "TechCrunch",
@@ -81,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -4169594291336388542,
+    "id": -6380183520099841349,
     "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
     "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
     "source": "TechCrunch",
@@ -90,25 +153,7 @@
     "saved": false
   },
   {
-    "id": -2220336788081132140,
-    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-    "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T18:56:46",
-    "saved": false
-  },
-  {
-    "id": -5377563631048593026,
-    "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-    "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T16:45:37",
-    "saved": false
-  },
-  {
-    "id": -727549885920827946,
+    "id": 6045037045560860897,
     "title": "NeurIPS 2026 - waitlist [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
     "source": "Reddit ML",
@@ -117,25 +162,7 @@
     "saved": false
   },
   {
-    "id": 5089658696888111793,
-    "title": "AI agents are coming to Rivian’s cars",
-    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T15:02:36",
-    "saved": false
-  },
-  {
-    "id": 8488857695624333245,
-    "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-    "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T14:47:09",
-    "saved": false
-  },
-  {
-    "id": -1787425674909244506,
+    "id": 2954564862620058100,
     "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
     "source": "Reddit ML",
@@ -144,48 +171,12 @@
     "saved": false
   },
   {
-    "id": -7065678238217294615,
+    "id": 1265603740530009098,
     "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-14T18:40:18",
-    "saved": false
-  },
-  {
-    "id": -2246933990702473014,
-    "title": "I trained a 15M \"decision-only\" model two ways — linear recurrence vs Transformer attention. Accuracy was a coin flip; latency and training cost weren't.[R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x5y2pz/i_trained_a_15m_decisiononly_model_two_ways/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-14T17:52:30",
-    "saved": false
-  },
-  {
-    "id": -9209757571017178264,
-    "title": "AI-assisted PCB design for KiCad 10",
-    "link": "https://github.com/mixelpixx/Konnect",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-14T10:51:37",
-    "saved": false
-  },
-  {
-    "id": -2917003470305975885,
-    "title": "MS Paint Adds Freeform Rotation (2026)",
-    "link": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-14T04:55:40",
-    "saved": false
-  },
-  {
-    "id": -4771759841229025059,
-    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-    "link": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-13T16:26:03",
     "saved": false
   }
 ]

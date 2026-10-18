@@ -1,6 +1,69 @@
 [
   {
-    "id": -8491605814933466065,
+    "id": -1695116287032755900,
+    "title": "What is wrong with AI writing - ICLR edition [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-17T23:40:03",
+    "saved": false
+  },
+  {
+    "id": 3890440273243961634,
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-17T21:31:32",
+    "saved": false
+  },
+  {
+    "id": -3951250716500241852,
+    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-17T19:41:19",
+    "saved": false
+  },
+  {
+    "id": -5138852604598780202,
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-17T18:48:08",
+    "saved": false
+  },
+  {
+    "id": -1964972041118620465,
+    "title": "EMNLP main presentation[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-17T16:45:33",
+    "saved": false
+  },
+  {
+    "id": 7976050512852643360,
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "link": "https://pele.run/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-17T15:55:09",
+    "saved": false
+  },
+  {
+    "id": 2530256660193331265,
+    "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-17T14:48:25",
+    "saved": false
+  },
+  {
+    "id": -633864490371409395,
     "title": "Learn what's inside AI Agent Interactively in 3D [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x8bhpm/learn_whats_inside_ai_agent_interactively_in_3d_p/",
     "source": "Reddit ML",
@@ -9,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -4433518122316123498,
+    "id": 1458753886498603482,
     "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
     "source": "Reddit ML",
@@ -18,16 +81,7 @@
     "saved": false
   },
   {
-    "id": -3465522411792450046,
-    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-    "link": "https://llmspeed.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-17T04:36:53",
-    "saved": false
-  },
-  {
-    "id": -8411454241748700744,
+    "id": 4491458430541649634,
     "title": "A simulated fruit fly brain learns to drive. I turned the training into a 24/7 racing league with Elo, seasons and family dynasties [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7tj60/a_simulated_fruit_fly_brain_learns_to_drive_i/",
     "source": "Reddit ML",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8229078119811385469,
+    "id": -1812219182856139802,
     "title": "[Research] 2,788 tokens/s on a single RTX 5090 with a diffusion LLM — Introducing ORL (fully open source) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 7381814033494384039,
+    "id": -8948884532211249869,
     "title": "[P] my rust framework trains nanoGPT with the exact same bits as pytorch. worth continuing? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7ojxo/p_my_rust_framework_trains_nanogpt_with_the_exact/",
     "source": "Reddit ML",
@@ -54,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -6483120309714155498,
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "link": "https://github.com/cobanov/PS5LM",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-16T18:32:35",
-    "saved": false
-  },
-  {
-    "id": 7261047134422137090,
+    "id": 882375335411848718,
     "title": "India becomes the latest country to report rogue AI agent activity",
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "source": "TechCrunch",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2508783582176838572,
+    "id": -8680178251665607086,
     "title": "Elorian’s first AI model wants to reason with images, not just about them",
     "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
     "source": "TechCrunch",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 636497621324980061,
+    "id": -1847223885764651192,
     "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
     "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
     "source": "TechCrunch",
@@ -90,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 929287897387381802,
+    "id": 403102177302641340,
     "title": "Jev is Vercel’s fastest-adopted AI model ever",
     "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
     "source": "TechCrunch",
@@ -99,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5108652847294249912,
+    "id": 442316496349099418,
     "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
     "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
     "source": "TechCrunch",
@@ -108,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 4696687354714911070,
+    "id": 1699137283545296589,
     "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
     "source": "Reddit ML",
@@ -117,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 6299154675770993467,
+    "id": 7060505453333081962,
     "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
     "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
     "source": "TechCrunch",
@@ -126,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 795271688534117082,
+    "id": 4276973905432587147,
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "source": "TechCrunch",
@@ -135,34 +180,7 @@
     "saved": false
   },
   {
-    "id": -2858406580551421482,
-    "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T20:38:13",
-    "saved": false
-  },
-  {
-    "id": 844473700672018980,
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T20:04:53",
-    "saved": false
-  },
-  {
-    "id": 491212557798435936,
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-15T19:55:25",
-    "saved": false
-  },
-  {
-    "id": -3178468401257003126,
+    "id": 1121851585234554146,
     "title": "NeurIPS 2026 - waitlist [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
     "source": "Reddit ML",
@@ -171,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -2089201322438872527,
+    "id": 3783735966601857987,
     "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
     "source": "Reddit ML",

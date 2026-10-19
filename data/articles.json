@@ -1,6 +1,105 @@
 [
   {
-    "id": 744705255606521296,
+    "id": 4324844552582724791,
+    "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-19T17:50:49",
+    "saved": false
+  },
+  {
+    "id": -7368429513868987974,
+    "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+    "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-19T17:27:11",
+    "saved": false
+  },
+  {
+    "id": 2502171153843657482,
+    "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-19T17:13:35",
+    "saved": false
+  },
+  {
+    "id": -846454826804965226,
+    "title": "People are using AI to make their smart TVs dumb again",
+    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-19T16:13:22",
+    "saved": false
+  },
+  {
+    "id": -8437515804547596193,
+    "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+    "link": "https://news.ycombinator.com/item?id=50154029",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-19T16:00:18",
+    "saved": false
+  },
+  {
+    "id": -675431314685071350,
+    "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+    "link": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-19T15:52:26",
+    "saved": false
+  },
+  {
+    "id": 5947559257699284731,
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-19T15:37:09",
+    "saved": false
+  },
+  {
+    "id": 4233353785497418905,
+    "title": "CERN and Mistral join forces to accelerate AI for science",
+    "link": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-19T15:28:24",
+    "saved": false
+  },
+  {
+    "id": -2844197450299163276,
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "link": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-19T10:53:39",
+    "saved": false
+  },
+  {
+    "id": 554472902650494927,
+    "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-19T08:14:16",
+    "saved": false
+  },
+  {
+    "id": 1884526438654266810,
+    "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-19T04:57:13",
+    "saved": false
+  },
+  {
+    "id": 1538756605356451884,
     "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
     "source": "Reddit ML",
@@ -9,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -3828515180856692427,
+    "id": -4763797808106119226,
     "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
     "source": "Reddit ML",
@@ -18,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 7274220225796586535,
-    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-    "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-18T21:09:12",
-    "saved": false
-  },
-  {
-    "id": -3573909468803464065,
+    "id": -8337833947033131823,
     "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
     "source": "Reddit ML",
@@ -36,16 +126,7 @@
     "saved": false
   },
   {
-    "id": -8199339846886070895,
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-    "link": "https://arxiv.org/abs/2610.18861",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-18T20:48:14",
-    "saved": false
-  },
-  {
-    "id": -1332635634475438508,
+    "id": -5801551347638897578,
     "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
     "source": "Reddit ML",
@@ -54,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5760041277532835632,
+    "id": -5475893955044977163,
     "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
     "source": "Reddit ML",
@@ -63,8 +144,8 @@
     "saved": false
   },
   {
-    "id": 2209515523899096948,
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "id": -8674725139453825818,
+    "title": "Disney agrees to hire the majority of Character AI’s workforce",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "source": "TechCrunch",
     "category": "tech",
@@ -72,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 5052857471652841069,
+    "id": 1765516069489138833,
     "title": "Proof Before Reuse: showing agents only what later sessions reproduced keeps a poisoned skill out of procedural memory [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/",
     "source": "Reddit ML",
@@ -81,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 3720536139719044410,
+    "id": -4351592146423245646,
     "title": "What is wrong with AI writing - ICLR edition [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
     "source": "Reddit ML",
@@ -90,16 +171,16 @@
     "saved": false
   },
   {
-    "id": 2125029866705550692,
-    "title": "I built a programming language that LLMs can't use",
-    "link": "https://blog.picheta.me/post/killswitch-lang/",
+    "id": -2201230782825434414,
+    "title": "RuneScape Bench: MMOs for Agents [video]",
+    "link": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-17T22:26:47",
+    "date": "2026-10-17T23:24:05",
     "saved": false
   },
   {
-    "id": 4816782464841911484,
+    "id": -458295555260034287,
     "title": "Meta removes language that raised scraping and AI training concerns",
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "source": "TechCrunch",
@@ -108,16 +189,7 @@
     "saved": false
   },
   {
-    "id": -9025245600786506330,
-    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-17T19:41:19",
-    "saved": false
-  },
-  {
-    "id": -3083099384134918556,
+    "id": 6659053639975211356,
     "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "source": "TechCrunch",
@@ -126,75 +198,12 @@
     "saved": false
   },
   {
-    "id": 1982104727596074003,
-    "title": "EMNLP main presentation[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-17T16:45:33",
-    "saved": false
-  },
-  {
-    "id": 6331253923255037801,
-    "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-17T14:48:25",
-    "saved": false
-  },
-  {
-    "id": 1777377558545754082,
-    "title": "Is is worth staying after the main conference if I don't have workshop registration? (NeurIPS) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x84udt/is_is_worth_staying_after_the_main_conference_if/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-17T08:17:31",
-    "saved": false
-  },
-  {
-    "id": -2063927634870040764,
+    "id": -8964133374045694135,
     "title": "India becomes the latest country to report rogue AI agent activity",
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-10-16T17:52:24",
-    "saved": false
-  },
-  {
-    "id": -7113140088001847880,
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-16T16:01:37",
-    "saved": false
-  },
-  {
-    "id": 3381082925641741914,
-    "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-    "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-16T16:00:00",
-    "saved": false
-  },
-  {
-    "id": 576932022561550125,
-    "title": "Jev is Vercel’s fastest-adopted AI model ever",
-    "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-16T15:33:49",
-    "saved": false
-  },
-  {
-    "id": -1267677397169598022,
-    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-16T14:26:51",
     "saved": false
   }
 ]

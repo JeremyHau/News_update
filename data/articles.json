@@ -1,6 +1,78 @@
 [
   {
-    "id": -4014950882940672171,
+    "id": -9092699275512263082,
+    "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+    "link": "https://news.ycombinator.com/item?id=50167583",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-20T15:09:29",
+    "saved": false
+  },
+  {
+    "id": 4549060927525665672,
+    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+    "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-20T15:03:41",
+    "saved": false
+  },
+  {
+    "id": 2977710255339761422,
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-20T13:07:24",
+    "saved": false
+  },
+  {
+    "id": -3008184532377369348,
+    "title": "Publish fake stats, get cited in LLMs",
+    "link": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-20T13:06:22",
+    "saved": false
+  },
+  {
+    "id": 2823135556184295683,
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-20T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 8394553253976478578,
+    "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+    "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-20T12:00:00",
+    "saved": false
+  },
+  {
+    "id": -7570683435563909036,
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-20T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 1158180011646192262,
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-20T11:00:00",
+    "saved": false
+  },
+  {
+    "id": -8481906517104906378,
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "source": "TechCrunch",
@@ -9,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 5754535438490690710,
-    "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-    "link": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-20T00:53:52",
-    "saved": false
-  },
-  {
-    "id": 8566250332256928138,
-    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-    "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-19T23:22:18",
-    "saved": false
-  },
-  {
-    "id": -6067406973385698350,
+    "id": -6689249035838469401,
     "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
     "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2463497322977166243,
+    "id": -4576684473952403356,
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
     "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "source": "TechCrunch",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3826093077221071159,
+    "id": -2737942107029508834,
     "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
     "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4131448320919536331,
+    "id": 6687506619296442790,
     "title": "Tolan snags $30M for its AI companion that helps users navigate life",
     "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -1305190787925466557,
+    "id": -7335719406166574638,
     "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
     "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
     "source": "TechCrunch",
@@ -72,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 578171260955813092,
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-19T18:37:27",
-    "saved": false
-  },
-  {
-    "id": 6164686136052450316,
+    "id": 1572753150987747846,
     "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
     "source": "Reddit ML",
@@ -90,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -2605541351346789325,
-    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-    "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-19T18:00:39",
-    "saved": false
-  },
-  {
-    "id": -7885077155392036993,
+    "id": -3265444798388620357,
     "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
     "source": "Reddit ML",
@@ -108,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 2766079186150940698,
+    "id": -5567748627915446029,
     "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
     "source": "Reddit ML",
@@ -117,34 +153,7 @@
     "saved": false
   },
   {
-    "id": 4495081383779732987,
-    "title": "People are using AI to make their smart TVs dumb again",
-    "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-19T16:13:22",
-    "saved": false
-  },
-  {
-    "id": 3267564274973053222,
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-19T15:37:09",
-    "saved": false
-  },
-  {
-    "id": 177156283510732450,
-    "title": "Ukraine claims first drone evacuation of wounded soldier",
-    "link": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-19T15:31:34",
-    "saved": false
-  },
-  {
-    "id": 4784650743798455834,
+    "id": -5749879123890744824,
     "title": "What are the challenges encountered when using coding agents for ML tasks? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9r361/what_are_the_challenges_encountered_when_using/",
     "source": "Reddit ML",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 4954677529387738710,
+    "id": -8175305616701531422,
     "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
     "source": "Reddit ML",
@@ -162,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 6219154793465604524,
+    "id": -7729890781576507066,
     "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
     "source": "Reddit ML",
@@ -171,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 8030067930040863753,
+    "id": -2396626831561731013,
     "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
     "source": "Reddit ML",
@@ -180,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 833569714427275376,
+    "id": 5476208783847207911,
     "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
     "source": "Reddit ML",
@@ -189,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 8607705586134572139,
+    "id": -4862503943524419167,
     "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
     "source": "Reddit ML",
@@ -198,7 +207,7 @@
     "saved": false
   },
   {
-    "id": 8401528483099182991,
+    "id": -8928211464722754830,
     "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
     "source": "Reddit ML",
@@ -207,21 +216,12 @@
     "saved": false
   },
   {
-    "id": 359761365560481651,
+    "id": 2554257562216355840,
     "title": "What is wrong with AI writing - ICLR edition [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-17T23:40:03",
-    "saved": false
-  },
-  {
-    "id": 8120156744062790670,
-    "title": "RuneScape Bench: MMOs for Agents [video]",
-    "link": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-17T23:24:05",
     "saved": false
   }
 ]

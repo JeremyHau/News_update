@@ -1,15 +1,96 @@
 [
   {
-    "id": -6916700662094085536,
-    "title": "Airbnb bans making guests do dishes and take out the trash",
-    "link": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-21T23:38:32",
+    "id": 6508357652036613397,
+    "title": "Investors break down how founders can raise a Series A today",
+    "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-22T15:15:00",
     "saved": false
   },
   {
-    "id": -4774365710465990668,
+    "id": 6953986253286978439,
+    "title": "Spotify’s current AI bet is about being the music service that agents choose",
+    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-22T15:03:58",
+    "saved": false
+  },
+  {
+    "id": 6786835925741949390,
+    "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+    "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-22T14:03:00",
+    "saved": false
+  },
+  {
+    "id": 3084310897618060751,
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-22T13:53:26",
+    "saved": false
+  },
+  {
+    "id": -8451017712750744129,
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-22T13:26:52",
+    "saved": false
+  },
+  {
+    "id": -4280927295181499506,
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-22T13:11:13",
+    "saved": false
+  },
+  {
+    "id": 4650064382652604217,
+    "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-22T12:32:56",
+    "saved": false
+  },
+  {
+    "id": -1508577479407232623,
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "link": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-22T11:12:37",
+    "saved": false
+  },
+  {
+    "id": -5970215503411503163,
+    "title": "Jailbreaking the Switch 2",
+    "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-22T08:01:52",
+    "saved": false
+  },
+  {
+    "id": 756700712859867096,
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-22T02:18:41",
+    "saved": false
+  },
+  {
+    "id": 835646931436784849,
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
     "source": "TechCrunch",
@@ -18,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3431813668452744443,
+    "id": -2279256182843315257,
     "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
     "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
     "source": "TechCrunch",
@@ -27,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -7727778374200118339,
+    "id": -2497682005534704919,
     "title": "Airbnb limits chores for guests, sparking backlash from hosts",
     "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
     "source": "TechCrunch",
@@ -36,16 +117,7 @@
     "saved": false
   },
   {
-    "id": -5297469604031166593,
-    "title": "Railway Security Disclosure",
-    "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-21T21:58:03",
-    "saved": false
-  },
-  {
-    "id": -2551978872352564867,
+    "id": 6584351387703951457,
     "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
     "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
     "source": "TechCrunch",
@@ -54,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -982726819820391158,
+    "id": -2770599934802821813,
     "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
     "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
     "source": "TechCrunch",
@@ -63,88 +135,7 @@
     "saved": false
   },
   {
-    "id": -4032162049759015534,
-    "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-    "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-21T19:52:20",
-    "saved": false
-  },
-  {
-    "id": 6662670905325998111,
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-21T19:30:00",
-    "saved": false
-  },
-  {
-    "id": -5326854607700486171,
-    "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-    "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-21T18:51:56",
-    "saved": false
-  },
-  {
-    "id": -3682870217951665026,
-    "title": "GM is giving OnStar an AI makeover",
-    "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-21T18:00:00",
-    "saved": false
-  },
-  {
-    "id": -4193205575978617066,
-    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-    "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-21T17:59:12",
-    "saved": false
-  },
-  {
-    "id": 1674016889943179407,
-    "title": "Waymo starts offering rides at the Las Vegas airport",
-    "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-21T16:59:44",
-    "saved": false
-  },
-  {
-    "id": -4328634011137136989,
-    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-21T14:03:43",
-    "saved": false
-  },
-  {
-    "id": -7620715566111558765,
-    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-21T14:00:26",
-    "saved": false
-  },
-  {
-    "id": -2966404627640679794,
-    "title": "OpenAI models are coming to Google Cloud",
-    "link": "https://openai.com/index/openai-models-google-cloud/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-21T12:53:11",
-    "saved": false
-  },
-  {
-    "id": -7489280287768419125,
+    "id": -2849493947932241312,
     "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
     "source": "Reddit ML",
@@ -153,7 +144,16 @@
     "saved": false
   },
   {
-    "id": 7183208327272396355,
+    "id": -8376687565930742452,
+    "title": "The painter behind Manhattan’s Gilded Age interiors",
+    "link": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-20T23:09:43",
+    "saved": false
+  },
+  {
+    "id": 1339859032949706729,
     "title": "Open GPU kernel engineering series: naive GEMM to FlashAttention, H100 and Blackwell (44 sessions, code public) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/",
     "source": "Reddit ML",
@@ -162,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -7832494564248506561,
+    "id": 2957789639762849960,
     "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
     "source": "Reddit ML",
@@ -171,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 3629974676283204793,
+    "id": 1857831730308858837,
     "title": "Maxwell: a new model that speeds up AI models like Whisper and LTX-2 by rewriting their binaries [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/",
     "source": "Reddit ML",
@@ -180,16 +180,7 @@
     "saved": false
   },
   {
-    "id": 8025111300827043189,
-    "title": "Chain of Thought for Humans",
-    "link": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-19T16:06:22",
-    "saved": false
-  },
-  {
-    "id": -6457115593874980273,
+    "id": -8253240756166604218,
     "title": "Arrow detection with ConvNext pretrained on DINOv3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9nw6a/arrow_detection_with_convnext_pretrained_on/",
     "source": "Reddit ML",
@@ -198,7 +189,7 @@
     "saved": false
   },
   {
-    "id": 2985419352305567973,
+    "id": 7255857994253249663,
     "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
     "source": "Reddit ML",
@@ -207,16 +198,7 @@
     "saved": false
   },
   {
-    "id": -842422085111671894,
-    "title": "Do ICLR guidelines allow to upload papers under review to LLM chats? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x9i1pg/do_iclr_guidelines_allow_to_upload_papers_under/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-18T23:52:01",
-    "saved": false
-  },
-  {
-    "id": 5689971800569971585,
+    "id": -3128419249103907347,
     "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
     "source": "Reddit ML",
@@ -225,21 +207,12 @@
     "saved": false
   },
   {
-    "id": -3818139861125404112,
+    "id": 3608542052420875513,
     "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-18T19:34:36",
-    "saved": false
-  },
-  {
-    "id": -5347702156513172266,
-    "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-18T16:43:58",
     "saved": false
   }
 ]

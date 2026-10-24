@@ -1,6 +1,78 @@
 [
   {
-    "id": 4714958049669681410,
+    "id": 6580177498922443046,
+    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+    "link": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-24T01:53:10",
+    "saved": false
+  },
+  {
+    "id": -6219077851261529807,
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-23T23:05:49",
+    "saved": false
+  },
+  {
+    "id": 1479292566930810589,
+    "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+    "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-23T20:57:13",
+    "saved": false
+  },
+  {
+    "id": -6864839530062671804,
+    "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-23T20:39:06",
+    "saved": false
+  },
+  {
+    "id": 1629931080897641097,
+    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "link": "https://corgi.computer/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-23T19:46:38",
+    "saved": false
+  },
+  {
+    "id": 8519396846571187190,
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-23T19:34:15",
+    "saved": false
+  },
+  {
+    "id": 2340357228729120645,
+    "title": "Air Purifiers as White Noise Machines",
+    "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-23T17:28:36",
+    "saved": false
+  },
+  {
+    "id": 4854470069945851321,
+    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+    "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-23T16:26:29",
+    "saved": false
+  },
+  {
+    "id": -1069638871364054129,
     "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
     "source": "Reddit ML",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2876488752324586405,
+    "id": 7141484510600610071,
     "title": "Is symbolic ai dead? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
     "source": "Reddit ML",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -765438140404578896,
+    "id": 2009491852421802123,
     "title": "AAAI 2027 phase 2 reviews discussion [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
     "source": "Reddit ML",
@@ -27,26 +99,8 @@
     "saved": false
   },
   {
-    "id": 7080279757564531498,
-    "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
-    "link": "https://www.thisandthat.chat/enron/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-23T12:02:53",
-    "saved": false
-  },
-  {
-    "id": 6311849833989169265,
-    "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-    "link": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-23T08:21:29",
-    "saved": false
-  },
-  {
-    "id": 7381740478268148107,
-    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "id": -4002102949781952063,
+    "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
     "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
     "source": "TechCrunch",
     "category": "tech",
@@ -54,8 +108,8 @@
     "saved": false
   },
   {
-    "id": 8275613491383561667,
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "id": -2569739396099797402,
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
     "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
     "source": "TechCrunch",
     "category": "tech",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6024926466097551670,
+    "id": -1017887427816403156,
     "title": "Left alone with nothing to do, AI agents started playing",
     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1496172064986029471,
+    "id": -1502308744806758186,
     "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
     "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -6620716385264255998,
+    "id": 7710894299598469,
     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
     "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
     "source": "TechCrunch",
@@ -90,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -3897279445110294118,
+    "id": 938355535613595011,
     "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
     "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
     "source": "TechCrunch",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 6751153272218741043,
+    "id": 2369608638124320509,
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "source": "TechCrunch",
@@ -108,16 +162,7 @@
     "saved": false
   },
   {
-    "id": 3646863004709416265,
-    "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-    "link": "https://news.ycombinator.com/item?id=50200997",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-22T21:03:55",
-    "saved": false
-  },
-  {
-    "id": -9012111065920885666,
+    "id": 7136227155589558696,
     "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
     "source": "Reddit ML",
@@ -126,70 +171,7 @@
     "saved": false
   },
   {
-    "id": -8365371864419681956,
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T19:07:09",
-    "saved": false
-  },
-  {
-    "id": 268645770987455281,
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T19:00:00",
-    "saved": false
-  },
-  {
-    "id": 7119382953149708515,
-    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T18:43:53",
-    "saved": false
-  },
-  {
-    "id": -4930700649067436738,
-    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-    "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T18:38:47",
-    "saved": false
-  },
-  {
-    "id": -9090103363350763298,
-    "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-    "link": "https://github.com/NVIDIA/OpenShell",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-22T17:44:06",
-    "saved": false
-  },
-  {
-    "id": 1637202174492190778,
-    "title": "Every AI model has the same \"controversial\" take on humans",
-    "link": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-22T16:08:00",
-    "saved": false
-  },
-  {
-    "id": 8832975055783190584,
-    "title": "The alien space of science: Coherent but cognitively unavailable directions",
-    "link": "https://arxiv.org/abs/2603.01092",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-22T13:25:01",
-    "saved": false
-  },
-  {
-    "id": -2494523328342094344,
+    "id": 6481785864276429094,
     "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
     "source": "Reddit ML",
@@ -198,21 +180,21 @@
     "saved": false
   },
   {
-    "id": 6296111197273177020,
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-22T02:18:41",
-    "saved": false
-  },
-  {
-    "id": 6238566722469983012,
+    "id": -7834530296196793483,
     "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-21T10:09:55",
+    "saved": false
+  },
+  {
+    "id": 1883524485394638099,
+    "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+    "link": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-20T15:41:28",
     "saved": false
   }
 ]

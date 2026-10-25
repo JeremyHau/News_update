@@ -1,6 +1,60 @@
 [
   {
-    "id": 6387902198268396986,
+    "id": -7281888862764282288,
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-24T23:11:54",
+    "saved": false
+  },
+  {
+    "id": 299900937355136017,
+    "title": "Starlink seems to be working normally again in Ukraine",
+    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-24T20:46:34",
+    "saved": false
+  },
+  {
+    "id": -3358459468722916566,
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-24T20:15:33",
+    "saved": false
+  },
+  {
+    "id": -1308253406885658157,
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-24T19:00:00",
+    "saved": false
+  },
+  {
+    "id": 250495282851398264,
+    "title": "Neural chip decodes interactions between brain regions",
+    "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-24T15:57:17",
+    "saved": false
+  },
+  {
+    "id": -2608315196558252980,
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-24T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -3293927477636746253,
     "title": "Here are the top AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -191098140008116197,
+    "id": -3464753874276822420,
     "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
     "source": "Reddit ML",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 3342748693947571153,
+    "id": -2028398064175915252,
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -3746981105900468440,
+    "id": -7771827479385864343,
     "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
     "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
     "source": "TechCrunch",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -7958889811100056021,
+    "id": 5458505933724312155,
     "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
     "source": "Reddit ML",
@@ -45,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -1356791255403402971,
-    "title": "Dessa: Conversation Model trained only on speech",
-    "link": "https://block.xyz/dessa",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-23T19:09:54",
-    "saved": false
-  },
-  {
-    "id": 816914810559400883,
+    "id": 1059300188550098689,
     "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
     "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
     "source": "TechCrunch",
@@ -63,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 8421012275977703897,
+    "id": -3704719803065216162,
     "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
     "source": "Reddit ML",
@@ -72,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6706840175218337612,
+    "id": -3454671557541279133,
     "title": "Is symbolic ai dead? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
     "source": "Reddit ML",
@@ -81,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6274703330206947525,
+    "id": 7488773849381815851,
     "title": "AAAI 2027 phase 2 reviews discussion [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
     "source": "Reddit ML",
@@ -90,70 +135,7 @@
     "saved": false
   },
   {
-    "id": 7669541447217703875,
-    "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-    "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-23T04:22:57",
-    "saved": false
-  },
-  {
-    "id": -5716123337574995160,
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-23T04:00:00",
-    "saved": false
-  },
-  {
-    "id": -3827569622414522251,
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-23T00:45:37",
-    "saved": false
-  },
-  {
-    "id": 3550321414851275691,
-    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-    "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T23:50:41",
-    "saved": false
-  },
-  {
-    "id": 324139606703538564,
-    "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-    "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T23:15:00",
-    "saved": false
-  },
-  {
-    "id": 4654947147276304242,
-    "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-    "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T22:34:54",
-    "saved": false
-  },
-  {
-    "id": 1149059106094844045,
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-22T22:08:24",
-    "saved": false
-  },
-  {
-    "id": -2608367855969491938,
+    "id": 8340549369082916965,
     "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
     "source": "Reddit ML",
@@ -162,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 6926676244757094117,
+    "id": 3247353518299172396,
     "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
     "source": "Reddit ML",
@@ -171,12 +153,12 @@
     "saved": false
   },
   {
-    "id": -6457621638253757071,
-    "title": "A practical guide to AI image generation, from diffusion to agents",
-    "link": "https://danielball.com/notes/ai_image_generation.html",
+    "id": 65576457591973032,
+    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+    "link": "https://xingjianbai.com/reactive-optimizers/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-20T19:22:39",
+    "date": "2026-10-21T22:17:12",
     "saved": false
   }
 ]

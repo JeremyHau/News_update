@@ -1,6 +1,69 @@
 [
   {
-    "id": 2015453051045285900,
+    "id": 6818909148137106511,
+    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-25T22:57:33",
+    "saved": false
+  },
+  {
+    "id": -4505331079562715449,
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-25T21:31:16",
+    "saved": false
+  },
+  {
+    "id": 7929951769719260499,
+    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "link": "https://minimaxir.com/2026/10/cheap-llms/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-25T21:11:31",
+    "saved": false
+  },
+  {
+    "id": -5428306228770201516,
+    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+    "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-25T20:20:08",
+    "saved": false
+  },
+  {
+    "id": 8688359792580869471,
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "link": "https://lynchlab.net/llm-skin-cancer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-25T17:15:38",
+    "saved": false
+  },
+  {
+    "id": 4827353284757259261,
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-25T16:57:32",
+    "saved": false
+  },
+  {
+    "id": -4649366393968611997,
+    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-25T16:32:44",
+    "saved": false
+  },
+  {
+    "id": -5823738824634532764,
     "title": "The hottest AI wearables and gadgets you should know about",
     "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
     "source": "TechCrunch",
@@ -9,25 +72,7 @@
     "saved": false
   },
   {
-    "id": -3094120174118168943,
-    "title": "R/open source bans all solo projects and projects using LLMs",
-    "link": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-25T14:05:03",
-    "saved": false
-  },
-  {
-    "id": 4002468743317976659,
-    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-    "link": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-25T09:51:17",
-    "saved": false
-  },
-  {
-    "id": 4206372477272175335,
+    "id": -3335423574840848914,
     "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
     "source": "Reddit ML",
@@ -36,25 +81,7 @@
     "saved": false
   },
   {
-    "id": -7769175376865632177,
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-25T01:33:49",
-    "saved": false
-  },
-  {
-    "id": -2906810053233482479,
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-24T23:11:54",
-    "saved": false
-  },
-  {
-    "id": -3569927242204449456,
+    "id": 9169466056603354079,
     "title": "Starlink seems to be working normally again in Ukraine",
     "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -4463100315053545642,
+    "id": 6343488871217527233,
     "title": "Will AI expose the rickety infrastructure of the internet?",
     "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
     "source": "TechCrunch",
@@ -72,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4779800399652390916,
+    "id": 4631706063037703198,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "source": "TechCrunch",
@@ -81,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 2251192646392068862,
+    "id": 6521404225865293645,
     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
     "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
     "source": "TechCrunch",
@@ -90,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8612674113175676485,
+    "id": 6636196448597903648,
     "title": "Here are the top AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -99,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7414286519074267157,
+    "id": 3092517084583858941,
     "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
     "source": "Reddit ML",
@@ -108,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -1330687421115217917,
+    "id": 6670527672087919237,
     "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
     "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
     "source": "TechCrunch",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 1250832267658024039,
+    "id": 5506431164644460393,
     "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
     "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
     "source": "TechCrunch",
@@ -126,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 7395235109679896908,
+    "id": -3789110079186325819,
     "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
     "source": "Reddit ML",
@@ -135,16 +162,16 @@
     "saved": false
   },
   {
-    "id": -6466115909711392863,
-    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-    "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-23T16:26:29",
+    "id": -969499355854236571,
+    "title": "Making the Buddha Head from Merv Whole Again",
+    "link": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-23T18:46:00",
     "saved": false
   },
   {
-    "id": 6547965657462778937,
+    "id": 2213078317206393370,
     "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
     "source": "Reddit ML",
@@ -153,7 +180,7 @@
     "saved": false
   },
   {
-    "id": -1079301352083495885,
+    "id": 6181847523324948390,
     "title": "Is symbolic ai dead? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
     "source": "Reddit ML",
@@ -162,7 +189,7 @@
     "saved": false
   },
   {
-    "id": -4188719622630593001,
+    "id": 5078160132758807328,
     "title": "AAAI 2027 phase 2 reviews discussion [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
     "source": "Reddit ML",
@@ -171,7 +198,7 @@
     "saved": false
   },
   {
-    "id": -7865032527090719381,
+    "id": 4057623099208292953,
     "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xcurgj/i_built_openxttstrainer_now_you_can_add_new/",
     "source": "Reddit ML",
@@ -180,7 +207,7 @@
     "saved": false
   },
   {
-    "id": -7316014625623676592,
+    "id": 4926715750714278982,
     "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
     "source": "Reddit ML",

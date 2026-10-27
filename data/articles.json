@@ -1,6 +1,60 @@
 [
   {
-    "id": 7216945457427575062,
+    "id": -2752705713253368994,
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T14:59:09",
+    "saved": false
+  },
+  {
+    "id": -739644257303403842,
+    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+    "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T13:54:51",
+    "saved": false
+  },
+  {
+    "id": -5692799714937327531,
+    "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+    "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T13:01:00",
+    "saved": false
+  },
+  {
+    "id": -5194912936242656315,
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 2814900563688712328,
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 8843660658344623696,
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T11:00:00",
+    "saved": false
+  },
+  {
+    "id": 2838660960361473013,
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -6542349974450446735,
+    "id": -4334212811326263205,
     "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
     "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
     "source": "Hacker News",
@@ -18,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -7486235148667175333,
-    "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-    "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-26T14:08:04",
-    "saved": false
-  },
-  {
-    "id": -3141851240754713704,
+    "id": -7903573857254464377,
     "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
     "source": "Reddit ML",
@@ -36,34 +81,7 @@
     "saved": false
   },
   {
-    "id": 6537180782407301817,
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-25T21:31:16",
-    "saved": false
-  },
-  {
-    "id": 4924720625758651169,
-    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-    "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-25T20:20:08",
-    "saved": false
-  },
-  {
-    "id": 1195450298650691880,
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-25T16:57:32",
-    "saved": false
-  },
-  {
-    "id": 946370784050268214,
+    "id": 8147630044607631787,
     "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
     "source": "Reddit ML",
@@ -72,16 +90,7 @@
     "saved": false
   },
   {
-    "id": 3688059219412430455,
-    "title": "The hottest AI wearables and gadgets you should know about",
-    "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-25T14:10:00",
-    "saved": false
-  },
-  {
-    "id": 2497695952945268885,
+    "id": 7249235444322182012,
     "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
     "source": "Reddit ML",
@@ -90,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -1480242211902746601,
+    "id": 8381071339411488742,
     "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
     "source": "Reddit ML",
@@ -99,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -1849648917466702581,
-    "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-23T20:39:06",
-    "saved": false
-  },
-  {
-    "id": 3482282486962469849,
+    "id": 1848822546045656044,
     "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
     "source": "Reddit ML",
@@ -117,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 7661827505860983991,
-    "title": "Is symbolic ai dead? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-23T13:49:16",
-    "saved": false
-  },
-  {
-    "id": 4712975109052205388,
-    "title": "AAAI 2027 phase 2 reviews discussion [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-23T12:58:18",
-    "saved": false
-  },
-  {
-    "id": -6424414414901912621,
+    "id": -915476803972066555,
     "title": "Blaise Pascal invented fixed route public transport (2024)",
     "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
     "source": "Hacker News",

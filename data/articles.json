@@ -1,110 +1,146 @@
 [
   {
-    "id": -5190569004582259296,
-    "title": "A fine-tuned \"cat obsession\" as a control for AI welfare criteria: every probe criterion passes, and a relief button tracks how a drive is delivered, not whether it's active [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhagpt/a_finetuned_cat_obsession_as_a_control_for_ai/",
+    "id": -1205486216028281733,
+    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-10-28T01:02:59",
+    "date": "2026-10-28T17:17:59",
     "saved": false
   },
   {
-    "id": 5842156952293066687,
+    "id": -8946015814783136029,
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 1269445074869901909,
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 4978951194724625566,
+    "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T16:42:51",
+    "saved": false
+  },
+  {
+    "id": 6434864936762924558,
+    "title": "How do you start with Agentic AI for a specific use case? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T16:20:21",
+    "saved": false
+  },
+  {
+    "id": 2299867684032932490,
+    "title": "AI execs may be too out of touch to build for the general public",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T15:53:52",
+    "saved": false
+  },
+  {
+    "id": 3068652926721966993,
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "link": "https://surgehq.ai/blog/dayjob-tax",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-28T15:46:30",
+    "saved": false
+  },
+  {
+    "id": 905686066968397187,
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 1568460473636608516,
+    "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T14:30:25",
+    "saved": false
+  },
+  {
+    "id": -3485314434492225362,
+    "title": "The Agent SDK",
+    "link": "https://cursor.com/blog/agent-sdk",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-28T14:02:20",
+    "saved": false
+  },
+  {
+    "id": -8883654725726555425,
+    "title": "Meta has a new AI pet app called Waddle World",
+    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T13:53:31",
+    "saved": false
+  },
+  {
+    "id": 7754289240060985649,
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-28T13:41:30",
+    "saved": false
+  },
+  {
+    "id": 1178812529586186694,
+    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T13:34:01",
+    "saved": false
+  },
+  {
+    "id": -8502295972339530716,
+    "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T13:11:49",
+    "saved": false
+  },
+  {
+    "id": 2964975943054691683,
+    "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T10:41:27",
+    "saved": false
+  },
+  {
+    "id": -2644650343126931770,
     "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
     "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-10-27T23:34:27",
-    "saved": false
-  },
-  {
-    "id": -625479600125316433,
-    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T21:44:34",
-    "saved": false
-  },
-  {
-    "id": -8994738735602603633,
-    "title": "Hex Raises $100M",
-    "link": "https://hex.tech/blog/hex-new-era/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-27T20:36:38",
-    "saved": false
-  },
-  {
-    "id": 5073388579783377507,
-    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T20:31:17",
-    "saved": false
-  },
-  {
-    "id": -3265182581436790226,
-    "title": "Tailscale SSH: Investigation and remediation update",
-    "link": "https://tailscale.com/ssh-investigation-update",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-27T19:55:21",
-    "saved": false
-  },
-  {
-    "id": 7356881699866408810,
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "link": "https://www.brangus.io/survival-llm",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-27T19:55:06",
-    "saved": false
-  },
-  {
-    "id": -3003819599577923008,
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T18:55:35",
-    "saved": false
-  },
-  {
-    "id": -5379410257260384368,
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T17:08:08",
-    "saved": false
-  },
-  {
-    "id": -6931466927065526913,
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T14:59:09",
-    "saved": false
-  },
-  {
-    "id": 1053013194536524123,
-    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-    "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T13:54:51",
-    "saved": false
-  },
-  {
-    "id": -2110047293741594775,
-    "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-    "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T13:01:00",
     "saved": false
   }
 ]

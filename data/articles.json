@@ -1,6 +1,87 @@
 [
   {
-    "id": -2752705713253368994,
+    "id": -5190569004582259296,
+    "title": "A fine-tuned \"cat obsession\" as a control for AI welfare criteria: every probe criterion passes, and a relief button tracks how a drive is delivered, not whether it's active [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhagpt/a_finetuned_cat_obsession_as_a_control_for_ai/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T01:02:59",
+    "saved": false
+  },
+  {
+    "id": 5842156952293066687,
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T23:34:27",
+    "saved": false
+  },
+  {
+    "id": -625479600125316433,
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T21:44:34",
+    "saved": false
+  },
+  {
+    "id": -8994738735602603633,
+    "title": "Hex Raises $100M",
+    "link": "https://hex.tech/blog/hex-new-era/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-27T20:36:38",
+    "saved": false
+  },
+  {
+    "id": 5073388579783377507,
+    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+    "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T20:31:17",
+    "saved": false
+  },
+  {
+    "id": -3265182581436790226,
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "link": "https://tailscale.com/ssh-investigation-update",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-27T19:55:21",
+    "saved": false
+  },
+  {
+    "id": 7356881699866408810,
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "link": "https://www.brangus.io/survival-llm",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-27T19:55:06",
+    "saved": false
+  },
+  {
+    "id": -3003819599577923008,
+    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+    "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T18:55:35",
+    "saved": false
+  },
+  {
+    "id": -5379410257260384368,
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-27T17:08:08",
+    "saved": false
+  },
+  {
+    "id": -6931466927065526913,
     "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
     "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
     "source": "TechCrunch",
@@ -9,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -739644257303403842,
+    "id": 1053013194536524123,
     "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
     "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
     "source": "TechCrunch",
@@ -18,111 +99,12 @@
     "saved": false
   },
   {
-    "id": -5692799714937327531,
+    "id": -2110047293741594775,
     "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
     "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-10-27T13:01:00",
-    "saved": false
-  },
-  {
-    "id": -5194912936242656315,
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 2814900563688712328,
-    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 8843660658344623696,
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T11:00:00",
-    "saved": false
-  },
-  {
-    "id": 2838660960361473013,
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T02:00:00",
-    "saved": false
-  },
-  {
-    "id": -4334212811326263205,
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-26T22:41:48",
-    "saved": false
-  },
-  {
-    "id": -7903573857254464377,
-    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-25T22:57:33",
-    "saved": false
-  },
-  {
-    "id": 8147630044607631787,
-    "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-25T16:32:44",
-    "saved": false
-  },
-  {
-    "id": 7249235444322182012,
-    "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-25T05:31:19",
-    "saved": false
-  },
-  {
-    "id": 8381071339411488742,
-    "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-24T09:58:29",
-    "saved": false
-  },
-  {
-    "id": 1848822546045656044,
-    "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-23T15:37:23",
-    "saved": false
-  },
-  {
-    "id": -915476803972066555,
-    "title": "Blaise Pascal invented fixed route public transport (2024)",
-    "link": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-22T19:52:50",
     "saved": false
   }
 ]

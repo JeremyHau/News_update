@@ -1,6 +1,60 @@
 [
   {
-    "id": -1205486216028281733,
+    "id": 4536362931670713436,
+    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+    "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T23:15:00",
+    "saved": false
+  },
+  {
+    "id": 4838275760986609145,
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T21:48:37",
+    "saved": false
+  },
+  {
+    "id": 6633584872824661842,
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T21:34:30",
+    "saved": false
+  },
+  {
+    "id": -4341840764699608986,
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T20:01:00",
+    "saved": false
+  },
+  {
+    "id": 8306069128208628047,
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-28T19:19:58",
+    "saved": false
+  },
+  {
+    "id": -7331321504499164626,
+    "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-28T17:52:10",
+    "saved": false
+  },
+  {
+    "id": 642148528586887239,
     "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8946015814783136029,
+    "id": 1049430262597669414,
     "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
     "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 1269445074869901909,
+    "id": 6737370331632748651,
     "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
     "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
     "source": "TechCrunch",
@@ -27,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 4978951194724625566,
+    "id": 1650515466774157081,
     "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
     "source": "Reddit ML",
@@ -36,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 6434864936762924558,
+    "id": 709814448014230662,
     "title": "How do you start with Agentic AI for a specific use case? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
     "source": "Reddit ML",
@@ -45,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 2299867684032932490,
+    "id": -7310580785325552458,
     "title": "AI execs may be too out of touch to build for the general public",
     "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
     "source": "TechCrunch",
@@ -54,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3068652926721966993,
+    "id": -8289441352192618700,
     "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
     "link": "https://surgehq.ai/blog/dayjob-tax",
     "source": "Hacker News",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 905686066968397187,
+    "id": 1644061754343110954,
     "title": "Voice AI in vogue: Nvidia releases new open transcription model",
     "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1568460473636608516,
+    "id": -1275886797364054315,
     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
     "source": "Reddit ML",
@@ -81,34 +135,7 @@
     "saved": false
   },
   {
-    "id": -3485314434492225362,
-    "title": "The Agent SDK",
-    "link": "https://cursor.com/blog/agent-sdk",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-28T14:02:20",
-    "saved": false
-  },
-  {
-    "id": -8883654725726555425,
-    "title": "Meta has a new AI pet app called Waddle World",
-    "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-28T13:53:31",
-    "saved": false
-  },
-  {
-    "id": 7754289240060985649,
-    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-28T13:41:30",
-    "saved": false
-  },
-  {
-    "id": 1178812529586186694,
+    "id": 1144924049059970017,
     "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
     "source": "Reddit ML",
@@ -117,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8502295972339530716,
+    "id": -1714202607782350781,
     "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
     "source": "Reddit ML",
@@ -126,21 +153,12 @@
     "saved": false
   },
   {
-    "id": 2964975943054691683,
-    "title": "Pandora M1, a training monitor box (64 nodes x 8 GPUs support) [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhkli0/pandora_m1_a_training_monitor_box_64_nodes_x_8/",
-    "source": "Reddit ML",
+    "id": -7963014298658624424,
+    "title": "Nixpkgs for the Front End Impaired",
+    "link": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-28T10:41:27",
-    "saved": false
-  },
-  {
-    "id": -2644650343126931770,
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-27T23:34:27",
+    "date": "2026-10-26T15:00:05",
     "saved": false
   }
 ]

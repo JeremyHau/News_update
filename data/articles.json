@@ -1,6 +1,114 @@
 [
   {
-    "id": 4536362931670713436,
+    "id": 1902654378101522012,
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T16:42:32",
+    "saved": false
+  },
+  {
+    "id": 2929700725763411150,
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T16:21:00",
+    "saved": false
+  },
+  {
+    "id": 8153740141188747131,
+    "title": "SuperMe raises $20M for its network of AI expert profiles",
+    "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T16:19:43",
+    "saved": false
+  },
+  {
+    "id": -6762642072361122902,
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+    "link": "https://news.ycombinator.com/item?id=50291116",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-29T15:56:32",
+    "saved": false
+  },
+  {
+    "id": 2369196522668232362,
+    "title": "Zombie stats: Where the numbers AI quotes come from",
+    "link": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-29T15:06:17",
+    "saved": false
+  },
+  {
+    "id": 7963592615391390070,
+    "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+    "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T15:00:00",
+    "saved": false
+  },
+  {
+    "id": -5482204983624800202,
+    "title": "LLM Voice",
+    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-29T14:57:55",
+    "saved": false
+  },
+  {
+    "id": 577412262149533999,
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T14:35:26",
+    "saved": false
+  },
+  {
+    "id": 3872287625696908839,
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -749542976849462630,
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-29T13:00:00",
+    "saved": false
+  },
+  {
+    "id": 2762274185652577358,
+    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+    "link": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-29T10:42:41",
+    "saved": false
+  },
+  {
+    "id": 4254818291639163599,
+    "title": "What we know so far about Spain train crash",
+    "link": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-29T08:55:08",
+    "saved": false
+  },
+  {
+    "id": -5228363905736540313,
     "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
     "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
     "source": "TechCrunch",
@@ -9,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 4838275760986609145,
+    "id": 7748642546201980283,
     "title": "Google expands AI Search ads globally as core ad growth slows",
     "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
     "source": "TechCrunch",
@@ -18,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 6633584872824661842,
+    "id": 6207932925701081036,
     "title": "Microsoft recorded $10 billion in revenue from OpenAI",
     "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
     "source": "TechCrunch",
@@ -27,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -4341840764699608986,
+    "id": 5473307131519381408,
     "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
     "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
     "source": "TechCrunch",
@@ -36,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 8306069128208628047,
+    "id": 4255988154636775316,
     "title": "Anthropic just launched tools to show companies what their AI spending is buying",
     "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
     "source": "TechCrunch",
@@ -45,7 +153,7 @@
     "saved": false
   },
   {
-    "id": -7331321504499164626,
+    "id": 5529776153475701662,
     "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
     "source": "Reddit ML",
@@ -54,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 642148528586887239,
+    "id": -269974336673511006,
     "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
@@ -63,25 +171,7 @@
     "saved": false
   },
   {
-    "id": 1049430262597669414,
-    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-    "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-28T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 6737370331632748651,
-    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-28T17:00:00",
-    "saved": false
-  },
-  {
-    "id": 1650515466774157081,
+    "id": 5222217091103475980,
     "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
     "source": "Reddit ML",
@@ -90,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 709814448014230662,
+    "id": -4357705964739757784,
     "title": "How do you start with Agentic AI for a specific use case? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
     "source": "Reddit ML",
@@ -99,34 +189,7 @@
     "saved": false
   },
   {
-    "id": -7310580785325552458,
-    "title": "AI execs may be too out of touch to build for the general public",
-    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-28T15:53:52",
-    "saved": false
-  },
-  {
-    "id": -8289441352192618700,
-    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "link": "https://surgehq.ai/blog/dayjob-tax",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-28T15:46:30",
-    "saved": false
-  },
-  {
-    "id": 1644061754343110954,
-    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-28T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -1275886797364054315,
+    "id": -1402448586898903509,
     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
     "source": "Reddit ML",
@@ -135,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 1144924049059970017,
+    "id": 5641348189339462939,
     "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
     "source": "Reddit ML",
@@ -144,21 +207,12 @@
     "saved": false
   },
   {
-    "id": -1714202607782350781,
+    "id": -6860818217623086036,
     "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-28T13:11:49",
-    "saved": false
-  },
-  {
-    "id": -7963014298658624424,
-    "title": "Nixpkgs for the Front End Impaired",
-    "link": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-26T15:00:05",
     "saved": false
   }
 ]

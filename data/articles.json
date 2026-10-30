@@ -1,15 +1,78 @@
 [
   {
-    "id": 2961209909913384907,
-    "title": "Pico CSS is no longer maintained",
-    "link": "https://github.com/picocss/pico/discussions/754",
+    "id": -1782581077186068564,
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-30T01:58:44",
+    "date": "2026-10-30T16:13:02",
     "saved": false
   },
   {
-    "id": -1341514557365582341,
+    "id": -2436913174545599790,
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T16:03:45",
+    "saved": false
+  },
+  {
+    "id": 1508510616213416088,
+    "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-30T15:52:18",
+    "saved": false
+  },
+  {
+    "id": 4675808078529514572,
+    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+    "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-30T15:39:05",
+    "saved": false
+  },
+  {
+    "id": -7073687197039745115,
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -6686684885627266415,
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T13:54:25",
+    "saved": false
+  },
+  {
+    "id": -470275038957477158,
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -5070743666683124843,
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-30T12:08:00",
+    "saved": false
+  },
+  {
+    "id": 846366394381810339,
     "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
     "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "source": "TechCrunch",
@@ -18,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 132772229503285513,
-    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-    "link": "https://journal.animationstudies.org/article/id/66/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-29T22:26:38",
-    "saved": false
-  },
-  {
-    "id": 6124229936682569569,
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "link": "https://labs.ycombinator.com/projects/games/index.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-29T21:40:28",
-    "saved": false
-  },
-  {
-    "id": 682510825735731808,
+    "id": -8664151326399617172,
     "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
     "source": "Reddit ML",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1900382546145395556,
+    "id": 8130278194584334202,
     "title": "Rivian expands joint venture with VW to include AI assistant",
     "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 4782614658574802329,
+    "id": 1777568428192864030,
     "title": "OpenAI-backed Thrive Holdings acquires ADT",
     "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
     "source": "TechCrunch",
@@ -63,79 +108,7 @@
     "saved": false
   },
   {
-    "id": 4765624039204689526,
-    "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-    "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T19:17:49",
-    "saved": false
-  },
-  {
-    "id": 7725707398921920857,
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T19:14:36",
-    "saved": false
-  },
-  {
-    "id": 7159727863560435672,
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -4426733050219506889,
-    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-    "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T16:42:32",
-    "saved": false
-  },
-  {
-    "id": -101320368514262911,
-    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T16:21:00",
-    "saved": false
-  },
-  {
-    "id": -5787866477043768490,
-    "title": "SuperMe raises $20M for its network of AI expert profiles",
-    "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T16:19:43",
-    "saved": false
-  },
-  {
-    "id": 6795605751400159751,
-    "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-    "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T15:00:00",
-    "saved": false
-  },
-  {
-    "id": -6375977639722366493,
-    "title": "LLM Voice",
-    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-29T14:57:55",
-    "saved": false
-  },
-  {
-    "id": 5331464201100487933,
+    "id": -7627441242979034449,
     "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
     "source": "Reddit ML",
@@ -144,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -2780850878433585954,
+    "id": 1928921683346061913,
     "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
@@ -153,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 7778569533874928138,
-    "title": "How do you start with Agentic AI for a specific use case? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-28T16:20:21",
-    "saved": false
-  },
-  {
-    "id": 1068410868816842693,
+    "id": -6503174783123552524,
     "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
     "source": "Reddit ML",
@@ -171,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -5693602007669134850,
+    "id": 6359334333227676574,
     "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
     "source": "Reddit ML",

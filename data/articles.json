@@ -1,15 +1,69 @@
 [
   {
-    "id": -1782581077186068564,
-    "title": "US tech stocks see sharp falls over AI cost fears",
-    "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-30T16:13:02",
+    "id": 4410646199830284732,
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-31T01:20:05",
     "saved": false
   },
   {
-    "id": -2436913174545599790,
+    "id": 4814324991969662343,
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T22:56:13",
+    "saved": false
+  },
+  {
+    "id": 8793384965253653990,
+    "title": "Paid Research Survey for conference papers [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-30T22:42:27",
+    "saved": false
+  },
+  {
+    "id": -1975544653384033037,
+    "title": "Cracks are emerging in the AI spending boom",
+    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T21:17:40",
+    "saved": false
+  },
+  {
+    "id": -5183106530986793065,
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-30T20:23:30",
+    "saved": false
+  },
+  {
+    "id": 1308358886938561371,
+    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+    "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T19:55:13",
+    "saved": false
+  },
+  {
+    "id": -2872859721994470587,
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-30T17:47:12",
+    "saved": false
+  },
+  {
+    "id": -394993802870438969,
     "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
     "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
     "source": "TechCrunch",
@@ -18,25 +72,16 @@
     "saved": false
   },
   {
-    "id": 1508510616213416088,
-    "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-    "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "id": -3937348835466143844,
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-30T15:52:18",
+    "date": "2026-10-30T14:08:20",
     "saved": false
   },
   {
-    "id": 4675808078529514572,
-    "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-    "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-30T15:39:05",
-    "saved": false
-  },
-  {
-    "id": -7073687197039745115,
+    "id": 9030446970762540981,
     "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
     "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
     "source": "TechCrunch",
@@ -45,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6686684885627266415,
+    "id": -8316342211934022857,
     "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
     "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -470275038957477158,
+    "id": 4466155334758039439,
     "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
     "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
     "source": "TechCrunch",
@@ -63,16 +108,7 @@
     "saved": false
   },
   {
-    "id": -5070743666683124843,
-    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-    "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-30T12:08:00",
-    "saved": false
-  },
-  {
-    "id": 846366394381810339,
+    "id": 4531547982062638101,
     "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
     "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8664151326399617172,
+    "id": -7870912501459322964,
     "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
     "source": "Reddit ML",
@@ -90,25 +126,7 @@
     "saved": false
   },
   {
-    "id": 8130278194584334202,
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T20:05:47",
-    "saved": false
-  },
-  {
-    "id": 1777568428192864030,
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-29T19:56:19",
-    "saved": false
-  },
-  {
-    "id": -7627441242979034449,
+    "id": -8156098388341272293,
     "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
     "source": "Reddit ML",
@@ -117,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 1928921683346061913,
+    "id": 6131147839082750236,
     "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
@@ -126,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -6503174783123552524,
-    "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-28T14:30:25",
-    "saved": false
-  },
-  {
-    "id": 6359334333227676574,
+    "id": -5807372488727400451,
     "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
     "source": "Reddit ML",

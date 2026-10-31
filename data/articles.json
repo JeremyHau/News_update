@@ -1,6 +1,42 @@
 [
   {
-    "id": 4410646199830284732,
+    "id": -6312632929189489132,
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-10-31T16:12:55",
+    "saved": false
+  },
+  {
+    "id": -9039326781132721162,
+    "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-10-31T15:21:39",
+    "saved": false
+  },
+  {
+    "id": 5697172422180634762,
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-31T14:29:03",
+    "saved": false
+  },
+  {
+    "id": -8894004352986245515,
+    "title": "Serbia just elected the world's brainiest parliament",
+    "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-31T10:21:30",
+    "saved": false
+  },
+  {
+    "id": 3324153244441489422,
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 4814324991969662343,
+    "id": -1948363298769744383,
     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 8793384965253653990,
+    "id": 7492282222155210219,
     "title": "Paid Research Survey for conference papers [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
     "source": "Reddit ML",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -1975544653384033037,
+    "id": 1515625263445439724,
     "title": "Cracks are emerging in the AI spending boom",
     "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
     "source": "TechCrunch",
@@ -36,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -5183106530986793065,
-    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-30T20:23:30",
-    "saved": false
-  },
-  {
-    "id": 1308358886938561371,
+    "id": 2747863218362904993,
     "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
     "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -2872859721994470587,
+    "id": 7955451696223962912,
     "title": "Zest’s new AI agent finds restaurants and books reservations over text",
     "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -394993802870438969,
+    "id": -5340104942837734127,
     "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
     "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
     "source": "TechCrunch",
@@ -72,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -3937348835466143844,
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "link": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-10-30T14:08:20",
-    "saved": false
-  },
-  {
-    "id": 9030446970762540981,
+    "id": 1239189152424407985,
     "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
     "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8316342211934022857,
+    "id": -1042483198893907413,
     "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
     "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
     "source": "TechCrunch",
@@ -99,25 +117,7 @@
     "saved": false
   },
   {
-    "id": 4466155334758039439,
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-30T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 4531547982062638101,
-    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-    "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-30T01:20:48",
-    "saved": false
-  },
-  {
-    "id": -7870912501459322964,
+    "id": 6415526092306965292,
     "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
     "source": "Reddit ML",
@@ -126,16 +126,16 @@
     "saved": false
   },
   {
-    "id": -8156098388341272293,
-    "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
-    "source": "Reddit ML",
+    "id": -3542861787959063960,
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-10-28T17:52:10",
+    "date": "2026-10-29T15:29:48",
     "saved": false
   },
   {
-    "id": 6131147839082750236,
+    "id": -3331739284255836985,
     "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
     "source": "Reddit ML",
@@ -144,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -5807372488727400451,
+    "id": -5298994785043800323,
     "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
     "source": "Reddit ML",

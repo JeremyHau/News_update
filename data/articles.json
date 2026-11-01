@@ -1,6 +1,6 @@
 [
   {
-    "id": -8985297942034638987,
+    "id": -3010404903498314918,
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "source": "TechCrunch",
@@ -9,7 +9,7 @@
     "saved": false
   },
   {
-    "id": 6675727002311636454,
+    "id": -9011176076829142055,
     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
     "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
     "source": "TechCrunch",
@@ -18,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 4569257774895313332,
+    "id": 1008923577235378059,
     "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
     "source": "Reddit ML",
@@ -27,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -4886347224911941027,
+    "id": 6458312451818724417,
     "title": "OpenAI reportedly lowers funding target for new round",
     "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
     "source": "TechCrunch",
@@ -36,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -5209188249357197445,
+    "id": -5662904722687697403,
     "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
     "source": "Reddit ML",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -1218641857392428885,
+    "id": 4780237476038661247,
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 7102899010702412376,
+    "id": -7526877338465642470,
     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -5880198579392229261,
+    "id": 7360604587375602112,
     "title": "Paid Research Survey for conference papers [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
     "source": "Reddit ML",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1299495990906866990,
+    "id": 666921120158221949,
     "title": "Cracks are emerging in the AI spending boom",
     "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
     "source": "TechCrunch",
@@ -81,39 +81,12 @@
     "saved": false
   },
   {
-    "id": -4794371800497646700,
-    "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-    "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-30T19:55:13",
-    "saved": false
-  },
-  {
-    "id": -1694889907815512284,
-    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-30T17:47:12",
-    "saved": false
-  },
-  {
-    "id": 4408659798068239064,
+    "id": -7473411195287876184,
     "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-29T20:46:25",
-    "saved": false
-  },
-  {
-    "id": 6242195707670110050,
-    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-28T13:34:01",
     "saved": false
   }
 ]

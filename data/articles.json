@@ -1,6 +1,42 @@
 [
   {
-    "id": -3010404903498314918,
+    "id": 1147206428851611378,
+    "title": "AI Can Write More of the Code. We Still Have to Engineer the System",
+    "link": "https://picon.dev/en/publications/ai-assisted-engineering/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-02T01:35:02",
+    "saved": false
+  },
+  {
+    "id": -4797057776925216037,
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-01T21:55:23",
+    "saved": false
+  },
+  {
+    "id": -4713805148683700732,
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-01T20:57:58",
+    "saved": false
+  },
+  {
+    "id": -539124167416331705,
+    "title": "The AI cost of JavaScript frameworks",
+    "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-01T06:06:19",
+    "saved": false
+  },
+  {
+    "id": 2612665752604462505,
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -9011176076829142055,
+    "id": 6083773192013443528,
     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
     "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1008923577235378059,
+    "id": 8565872124437924739,
     "title": "Is it okay to share my experiments implementing research papers on my own LLM here? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xkgtly/is_it_okay_to_share_my_experiments_implementing/",
     "source": "Reddit ML",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6458312451818724417,
+    "id": 4225275014978745259,
     "title": "OpenAI reportedly lowers funding target for new round",
     "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
     "source": "TechCrunch",
@@ -36,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -5662904722687697403,
+    "id": -6615152166100346382,
     "title": "Hierarchical detection of neonatal brain pathologies using a two-stage deep learning framework from magnetic resonance imaging [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xkcy83/hierarchical_detection_of_neonatal_brain/",
     "source": "Reddit ML",
@@ -45,7 +81,16 @@
     "saved": false
   },
   {
-    "id": 4780237476038661247,
+    "id": -7947695834352936736,
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-10-31T01:38:56",
+    "saved": false
+  },
+  {
+    "id": 7138792655032885136,
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "source": "TechCrunch",
@@ -54,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -7526877338465642470,
+    "id": -487373317415118359,
     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "source": "TechCrunch",
@@ -63,30 +108,12 @@
     "saved": false
   },
   {
-    "id": 7360604587375602112,
+    "id": -4183779268810878304,
     "title": "Paid Research Survey for conference papers [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xjtpio/paid_research_survey_for_conference_papers_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-10-30T22:42:27",
-    "saved": false
-  },
-  {
-    "id": 666921120158221949,
-    "title": "Cracks are emerging in the AI spending boom",
-    "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-10-30T21:17:40",
-    "saved": false
-  },
-  {
-    "id": -7473411195287876184,
-    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-10-29T20:46:25",
     "saved": false
   }
 ]

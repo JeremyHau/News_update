@@ -1,6 +1,87 @@
 [
   {
-    "id": -1933143598165669272,
+    "id": -77099812634482486,
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T03:30:00",
+    "saved": false
+  },
+  {
+    "id": -3803674756237225316,
+    "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
+    "link": "https://ownhackertube.cc/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-03T03:14:06",
+    "saved": false
+  },
+  {
+    "id": 6004150127426190969,
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T01:49:52",
+    "saved": false
+  },
+  {
+    "id": 3525023955364757856,
+    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+    "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T01:12:55",
+    "saved": false
+  },
+  {
+    "id": 8798914544244953314,
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T00:35:52",
+    "saved": false
+  },
+  {
+    "id": 4195510140265406841,
+    "title": "Scaling Git at OpenAI",
+    "link": "https://openai.com/index/scaling-git-at-openai/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-02T23:47:56",
+    "saved": false
+  },
+  {
+    "id": 4764184602872103175,
+    "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+    "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-02T23:25:32",
+    "saved": false
+  },
+  {
+    "id": -8314946014001706443,
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-02T23:13:53",
+    "saved": false
+  },
+  {
+    "id": -6791155787181057719,
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-02T22:14:50",
+    "saved": false
+  },
+  {
+    "id": 1620759192145091785,
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
     "source": "Reddit ML",
@@ -9,25 +90,7 @@
     "saved": false
   },
   {
-    "id": -6298818250269780624,
-    "title": "Anthropic reveals $900B AI spending commitments ahead of IPO",
-    "link": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T19:36:37",
-    "saved": false
-  },
-  {
-    "id": 8672796704209094831,
-    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T19:27:37",
-    "saved": false
-  },
-  {
-    "id": 3745574819944638622,
+    "id": 4751776968746106360,
     "title": "Egoless Mathematics in the AI Era",
     "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
     "source": "Hacker News",
@@ -36,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -3125746660632498306,
+    "id": -5614396612989823392,
     "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
     "link": "https://momentic.ai/",
     "source": "Hacker News",
@@ -45,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 823716384078661147,
-    "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-    "link": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T16:40:29",
-    "saved": false
-  },
-  {
-    "id": -6802317953217685919,
+    "id": -4312241406464465817,
     "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
     "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
     "source": "TechCrunch",
@@ -63,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8010606850712041756,
+    "id": 5719164173170449844,
     "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
     "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
     "source": "TechCrunch",
@@ -72,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 1006414114413120688,
+    "id": 5613488609004901430,
     "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
     "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
     "source": "TechCrunch",
@@ -81,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 9220562098003379478,
+    "id": 5501862180539455177,
     "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
     "source": "Reddit ML",
@@ -90,34 +144,7 @@
     "saved": false
   },
   {
-    "id": -2204810637108056708,
-    "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-    "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-02T14:22:35",
-    "saved": false
-  },
-  {
-    "id": 5448813089111938810,
-    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-    "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-02T13:57:53",
-    "saved": false
-  },
-  {
-    "id": 560714254710911182,
-    "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
-    "link": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-02T11:00:00",
-    "saved": false
-  },
-  {
-    "id": 3711705558728076065,
+    "id": -4529568530417653352,
     "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
     "source": "Reddit ML",
@@ -126,30 +153,12 @@
     "saved": false
   },
   {
-    "id": 7004101665934477562,
+    "id": 7417405892928359413,
     "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-02T04:30:11",
-    "saved": false
-  },
-  {
-    "id": 5956753111449337925,
-    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-01T21:55:23",
-    "saved": false
-  },
-  {
-    "id": 9075111526449520849,
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-01T20:57:58",
     "saved": false
   }
 ]

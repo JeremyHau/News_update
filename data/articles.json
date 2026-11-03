@@ -1,6 +1,96 @@
 [
   {
-    "id": -77099812634482486,
+    "id": -1170468515927707739,
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T18:42:16",
+    "saved": false
+  },
+  {
+    "id": 801914869894324253,
+    "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+    "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T17:56:52",
+    "saved": false
+  },
+  {
+    "id": -7855595574031326183,
+    "title": "Google researchers demand freedom to tell the world what they know about AI",
+    "link": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-03T17:55:26",
+    "saved": false
+  },
+  {
+    "id": 2200857090427126435,
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-03T17:22:37",
+    "saved": false
+  },
+  {
+    "id": 2067755485685391953,
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T16:30:34",
+    "saved": false
+  },
+  {
+    "id": 6516741630973101895,
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T15:38:27",
+    "saved": false
+  },
+  {
+    "id": 6163828676068254741,
+    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+    "link": "https://news.ycombinator.com/item?id=50352757",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-03T14:53:41",
+    "saved": false
+  },
+  {
+    "id": 6489087529516027563,
+    "title": "CPU parallelism lessons that carry over to GPU kernels: dependency chains, FP non-associativity, false sharing, memory-bound loops [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xmowry/cpu_parallelism_lessons_that_carry_over_to_gpu/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-03T09:53:58",
+    "saved": false
+  },
+  {
+    "id": 1184261805332299962,
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-03T07:20:00",
+    "saved": false
+  },
+  {
+    "id": 6184490173287167551,
+    "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-03T04:25:52",
+    "saved": false
+  },
+  {
+    "id": -1021167638462643612,
     "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
     "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
     "source": "TechCrunch",
@@ -9,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -3803674756237225316,
-    "title": "Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",
-    "link": "https://ownhackertube.cc/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T03:14:06",
-    "saved": false
-  },
-  {
-    "id": 6004150127426190969,
+    "id": -6406684104282772629,
     "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
     "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
     "source": "TechCrunch",
@@ -27,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3525023955364757856,
+    "id": -6438493280933368572,
     "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
     "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
     "source": "TechCrunch",
@@ -36,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 8798914544244953314,
+    "id": 6361720466115803013,
     "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
     "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "source": "TechCrunch",
@@ -45,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 4195510140265406841,
-    "title": "Scaling Git at OpenAI",
-    "link": "https://openai.com/index/scaling-git-at-openai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T23:47:56",
-    "saved": false
-  },
-  {
-    "id": 4764184602872103175,
+    "id": 2321575131292101441,
     "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
     "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
     "source": "TechCrunch",
@@ -63,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -8314946014001706443,
+    "id": -5920776792481601872,
     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
     "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
     "source": "TechCrunch",
@@ -72,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -6791155787181057719,
+    "id": -189233078097135293,
     "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
     "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
     "source": "TechCrunch",
@@ -81,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 1620759192145091785,
+    "id": -108011118219713654,
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
     "source": "Reddit ML",
@@ -90,52 +162,16 @@
     "saved": false
   },
   {
-    "id": 4751776968746106360,
-    "title": "Egoless Mathematics in the AI Era",
-    "link": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+    "id": 7844001891827668161,
+    "title": "Jailbreaking my car's navigation system just so I can change the time",
+    "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-02T18:54:44",
+    "date": "2026-11-02T16:29:19",
     "saved": false
   },
   {
-    "id": -5614396612989823392,
-    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "link": "https://momentic.ai/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T17:05:25",
-    "saved": false
-  },
-  {
-    "id": -4312241406464465817,
-    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-    "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-02T16:30:00",
-    "saved": false
-  },
-  {
-    "id": 5719164173170449844,
-    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-    "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-02T16:23:21",
-    "saved": false
-  },
-  {
-    "id": 5613488609004901430,
-    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-02T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 5501862180539455177,
+    "id": 5094716442209495458,
     "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
     "source": "Reddit ML",
@@ -144,21 +180,21 @@
     "saved": false
   },
   {
-    "id": -4529568530417653352,
+    "id": -8472502837989431515,
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-02T14:02:42",
+    "saved": false
+  },
+  {
+    "id": 2547927225818952527,
     "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-02T10:04:25",
-    "saved": false
-  },
-  {
-    "id": 7417405892928359413,
-    "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-02T04:30:11",
     "saved": false
   }
 ]

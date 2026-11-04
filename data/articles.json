@@ -1,6 +1,60 @@
 [
   {
-    "id": 7970118523868785454,
+    "id": 5196707756035148633,
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "link": "https://news.ycombinator.com/item?id=50368804",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T17:31:53",
+    "saved": false
+  },
+  {
+    "id": -4041065719438407776,
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T16:17:22",
+    "saved": false
+  },
+  {
+    "id": -4753417315923245581,
+    "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+    "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 1446474390347670806,
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T11:52:17",
+    "saved": false
+  },
+  {
+    "id": 7694842555611064343,
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "link": "https://news.ycombinator.com/item?id=50363461",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T10:10:27",
+    "saved": false
+  },
+  {
+    "id": 4910875476920892823,
+    "title": "AI can read neural network weights. I wasn't ready for that. [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-04T01:20:44",
+    "saved": false
+  },
+  {
+    "id": -4868995347139661783,
     "title": "Anthropic is working on a system to prove AI models’ identity",
     "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
     "source": "TechCrunch",
@@ -9,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 1701345973403002146,
+    "id": 7357163975031034511,
     "title": "Data centers are turning to old jet engines as the wait for power grows",
     "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
     "source": "TechCrunch",
@@ -18,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 6699621220377492666,
+    "id": -4634511020520341255,
     "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
     "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
     "source": "TechCrunch",
@@ -27,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 6987041236318753317,
-    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-    "link": "https://arxiv.org/abs/2605.29713",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T21:40:53",
-    "saved": false
-  },
-  {
-    "id": 4282412784090705407,
-    "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-    "link": "https://github.com/finic-ai/kairos",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T21:16:48",
-    "saved": false
-  },
-  {
-    "id": -6643708966311912854,
+    "id": -3221260306896866009,
     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
     "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "source": "TechCrunch",
@@ -54,88 +90,7 @@
     "saved": false
   },
   {
-    "id": -7181021597174951140,
-    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-    "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T18:42:16",
-    "saved": false
-  },
-  {
-    "id": 6439735838725457322,
-    "title": "How I use AI (Oct 2026)",
-    "link": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T18:11:11",
-    "saved": false
-  },
-  {
-    "id": -923535657644525560,
-    "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-    "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T17:56:52",
-    "saved": false
-  },
-  {
-    "id": 3734537871214821213,
-    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T17:22:37",
-    "saved": false
-  },
-  {
-    "id": -8288361148049440890,
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T16:30:34",
-    "saved": false
-  },
-  {
-    "id": 386513170826532401,
-    "title": "Apple restricts dating apps and AI companions to users 18 and up",
-    "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T15:38:27",
-    "saved": false
-  },
-  {
-    "id": -7570356692652736147,
-    "title": "There is no posttraining data commons",
-    "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T14:45:47",
-    "saved": false
-  },
-  {
-    "id": 6526631691199450667,
-    "title": "CPU parallelism lessons that carry over to GPU kernels: dependency chains, FP non-associativity, false sharing, memory-bound loops [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xmowry/cpu_parallelism_lessons_that_carry_over_to_gpu/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-03T09:53:58",
-    "saved": false
-  },
-  {
-    "id": 6251271716713959956,
-    "title": "I tested whether changing who an argument is attributed to changes how LLMs evaluate the exact same argument [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xmjex5/i_tested_whether_changing_who_an_argument_is/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-03T04:25:52",
-    "saved": false
-  },
-  {
-    "id": -4335165618070135367,
+    "id": 820553171677978268,
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
     "source": "Reddit ML",
@@ -144,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -2977311744317562335,
-    "title": "Jailbreaking my car's navigation system just so I can change the time",
-    "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T16:29:19",
-    "saved": false
-  },
-  {
-    "id": 2897569054833522222,
+    "id": 330941370928503605,
     "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
     "source": "Reddit ML",
@@ -162,30 +108,12 @@
     "saved": false
   },
   {
-    "id": -7465816472119011937,
-    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-02T14:02:42",
-    "saved": false
-  },
-  {
-    "id": -6621576679065578619,
+    "id": 6181113011124858526,
     "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-02T10:04:25",
-    "saved": false
-  },
-  {
-    "id": 2968409444870396479,
-    "title": "We're training a Figma-fluent editing model",
-    "link": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-01T04:05:23",
     "saved": false
   }
 ]

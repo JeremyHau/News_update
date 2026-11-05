@@ -1,6 +1,123 @@
 [
   {
-    "id": 5196707756035148633,
+    "id": 3825743983678792125,
+    "title": "Anyone else tired of how expensive agent evaluations are? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-05T03:33:01",
+    "saved": false
+  },
+  {
+    "id": -7021994331779396811,
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-05T01:26:22",
+    "saved": false
+  },
+  {
+    "id": -5891339263301770472,
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T22:45:09",
+    "saved": false
+  },
+  {
+    "id": 8460447108192569653,
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T22:13:16",
+    "saved": false
+  },
+  {
+    "id": -1480176516298721817,
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T21:56:01",
+    "saved": false
+  },
+  {
+    "id": 3281505207563248164,
+    "title": "Snapchat surpasses 30M paid subscribers",
+    "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T21:49:29",
+    "saved": false
+  },
+  {
+    "id": -7427684756868953247,
+    "title": "[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-04T21:47:55",
+    "saved": false
+  },
+  {
+    "id": 183513627045659669,
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T21:25:44",
+    "saved": false
+  },
+  {
+    "id": -5140568948694216387,
+    "title": "Meta acquires AI coding startup Conductor",
+    "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T21:10:56",
+    "saved": false
+  },
+  {
+    "id": -7536229943089925784,
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T19:55:14",
+    "saved": false
+  },
+  {
+    "id": -1592998199800926172,
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T19:30:04",
+    "saved": false
+  },
+  {
+    "id": 3059103910814783416,
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-04T19:29:52",
+    "saved": false
+  },
+  {
+    "id": 3086582986027717544,
+    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+    "link": "https://www.ricursive.com/ripple",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T18:53:29",
+    "saved": false
+  },
+  {
+    "id": -9011472116631171676,
     "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
     "link": "https://news.ycombinator.com/item?id=50368804",
     "source": "Hacker News",
@@ -9,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -4041065719438407776,
+    "id": 4099594643478826717,
     "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
     "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
     "source": "TechCrunch",
@@ -18,7 +135,16 @@
     "saved": false
   },
   {
-    "id": -4753417315923245581,
+    "id": -1573174947412521973,
+    "title": "OpenAI to acquire Pierre Computer Company",
+    "link": "https://openai.com/index/openai-to-acquire-pierre/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T15:21:21",
+    "saved": false
+  },
+  {
+    "id": 7316296845620320157,
     "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
     "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
     "source": "TechCrunch",
@@ -27,7 +153,16 @@
     "saved": false
   },
   {
-    "id": 1446474390347670806,
+    "id": -6776166541721372478,
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "link": "https://news.ycombinator.com/item?id=50366117",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-04T14:37:22",
+    "saved": false
+  },
+  {
+    "id": -3522812947930064761,
     "title": "AI is forcing us to pay off 40 years of technical debt",
     "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
     "source": "Hacker News",
@@ -36,61 +171,7 @@
     "saved": false
   },
   {
-    "id": 7694842555611064343,
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "link": "https://news.ycombinator.com/item?id=50363461",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-04T10:10:27",
-    "saved": false
-  },
-  {
-    "id": 4910875476920892823,
-    "title": "AI can read neural network weights. I wasn't ready for that. [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xnb5ju/ai_can_read_neural_network_weights_i_wasnt_ready/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-04T01:20:44",
-    "saved": false
-  },
-  {
-    "id": -4868995347139661783,
-    "title": "Anthropic is working on a system to prove AI models’ identity",
-    "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T22:41:03",
-    "saved": false
-  },
-  {
-    "id": 7357163975031034511,
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T22:19:53",
-    "saved": false
-  },
-  {
-    "id": -4634511020520341255,
-    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T21:43:08",
-    "saved": false
-  },
-  {
-    "id": -3221260306896866009,
-    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-    "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-03T19:34:43",
-    "saved": false
-  },
-  {
-    "id": 820553171677978268,
+    "id": 2174645623195908226,
     "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
     "source": "Reddit ML",
@@ -99,21 +180,12 @@
     "saved": false
   },
   {
-    "id": 330941370928503605,
-    "title": "What did Ilya Sutskever mean when he said \"The models, they just want to learn\"? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xlyr77/what_did_ilya_sutskever_mean_when_he_said_the/",
-    "source": "Reddit ML",
+    "id": -251490642229583589,
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-02T14:32:14",
-    "saved": false
-  },
-  {
-    "id": 6181113011124858526,
-    "title": "ML PhDs: Would you rather have done your PhD before or after the rise of AI chatbots? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xlt9wm/ml_phds_would_you_rather_have_done_your_phd/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-02T10:04:25",
+    "date": "2026-11-02T15:48:45",
     "saved": false
   }
 ]

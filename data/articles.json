@@ -1,24 +1,78 @@
 [
   {
-    "id": -190127777497712852,
-    "title": "Closed AI models dominate the price-performance frontier",
-    "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+    "id": -86919839113316786,
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "link": "https://arxiv.org/abs/2610.21375",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-06T02:49:56",
+    "date": "2026-11-06T18:03:33",
     "saved": false
   },
   {
-    "id": 3759134718728011551,
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "id": -3434286323661281338,
+    "title": "Perplexity launches AI agents for work",
+    "link": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-05T23:09:57",
+    "date": "2026-11-06T17:59:41",
     "saved": false
   },
   {
-    "id": 5510349459599178210,
+    "id": 8926935031568630053,
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-06T17:23:52",
+    "saved": false
+  },
+  {
+    "id": -825552436519558760,
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+    "link": "https://up.codes/careers?utm_source=HN",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-06T17:03:33",
+    "saved": false
+  },
+  {
+    "id": 2505972720666554196,
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-06T15:54:47",
+    "saved": false
+  },
+  {
+    "id": -8622206614291371524,
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-06T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -7226187861783689987,
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-06T06:28:32",
+    "saved": false
+  },
+  {
+    "id": -4296012407295364340,
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-06T04:00:28",
+    "saved": false
+  },
+  {
+    "id": 4473711559685372508,
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
     "source": "TechCrunch",
@@ -27,25 +81,7 @@
     "saved": false
   },
   {
-    "id": 7418799764336616523,
-    "title": "Claude Code sends your email address to websites",
-    "link": "https://github.com/anthropics/claude-code/issues/107757",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T22:17:15",
-    "saved": false
-  },
-  {
-    "id": 266771717063440905,
-    "title": "MS Paint Remote Code Execution Vulnerability",
-    "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T20:43:42",
-    "saved": false
-  },
-  {
-    "id": -2668867113263510563,
+    "id": -2438221692889959758,
     "title": "Meta says US users can now video chat with their Muse AI avatar",
     "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6343006746866281273,
+    "id": -59704741636921182,
     "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
     "source": "Reddit ML",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2055334845226109681,
+    "id": 1880659368087507787,
     "title": "Meta warns that election backlash against data centers could make AI expansion harder",
     "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 5672606752279627937,
+    "id": 383412129181739369,
     "title": "OpenAI released a new cybersecurity model. Is that enough?",
     "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8389992827949482665,
+    "id": -6473365031457935673,
     "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
     "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": 7728546397096339505,
+    "id": 8338987770796893665,
     "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
     "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -2412237211761691425,
+    "id": 592595583297519937,
     "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
     "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
     "source": "TechCrunch",
@@ -108,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 5550820192431558191,
-    "title": "Harbinger raises $240M after expanding into defense",
-    "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T17:52:44",
-    "saved": false
-  },
-  {
-    "id": -7544092938319775120,
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "link": "https://github.com/rivet-dev/rivet",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T17:17:42",
-    "saved": false
-  },
-  {
-    "id": -517242069126516068,
+    "id": -2797620022921800693,
     "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
     "source": "Reddit ML",
@@ -135,57 +153,12 @@
     "saved": false
   },
   {
-    "id": 4636753879316597250,
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T16:16:45",
-    "saved": false
-  },
-  {
-    "id": -4071794853354614247,
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T15:19:05",
-    "saved": false
-  },
-  {
-    "id": 118499921307021834,
-    "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-    "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 5990173150104618111,
+    "id": 967155108837689306,
     "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-05T10:44:15",
-    "saved": false
-  },
-  {
-    "id": -8618255178721607753,
-    "title": "Anyone else tired of how expensive agent evaluations are? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-05T03:33:01",
-    "saved": false
-  },
-  {
-    "id": 1488252869253717113,
-    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "link": "https://www.linum.ai/field-notes/pjit-21k",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-04T16:45:11",
     "saved": false
   }
 ]

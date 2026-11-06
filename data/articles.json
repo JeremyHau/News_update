@@ -1,6 +1,78 @@
 [
   {
-    "id": -7903804481816078050,
+    "id": -190127777497712852,
+    "title": "Closed AI models dominate the price-performance frontier",
+    "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-06T02:49:56",
+    "saved": false
+  },
+  {
+    "id": 3759134718728011551,
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-05T23:09:57",
+    "saved": false
+  },
+  {
+    "id": 5510349459599178210,
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-05T22:40:55",
+    "saved": false
+  },
+  {
+    "id": 7418799764336616523,
+    "title": "Claude Code sends your email address to websites",
+    "link": "https://github.com/anthropics/claude-code/issues/107757",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-05T22:17:15",
+    "saved": false
+  },
+  {
+    "id": 266771717063440905,
+    "title": "MS Paint Remote Code Execution Vulnerability",
+    "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-05T20:43:42",
+    "saved": false
+  },
+  {
+    "id": -2668867113263510563,
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-05T19:48:28",
+    "saved": false
+  },
+  {
+    "id": -6343006746866281273,
+    "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-05T19:13:51",
+    "saved": false
+  },
+  {
+    "id": -2055334845226109681,
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-05T19:12:39",
+    "saved": false
+  },
+  {
+    "id": 5672606752279627937,
     "title": "OpenAI released a new cybersecurity model. Is that enough?",
     "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
     "source": "TechCrunch",
@@ -9,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -1204500504675009163,
+    "id": -8389992827949482665,
     "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
     "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
     "source": "TechCrunch",
@@ -18,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 818933967474355651,
+    "id": 7728546397096339505,
     "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
     "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
     "source": "TechCrunch",
@@ -27,16 +99,7 @@
     "saved": false
   },
   {
-    "id": -2737612481881362280,
-    "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T18:00:01",
-    "saved": false
-  },
-  {
-    "id": -5242686183951343164,
+    "id": -2412237211761691425,
     "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
     "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
     "source": "TechCrunch",
@@ -45,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3079037734521434395,
+    "id": 5550820192431558191,
     "title": "Harbinger raises $240M after expanding into defense",
     "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -7631301796681810917,
+    "id": -7544092938319775120,
     "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
     "link": "https://github.com/rivet-dev/rivet",
     "source": "Hacker News",
@@ -63,16 +126,16 @@
     "saved": false
   },
   {
-    "id": 6887358826306414309,
-    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-    "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-    "source": "Hacker News",
+    "id": -517242069126516068,
+    "title": "trainlint: static checks for ML bugs that don't crash (fit-before-split, eval mode, logits losses) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-11-05T17:01:23",
+    "date": "2026-11-05T16:54:56",
     "saved": false
   },
   {
-    "id": -1583296213503454774,
+    "id": 4636753879316597250,
     "title": "Axiom Math wants to keep AI slop out of mathematics",
     "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "source": "TechCrunch",
@@ -81,16 +144,7 @@
     "saved": false
   },
   {
-    "id": -5339445525852388662,
-    "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
-    "link": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T15:51:57",
-    "saved": false
-  },
-  {
-    "id": 5527759759125250349,
+    "id": -4071794853354614247,
     "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
     "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
     "source": "TechCrunch",
@@ -99,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 8199544552678905486,
+    "id": 118499921307021834,
     "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
     "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
     "source": "TechCrunch",
@@ -108,43 +162,7 @@
     "saved": false
   },
   {
-    "id": -5243251484678522406,
-    "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T14:42:00",
-    "saved": false
-  },
-  {
-    "id": 6992214697769791639,
-    "title": "MCP Explained",
-    "link": "https://mcp-explained.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T14:08:35",
-    "saved": false
-  },
-  {
-    "id": 1091042443176231042,
-    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-    "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -7161793500495899718,
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T13:00:00",
-    "saved": false
-  },
-  {
-    "id": 7093584600117095494,
+    "id": 5990173150104618111,
     "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
     "source": "Reddit ML",
@@ -153,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 830067133075913985,
+    "id": -8618255178721607753,
     "title": "Anyone else tired of how expensive agent evaluations are? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
     "source": "Reddit ML",
@@ -162,21 +180,12 @@
     "saved": false
   },
   {
-    "id": -3768922168618209109,
+    "id": 1488252869253717113,
     "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
     "link": "https://www.linum.ai/field-notes/pjit-21k",
     "source": "Hacker News",
     "category": "ai",
     "date": "2026-11-04T16:45:11",
-    "saved": false
-  },
-  {
-    "id": 1709939348910176829,
-    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-02T20:18:26",
     "saved": false
   }
 ]

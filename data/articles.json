@@ -1,6 +1,24 @@
 [
   {
-    "id": 5323044973449942762,
+    "id": 5605096732107422482,
+    "title": "How Long Can Life Wait?",
+    "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-07T16:22:59",
+    "saved": false
+  },
+  {
+    "id": -7812521083147637777,
+    "title": "The Components of Agent Memory",
+    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-07T06:39:04",
+    "saved": false
+  },
+  {
+    "id": -4086740939748990835,
     "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
     "source": "Reddit ML",
@@ -9,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 6552957010967054721,
+    "id": -9083576672132920345,
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 6938159466530326557,
+    "id": 91007637272682376,
     "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
     "source": "Reddit ML",
@@ -27,25 +45,7 @@
     "saved": false
   },
   {
-    "id": 2380733293290794762,
-    "title": "AI is dramatically accelerating AI research",
-    "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-06T20:27:23",
-    "saved": false
-  },
-  {
-    "id": -6737616150594008176,
-    "title": "Restaurant Delivery Payment-Skimming Campaign",
-    "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-06T19:19:27",
-    "saved": false
-  },
-  {
-    "id": 2742787859964932890,
+    "id": 1895818064231553575,
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -282317008575894046,
+    "id": 6926393530300027744,
     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
     "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7695959846168201152,
+    "id": -3314455430876488690,
     "title": "After the midterms, is the AI industry in for a rough two years?",
     "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 526135447711725830,
+    "id": 4625277717340397960,
     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -8265982428728863234,
+    "id": 1019176290156895637,
     "title": "Physicl raises $10M to make the digital world real enough for robots",
     "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -1988726088024390800,
+    "id": -7279323110519469616,
     "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
     "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 5262361330054253112,
+    "id": 1098638005146332285,
     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
     "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
     "source": "Hacker News",
@@ -108,39 +108,12 @@
     "saved": false
   },
   {
-    "id": -894566460875560842,
+    "id": -6438616571924395270,
     "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
     "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-05T22:40:55",
-    "saved": false
-  },
-  {
-    "id": 7279311840078268242,
-    "title": "Meta says US users can now video chat with their Muse AI avatar",
-    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T19:48:28",
-    "saved": false
-  },
-  {
-    "id": -3022617495235292142,
-    "title": "The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-05T19:13:51",
-    "saved": false
-  },
-  {
-    "id": 4421646082482576128,
-    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-    "link": "https://github.com/andrewboldi/tmux-restore",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-03T17:25:21",
     "saved": false
   }
 ]

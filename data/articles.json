@@ -1,24 +1,33 @@
 [
   {
-    "id": 5605096732107422482,
-    "title": "How Long Can Life Wait?",
-    "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+    "id": -3203840966070300210,
+    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-07T16:22:59",
+    "date": "2026-11-07T20:45:32",
     "saved": false
   },
   {
-    "id": -7812521083147637777,
-    "title": "The Components of Agent Memory",
-    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "id": 6957130155484655030,
+    "title": "The end of Microsoft Research's AI Frontiers group",
+    "link": "https://hunch.net/?p=13764006",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-07T06:39:04",
+    "date": "2026-11-07T18:02:17",
     "saved": false
   },
   {
-    "id": -4086740939748990835,
+    "id": -7764110303476055027,
+    "title": "Can I become an ML/AI Engineer with a BS Mathematics and Data Science degree instead of Computer Science? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-07T17:59:30",
+    "saved": false
+  },
+  {
+    "id": -8103346657341304260,
     "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
     "source": "Reddit ML",
@@ -27,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -9083576672132920345,
+    "id": 2741566949032229359,
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "source": "TechCrunch",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 91007637272682376,
+    "id": -1858408444388179803,
     "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
     "source": "Reddit ML",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1895818064231553575,
+    "id": 8069419141158597641,
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 6926393530300027744,
+    "id": -1911422068221653825,
     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
     "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -3314455430876488690,
+    "id": 6892065382641084511,
     "title": "After the midterms, is the AI industry in for a rough two years?",
     "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 4625277717340397960,
+    "id": 7373422076690099403,
     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 1019176290156895637,
+    "id": 9060193135016551783,
     "title": "Physicl raises $10M to make the digital world real enough for robots",
     "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
     "source": "TechCrunch",
@@ -90,30 +99,12 @@
     "saved": false
   },
   {
-    "id": -7279323110519469616,
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T06:28:32",
-    "saved": false
-  },
-  {
-    "id": 1098638005146332285,
-    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-    "link": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "id": -6377122725230126883,
+    "title": "Uranium cubes reveal why the German nuclear project failed",
+    "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-06T04:00:28",
-    "saved": false
-  },
-  {
-    "id": -6438616571924395270,
-    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-    "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-05T22:40:55",
+    "date": "2026-11-05T10:52:04",
     "saved": false
   }
 ]

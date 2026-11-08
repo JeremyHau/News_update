@@ -1,6 +1,51 @@
 [
   {
-    "id": -3203840966070300210,
+    "id": -743730010561063699,
+    "title": "OpenAI raises $11B at a $1.25T valuation",
+    "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-08T14:49:23",
+    "saved": false
+  },
+  {
+    "id": 8350520184563502557,
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-08T08:40:23",
+    "saved": false
+  },
+  {
+    "id": -7426277746851529822,
+    "title": "I trained a playable diffusion world model of Pokémon Red, plus a game agent harness on the same System 1/2 split as Krafton's PUBG Ally. Can this be ICLR-workshop worthy? [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-08T07:48:52",
+    "saved": false
+  },
+  {
+    "id": -483313777098707970,
+    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-08T07:20:37",
+    "saved": false
+  },
+  {
+    "id": -7425043100133653316,
+    "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-08T06:31:08",
+    "saved": false
+  },
+  {
+    "id": -592789983672355863,
     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
     "source": "Hacker News",
@@ -9,34 +54,7 @@
     "saved": false
   },
   {
-    "id": 6957130155484655030,
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "link": "https://hunch.net/?p=13764006",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-07T18:02:17",
-    "saved": false
-  },
-  {
-    "id": -7764110303476055027,
-    "title": "Can I become an ML/AI Engineer with a BS Mathematics and Data Science degree instead of Computer Science? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-07T17:59:30",
-    "saved": false
-  },
-  {
-    "id": -8103346657341304260,
-    "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-07T01:36:34",
-    "saved": false
-  },
-  {
-    "id": 2741566949032229359,
+    "id": -5484397616486661134,
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "source": "TechCrunch",
@@ -45,16 +63,7 @@
     "saved": false
   },
   {
-    "id": -1858408444388179803,
-    "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-06T21:49:56",
-    "saved": false
-  },
-  {
-    "id": 8069419141158597641,
+    "id": -2965353092357297210,
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "source": "TechCrunch",
@@ -63,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -1911422068221653825,
+    "id": 3360339146516377192,
     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
     "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "source": "TechCrunch",
@@ -72,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6892065382641084511,
+    "id": 118459822667036662,
     "title": "After the midterms, is the AI industry in for a rough two years?",
     "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
     "source": "TechCrunch",
@@ -81,30 +90,12 @@
     "saved": false
   },
   {
-    "id": 7373422076690099403,
+    "id": 2391294371705843500,
     "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
     "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-06T15:54:47",
-    "saved": false
-  },
-  {
-    "id": 9060193135016551783,
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -6377122725230126883,
-    "title": "Uranium cubes reveal why the German nuclear project failed",
-    "link": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-05T10:52:04",
     "saved": false
   }
 ]

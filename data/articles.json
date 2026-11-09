@@ -1,24 +1,24 @@
 [
   {
-    "id": -743730010561063699,
-    "title": "OpenAI raises $11B at a $1.25T valuation",
-    "link": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "id": 6263449024912801767,
+    "title": "How I Fight AI Brain Fry",
+    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-08T14:49:23",
+    "date": "2026-11-08T19:37:42",
     "saved": false
   },
   {
-    "id": 8350520184563502557,
-    "title": "Agent memory needs its OpenTelemetry moment",
-    "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "id": 5351350612134936722,
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-08T08:40:23",
+    "date": "2026-11-08T19:20:32",
     "saved": false
   },
   {
-    "id": -7426277746851529822,
+    "id": -2757267728453959741,
     "title": "I trained a playable diffusion world model of Pokémon Red, plus a game agent harness on the same System 1/2 split as Krafton's PUBG Ally. Can this be ICLR-workshop worthy? [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/",
     "source": "Reddit ML",
@@ -27,7 +27,7 @@
     "saved": false
   },
   {
-    "id": -483313777098707970,
+    "id": -6110713244481946795,
     "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
     "source": "Reddit ML",
@@ -36,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -7425043100133653316,
+    "id": -7340299564318952688,
     "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
     "source": "Reddit ML",
@@ -45,16 +45,25 @@
     "saved": false
   },
   {
-    "id": -592789983672355863,
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "id": 1299338951474415487,
+    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+    "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-07T20:45:32",
+    "date": "2026-11-07T14:51:40",
     "saved": false
   },
   {
-    "id": -5484397616486661134,
+    "id": -4515858040139697652,
+    "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+    "link": "https://news.ycombinator.com/item?id=50403153",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-07T10:01:48",
+    "saved": false
+  },
+  {
+    "id": 6058299773285601718,
     "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
     "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
     "source": "TechCrunch",
@@ -63,39 +72,12 @@
     "saved": false
   },
   {
-    "id": -2965353092357297210,
+    "id": -2666096607174773252,
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-06T18:44:38",
-    "saved": false
-  },
-  {
-    "id": 3360339146516377192,
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T18:44:20",
-    "saved": false
-  },
-  {
-    "id": 118459822667036662,
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T17:23:52",
-    "saved": false
-  },
-  {
-    "id": 2391294371705843500,
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T15:54:47",
     "saved": false
   }
 ]

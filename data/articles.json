@@ -1,33 +1,141 @@
 [
   {
-    "id": 6263449024912801767,
-    "title": "How I Fight AI Brain Fry",
-    "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "id": 4686252857406205843,
+    "title": "Supply chain attack on Qubole customers",
+    "link": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-08T19:37:42",
+    "date": "2026-11-09T21:07:26",
     "saved": false
   },
   {
-    "id": 5351350612134936722,
-    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-    "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-08T19:20:32",
+    "id": -2100255652326136857,
+    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-09T19:21:46",
     "saved": false
   },
   {
-    "id": -2757267728453959741,
-    "title": "I trained a playable diffusion world model of Pokémon Red, plus a game agent harness on the same System 1/2 split as Krafton's PUBG Ally. Can this be ICLR-workshop worthy? [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqt0pk/i_trained_a_playable_diffusion_world_model_of/",
+    "id": 1703082387246584814,
+    "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
     "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-11-08T07:48:52",
+    "date": "2026-11-09T18:52:05",
     "saved": false
   },
   {
-    "id": -6110713244481946795,
+    "id": -5559192610472908435,
+    "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+    "link": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-09T18:33:58",
+    "saved": false
+  },
+  {
+    "id": -6792966956217555434,
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "link": "https://github.com/thisisme6598/gemini_files/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-09T18:24:38",
+    "saved": false
+  },
+  {
+    "id": -6151488988626142907,
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-09T18:09:52",
+    "saved": false
+  },
+  {
+    "id": 6171316233106300434,
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-09T18:00:00",
+    "saved": false
+  },
+  {
+    "id": -341788641376828162,
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-09T16:56:54",
+    "saved": false
+  },
+  {
+    "id": -557765844807000653,
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-09T16:12:28",
+    "saved": false
+  },
+  {
+    "id": -1630295025372054944,
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-09T16:00:45",
+    "saved": false
+  },
+  {
+    "id": -3407590996800308724,
+    "title": "Meta expands Instagram’s AI age-guessing tech globally",
+    "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-09T15:32:27",
+    "saved": false
+  },
+  {
+    "id": 6911824103691757099,
+    "title": "Using latent-agent swarms for math discovery and optimization [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-09T15:30:50",
+    "saved": false
+  },
+  {
+    "id": 844606589794405044,
+    "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+    "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-09T14:31:39",
+    "saved": false
+  },
+  {
+    "id": 8900421602432798,
+    "title": "Fold Epic Paper Airplanes",
+    "link": "https://www.foldableflight.com",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-09T12:19:22",
+    "saved": false
+  },
+  {
+    "id": 4128637907862317605,
+    "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-09T03:41:21",
+    "saved": false
+  },
+  {
+    "id": -5904104352026154722,
     "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
     "source": "Reddit ML",
@@ -36,48 +144,12 @@
     "saved": false
   },
   {
-    "id": -7340299564318952688,
+    "id": 6396020858201353897,
     "title": "Locally trained VLA model with minimal attention based vision encoder. [p]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xqrtcz/locally_trained_vla_model_with_minimal_attention/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-08T06:31:08",
-    "saved": false
-  },
-  {
-    "id": 1299338951474415487,
-    "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-    "link": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-07T14:51:40",
-    "saved": false
-  },
-  {
-    "id": -4515858040139697652,
-    "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-    "link": "https://news.ycombinator.com/item?id=50403153",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-07T10:01:48",
-    "saved": false
-  },
-  {
-    "id": 6058299773285601718,
-    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-    "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T22:53:46",
-    "saved": false
-  },
-  {
-    "id": -2666096607174773252,
-    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-    "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-06T18:44:38",
     "saved": false
   }
 ]

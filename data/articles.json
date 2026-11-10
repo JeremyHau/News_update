@@ -1,24 +1,186 @@
 [
   {
-    "id": 5826815052582236678,
-    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-    "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-10T03:20:06",
-    "saved": false
-  },
-  {
-    "id": -9152794112522550161,
-    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+    "id": -5291668239509134272,
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-11-09T19:21:46",
+    "date": "2026-11-10T18:49:52",
     "saved": false
   },
   {
-    "id": -8451816514875821162,
+    "id": 2752795518428212892,
+    "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+    "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T18:49:19",
+    "saved": false
+  },
+  {
+    "id": 3463773209160985448,
+    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-10T18:35:32",
+    "saved": false
+  },
+  {
+    "id": 3436904405988754016,
+    "title": "SWE-Pair: a coding-agent benchmark where every task is two real bugs to fix at once, with results from four models [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xsuqem/swepair_a_codingagent_benchmark_where_every_task/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-10T18:33:04",
+    "saved": false
+  },
+  {
+    "id": -8011751045869779466,
+    "title": "Work at the Frontier: AI's effect on freelance work",
+    "link": "https://openai.com/index/ai-effect-on-freelance-work",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-10T18:02:54",
+    "saved": false
+  },
+  {
+    "id": 1013767936725485250,
+    "title": "Synaptics patent claims stop work on DisplayLink drivers",
+    "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-10T18:02:02",
+    "saved": false
+  },
+  {
+    "id": 9196443296889498371,
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "link": "https://github.com/GoogleChrome/modern-web-guidance",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-10T18:01:15",
+    "saved": false
+  },
+  {
+    "id": -5768267399491867774,
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T17:04:19",
+    "saved": false
+  },
+  {
+    "id": 6576616442405306452,
+    "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+    "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T16:50:38",
+    "saved": false
+  },
+  {
+    "id": 4675202329936391864,
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T15:54:08",
+    "saved": false
+  },
+  {
+    "id": 3236017123297608947,
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T15:29:30",
+    "saved": false
+  },
+  {
+    "id": -4506497658478496600,
+    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+    "link": "https://tinyvalencia.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-10T15:12:16",
+    "saved": false
+  },
+  {
+    "id": -4468458197420735775,
+    "title": "Reddit is turning user conversations into AI-powered product reviews",
+    "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 8076098251121412867,
+    "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+    "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T15:00:00",
+    "saved": false
+  },
+  {
+    "id": 6699591717569632450,
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T14:05:10",
+    "saved": false
+  },
+  {
+    "id": -2072274414237097967,
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T14:00:00",
+    "saved": false
+  },
+  {
+    "id": 455282578779121526,
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T14:00:00",
+    "saved": false
+  },
+  {
+    "id": -5016056238962354190,
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -843076622658921766,
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T07:00:00",
+    "saved": false
+  },
+  {
+    "id": -3968859151917987853,
+    "title": "California’s proposed ‘billionaire tax’ fails to pass",
+    "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T05:18:43",
+    "saved": false
+  },
+  {
+    "id": -3836302274759754224,
     "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
     "source": "Reddit ML",
@@ -27,70 +189,7 @@
     "saved": false
   },
   {
-    "id": -5773330482964784411,
-    "title": "Google Gemini routes personal Drive files and emails to human annotators",
-    "link": "https://github.com/thisisme6598/gemini_files/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-09T18:24:38",
-    "saved": false
-  },
-  {
-    "id": 1387874488091899053,
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-09T18:09:52",
-    "saved": false
-  },
-  {
-    "id": 892588538077432745,
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-09T18:00:00",
-    "saved": false
-  },
-  {
-    "id": -4399610096336890136,
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-09T16:56:54",
-    "saved": false
-  },
-  {
-    "id": -6125282484226408664,
-    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-    "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-09T16:12:28",
-    "saved": false
-  },
-  {
-    "id": 1588735373902308323,
-    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-    "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-09T16:00:45",
-    "saved": false
-  },
-  {
-    "id": 8122389873848183982,
-    "title": "Meta expands Instagram’s AI age-guessing tech globally",
-    "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-09T15:32:27",
-    "saved": false
-  },
-  {
-    "id": 7039313680492382819,
+    "id": 5815961403330823274,
     "title": "Using latent-agent swarms for math discovery and optimization [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
     "source": "Reddit ML",
@@ -99,39 +198,12 @@
     "saved": false
   },
   {
-    "id": -3857937696183071112,
-    "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-    "link": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-09T14:31:39",
-    "saved": false
-  },
-  {
-    "id": 2042481964897938785,
-    "title": "Foldable Flight: The Best Paper Airplanes",
-    "link": "https://www.foldableflight.com",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-09T12:19:22",
-    "saved": false
-  },
-  {
-    "id": -3315225906152686842,
+    "id": -5855658461291533383,
     "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-09T03:41:21",
-    "saved": false
-  },
-  {
-    "id": 8721496586419520327,
-    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-08T07:20:37",
     "saved": false
   }
 ]

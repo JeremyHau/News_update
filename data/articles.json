@@ -1,6 +1,87 @@
 [
   {
-    "id": -5291668239509134272,
+    "id": -5168238413549613131,
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "link": "https://tis-100.wincon.dev/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-11T00:37:05",
+    "saved": false
+  },
+  {
+    "id": -3434758127137860753,
+    "title": "AI is an information gateway. Audiences still don't want it making their news",
+    "link": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-11T00:15:33",
+    "saved": false
+  },
+  {
+    "id": -7726087803151317266,
+    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-10T22:17:56",
+    "saved": false
+  },
+  {
+    "id": 8173935251395970364,
+    "title": "$30M Raised to Redo the CPU",
+    "link": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-10T22:14:03",
+    "saved": false
+  },
+  {
+    "id": 5056557204712442674,
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T21:08:52",
+    "saved": false
+  },
+  {
+    "id": -7736522967137928193,
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T20:52:13",
+    "saved": false
+  },
+  {
+    "id": -3789726475934695913,
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T20:47:05",
+    "saved": false
+  },
+  {
+    "id": 1050597104963734188,
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T19:23:34",
+    "saved": false
+  },
+  {
+    "id": -5676453279813159222,
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-10T19:03:52",
+    "saved": false
+  },
+  {
+    "id": 5749260313289917297,
     "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
     "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
     "source": "TechCrunch",
@@ -9,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 2752795518428212892,
+    "id": 7949050629368123566,
     "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
     "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
     "source": "TechCrunch",
@@ -18,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 3463773209160985448,
+    "id": 1016067385285232731,
     "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
     "source": "Reddit ML",
@@ -27,25 +108,7 @@
     "saved": false
   },
   {
-    "id": 3436904405988754016,
-    "title": "SWE-Pair: a coding-agent benchmark where every task is two real bugs to fix at once, with results from four models [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xsuqem/swepair_a_codingagent_benchmark_where_every_task/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-10T18:33:04",
-    "saved": false
-  },
-  {
-    "id": -8011751045869779466,
-    "title": "Work at the Frontier: AI's effect on freelance work",
-    "link": "https://openai.com/index/ai-effect-on-freelance-work",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-10T18:02:54",
-    "saved": false
-  },
-  {
-    "id": 1013767936725485250,
+    "id": -6047402721877211054,
     "title": "Synaptics patent claims stop work on DisplayLink drivers",
     "link": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
     "source": "Hacker News",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 9196443296889498371,
+    "id": -2313557837213837263,
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
     "link": "https://github.com/GoogleChrome/modern-web-guidance",
     "source": "Hacker News",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -5768267399491867774,
+    "id": -6269409280257422856,
     "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
     "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
     "source": "TechCrunch",
@@ -72,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 6576616442405306452,
+    "id": -2396865144553394548,
     "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
     "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
     "source": "TechCrunch",
@@ -81,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 4675202329936391864,
+    "id": 6889933867771491138,
     "title": "Google broadens its AI hardware portfolio with two new specialized chips",
     "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
     "source": "TechCrunch",
@@ -90,7 +153,7 @@
     "saved": false
   },
   {
-    "id": 3236017123297608947,
+    "id": -5583984537871582139,
     "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
     "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
     "source": "TechCrunch",
@@ -99,16 +162,7 @@
     "saved": false
   },
   {
-    "id": -4506497658478496600,
-    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-    "link": "https://tinyvalencia.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-10T15:12:16",
-    "saved": false
-  },
-  {
-    "id": -4468458197420735775,
+    "id": -1031464614415077261,
     "title": "Reddit is turning user conversations into AI-powered product reviews",
     "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
     "source": "TechCrunch",
@@ -117,7 +171,7 @@
     "saved": false
   },
   {
-    "id": 8076098251121412867,
+    "id": -6183285692482289321,
     "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
     "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
     "source": "TechCrunch",
@@ -126,7 +180,7 @@
     "saved": false
   },
   {
-    "id": 6699591717569632450,
+    "id": -3025462159857374204,
     "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
     "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
     "source": "TechCrunch",
@@ -135,52 +189,7 @@
     "saved": false
   },
   {
-    "id": -2072274414237097967,
-    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 455282578779121526,
-    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-    "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -5016056238962354190,
-    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-    "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -843076622658921766,
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T07:00:00",
-    "saved": false
-  },
-  {
-    "id": -3968859151917987853,
-    "title": "California’s proposed ‘billionaire tax’ fails to pass",
-    "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T05:18:43",
-    "saved": false
-  },
-  {
-    "id": -3836302274759754224,
+    "id": -327960463224697873,
     "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
     "source": "Reddit ML",
@@ -189,7 +198,7 @@
     "saved": false
   },
   {
-    "id": 5815961403330823274,
+    "id": 1316278234363262541,
     "title": "Using latent-agent swarms for math discovery and optimization [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
     "source": "Reddit ML",
@@ -198,12 +207,21 @@
     "saved": false
   },
   {
-    "id": -5855658461291533383,
+    "id": -3335616795353342037,
     "title": "Can coding agents build interactive 3D worlds? Frontier3DBench evaluates 11 configurations across objects, scenes, and worlds [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xrhg3a/can_coding_agents_build_interactive_3d_worlds/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-09T03:41:21",
+    "saved": false
+  },
+  {
+    "id": -4587748219202912238,
+    "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-08T07:20:37",
     "saved": false
   }
 ]

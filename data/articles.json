@@ -1,6 +1,150 @@
 [
   {
-    "id": 7649093780372801229,
+    "id": 8320852135171974300,
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T19:11:00",
+    "saved": false
+  },
+  {
+    "id": -7105948058172777275,
+    "title": "Microsoft’s Outlook email hit by new outage",
+    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T19:03:39",
+    "saved": false
+  },
+  {
+    "id": 4042492896082821665,
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-12T18:15:48",
+    "saved": false
+  },
+  {
+    "id": 5453894083093297565,
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T17:36:40",
+    "saved": false
+  },
+  {
+    "id": 5259496141384681500,
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T17:17:58",
+    "saved": false
+  },
+  {
+    "id": 7533762443191775790,
+    "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-12T17:16:46",
+    "saved": false
+  },
+  {
+    "id": -2101226076001014633,
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T17:00:52",
+    "saved": false
+  },
+  {
+    "id": 1212174919392727268,
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T17:00:00",
+    "saved": false
+  },
+  {
+    "id": -2264066154392235047,
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T16:32:33",
+    "saved": false
+  },
+  {
+    "id": 8708620960996976908,
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T16:12:44",
+    "saved": false
+  },
+  {
+    "id": -8372549762855622757,
+    "title": "I'm making LLMs work on small and old devices",
+    "link": "https://github.com/hyperionaidev/smolmaxxing/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-12T15:23:10",
+    "saved": false
+  },
+  {
+    "id": 7132541163321802458,
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T15:18:14",
+    "saved": false
+  },
+  {
+    "id": -8023896433189464774,
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T15:02:28",
+    "saved": false
+  },
+  {
+    "id": -5235888550037132005,
+    "title": "CVPR 2027 Author enrollment form [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-12T14:30:15",
+    "saved": false
+  },
+  {
+    "id": -5121106535755992017,
+    "title": "I built a small streaming text tagger that reads text word by word, so a voice agent can react mid sentence [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xu548q/i_built_a_small_streaming_text_tagger_that_reads/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-12T06:04:53",
+    "saved": false
+  },
+  {
+    "id": 3244501250625419914,
+    "title": "For game world models, the action labels are the bottleneck, not the video. What makes game data actually trainable? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xtymuk/for_game_world_models_the_action_labels_are_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-12T00:36:15",
+    "saved": false
+  },
+  {
+    "id": 1723419491262395338,
     "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
     "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
     "source": "TechCrunch",
@@ -9,165 +153,12 @@
     "saved": false
   },
   {
-    "id": 5533853432319353879,
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "link": "https://www.mcmillen.dev/sigbovik/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-11T22:34:23",
-    "saved": false
-  },
-  {
-    "id": -3301772681794817745,
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-11T21:24:35",
-    "saved": false
-  },
-  {
-    "id": -6963026959509602109,
-    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-    "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T19:54:00",
-    "saved": false
-  },
-  {
-    "id": 8279751370751915372,
-    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-    "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T19:34:55",
-    "saved": false
-  },
-  {
-    "id": -1789748298854495291,
-    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-    "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T19:22:22",
-    "saved": false
-  },
-  {
-    "id": -943623666734914220,
-    "title": "AI ‘slop’ is a social judgement [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xtour7/ai_slop_is_a_social_judgement_r/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-11T18:03:18",
-    "saved": false
-  },
-  {
-    "id": -1111913440404968937,
-    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-    "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T16:14:44",
-    "saved": false
-  },
-  {
-    "id": 7214445984634061712,
-    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-    "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 589097799444501113,
-    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-    "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -5033630744197930339,
-    "title": "My AI agents found an unmapped Maya site?",
-    "link": "https://pietromiotti.com/latest/maya-site",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-11T12:05:22",
-    "saved": false
-  },
-  {
-    "id": 2471237339145908714,
-    "title": "Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-11T05:25:43",
-    "saved": false
-  },
-  {
-    "id": -3688016402618218945,
+    "id": 4283300385843392023,
     "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-11T02:22:54",
-    "saved": false
-  },
-  {
-    "id": 4782619638147104043,
-    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T21:08:52",
-    "saved": false
-  },
-  {
-    "id": 2127945008556965222,
-    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-    "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T20:52:13",
-    "saved": false
-  },
-  {
-    "id": -4076865944608976495,
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-10T20:47:05",
-    "saved": false
-  },
-  {
-    "id": 2634635664115676583,
-    "title": "I have trained 15+ models on my own blood sugar & metabonet dataset [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xsussb/i_have_trained_15_models_on_my_own_blood_sugar/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-10T18:35:32",
-    "saved": false
-  },
-  {
-    "id": 7106800146376971538,
-    "title": "Latent prediction beats reconstruction for tactile pretraining on dexterous manipulation tasks[R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xs05uo/latent_prediction_beats_reconstruction_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-09T18:52:05",
-    "saved": false
-  },
-  {
-    "id": 6711350342832109797,
-    "title": "Using latent-agent swarms for math discovery and optimization [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xrunu7/using_latentagent_swarms_for_math_discovery_and/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-09T15:30:50",
     "saved": false
   }
 ]

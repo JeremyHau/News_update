@@ -1,24 +1,96 @@
 [
   {
-    "id": -1445491274958302431,
-    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-12T23:06:17",
+    "id": 7476319794636693164,
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-13T18:40:30",
     "saved": false
   },
   {
-    "id": -2679830718682830597,
-    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "id": 8392623614706909347,
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "link": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-12T21:09:49",
+    "date": "2026-11-13T17:30:10",
     "saved": false
   },
   {
-    "id": 5176146018163539978,
+    "id": -5047825232529273157,
+    "title": "Gnomon. Git for Postgres data, built for agents",
+    "link": "https://github.com/bitsinfra/gnomon",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-13T17:09:52",
+    "saved": false
+  },
+  {
+    "id": 1437436119312696301,
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-13T16:00:12",
+    "saved": false
+  },
+  {
+    "id": -2017463603253699958,
+    "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+    "link": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-13T15:52:04",
+    "saved": false
+  },
+  {
+    "id": 2571510566986208025,
+    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-13T13:15:20",
+    "saved": false
+  },
+  {
+    "id": -4699264658432893349,
+    "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-13T10:50:10",
+    "saved": false
+  },
+  {
+    "id": -4166385241055586516,
+    "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-13T10:39:43",
+    "saved": false
+  },
+  {
+    "id": 3942104816882467382,
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "link": "https://status.claude.com/incidents/nn11wk485zfn",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-13T10:18:13",
+    "saved": false
+  },
+  {
+    "id": 105688470854043099,
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-12T22:03:09",
+    "saved": false
+  },
+  {
+    "id": -6165525097491298489,
     "title": "Jensen Huang was having a third affair, Reuters reports",
     "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
     "source": "TechCrunch",
@@ -27,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -2701723232478245958,
+    "id": 725990224428700354,
     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
     "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
     "source": "TechCrunch",
@@ -36,16 +108,7 @@
     "saved": false
   },
   {
-    "id": 7286657682460629465,
-    "title": "Microsoft’s Outlook email hit by new outage",
-    "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-12T19:03:39",
-    "saved": false
-  },
-  {
-    "id": 5129563714782474404,
+    "id": 7205013421879504551,
     "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
     "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
     "source": "TechCrunch",
@@ -54,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -8591075434255228163,
+    "id": -981157875070917590,
     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
     "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
     "source": "TechCrunch",
@@ -63,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7336253286452272054,
+    "id": -8994147240439134250,
     "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
     "source": "Reddit ML",
@@ -72,7 +135,7 @@
     "saved": false
   },
   {
-    "id": -7728789834102640977,
+    "id": -8427328869676923128,
     "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
     "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
     "source": "TechCrunch",
@@ -81,7 +144,7 @@
     "saved": false
   },
   {
-    "id": 5726198757928621305,
+    "id": -6406409874873208285,
     "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
     "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
     "source": "TechCrunch",
@@ -90,52 +153,7 @@
     "saved": false
   },
   {
-    "id": -674866366709475716,
-    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-    "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-12T16:32:33",
-    "saved": false
-  },
-  {
-    "id": 2905758368411756883,
-    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-    "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-12T16:12:44",
-    "saved": false
-  },
-  {
-    "id": -7754690030129935640,
-    "title": "I'm making LLMs work on small and old devices",
-    "link": "https://github.com/hyperionaidev/smolmaxxing/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-12T15:23:10",
-    "saved": false
-  },
-  {
-    "id": -7230030322004825938,
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-12T15:18:14",
-    "saved": false
-  },
-  {
-    "id": -9105525659964088821,
-    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-    "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-12T15:02:28",
-    "saved": false
-  },
-  {
-    "id": 527441136040678005,
+    "id": -1400818449893149084,
     "title": "CVPR 2027 Author enrollment form [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
     "source": "Reddit ML",

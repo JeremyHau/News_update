@@ -1,6 +1,33 @@
 [
   {
-    "id": 8320852135171974300,
+    "id": -1445491274958302431,
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-12T23:06:17",
+    "saved": false
+  },
+  {
+    "id": -2679830718682830597,
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "link": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-12T21:09:49",
+    "saved": false
+  },
+  {
+    "id": 5176146018163539978,
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-12T20:26:47",
+    "saved": false
+  },
+  {
+    "id": -2701723232478245958,
     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
     "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
     "source": "TechCrunch",
@@ -9,7 +36,7 @@
     "saved": false
   },
   {
-    "id": -7105948058172777275,
+    "id": 7286657682460629465,
     "title": "Microsoft’s Outlook email hit by new outage",
     "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
     "source": "TechCrunch",
@@ -18,16 +45,7 @@
     "saved": false
   },
   {
-    "id": 4042492896082821665,
-    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-12T18:15:48",
-    "saved": false
-  },
-  {
-    "id": 5453894083093297565,
+    "id": 5129563714782474404,
     "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
     "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
     "source": "TechCrunch",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 5259496141384681500,
+    "id": -8591075434255228163,
     "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
     "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 7533762443191775790,
+    "id": -7336253286452272054,
     "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
     "source": "Reddit ML",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -2101226076001014633,
+    "id": -7728789834102640977,
     "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
     "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 1212174919392727268,
+    "id": 5726198757928621305,
     "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
     "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
     "source": "TechCrunch",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -2264066154392235047,
+    "id": -674866366709475716,
     "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
     "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 8708620960996976908,
+    "id": 2905758368411756883,
     "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
     "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -8372549762855622757,
+    "id": -7754690030129935640,
     "title": "I'm making LLMs work on small and old devices",
     "link": "https://github.com/hyperionaidev/smolmaxxing/",
     "source": "Hacker News",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": 7132541163321802458,
+    "id": -7230030322004825938,
     "title": "Norwest pushes deeper into AI with new $4B fund",
     "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
     "source": "TechCrunch",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -8023896433189464774,
+    "id": -9105525659964088821,
     "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
     "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
     "source": "TechCrunch",
@@ -117,48 +135,12 @@
     "saved": false
   },
   {
-    "id": -5235888550037132005,
+    "id": 527441136040678005,
     "title": "CVPR 2027 Author enrollment form [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-12T14:30:15",
-    "saved": false
-  },
-  {
-    "id": -5121106535755992017,
-    "title": "I built a small streaming text tagger that reads text word by word, so a voice agent can react mid sentence [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xu548q/i_built_a_small_streaming_text_tagger_that_reads/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-12T06:04:53",
-    "saved": false
-  },
-  {
-    "id": 3244501250625419914,
-    "title": "For game world models, the action labels are the bottleneck, not the video. What makes game data actually trainable? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xtymuk/for_game_world_models_the_action_labels_are_the/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-12T00:36:15",
-    "saved": false
-  },
-  {
-    "id": 1723419491262395338,
-    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-    "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-11T23:17:05",
-    "saved": false
-  },
-  {
-    "id": 4283300385843392023,
-    "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-11T02:22:54",
     "saved": false
   }
 ]

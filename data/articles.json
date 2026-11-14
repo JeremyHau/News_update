@@ -1,7 +1,52 @@
 [
   {
-    "id": -1798830789978926763,
-    "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+    "id": 517029072970345666,
+    "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-14T16:23:34",
+    "saved": false
+  },
+  {
+    "id": -5319336611466299170,
+    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+    "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-14T14:09:25",
+    "saved": false
+  },
+  {
+    "id": -5682548428912706366,
+    "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+    "link": "https://github.com/paul-nameless/agweb",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-14T14:08:12",
+    "saved": false
+  },
+  {
+    "id": 8569735076487660704,
+    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-14T12:45:45",
+    "saved": false
+  },
+  {
+    "id": 1322543246406888393,
+    "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-14T10:51:23",
+    "saved": false
+  },
+  {
+    "id": -2637140998322653189,
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
     "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
     "source": "Hacker News",
     "category": "ai",
@@ -9,16 +54,7 @@
     "saved": false
   },
   {
-    "id": 9059683686866190469,
-    "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-    "link": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-14T00:28:11",
-    "saved": false
-  },
-  {
-    "id": 4032572618396409910,
+    "id": -4495221247266753658,
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "source": "TechCrunch",
@@ -27,25 +63,7 @@
     "saved": false
   },
   {
-    "id": -1674667047328900133,
-    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "link": "https://orcasairband.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-13T22:04:24",
-    "saved": false
-  },
-  {
-    "id": -9087028330179102806,
-    "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-    "link": "https://atg.science/careers",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-13T21:01:11",
-    "saved": false
-  },
-  {
-    "id": -9030627883948751855,
+    "id": 2034134504395894480,
     "title": "I have trained a model to predict my blood sugar [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
     "source": "Reddit ML",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": -7650491269336575998,
+    "id": -8634283485584273813,
     "title": "AI agent startup LangChain hits $3B valuation",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "source": "TechCrunch",
@@ -63,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -9221035290181960211,
+    "id": -7018142598418368090,
     "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
     "source": "Reddit ML",
@@ -72,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -3054874734665290063,
+    "id": -5668027620341300970,
     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "source": "TechCrunch",
@@ -81,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 135998987654760134,
+    "id": -8981432175814846280,
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "source": "TechCrunch",
@@ -90,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 3891829982237024757,
+    "id": 6323472676432135929,
     "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
     "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
     "source": "TechCrunch",
@@ -99,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -6663710300920488470,
+    "id": -3726323150281682360,
     "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
     "source": "Reddit ML",
@@ -108,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -8674657126002677829,
+    "id": 957951849717655412,
     "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
     "source": "Reddit ML",
@@ -117,16 +135,7 @@
     "saved": false
   },
   {
-    "id": -2920649706503051293,
-    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-    "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-12T22:03:09",
-    "saved": false
-  },
-  {
-    "id": 2976465992244957722,
+    "id": 6191310299007335294,
     "title": "Jensen Huang was having a third affair, Reuters reports",
     "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
     "source": "TechCrunch",
@@ -135,7 +144,7 @@
     "saved": false
   },
   {
-    "id": -8644740690159974057,
+    "id": 2084973281572867554,
     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
     "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
     "source": "TechCrunch",
@@ -144,21 +153,12 @@
     "saved": false
   },
   {
-    "id": 1976316370987528445,
-    "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
-    "source": "Reddit ML",
+    "id": 8142383902819553164,
+    "title": "Generative AI uses more energy on non-English text",
+    "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-12T17:16:46",
-    "saved": false
-  },
-  {
-    "id": -544348634817304399,
-    "title": "CVPR 2027 Author enrollment form [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-12T14:30:15",
+    "date": "2026-11-10T15:07:28",
     "saved": false
   }
 ]

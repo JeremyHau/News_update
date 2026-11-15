@@ -1,15 +1,33 @@
 [
   {
-    "id": 6463162260192932001,
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "link": "https://www.crissyfield.de/research/lovable-en/",
-    "source": "Hacker News",
+    "id": -1661057968815778445,
+    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+    "source": "Reddit ML",
     "category": "ai",
-    "date": "2026-11-14T17:43:10",
+    "date": "2026-11-15T17:38:16",
     "saved": false
   },
   {
-    "id": 5681114260968768362,
+    "id": -4846219680768386114,
+    "title": "All AI-generated code should be Open Source",
+    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-15T14:46:58",
+    "saved": false
+  },
+  {
+    "id": -8166857454971805559,
+    "title": "Understanding Positional Embeddings in Modern LLMs",
+    "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-15T12:14:06",
+    "saved": false
+  },
+  {
+    "id": 3700199118437657407,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "source": "TechCrunch",
@@ -18,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 828692944943674942,
+    "id": -4403794550592945023,
     "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
     "source": "Reddit ML",
@@ -27,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -7343189326542268289,
+    "id": 7162925528955299962,
     "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
     "source": "Reddit ML",
@@ -36,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 2335643084021499051,
+    "id": 3037185815328377384,
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "source": "TechCrunch",
@@ -45,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8398316341683904908,
+    "id": 1687701649661499853,
     "title": "I have trained a model to predict my blood sugar [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
     "source": "Reddit ML",
@@ -54,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 6744766083240911853,
+    "id": -312901341563719820,
     "title": "AI agent startup LangChain hits $3B valuation",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "source": "TechCrunch",
@@ -63,16 +81,7 @@
     "saved": false
   },
   {
-    "id": 7977573180852747855,
-    "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-13T18:58:00",
-    "saved": false
-  },
-  {
-    "id": 1803151724960489722,
+    "id": -1438504025526729101,
     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "source": "TechCrunch",
@@ -81,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 8080157200765950827,
+    "id": 6793642566474575758,
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "source": "TechCrunch",
@@ -90,39 +99,12 @@
     "saved": false
   },
   {
-    "id": 4124490958616075514,
+    "id": -1886238211095238991,
     "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
     "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-13T13:15:20",
-    "saved": false
-  },
-  {
-    "id": 5646394059897256727,
-    "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-13T10:50:10",
-    "saved": false
-  },
-  {
-    "id": 1038778940113838052,
-    "title": "Seagate's new hybrid drive raises some old questions",
-    "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-11T14:32:09",
-    "saved": false
-  },
-  {
-    "id": 1454828448511180768,
-    "title": "Generative AI uses more energy on non-English text",
-    "link": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-10T15:07:28",
     "saved": false
   }
 ]

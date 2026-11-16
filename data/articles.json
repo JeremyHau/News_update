@@ -1,15 +1,141 @@
 [
   {
-    "id": -6766512948158041396,
-    "title": "Apple launches new app to study how people use AI for health",
-    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "id": 1398976945675014924,
+    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+    "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
     "source": "TechCrunch",
     "category": "tech",
-    "date": "2026-11-16T01:30:00",
+    "date": "2026-11-16T21:01:02",
     "saved": false
   },
   {
-    "id": -5924958581474298748,
+    "id": -6139857508773995345,
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T20:07:13",
+    "saved": false
+  },
+  {
+    "id": -8939657490107427490,
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T19:12:02",
+    "saved": false
+  },
+  {
+    "id": -6431839829424545965,
+    "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+    "link": "https://openai.com/index/strengthening-online-child-safety/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-16T18:12:48",
+    "saved": false
+  },
+  {
+    "id": 5101539095974143443,
+    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T17:36:43",
+    "saved": false
+  },
+  {
+    "id": 6710062571022176702,
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T17:10:00",
+    "saved": false
+  },
+  {
+    "id": -9211722817300967409,
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T17:02:43",
+    "saved": false
+  },
+  {
+    "id": 1604100122419265475,
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 6347395862197439300,
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T15:52:19",
+    "saved": false
+  },
+  {
+    "id": -5611715920140469029,
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T15:02:34",
+    "saved": false
+  },
+  {
+    "id": -7671096400702660692,
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T14:48:13",
+    "saved": false
+  },
+  {
+    "id": 8022176591189564835,
+    "title": "AISTATS 2027 paper discussion [D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-16T14:09:31",
+    "saved": false
+  },
+  {
+    "id": 1041364708999789387,
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-16T13:18:22",
+    "saved": false
+  },
+  {
+    "id": 2771198329319834236,
+    "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+    "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T13:00:00",
+    "saved": false
+  },
+  {
+    "id": -5146589392357841563,
+    "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-16T09:19:43",
+    "saved": false
+  },
+  {
+    "id": 2294196622635328723,
     "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
     "source": "Reddit ML",
@@ -18,25 +144,7 @@
     "saved": false
   },
   {
-    "id": -1057575078926829782,
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-16T00:21:54",
-    "saved": false
-  },
-  {
-    "id": 3304323289149502569,
-    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-15T23:30:00",
-    "saved": false
-  },
-  {
-    "id": -6934892697738410231,
+    "id": -4756909338303482569,
     "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
     "source": "Reddit ML",
@@ -45,43 +153,7 @@
     "saved": false
   },
   {
-    "id": -1128556244758428124,
-    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-15T21:56:35",
-    "saved": false
-  },
-  {
-    "id": 5559267723903589922,
-    "title": "WebGL Flight Simulator with seed generated terrain",
-    "link": "https://baron.by.dai.studio/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-15T20:20:05",
-    "saved": false
-  },
-  {
-    "id": 3173129468927901299,
-    "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-    "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-15T18:29:14",
-    "saved": false
-  },
-  {
-    "id": -5575304018122294857,
-    "title": "A short explainer on how El Niño works [video]",
-    "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-15T18:23:21",
-    "saved": false
-  },
-  {
-    "id": 5292650508278818278,
+    "id": -3768547365381189179,
     "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
     "source": "Reddit ML",
@@ -90,7 +162,7 @@
     "saved": false
   },
   {
-    "id": 6406723140221181481,
+    "id": 3491219748320154036,
     "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
     "source": "Reddit ML",
@@ -99,48 +171,12 @@
     "saved": false
   },
   {
-    "id": 8531580950237024963,
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-14T17:30:00",
-    "saved": false
-  },
-  {
-    "id": 4429793475399901447,
-    "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
-    "source": "Reddit ML",
+    "id": 328600652188137646,
+    "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
+    "link": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
+    "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-14T16:23:34",
-    "saved": false
-  },
-  {
-    "id": -4658572306775250271,
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-13T22:43:00",
-    "saved": false
-  },
-  {
-    "id": -7372570892316579356,
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-13T19:37:57",
-    "saved": false
-  },
-  {
-    "id": -1791487313602302278,
-    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-13T18:40:30",
+    "date": "2026-11-10T18:03:14",
     "saved": false
   }
 ]

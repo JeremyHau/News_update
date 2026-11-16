@@ -1,6 +1,96 @@
 [
   {
-    "id": -1661057968815778445,
+    "id": -6766512948158041396,
+    "title": "Apple launches new app to study how people use AI for health",
+    "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T01:30:00",
+    "saved": false
+  },
+  {
+    "id": -5924958581474298748,
+    "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-16T01:07:01",
+    "saved": false
+  },
+  {
+    "id": -1057575078926829782,
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "link": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-16T00:21:54",
+    "saved": false
+  },
+  {
+    "id": 3304323289149502569,
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-15T23:30:00",
+    "saved": false
+  },
+  {
+    "id": -6934892697738410231,
+    "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-15T23:28:01",
+    "saved": false
+  },
+  {
+    "id": -1128556244758428124,
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-15T21:56:35",
+    "saved": false
+  },
+  {
+    "id": 5559267723903589922,
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "link": "https://baron.by.dai.studio/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-15T20:20:05",
+    "saved": false
+  },
+  {
+    "id": 3173129468927901299,
+    "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+    "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-15T18:29:14",
+    "saved": false
+  },
+  {
+    "id": -5575304018122294857,
+    "title": "A short explainer on how El Niño works [video]",
+    "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-15T18:23:21",
+    "saved": false
+  },
+  {
+    "id": 5292650508278818278,
+    "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-15T17:52:41",
+    "saved": false
+  },
+  {
+    "id": 6406723140221181481,
     "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
     "source": "Reddit ML",
@@ -9,25 +99,7 @@
     "saved": false
   },
   {
-    "id": -4846219680768386114,
-    "title": "All AI-generated code should be Open Source",
-    "link": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-15T14:46:58",
-    "saved": false
-  },
-  {
-    "id": -8166857454971805559,
-    "title": "Understanding Positional Embeddings in Modern LLMs",
-    "link": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-15T12:14:06",
-    "saved": false
-  },
-  {
-    "id": 3700199118437657407,
+    "id": 8531580950237024963,
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "source": "TechCrunch",
@@ -36,7 +108,7 @@
     "saved": false
   },
   {
-    "id": -4403794550592945023,
+    "id": 4429793475399901447,
     "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
     "source": "Reddit ML",
@@ -45,16 +117,7 @@
     "saved": false
   },
   {
-    "id": 7162925528955299962,
-    "title": "Building a Local AI Photography Editing Assistant. Anyone working on something similar? [D]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xvzkwz/building_a_local_ai_photography_editing_assistant/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-14T10:51:23",
-    "saved": false
-  },
-  {
-    "id": 3037185815328377384,
+    "id": -4658572306775250271,
     "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
     "source": "TechCrunch",
@@ -63,16 +126,7 @@
     "saved": false
   },
   {
-    "id": 1687701649661499853,
-    "title": "I have trained a model to predict my blood sugar [P]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-13T20:48:25",
-    "saved": false
-  },
-  {
-    "id": -312901341563719820,
+    "id": -7372570892316579356,
     "title": "AI agent startup LangChain hits $3B valuation",
     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
     "source": "TechCrunch",
@@ -81,30 +135,12 @@
     "saved": false
   },
   {
-    "id": -1438504025526729101,
+    "id": -1791487313602302278,
     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-13T18:40:30",
-    "saved": false
-  },
-  {
-    "id": 6793642566474575758,
-    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-13T16:00:12",
-    "saved": false
-  },
-  {
-    "id": -1886238211095238991,
-    "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-    "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-13T13:15:20",
     "saved": false
   }
 ]

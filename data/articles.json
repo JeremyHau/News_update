@@ -1,6 +1,51 @@
 [
   {
-    "id": 1398976945675014924,
+    "id": -5626106722115101591,
+    "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+    "link": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
+    "source": "Reddit ML",
+    "category": "ai",
+    "date": "2026-11-17T02:48:06",
+    "saved": false
+  },
+  {
+    "id": 2079839421549054565,
+    "title": "Running coding agents without handing them my credentials",
+    "link": "https://blog.antonio.cx/running-agents-with-lend",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-17T01:18:56",
+    "saved": false
+  },
+  {
+    "id": -8202411295621474267,
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-16T23:32:32",
+    "saved": false
+  },
+  {
+    "id": 1289228108581192458,
+    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+    "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-16T22:58:20",
+    "saved": false
+  },
+  {
+    "id": -6886598995567390565,
+    "title": "Spamhaus new email sender requirements in November",
+    "link": "https://www.spamhaus.org/sender-guidelines/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-16T21:47:19",
+    "saved": false
+  },
+  {
+    "id": 565853473722930953,
     "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
     "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
     "source": "TechCrunch",
@@ -9,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -6139857508773995345,
+    "id": 4902872441084921484,
     "title": "California state AG sues OpenAI over rogue agent incidents",
     "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
     "source": "TechCrunch",
@@ -18,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -8939657490107427490,
+    "id": 8412756177453311613,
     "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
     "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
     "source": "TechCrunch",
@@ -27,17 +72,8 @@
     "saved": false
   },
   {
-    "id": -6431839829424545965,
-    "title": "OpenAI: Strengthening the fight against online child sexual abuse",
-    "link": "https://openai.com/index/strengthening-online-child-safety/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-16T18:12:48",
-    "saved": false
-  },
-  {
-    "id": 5101539095974143443,
-    "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+    "id": 5863105831735021946,
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
     "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
     "source": "TechCrunch",
     "category": "tech",
@@ -45,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 6710062571022176702,
+    "id": -3177004124159951529,
     "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
     "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
     "source": "TechCrunch",
@@ -54,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -9211722817300967409,
+    "id": 2328329677609982140,
     "title": "OpenAI will embed safety researchers to investigate AI subversion",
     "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
     "source": "TechCrunch",
@@ -63,7 +99,7 @@
     "saved": false
   },
   {
-    "id": 1604100122419265475,
+    "id": 3930021785709078113,
     "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
     "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
     "source": "TechCrunch",
@@ -72,7 +108,7 @@
     "saved": false
   },
   {
-    "id": 6347395862197439300,
+    "id": 202695973958703102,
     "title": "Audible turns to AI to help users discover audiobooks",
     "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
     "source": "TechCrunch",
@@ -81,7 +117,7 @@
     "saved": false
   },
   {
-    "id": -5611715920140469029,
+    "id": -175807990972770075,
     "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
     "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
     "source": "TechCrunch",
@@ -90,7 +126,7 @@
     "saved": false
   },
   {
-    "id": -7671096400702660692,
+    "id": 8732839012596867057,
     "title": "Google Maps can now build trip itineraries with real-time details about each stop",
     "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
     "source": "TechCrunch",
@@ -99,7 +135,7 @@
     "saved": false
   },
   {
-    "id": 8022176591189564835,
+    "id": 6260214576229966572,
     "title": "AISTATS 2027 paper discussion [D]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
     "source": "Reddit ML",
@@ -108,25 +144,7 @@
     "saved": false
   },
   {
-    "id": 1041364708999789387,
-    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-    "link": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-16T13:18:22",
-    "saved": false
-  },
-  {
-    "id": 2771198329319834236,
-    "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
-    "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-16T13:00:00",
-    "saved": false
-  },
-  {
-    "id": -5146589392357841563,
+    "id": 8251118819533767495,
     "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
     "source": "Reddit ML",
@@ -135,16 +153,7 @@
     "saved": false
   },
   {
-    "id": 2294196622635328723,
-    "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
-    "link": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
-    "source": "Reddit ML",
-    "category": "ai",
-    "date": "2026-11-16T01:07:01",
-    "saved": false
-  },
-  {
-    "id": -4756909338303482569,
+    "id": 3643900826384966048,
     "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
     "source": "Reddit ML",
@@ -153,7 +162,7 @@
     "saved": false
   },
   {
-    "id": -3768547365381189179,
+    "id": 5867576830517550485,
     "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
     "source": "Reddit ML",
@@ -162,21 +171,12 @@
     "saved": false
   },
   {
-    "id": 3491219748320154036,
+    "id": 3531647626409013450,
     "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
     "link": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
     "source": "Reddit ML",
     "category": "ai",
     "date": "2026-11-15T17:38:16",
-    "saved": false
-  },
-  {
-    "id": 328600652188137646,
-    "title": "Giant Roadside Attractions Face Mounting Costs and an Uncertain Future",
-    "link": "https://www.nytimes.com/2026/11/08/world/canada/roadside-attractions-giant-dinosaur.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-10T18:03:14",
     "saved": false
   }
 ]

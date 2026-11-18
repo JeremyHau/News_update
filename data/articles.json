@@ -1,6 +1,33 @@
 [
   {
-    "id": -6594005259526601523,
+    "id": 661694282696402615,
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "link": "https://revscope.co/blog/search-seo-geo-2026/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-18T00:17:58",
+    "saved": false
+  },
+  {
+    "id": -7755562265585543343,
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-17T23:04:35",
+    "saved": false
+  },
+  {
+    "id": 358569479403358726,
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-17T21:16:12",
+    "saved": false
+  },
+  {
+    "id": -8995634109758194677,
     "title": "Model ML raises $250M to automate investment banking grunt work",
     "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
     "source": "TechCrunch",
@@ -9,25 +36,7 @@
     "saved": false
   },
   {
-    "id": 5562270517115173138,
-    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-    "link": "https://starsling.dev",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-17T19:01:43",
-    "saved": false
-  },
-  {
-    "id": 6040260059075527824,
-    "title": "Advancing computer-use agents for healthcare teams",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-17T18:26:05",
-    "saved": false
-  },
-  {
-    "id": 3504403860705262096,
+    "id": 4935477268727447730,
     "title": "MAI Code 2 and Code 2 Flash",
     "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
     "source": "Hacker News",
@@ -36,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 7395353094400341631,
+    "id": -4616414044967193074,
     "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
     "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
     "source": "TechCrunch",
@@ -45,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -7922247736605821462,
+    "id": -3523056447106491385,
     "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
     "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
     "source": "TechCrunch",
@@ -54,7 +63,7 @@
     "saved": false
   },
   {
-    "id": 4315063210887243227,
+    "id": -1330818098052280441,
     "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
     "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
     "source": "TechCrunch",
@@ -63,57 +72,12 @@
     "saved": false
   },
   {
-    "id": 743377014903638090,
-    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-    "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-17T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 7323237228353041940,
-    "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-    "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-17T15:00:00",
-    "saved": false
-  },
-  {
-    "id": 1895047523720206006,
-    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-    "link": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-17T14:50:58",
-    "saved": false
-  },
-  {
-    "id": 151743498409124270,
-    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-    "link": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-17T14:26:46",
-    "saved": false
-  },
-  {
-    "id": -3508776838001186382,
-    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-    "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-17T14:00:00",
-    "saved": false
-  },
-  {
-    "id": 7047740262717220064,
-    "title": "Genesis AI raises $500M to deploy glove-wearing robots",
-    "link": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-17T14:00:00",
+    "id": -8296967992377217558,
+    "title": "Fun with Constrained Programming",
+    "link": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-15T02:45:57",
     "saved": false
   }
 ]

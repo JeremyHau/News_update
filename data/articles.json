@@ -1,15 +1,24 @@
 [
   {
-    "id": -5349986192056350034,
-    "title": "The Mythology of Conscious AI",
-    "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+    "id": 8783457297825893033,
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "link": "https://github.com/gulivan/worker755",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-22T02:10:02",
+    "date": "2026-11-22T13:56:58",
     "saved": false
   },
   {
-    "id": -5626453083597866158,
+    "id": 9213578232579943570,
+    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "link": "https://simonwillison.net/2026/Nov/21/muru/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-22T09:57:01",
+    "saved": false
+  },
+  {
+    "id": -8085170469861240898,
     "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
     "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
     "source": "TechCrunch",
@@ -18,25 +27,7 @@
     "saved": false
   },
   {
-    "id": 4125131515557561412,
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-    "link": "https://tasklet.ai/careers",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-21T21:11:08",
-    "saved": false
-  },
-  {
-    "id": -5913250183685674468,
-    "title": "Pandex – Official European Law for AI Agents, over MCP",
-    "link": "https://www.pandex.io",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-21T20:47:41",
-    "saved": false
-  },
-  {
-    "id": 3204656970715975004,
+    "id": 1655297287559147000,
     "title": "Here are the top AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "source": "TechCrunch",
@@ -45,7 +36,7 @@
     "saved": false
   },
   {
-    "id": 7397909786203567159,
+    "id": 7684935461126360428,
     "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
     "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
     "source": "TechCrunch",
@@ -54,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 92880950171749443,
+    "id": 6669835426843558187,
     "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
     "link": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
     "source": "Hacker News",
@@ -63,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -3975622696016401613,
+    "id": 5909572723152048876,
     "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
     "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
     "source": "TechCrunch",
@@ -72,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -2081387364163803749,
+    "id": -3843910137110134129,
     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
     "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
     "source": "TechCrunch",
@@ -81,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 2226200703209774502,
+    "id": 5098612863857405889,
     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
     "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
     "source": "TechCrunch",
@@ -90,7 +81,7 @@
     "saved": false
   },
   {
-    "id": 7936848686252251354,
+    "id": -1728244704854766317,
     "title": "Bending Spoons buys Mailchimp for $3.68B",
     "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
     "source": "TechCrunch",
@@ -99,30 +90,12 @@
     "saved": false
   },
   {
-    "id": 4268313126867861497,
+    "id": -1032226571471131557,
     "title": "Six AI-powered gadgets that could make your home office smarter",
     "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-20T14:00:00",
-    "saved": false
-  },
-  {
-    "id": -5284854617248416298,
-    "title": "Apple may be developing its own AI agent that runs your Mac",
-    "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-20T00:56:01",
-    "saved": false
-  },
-  {
-    "id": 596383503163671164,
-    "title": "LLMs can read and write executables byte by byte from a hex dump",
-    "link": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-18T14:15:58",
     "saved": false
   }
 ]

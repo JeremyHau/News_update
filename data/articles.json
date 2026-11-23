@@ -1,110 +1,65 @@
 [
   {
-    "id": -6152500453176855665,
+    "id": -8634223065482869324,
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-23T22:05:50",
+    "saved": false
+  },
+  {
+    "id": 2295861181514617368,
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-23T22:02:05",
+    "saved": false
+  },
+  {
+    "id": 9198490354409988079,
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-23T19:14:46",
+    "saved": false
+  },
+  {
+    "id": 2543855384574485802,
+    "title": "Kagi Mail (public beta)",
+    "link": "https://blog.kagi.com/kagi-mail-public-beta",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-23T17:17:01",
+    "saved": false
+  },
+  {
+    "id": -4185697498195692175,
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-23T17:14:23",
+    "saved": false
+  },
+  {
+    "id": 2466022612643999982,
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-23T14:43:03",
+    "saved": false
+  },
+  {
+    "id": -3175516963267574857,
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
     "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-23T01:25:53",
-    "saved": false
-  },
-  {
-    "id": -9074170886482297582,
-    "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-    "link": "https://0rwx.com/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-22T23:53:00",
-    "saved": false
-  },
-  {
-    "id": 9204417324219525484,
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-22T21:14:07",
-    "saved": false
-  },
-  {
-    "id": 2502342233231375147,
-    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-22T21:01:16",
-    "saved": false
-  },
-  {
-    "id": -6645489890839667722,
-    "title": "Show HN: I built a game where you are an LLM's subagent",
-    "link": "https://github.com/gulivan/worker755",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-22T13:56:58",
-    "saved": false
-  },
-  {
-    "id": -2440636503621964591,
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-21T21:37:10",
-    "saved": false
-  },
-  {
-    "id": 7677547344889035458,
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-21T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -1393898557100810177,
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-21T16:00:00",
-    "saved": false
-  },
-  {
-    "id": -8592864867938801094,
-    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-    "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-20T20:58:29",
-    "saved": false
-  },
-  {
-    "id": -398704258567333324,
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-20T19:53:41",
-    "saved": false
-  },
-  {
-    "id": -4651861245490003765,
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-20T19:32:08",
-    "saved": false
-  },
-  {
-    "id": 6360327226204282673,
-    "title": "Bending Spoons buys Mailchimp for $3.68B",
-    "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-20T16:16:06",
     "saved": false
   }
 ]

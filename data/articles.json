@@ -1,15 +1,150 @@
 [
   {
-    "id": -8335524635263744125,
-    "title": "Declare is a UI language for you and your AI",
-    "link": "https://davidtemkin.github.io/declarelang/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-24T02:36:56",
+    "id": -6649093340633771232,
+    "title": "Even the best AI agents struggle with everyday life",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T21:33:29",
     "saved": false
   },
   {
-    "id": -6748656784042990224,
+    "id": -7609248235299165867,
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T21:32:38",
+    "saved": false
+  },
+  {
+    "id": 6221196733414473824,
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T21:19:52",
+    "saved": false
+  },
+  {
+    "id": -7817071253095599109,
+    "title": "Working with AI",
+    "link": "https://www.anthropic.com/research/working-with-ai",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T21:07:38",
+    "saved": false
+  },
+  {
+    "id": 6307003645931740885,
+    "title": "Ternary Bonsai 2.5 27B",
+    "link": "https://prismml.com/news/bonsai-2-5-27b",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T20:08:03",
+    "saved": false
+  },
+  {
+    "id": -5594048232031083786,
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T18:30:42",
+    "saved": false
+  },
+  {
+    "id": 4536778588242037214,
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T18:02:59",
+    "saved": false
+  },
+  {
+    "id": 3427669075092546872,
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "link": "https://jobs.ashbyhq.com/weave-os",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T17:00:55",
+    "saved": false
+  },
+  {
+    "id": -4977268160685335955,
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T17:00:00",
+    "saved": false
+  },
+  {
+    "id": 2474117578529570201,
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T16:46:00",
+    "saved": false
+  },
+  {
+    "id": -5342427574947191693,
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T16:32:17",
+    "saved": false
+  },
+  {
+    "id": 7263163540466779140,
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T16:10:00",
+    "saved": false
+  },
+  {
+    "id": 7540794282160430711,
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T16:02:37",
+    "saved": false
+  },
+  {
+    "id": 4384166940943278934,
+    "title": "A training engine for your local model, using your idle compute",
+    "link": "https://github.com/sous-labs/songe",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T15:03:40",
+    "saved": false
+  },
+  {
+    "id": 5838188759077124329,
+    "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+    "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-24T13:29:53",
+    "saved": false
+  },
+  {
+    "id": 8297801255246017349,
+    "title": "LLM agents work for their parent companies, not for you",
+    "link": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T12:40:15",
+    "saved": false
+  },
+  {
+    "id": -3988873109835410082,
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "source": "TechCrunch",
@@ -18,48 +153,12 @@
     "saved": false
   },
   {
-    "id": 8921099378101195327,
+    "id": 3084425572653277416,
     "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
     "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-23T22:02:05",
-    "saved": false
-  },
-  {
-    "id": -6096713556589046815,
-    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-    "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-23T19:14:46",
-    "saved": false
-  },
-  {
-    "id": 9161684923511754421,
-    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-    "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-23T17:14:23",
-    "saved": false
-  },
-  {
-    "id": -3607339621172617747,
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-23T14:43:03",
-    "saved": false
-  },
-  {
-    "id": 2502989438453320567,
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-23T01:25:53",
     "saved": false
   }
 ]

@@ -1,6 +1,15 @@
 [
   {
-    "id": -8634223065482869324,
+    "id": -8335524635263744125,
+    "title": "Declare is a UI language for you and your AI",
+    "link": "https://davidtemkin.github.io/declarelang/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-24T02:36:56",
+    "saved": false
+  },
+  {
+    "id": -6748656784042990224,
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
     "source": "TechCrunch",
@@ -9,7 +18,7 @@
     "saved": false
   },
   {
-    "id": 2295861181514617368,
+    "id": 8921099378101195327,
     "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
     "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
     "source": "TechCrunch",
@@ -18,7 +27,7 @@
     "saved": false
   },
   {
-    "id": 9198490354409988079,
+    "id": -6096713556589046815,
     "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
     "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
     "source": "TechCrunch",
@@ -27,16 +36,7 @@
     "saved": false
   },
   {
-    "id": 2543855384574485802,
-    "title": "Kagi Mail (public beta)",
-    "link": "https://blog.kagi.com/kagi-mail-public-beta",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-23T17:17:01",
-    "saved": false
-  },
-  {
-    "id": -4185697498195692175,
+    "id": 9161684923511754421,
     "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
     "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
     "source": "TechCrunch",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": 2466022612643999982,
+    "id": -3607339621172617747,
     "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
     "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -3175516963267574857,
+    "id": 2502989438453320567,
     "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
     "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
     "source": "TechCrunch",

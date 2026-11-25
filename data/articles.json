@@ -1,33 +1,87 @@
 [
   {
-    "id": -2809852667298094670,
-    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "link": "https://gpu-demo-gallery.pages.dev/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-25T04:31:48",
+    "id": -2081254915511721038,
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T20:03:27",
     "saved": false
   },
   {
-    "id": 4468555670658021526,
-    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "link": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-25T03:47:42",
+    "id": -2620196101385135844,
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T19:44:24",
     "saved": false
   },
   {
-    "id": 5201466919995562743,
-    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-    "link": "https://www.proofatlas.ai/open-problems/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-25T03:01:36",
+    "id": 1501823411094922527,
+    "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+    "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T18:49:52",
     "saved": false
   },
   {
-    "id": 137711231668439352,
+    "id": -5827930254908698455,
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T18:11:46",
+    "saved": false
+  },
+  {
+    "id": -6897967461705457593,
+    "title": "Britain's ghost stations",
+    "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-25T17:43:46",
+    "saved": false
+  },
+  {
+    "id": 5573338470515342522,
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T17:35:58",
+    "saved": false
+  },
+  {
+    "id": -6671458765585376120,
+    "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+    "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T14:20:28",
+    "saved": false
+  },
+  {
+    "id": -6004193222421273913,
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T14:10:18",
+    "saved": false
+  },
+  {
+    "id": -3832382834053446182,
+    "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+    "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T13:08:19",
+    "saved": false
+  },
+  {
+    "id": 2394648960360564490,
     "title": "Even the best AI agents struggle with everyday life",
     "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
     "source": "TechCrunch",
@@ -36,93 +90,21 @@
     "saved": false
   },
   {
-    "id": 7723465628883831231,
-    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-    "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T21:32:38",
-    "saved": false
-  },
-  {
-    "id": 989675458742889347,
-    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-    "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T21:19:52",
-    "saved": false
-  },
-  {
-    "id": -7293354279601546955,
-    "title": "Ternary Bonsai 2.5 27B",
-    "link": "https://prismml.com/news/bonsai-2-5-27b",
+    "id": -4547287930726889634,
+    "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+    "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
     "source": "Hacker News",
     "category": "ai",
-    "date": "2026-11-24T20:08:03",
+    "date": "2026-11-24T06:22:36",
     "saved": false
   },
   {
-    "id": 5738344635771936915,
-    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-    "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T18:30:42",
-    "saved": false
-  },
-  {
-    "id": -572703399007974391,
-    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-    "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T18:02:59",
-    "saved": false
-  },
-  {
-    "id": 5372762142150664113,
-    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-    "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T17:00:00",
-    "saved": false
-  },
-  {
-    "id": -6074558734759287390,
-    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-    "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T16:46:00",
-    "saved": false
-  },
-  {
-    "id": -6924974592963555682,
-    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-    "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T16:10:00",
-    "saved": false
-  },
-  {
-    "id": 5326172239397945915,
-    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-    "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T16:02:37",
-    "saved": false
-  },
-  {
-    "id": 6511193534486108764,
-    "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-    "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T13:29:53",
+    "id": -6818842282722851616,
+    "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+    "link": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-23T14:02:15",
     "saved": false
   }
 ]

@@ -1,6 +1,42 @@
 [
   {
-    "id": -2081254915511721038,
+    "id": 5703963572234169014,
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-26T03:36:58",
+    "saved": false
+  },
+  {
+    "id": -6304173143076167680,
+    "title": "Tell HN: Lots of Ask HNs again",
+    "link": "https://news.ycombinator.com/item?id=50649864",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-26T00:43:34",
+    "saved": false
+  },
+  {
+    "id": 6674221706651285192,
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-25T21:18:02",
+    "saved": false
+  },
+  {
+    "id": -805047535591835660,
+    "title": "FCC approves SpaceX plan to put AI data centers in space",
+    "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+    "source": "TechCrunch",
+    "category": "tech",
+    "date": "2026-11-25T20:56:44",
+    "saved": false
+  },
+  {
+    "id": -2981874590048283185,
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
     "source": "TechCrunch",
@@ -9,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -2620196101385135844,
+    "id": -3396148775589953750,
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
     "source": "TechCrunch",
@@ -18,7 +54,7 @@
     "saved": false
   },
   {
-    "id": 1501823411094922527,
+    "id": -9068196329391513481,
     "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
     "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
     "source": "TechCrunch",
@@ -27,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -5827930254908698455,
+    "id": 4566967687435190118,
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
     "source": "TechCrunch",
@@ -36,16 +72,7 @@
     "saved": false
   },
   {
-    "id": -6897967461705457593,
-    "title": "Britain's ghost stations",
-    "link": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-25T17:43:46",
-    "saved": false
-  },
-  {
-    "id": 5573338470515342522,
+    "id": -5517354820704117422,
     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
     "source": "TechCrunch",
@@ -54,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -6671458765585376120,
+    "id": -2978271056653044697,
     "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
     "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
     "source": "TechCrunch",
@@ -63,7 +90,7 @@
     "saved": false
   },
   {
-    "id": -6004193222421273913,
+    "id": -5257018732016286993,
     "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
     "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
     "source": "TechCrunch",
@@ -72,39 +99,12 @@
     "saved": false
   },
   {
-    "id": -3832382834053446182,
+    "id": 1158137873468448257,
     "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
     "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
     "source": "TechCrunch",
     "category": "tech",
     "date": "2026-11-25T13:08:19",
-    "saved": false
-  },
-  {
-    "id": 2394648960360564490,
-    "title": "Even the best AI agents struggle with everyday life",
-    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-    "source": "TechCrunch",
-    "category": "tech",
-    "date": "2026-11-24T21:33:29",
-    "saved": false
-  },
-  {
-    "id": -4547287930726889634,
-    "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-    "link": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-24T06:22:36",
-    "saved": false
-  },
-  {
-    "id": -6818842282722851616,
-    "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-    "link": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-23T14:02:15",
     "saved": false
   }
 ]

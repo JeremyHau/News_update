@@ -1,6 +1,33 @@
 [
   {
-    "id": 3223917270949405873,
+    "id": 1661790732177717270,
+    "title": "US Air Force's cloud computing platform hacked",
+    "link": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-27T12:54:11",
+    "saved": false
+  },
+  {
+    "id": -2650357827485557527,
+    "title": "Group chat where your AI talks behind your back",
+    "link": "https://construct22.com/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-27T06:44:34",
+    "saved": false
+  },
+  {
+    "id": 6321999954905096608,
+    "title": "The need for a formally verifiable mainstream programming language",
+    "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "source": "Hacker News",
+    "category": "ai",
+    "date": "2026-11-27T05:22:06",
+    "saved": false
+  },
+  {
+    "id": 3794053264044699295,
     "title": "AI made self-hosting fun again",
     "link": "https://janlukas.blog/posts/ai-self-hosting",
     "source": "Hacker News",
@@ -9,34 +36,7 @@
     "saved": false
   },
   {
-    "id": 1928995687669855199,
-    "title": "An introduction to uncertainty in machine learning",
-    "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-26T19:04:50",
-    "saved": false
-  },
-  {
-    "id": 2784418648245091090,
-    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-    "link": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-26T09:44:23",
-    "saved": false
-  },
-  {
-    "id": 2860687420434570937,
-    "title": "The USAID Files",
-    "link": "https://reclaimthenet.org/usaid-files",
-    "source": "Hacker News",
-    "category": "ai",
-    "date": "2026-11-25T23:15:52",
-    "saved": false
-  },
-  {
-    "id": -4473651029517204792,
+    "id": -4036940827435616953,
     "title": "FCC approves SpaceX plan to put AI data centers in space",
     "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
     "source": "TechCrunch",
@@ -45,7 +45,7 @@
     "saved": false
   },
   {
-    "id": -8437879898839311231,
+    "id": 5161788636075666113,
     "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
     "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
     "source": "TechCrunch",
@@ -54,7 +54,7 @@
     "saved": false
   },
   {
-    "id": -1745282347600729706,
+    "id": -1110096964303095152,
     "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
     "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
     "source": "TechCrunch",
@@ -63,7 +63,7 @@
     "saved": false
   },
   {
-    "id": -3961002795719769209,
+    "id": 3753163494871107863,
     "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
     "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
     "source": "TechCrunch",
@@ -72,7 +72,7 @@
     "saved": false
   },
   {
-    "id": 582333333265672357,
+    "id": 1713992303221061505,
     "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
     "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
     "source": "TechCrunch",
@@ -81,7 +81,7 @@
     "saved": false
   },
   {
-    "id": -4291439067712712018,
+    "id": 5094882374477535035,
     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
     "source": "TechCrunch",
@@ -90,7 +90,7 @@
     "saved": false
   },
   {
-    "id": 7285408069980013072,
+    "id": -5472457390427976095,
     "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
     "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
     "source": "TechCrunch",
@@ -99,7 +99,7 @@
     "saved": false
   },
   {
-    "id": -4877714446498374267,
+    "id": -1467432166627445240,
     "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
     "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
     "source": "TechCrunch",
